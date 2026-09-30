@@ -1,0 +1,438 @@
+{
+  "timestamp": "2026-09-30T11:08:48.050Z",
+  "cities": [
+    {
+      "canonical": "Köln",
+      "slug": "koeln",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 50,
+      "publishedCount": 39,
+      "reviewCount": 9,
+      "rejectedCount": 2,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Berlin",
+      "slug": "berlin",
+      "state": "Berlin",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 110,
+      "publishedCount": 104,
+      "reviewCount": 6,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Hamburg",
+      "slug": "hamburg",
+      "state": "Hamburg",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 70,
+      "publishedCount": 65,
+      "reviewCount": 4,
+      "rejectedCount": 1,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "München",
+      "slug": "muenchen",
+      "state": "Bayern",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 57,
+      "publishedCount": 54,
+      "reviewCount": 3,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "NOT_READY",
+        "passed": false,
+        "blockers": [],
+        "warnings": [
+          "[GATE_C] > 50% missing phone"
+        ],
+        "recommendation": "City has warnings. Please review before proceeding."
+      }
+    },
+    {
+      "canonical": "Frankfurt",
+      "slug": "frankfurt",
+      "state": "Hessen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 57,
+      "publishedCount": 50,
+      "reviewCount": 6,
+      "rejectedCount": 1,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Düsseldorf",
+      "slug": "duesseldorf",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 30,
+      "publishedCount": 27,
+      "reviewCount": 3,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Stuttgart",
+      "slug": "stuttgart",
+      "state": "Baden-Württemberg",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 32,
+      "publishedCount": 27,
+      "reviewCount": 5,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Dortmund",
+      "slug": "dortmund",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 51,
+      "publishedCount": 50,
+      "reviewCount": 1,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "NOT_READY",
+        "passed": false,
+        "blockers": [],
+        "warnings": [
+          "[GATE_C] > 50% missing phone"
+        ],
+        "recommendation": "City has warnings. Please review before proceeding."
+      }
+    },
+    {
+      "canonical": "Essen",
+      "slug": "essen",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 29,
+      "publishedCount": 27,
+      "reviewCount": 2,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Hannover",
+      "slug": "hannover",
+      "state": "Niedersachsen",
+      "lifecycleStatus": "REVIEW",
+      "isPublished": false,
+      "seoIndexable": false,
+      "totalEntitiesInPool": 0,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "BLOCKED",
+        "passed": false,
+        "blockers": [
+          "[GATE_F] 0 publishable records (minimum required: 5)",
+          "[GATE_G] < 50% records have an address"
+        ],
+        "warnings": [
+          "[GATE_C] > 50% missing phone",
+          "[GATE_C] > 70% missing website"
+        ],
+        "recommendation": "City has hard blockers that must be resolved before launch."
+      }
+    },
+    {
+      "canonical": "Bremen",
+      "slug": "bremen",
+      "state": "Bremen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 40,
+      "publishedCount": 37,
+      "reviewCount": 2,
+      "rejectedCount": 1,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Nürnberg",
+      "slug": "nuernberg",
+      "state": "Bayern",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 19,
+      "publishedCount": 18,
+      "reviewCount": 1,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Leipzig",
+      "slug": "leipzig",
+      "state": "Sachsen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 6,
+      "publishedCount": 6,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Dresden",
+      "slug": "dresden",
+      "state": "Sachsen",
+      "lifecycleStatus": "REVIEW",
+      "isPublished": false,
+      "seoIndexable": false,
+      "totalEntitiesInPool": 0,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "BLOCKED",
+        "passed": false,
+        "blockers": [
+          "[GATE_F] 0 publishable records (minimum required: 5)",
+          "[GATE_G] < 50% records have an address"
+        ],
+        "warnings": [
+          "[GATE_C] > 50% missing phone",
+          "[GATE_C] > 70% missing website"
+        ],
+        "recommendation": "City has hard blockers that must be resolved before launch."
+      }
+    },
+    {
+      "canonical": "Duisburg",
+      "slug": "duisburg",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "REVIEW",
+      "isPublished": false,
+      "seoIndexable": false,
+      "totalEntitiesInPool": 0,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "BLOCKED",
+        "passed": false,
+        "blockers": [
+          "[GATE_F] 0 publishable records (minimum required: 5)",
+          "[GATE_G] < 50% records have an address"
+        ],
+        "warnings": [
+          "[GATE_C] > 50% missing phone",
+          "[GATE_C] > 70% missing website"
+        ],
+        "recommendation": "City has hard blockers that must be resolved before launch."
+      }
+    },
+    {
+      "canonical": "Bochum",
+      "slug": "bochum",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "REVIEW",
+      "isPublished": false,
+      "seoIndexable": false,
+      "totalEntitiesInPool": 0,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "BLOCKED",
+        "passed": false,
+        "blockers": [
+          "[GATE_F] 0 publishable records (minimum required: 5)",
+          "[GATE_G] < 50% records have an address"
+        ],
+        "warnings": [
+          "[GATE_C] > 50% missing phone",
+          "[GATE_C] > 70% missing website"
+        ],
+        "recommendation": "City has hard blockers that must be resolved before launch."
+      }
+    },
+    {
+      "canonical": "Wuppertal",
+      "slug": "wuppertal",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 28,
+      "publishedCount": 24,
+      "reviewCount": 4,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Bonn",
+      "slug": "bonn",
+      "state": "Nordrhein-Westfalen",
+      "lifecycleStatus": "PUBLISHED",
+      "isPublished": true,
+      "seoIndexable": true,
+      "totalEntitiesInPool": 15,
+      "publishedCount": 14,
+      "reviewCount": 1,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "READY_FOR_LAUNCH",
+        "passed": true,
+        "blockers": [],
+        "warnings": [],
+        "recommendation": "City is ready for launch."
+      }
+    },
+    {
+      "canonical": "Mannheim",
+      "slug": "mannheim",
+      "state": "Baden-Württemberg",
+      "lifecycleStatus": "REVIEW",
+      "isPublished": false,
+      "seoIndexable": false,
+      "totalEntitiesInPool": 0,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "missingAddressCount": 0,
+      "missingCoordinatesCount": 0,
+      "gateEvaluation": {
+        "status": "BLOCKED",
+        "passed": false,
+        "blockers": [
+          "[GATE_F] 0 publishable records (minimum required: 5)",
+          "[GATE_G] < 50% records have an address"
+        ],
+        "warnings": [
+          "[GATE_C] > 50% missing phone",
+          "[GATE_C] > 70% missing website"
+        ],
+        "recommendation": "City has hard blockers that must be resolved before launch."
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "city": "Wuppertal",
+  "slug": "wuppertal",
+  "promotedAt": "2026-09-30T10:47:12.906Z",
+  "publishedCount": 24,
+  "gateReport": {
+    "status": "READY_FOR_LAUNCH",
+    "warnings": []
+  }
+}

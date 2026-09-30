@@ -1,0 +1,44 @@
+{
+  "city": "Bochum",
+  "slug": "bochum",
+  "state": "Nordrhein-Westfalen",
+  "runAt": "2026-09-30T11:01:35.880Z",
+  "isDryRun": true,
+  "rawCount": 13,
+  "uniqueCount": 13,
+  "duplicatesRemoved": 0,
+  "publishedCount": 10,
+  "reviewCount": 3,
+  "rejectedCount": 0,
+  "crossCityAnomalyCount": 0,
+  "crossCityAnomalies": [],
+  "gateReport": {
+    "city": "Bochum",
+    "slug": "bochum",
+    "evaluatedAt": "2026-09-30T11:01:35.880Z",
+    "status": "BLOCKED",
+    "passed": false,
+    "blockers": [
+      {
+        "gate": "GATE_D",
+        "passed": false,
+        "blocker": true,
+        "reason": "Found 1 non-Islamic entity (OTHER category) in publishable records"
+      }
+    ],
+    "warnings": [
+      {
+        "gate": "GATE_D",
+        "passed": false,
+        "blocker": false,
+        "reason": "> 10% are non-mosque categories (15%)"
+      }
+    ],
+    "metrics": {
+      "totalEntities": 13,
+      "publishableEntities": 13,
+      "coordsPercent": 1
+    },
+    "recommendation": "City has hard blockers that must be resolved before launch."
+  }
+}

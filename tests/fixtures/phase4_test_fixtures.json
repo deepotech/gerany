@@ -1,0 +1,112 @@
+[
+  {
+    "description": "1. Valid established mosque",
+    "placeId": "fixture_valid_mosque_1",
+    "title": "Bait-ul-Nasr Moschee",
+    "address": "Heidestr. 20, 10557 Berlin, Germany",
+    "postalCode": "10557",
+    "city": "Berlin",
+    "state": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.5312, "lng": 13.3689 },
+    "phone": "+49 30 12345678",
+    "website": "https://baitulnasr-berlin.de?utm_source=test",
+    "openingHours": [{ "day": "Monday", "hours": "05:00 - 22:00" }],
+    "reviewsCount": 15,
+    "rating": 4.7
+  },
+  {
+    "description": "2. Exact duplicate of fixture_valid_mosque_1 (same placeId, Level 1)",
+    "placeId": "fixture_valid_mosque_1",
+    "title": "Bait-ul-Nasr Moschee (Alternate listing)",
+    "address": "Heidestr. 20, 10557 Berlin, Germany",
+    "postalCode": "10557",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.5312, "lng": 13.3689 }
+  },
+  {
+    "description": "3. Near duplicate of mosque 1 with same phone and near-identical name (Level 4)",
+    "placeId": "fixture_near_dup_3",
+    "title": "Bait-ul-Nasr Moschee Berlin",
+    "address": "Heidestr. 20, 10557 Berlin, Germany",
+    "postalCode": "10557",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.5313, "lng": 13.3690 },
+    "phone": "030 12345678"
+  },
+  {
+    "description": "4. Co-located different organization at same address (Co-location rule)",
+    "placeId": "fixture_colocated_org_4",
+    "title": "Al-Irshad Islamische Bildungsgesellschaft e.V.",
+    "address": "Heidestr. 20, 10557 Berlin, Germany",
+    "postalCode": "10557",
+    "city": "Berlin",
+    "categoryName": "Religious organization",
+    "location": { "lat": 52.5312, "lng": 13.3689 },
+    "phone": "+49 30 98765432"
+  },
+  {
+    "description": "5. Invalid coordinates outside Germany (e.g. Sahara)",
+    "placeId": "fixture_invalid_coords_5",
+    "title": "Al-Sahara Moschee",
+    "address": "Musterweg 1, 10115 Berlin, Germany",
+    "postalCode": "10115",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 25.1234, "lng": 12.5678 }
+  },
+  {
+    "description": "6. Valid mosque with missing phone, missing website, and missing hours",
+    "placeId": "fixture_sparse_mosque_6",
+    "title": "An-Nur Gebetsraum",
+    "address": "Weserstr. 45, 12045 Berlin, Germany",
+    "postalCode": "12045",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.4851, "lng": 13.4352 },
+    "reviewsCount": 8,
+    "rating": 4.5
+  },
+  {
+    "description": "7. Pure non-religious club / social association without mosque indicator",
+    "placeId": "fixture_club_7",
+    "title": "Türkischer Kultur- und Sportverein e.V.",
+    "address": "Kottbusser Damm 10, 10967 Berlin, Germany",
+    "postalCode": "10967",
+    "city": "Berlin",
+    "categoryName": "Club"
+  },
+  {
+    "description": "8. Obvious spam listing",
+    "placeId": "fixture_spam_8",
+    "title": "Pastel-ghost Prank Listing",
+    "address": "Fake Street 99, 10115 Berlin, Germany",
+    "postalCode": "10115",
+    "city": "Berlin",
+    "categoryName": "Mosque"
+  },
+  {
+    "description": "9. Mosque with official DITIB website demonstrating safe affiliation detection",
+    "placeId": "fixture_ditib_mosque_9",
+    "title": "Fatih Moschee",
+    "address": "Koloniestr. 120, 13359 Berlin, Germany",
+    "postalCode": "13359",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.5591, "lng": 13.3852 },
+    "website": "https://www.ditib-berlin.de/fatih-moschee"
+  },
+  {
+    "description": "10. Mosque mentioning DITIB in title but with independent or no website",
+    "placeId": "fixture_independent_name_ditib_10",
+    "title": "DITIB Gemeinde Berlin Unofficial",
+    "address": "Prinzenallee 50, 13359 Berlin, Germany",
+    "postalCode": "13359",
+    "city": "Berlin",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.5512, "lng": 13.3821 },
+    "website": "https://my-independent-blog.com"
+  }
+]

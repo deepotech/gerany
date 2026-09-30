@@ -1,0 +1,124 @@
+[
+  {
+    "title": "DITIB Merkez Moschee Hannover",
+    "address": "Kornstr. 37, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "state": "Niedersachsen",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3852, "lng": 9.7183 },
+    "phone": "+49 511 7000123",
+    "website": "https://www.ditib-hannover.de",
+    "openingHours": [{ "day": "Monday", "hours": "05:00 - 22:00" }],
+    "reviewsCount": 85,
+    "rating": 4.6,
+    "placeId": "pilot_hannover_ditib_1",
+    "additionalInfo": {
+      "Amenities": [{ "Restroom": true }],
+      "Accessibility": [{ "Wheelchair accessible entrance": true }],
+      "Parking": [{ "Free parking lot": true }]
+    }
+  },
+  {
+    "title": "DITIB Merkez Moschee Hannover (Duplicate scraper record)",
+    "address": "Kornstraße 37, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3852, "lng": 9.7183 },
+    "phone": "0511 7000123",
+    "placeId": "pilot_hannover_ditib_1"
+  },
+  {
+    "title": "Baitus Sami Moschee",
+    "address": "Sanderstraße 8, 30455 Hannover, Germany",
+    "postalCode": "30455",
+    "city": "Hannover",
+    "state": "Niedersachsen",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3685, "lng": 9.6784 },
+    "phone": "+49 511 4758963",
+    "website": "https://ahmadiyya.de/gebetstaette/moscheen/hannover",
+    "reviewsCount": 42,
+    "rating": 4.8,
+    "placeId": "pilot_hannover_amj_2",
+    "additionalInfo": {
+      "Amenities": [{ "Restroom": true }],
+      "Accessibility": [{ "Wheelchair accessible entrance": true }]
+    }
+  },
+  {
+    "title": "IGMG Fatih Moschee Hannover",
+    "address": "Engelbosteler Damm 102, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "state": "Niedersachsen",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3892, "lng": 9.7214 },
+    "phone": "+49 511 7123456",
+    "website": "https://www.igmg.org/gemeinden/hannover",
+    "reviewsCount": 60,
+    "rating": 4.7,
+    "placeId": "pilot_hannover_igmg_3"
+  },
+  {
+    "title": "IGMG Bildungs- und Hilfswerk e.V. Hannover",
+    "address": "Engelbosteler Damm 102, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "categoryName": "Association or organization",
+    "location": { "lat": 52.3892, "lng": 9.7214 },
+    "phone": "+49 511 7123456",
+    "placeId": "pilot_hannover_igmg_colocated_4"
+  },
+  {
+    "title": "Al-Huda Islamischer Kulturverein Hannover e.V.",
+    "address": "Weidendamm 9, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3831, "lng": 9.7249 },
+    "reviewsCount": 24,
+    "rating": 4.4,
+    "placeId": "pilot_hannover_alhuda_5"
+  },
+  {
+    "title": "Bosnisches Islamisches Zentrum Hannover",
+    "address": "Vahrenwalder Str. 209, 30165 Hannover, Germany",
+    "postalCode": "30165",
+    "city": "Hannover",
+    "categoryName": "Islamic center",
+    "location": { "lat": 52.4041, "lng": 9.7365 },
+    "phone": "+49 511 3501234",
+    "reviewsCount": 38,
+    "rating": 4.9,
+    "placeId": "pilot_hannover_bosnian_6"
+  },
+  {
+    "title": "Hannoverscher Sport- und Freizeitclub e.V.",
+    "address": "Hildesheimer Str. 120, 30173 Hannover, Germany",
+    "postalCode": "30173",
+    "city": "Hannover",
+    "categoryName": "Club",
+    "location": { "lat": 52.3611, "lng": 9.7541 },
+    "placeId": "pilot_hannover_non_religious_club_7"
+  },
+  {
+    "title": "Pastel-ghost Hannover Fake Listing",
+    "address": "Kornstr. 999, 30167 Hannover, Germany",
+    "postalCode": "30167",
+    "city": "Hannover",
+    "categoryName": "Mosque",
+    "placeId": "pilot_hannover_spam_8"
+  },
+  {
+    "title": "Gebetsraum am Bahnhof",
+    "address": "Ernst-August-Platz 1, 30159 Hannover, Germany",
+    "postalCode": "30159",
+    "city": "Hannover",
+    "categoryName": "Mosque",
+    "location": { "lat": 52.3768, "lng": 9.7412 },
+    "reviewsCount": 0,
+    "placeId": "pilot_hannover_thin_9"
+  }
+]

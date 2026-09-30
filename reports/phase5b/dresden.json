@@ -1,0 +1,38 @@
+{
+  "city": "Dresden",
+  "slug": "dresden",
+  "state": "Sachsen",
+  "runAt": "2026-09-30T11:01:35.901Z",
+  "isDryRun": true,
+  "rawCount": 3,
+  "uniqueCount": 3,
+  "duplicatesRemoved": 0,
+  "publishedCount": 3,
+  "reviewCount": 0,
+  "rejectedCount": 0,
+  "crossCityAnomalyCount": 0,
+  "crossCityAnomalies": [],
+  "gateReport": {
+    "city": "Dresden",
+    "slug": "dresden",
+    "evaluatedAt": "2026-09-30T11:01:35.901Z",
+    "status": "BLOCKED",
+    "passed": false,
+    "blockers": [
+      {
+        "gate": "GATE_F",
+        "passed": false,
+        "blocker": true,
+        "reason": "3 publishable records (minimum required: 5)",
+        "metric": 3
+      }
+    ],
+    "warnings": [],
+    "metrics": {
+      "totalEntities": 3,
+      "publishableEntities": 3,
+      "coordsPercent": 1
+    },
+    "recommendation": "City has hard blockers that must be resolved before launch."
+  }
+}

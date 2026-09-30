@@ -1,0 +1,10 @@
+{
+  "city": "Leipzig",
+  "slug": "leipzig",
+  "promotedAt": "2026-09-30T10:53:16.302Z",
+  "publishedCount": 6,
+  "gateReport": {
+    "status": "READY_FOR_LAUNCH",
+    "warnings": []
+  }
+}

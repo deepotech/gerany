@@ -1,0 +1,744 @@
+[{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "Flügelweg 8, 01157 Dresden-Altstadt, Germany",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "7410645700255227657",
+  "city": "Dresden",
+  "description": null,
+  "countryCode": "DE",
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5srooxHpml_gYUvjJAxy6nHyV2hkco0IBICf9iDl74ncBoIf3Vu48rce18NEWB0yvrRtMnXSxIQsxV5wO9iuqxVx1BvxxphZ1jE5i5mpQbg74YyWCS6ywh605SniWKRj97O9M=w408-h272-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QhgPbES40TNLR_wXJ-po7RKkY5NBBT8Qu3Xpdx2fwOloHk3dOlF_er--iiB8ggaw16m3fDA5HsEupDzjRLdC64NQVuwLiNEQ5La0MPVEhdh4BiWPCwQjF9-3nEpnFE3a58gqEm=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQ7-HlnHwCFNcq80kLxGnO8IU3cR7TFfyrwfVhns_rJFmXgi-o2GGa1WvxMxt4DKv3kkVeGKC0AAMF65baRlybOPsjcho-mcNTJtyMlWXg4SHiYGXn1tEp1YJa1rpgLs8oKw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPUdPCi3YEfUBOEwL4XgJ1CSorZjaNDp-_McIACfSfQg5FCbzHGJ3ZTscq7SJutkRx0tUe6ri3-4uEz55GtDWRgnved-T-fdEk5MGc3BA7fjrS0fCZiZ7EnzOV4ZYlWrlZsdMM=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RgcIGboTVRS3Er-BH6DVYIcTUwABZVtV4f-5rerGv5iDY_zVAZ_3llEmjLWgbnIvL629ndsKHFMJaSM1Vmwyecg0BsJWBPYyg3hscdnHSD7SWyySlUocbrOZagjP5fSu7lzN1j=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TppOchxZYbWgSGhsuapxX6Rl9LnefIeEJ0QwqnAAFrBM9Puea-9LHS6_ukWWosAGqCyry3JHleDKhjUXkgjYzo2flar20LPDdOb1EAQgmjgX4G7Rhm_eKveodN9TLlZF7ihbCJOA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpDBbFLBqlhEq_jVTE0hJMURcePrDBwrG5pmoOt29W0DhXiutwHqbuJ0ADpI5EQRsUiasHZ7CIBiEn6QkM5zlkn7te2M_EyWp9icwNK3KJEgcn24xKjoyD5Jc1EPWia7a19uG941UAt2U=w1920-h1080-k-no"
+  ],
+  "imagesCount": 44,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 51.0605422,
+    "lng": 13.6895966
+  },
+  "neighborhood": "Altstadt",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+49 351 1608802",
+  "placeId": "ChIJnwsNUpLPCUcRCR_9RwDn12Y",
+  "placesTags": [],
+  "plusCode": "3M6Q+6R Dresden, Germany",
+  "reviews": [
+    {
+      "reviewerId": "117837336448021730497",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117837336448021730497?hl=en",
+      "name": "Mohammad Sahyouni",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIBwLdNOQeMvy9lKftL0IA_XZ8JnPjSKoNNMrZFbD47udbijA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-10T20:25:04.721Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pGWk1FbHVaRzFpTkc5Vk5uTlZhSGt0VW1vemRsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGWk1FbHVaRzFpTkc5Vk5uTlZhSGt0VW1vemRsRRAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOjFZMEluZG1iNG9VNnNVaHktUmozdlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111123726386686114796",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111123726386686114796?hl=en",
+      "name": "Yazn Alsed",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKyj83V5yPeLPJ9M_3FrCMpROUBmopYlenvBkItFdhxdJu8UA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-28T12:00:58.494Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25OVk5taHJkMkY1Wm1rdFR6STBUMEpyUmt4YVpHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OVk5taHJkMkY1Wm1rdFR6STBUMEpyUmt4YVpHYxAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOnNVNmhrd2F5ZmktTzI0T0JrRkxaZGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110573571143561694867",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110573571143561694867?hl=en",
+      "name": "Raphael Gerdes",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIheUoNDfSzn2c38vwFhEgWA4GOWx8H9CXSS4HMSoz7pvIuPQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-25T21:33:06.812Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xMFRHVkZUVVZGV1cxZlEwdHllakk0V2tGTVVuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xMFRHVkZUVVZGV1cxZlEwdHllakk0V2tGTVVuYxAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOm10TGVFTUVFWW1fQ0tyejI4WkFMUnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109387035929603796232",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109387035929603796232?hl=en",
+      "name": "Ali Alabboud",
+      "reviewerNumberOfReviews": 11,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUVZ5igahh2xh7kVdCWeIV4OYt0bkfxNT1AXs2hSqk99jZjM_dRIQ=s1920-c-rp-mo-ba12-br100",
+      "text": "Die schönsten Moscheen Dresdens und gutes Gebet und Predigt",
+      "textTranslated": "The most beautiful mosques in Dresden and good prayer and sermon",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-24T01:50:20.536Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tKSVdHSTVPUzFNTjB4c1FrbHlORWxYVVdKTVMyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKSVdHSTVPUzFNTjB4c1FrbHlORWxYVVdKTVMyYxAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOkJIWGI5OS1MN0xsQklyNElXUWJMS2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "117627099254500649156",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117627099254500649156?hl=en",
+      "name": "Mekdad Ali",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV0QAWdQ21zu8iYOfNW06UROoWHkaO5i2v2gT21Z3ItMe_Imfc=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-26T13:54:21.703Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWUlJFWmlaelJvV1c5clh6Wk1Xa3hrTUhkQ1JWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWUlJFWmlaelJvV1c5clh6Wk1Xa3hrTUhkQ1JWRRAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOlVRREZiZzRoWW9rXzZMWkxkMHdCRVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117102242313796186492",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117102242313796186492?hl=en",
+      "name": "Ahmad Darwecha",
+      "reviewerNumberOfReviews": 8,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXH3mCDwykcmb2W4AxdgYcsFnUF7RKrzHNUrDKMWDcny3YAaum8=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-15T19:50:25.026Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2sxVmFqUTBXRzlZZWtWM1dITnVWWGc1WWtaa04wRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxVmFqUTBXRzlZZWtWM1dITnVWWGc1WWtaa04wRRAB!2m1!1s0x0:0x66d7e70047fd1f09!3m1!1s2@1:CAIQACodChtycF9oOk1VajQ0WG9YekV3WHNuVXg5YkZkN0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 227,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 1,
+    "threeStar": 4,
+    "fourStar": 15,
+    "fiveStar": 196
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Flügelweg 8",
+  "subTitle": "Islamisches Zentrum Dresden e.V.",
+  "title": "Islamic Centre of Dresden",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamic%20Centre%20of%20Dresden&query_place_id=ChIJnwsNUpLPCUcRCR_9RwDn12Y",
+  "website": "https://ikzd-dresden.de/"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "Hühndorfer Str. 14, 01157 Dresden, Germany",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "3360622387133354498",
+  "city": "Dresden",
+  "description": null,
+  "countryCode": "DE",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMDwGpFgjgmslddE1OfEHL2Sie95YdquzjCnFmnLo5cKUTFACxCy6rURx2gGmGeCCzw8EHNtELe7tMArirVRZANOvy7K98LlggzLo02Bf7hscOWmPnIe5jdzb3ipY3BtJdbWqLHg=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMDwGpFgjgmslddE1OfEHL2Sie95YdquzjCnFmnLo5cKUTFACxCy6rURx2gGmGeCCzw8EHNtELe7tMArirVRZANOvy7K98LlggzLo02Bf7hscOWmPnIe5jdzb3ipY3BtJdbWqLHg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ShOVJE170J-InhUIAe45LLqoW5svFhUavt5vZAyNlbZ7FJx0cLAfRmim2EZkQfhUT2paRHGvkJoTq2sN4vTF9TitBWfXKogbqaT9onPM7a_OaQfa6Uvs2zGpX05OdySOsjnJHBQQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOVHOP_qgP1pwpAyTpcANvSW1zIh4IwIYef3uiHaVbBTjVYmFmYCrCoLTuqA9BbIP8jhh6b-CzYecl02aguug1JDrSJFMUuujMZf4axtiOWGP6_QtNHQl3W5nJ8Dzu5G6lMfc=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T2bM55isMY_f7Fv5eZFUVU7n9C78pxWX6fHaMuh5sHLOTmBR7968FWoG12L89nLTh1pt6MXU_VBRvN0pwTomXPsgrsSbrAOqgOCvrSzJIqY1iBkQMuQjXVM68bNIhtunNRbd2b=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T7oESGYPnsyX6y9l6ci8Jcpx4vzZXXeQVp_bm4tTao6_9zQAyndiiOafvZB8G2FiratFeGDM2z2WDGEJxoCvyg_fRJevk4D996IejCCK3-yhDpjpFH0YxpEs2mtS48FKoHkGSB=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TANDdJs3e2vUD4lrLyQIDDUGHfwzDK349r1MaaYzpcjB9mOQhtZfqKQBcWCSlDRoIDr9v_d0PZQWDbleOXJ6TXbqRWPy6vIKBXgDNSlffvGH-Ckn9D1JZgkXjY5xCYX5EqB5ttlw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 41,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 51.0506439,
+    "lng": 13.6914538
+  },
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": "0351 313 78 112\n0174 389 71 44\n0163 194 46 50",
+  "phone": "+49 351 31378112",
+  "placeId": "ChIJx0_S4ojPCUcRAhJPeUFUoy4",
+  "placesTags": [],
+  "plusCode": "3M2R+7H Dresden, Germany",
+  "reviews": [
+    {
+      "reviewerId": "112763975803727887014",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112763975803727887014?hl=en",
+      "name": "Bünyamin Gündüz",
+      "reviewerNumberOfReviews": 101,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWmmJEBHfrM2rG64ADa7d-rzorbE5-UPB2XwgRW8IvEk-yFyi3O=s1920-c-rp-mo-ba12-br100",
+      "text": "Müslümanların namaz ve diğer bir çok aktivite için toplanabileceği güzel bir mekan. Türkiyede camilerde olmayan imkanlar mevcut. Çocuklar ve gençler dülünülmüş.",
+      "textTranslated": "It's a beautiful place where Muslims can gather for prayer and many other activities. It has facilities that are not available in mosques in Türkiye. Children and young people have been thought of.",
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-10T06:12:11.124Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25neGFFaHBVbTh0VFUxeVdqY3RNVkpUWW5KR1gwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25neGFFaHBVbTh0VFUxeVdqY3RNVkpUWW5KR1gwRRAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOngxaEhpUm8tTU1yWjctMVJTYnJGX0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "102612285004537023222",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102612285004537023222?hl=en",
+      "name": "I.Türk",
+      "reviewerNumberOfReviews": 183,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX7mx-brWbJxGSR-EkxX31I6G1Ysqyo9b03nixsbHK3PenmK-M=s1920-c-rp-mo-ba12-br100",
+      "text": "Eine wunderschöne und sehr gastfreundliche Moschee. Nach einer langen Reise nach Dresden zur Rückgabe eines Leasingfahrzeugs war die Moschee für mich ein wunderbarer Ort, um kurz zur Ruhe zu kommen, zu beten und mich zu erholen. Besonders angenehm waren auch die Möglichkeiten, sich umzuziehen und sich frisch zu machen.\nEin ganz besonderer Dank gilt dem Imam und einem Gemeindemitglied, die mich herzlich empfangen und sogar zum Essen eingeladen haben. Diese herzliche Aufnahme hat für mich die türkisch-islamische Gastfreundschaft auf ganz besondere Weise gezeigt.\nNeben den guten Gebetsmöglichkeiten habe ich mich hier vor allem als Gast willkommen und wohlgefühlt. Vielen Dank für diese schöne Erfahrung und die herzliche Gastfreundschaft. Möge Allah euch dafür belohnen. 🤲",
+      "textTranslated": "A beautiful and very welcoming mosque. After a long journey to Dresden to return a leased vehicle, the mosque was a wonderful place for me to find some peace, pray, and relax. The facilities for changing clothes and freshening up were also particularly welcome.\n\nA very special thank you goes to the Imam and a member of the congregation who gave me a warm welcome and even invited me to eat. This heartfelt reception truly exemplified Turkish-Islamic hospitality for me.\n\nBesides the excellent prayer facilities, I felt especially welcome and comfortable here as a guest. Thank you so much for this wonderful experience and your warm hospitality. May Allah reward you for it. 🤲",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-22T04:30:04.406Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKTFdrSXRSR0o0UlRaVmJUQnZRM05rVGsxTlQzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKTFdrSXRSR0o0UlRaVmJUQnZRM05rVGsxTlQzYxAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOlJLWkItRGJ4RTZVbTBvQ3NkTk1NT3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe4hXwLRr_HNorm3OcHjQr7m9OVWrSE5MkH_XNqeELNvioulD3PJY1BUOtF8lx_nA7Xa_5mysHQmy3_u7PW51fALcaJM2bSlWFmmqWCfCQASXFXOB3sVzAU81NKm8Ha_gqQoQdqxRt3NPE=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "110388632713975978650",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110388632713975978650?hl=en",
+      "name": "FAİK YILDIRIM",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXwUlauqCY7pv6jFt5N_99EJF5HDxb9V2mpq8k2-hI86Slm9Yw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-13T16:14:13.695Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xRME1reEhjbEI0V0VKRmVHMVJTR2xRWWtKUFpGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRME1reEhjbEI0V0VKRmVHMVJTR2xRWWtKUFpGRRAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOlQ0MkxHclB4WEJFeG1RSGlQYkJPZFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109234714747747298799",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109234714747747298799?hl=en",
+      "name": "Amrullah Yawari",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJCAuIkNIIKKcWqMiAE4NBNjb8BuFPU9nRu2NCpOUkX52afyg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-05-30T19:15:50.358Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSbFZVUnFNVTVHVnpVemNFeHNkekUwVW5OTllYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSbFZVUnFNVTVHVnpVemNFeHNkekUwVW5OTllYYxAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOlRlVURqMU5GVzUzcExsdzE0UnNNYXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112444657066284615964",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112444657066284615964?hl=en",
+      "name": "Tim Scholz",
+      "reviewerNumberOfReviews": 21,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocISgLCvO7Ul_9ATTBgri_TuffsExX49mSmub9JQnMDUbHL9AA=s1920-c-rp-mo-ba12-br100",
+      "text": "Lauf ich immer wieder vorbei.",
+      "textTranslated": "I keep walking past it.",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-13T13:16:29.888Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SS1VVVlZTazVTYlVWcGNqWklMWGN4WlZJM1RrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SS1VVVlZTazVTYlVWcGNqWklMWGN4WlZJM1RrRRAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOnRKUUVVSk5SbUVpcjZILXcxZVI3TkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "117966744023296303899",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117966744023296303899?hl=en",
+      "name": "erdal ulu",
+      "reviewerNumberOfReviews": 37,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZd0LYiC-f8BsAta3DBgKoTpSoKbZVA4s0-LNBwFDbhrLb_Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-02T20:41:25.492Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21kUGExSTROMjVNU21WQk1rZ3hjVGN3WTNOQlIxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kUGExSTROMjVNU21WQk1rZ3hjVGN3WTNOQlIxRRAB!2m1!1s0x0:0x2ea35441794f1202!3m1!1s2@1:CAIQACodChtycF9oOmdPa1I4N25MSmVBMkgxcTcwY3NBR1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 132,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 10,
+    "fiveStar": 109
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Hühndorfer Str. 14",
+  "subTitle": "DITIB-Zentralmoschee Dresden",
+  "title": "DİTİB Dresden Fatih Central Mosque",
+  "url": "https://www.google.com/maps/search/?api=1&query=D%C4%B0T%C4%B0B%20Dresden%20Fatih%20Central%20Mosque&query_place_id=ChIJx0_S4ojPCUcRAhJPeUFUoy4"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "Marschnerstraße 2, 01307 Dresden-Altstadt, Germany",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "16680137110399387324",
+  "city": "Dresden",
+  "description": null,
+  "countryCode": "DE",
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R4ufxvxYwM4iF2GjgcmfwJfC6VhX08S7HVQa4QBk05CXOUawQMT08xhNMToHAllKOvTLXTodcsqhlFz2foiiISFOy9HNZeFzmafD9J5nhGM3LSLWpZS0U-rr4q-C4orN6FNZcE=w408-h258-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R4ufxvxYwM4iF2GjgcmfwJfC6VhX08S7HVQa4QBk05CXOUawQMT08xhNMToHAllKOvTLXTodcsqhlFz2foiiISFOy9HNZeFzmafD9J5nhGM3LSLWpZS0U-rr4q-C4orN6FNZcE=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3i6BQTcJNu38HGxzo9PnIOmVXUNis4ElZUwBnI4up-M7P0qMaahZTOw6klMdJZayu3DG733aiXknyLdcFyo3uB1V_3qpPB0EbMghAnElSYYJVwLlef0S7BJhdTjPgdEUWd00=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMZ4-ijJcu_ncqpTsGevWIPNX9RByzL3Q5KetfKk5A7GtQStkDctxVsIAyyrnCeH8RGoq-6rmWk-5DBdEmQfy4YTRGkAMD02bsMU2NqYlFbjnVw9_WWzhBcXzasKvSzJND5sHZ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RhpvRB7dArz7RYa4UwSasKOJtTWGDbdyZ0RDwOjx9FEP0NJZkLrn81ncw5T8YD_D3htI7637nep1BszzGOxFvjFTX-hs8pqVV2t8dznMlguqVrTVTp0pTwMl2sHH3UeqAx_mk=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QW1sabKdcJAtL8dHDE-YwvRqSN3l7TLhcROwON48vmPk2HgHXOSuX4OmmnFiPdoaRmQWfknN6ygCqT4tWxftIxKXuMOKOva1Jn4xe3aQ0J6vOC1ImZp3n5YbunU6X70SXtwZrx=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qt80QT6BiE9zotUSINy4OGt_NNw00TWoxxVPFaCpUMz81h91-V4MGHTrnjcaYySOjJYuTIFGzWFguQzwR5bVQ0yfbgHWJi5P0orsjgukAarex0BZxnTqVXM7oZaG3l4wrvmpjRgw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 71,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 51.0467256,
+    "lng": 13.7579751
+  },
+  "neighborhood": "Altstadt",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 9 PM"
+    }
+  ],
+  "ownerDescription": "اسس هذا المركز في عام 2009م وذلك بعد حادث مقتل الأخت مروه الشربينى فى المحكمه وقد قام على دعم تجهيزه عدد من الاخوة الافاضل الحريصين على ابتغاء مرضاة الله عز وجل وتم ولله الحمد افتتاح هذا المركزفي الأول من رمضان عام 1430 هجريه الموافق السبت 22 أغسطس 2009 م.\n\nDie Grundlagen dieser Moschee im Jahr 2009, nach dem Tod von Schwester Marwa ElSherbiny im Amtsgericht. Der Eröffnung dieser Moschee am ersten Ramadan 1430 AH, entsprechend 22 August 2009",
+  "phone": "+49 176 22958642",
+  "placeId": "ChIJCRObDVHPCUcRvIYqplPAe-c",
+  "placesTags": [
+    {
+      "title": "Other",
+      "count": 1
+    }
+  ],
+  "plusCode": "2QW5+M5 Dresden, Germany",
+  "reviews": [
+    {
+      "reviewerId": "112221619688922798008",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112221619688922798008?hl=en",
+      "name": "hawa babany",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK_xVbmuhRomhuPpv05PlvE-4kj9HidhNTZHqR-Mo1HueN1MQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-16T13:56:58.858Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21SQlUzTkRZMjVKTldFdFpIVmhRWGxSZHpsTGNHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SQlUzTkRZMjVKTldFdFpIVmhRWGxSZHpsTGNHYxAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOmRBU3NDY25JNWEtZHVhQXlRdzlLcGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101435326318217441003",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101435326318217441003?hl=en",
+      "name": "Wafi Wafi",
+      "reviewerNumberOfReviews": 45,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXxlaIU18ZfwmfRds62JNGWgRandVK45P7un178dJL5W01-1XaT=s1920-c-rp-mo-ba12-br100",
+      "text": "Neat and organized",
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-26T01:27:54.363Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25CVGFVZEdkSFJaVG5RMmJIUmlabkZHVFdSMmRIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CVGFVZEdkSFJaVG5RMmJIUmlabkZHVFdSMmRIYxAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOnBTaUdGdHRZTnQ2bHRiZnFGTWR2dHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109589593354964227327",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109589593354964227327?hl=en",
+      "name": "‫أبوبكر الحاج (‪Alhaj Abubaker‬‏)‬‎",
+      "reviewerNumberOfReviews": 20,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVnTtyuEDk10ZBuZ3WFt0B6yC_XFUHpLL6I50nxaQHvpQTZY5jDDg=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-21T11:24:23.482Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVJXZFlhak5CUVY4NFlVeHVaVk0yZDB0MmRrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGeVJXZFlhak5CUVY4NFlVeHVaVk0yZDB0MmRrRRAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOjFyRWdYajNBQV84YUxuZVM2d0t2dkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109380691735654027806",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109380691735654027806?hl=en",
+      "name": "Muhammad Hakim",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWnRWaxyWkp9nwBbQr6ecLt1uyT0XcyLEHWWtsK702gPZiPdE-U=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-09T01:45:10.677Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tGTFZVNUtSRlZpY21WT1oyOXhNMDluYzBkU05tYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGTFZVNUtSRlZpY21WT1oyOXhNMDluYzBkU05tYxAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOkFLVU5KRFVicmVOZ29xM09nc0dSNmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100857941832397777067",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100857941832397777067?hl=en",
+      "name": "Roble Mahdi",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ8nIt7p7q4n2AWhcc4O-Y3_-ta4oopZhgFGxZfRci-WfUTHQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-05T15:12:59.988Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s1eU1rbHRNMjFNYXpsR1NGSmxVVkZ0UjFWd2RHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1eU1rbHRNMjFNYXpsR1NGSmxVVkZ0UjFWd2RHYxAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOk5yMkltM21MazlGSFJlUVFtR1VwdGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107940864616405495197",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107940864616405495197?hl=en",
+      "name": "Manzoor Javed",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVwueAAjvSPA2C-hdmA4nUGsbI4E-lcaNfckrjIEmaGE95jBnPT_A=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-07T10:29:33.991Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25CMVYwSTRVVkZXUkdoNWJYcEVTWEJ5TTNCSmVFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CMVYwSTRVVkZXUkdoNWJYcEVTWEJ5TTNCSmVFRRAB!2m1!1s0x0:0xe77bc053a62a86bc!3m1!1s2@1:CAIQACodChtycF9oOnB1V0I4UVFWRGh5bXpESXByM3BJeEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 367,
+  "reviewsDistribution": {
+    "oneStar": 29,
+    "twoStar": 3,
+    "threeStar": 10,
+    "fourStar": 32,
+    "fiveStar": 293
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Marschnerstraße 2",
+  "subTitle": "MKEZ Moschee Dresden",
+  "title": "Marwa Elsherbiny Zentrum Dresden",
+  "url": "https://www.google.com/maps/search/?api=1&query=Marwa%20Elsherbiny%20Zentrum%20Dresden&query_place_id=ChIJCRObDVHPCUcRvIYqplPAe-c",
+  "website": "http://www.mkez-dresden.de/"
+}]

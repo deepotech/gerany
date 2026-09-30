@@ -1,0 +1,10 @@
+{
+  "city": "Bonn",
+  "slug": "bonn",
+  "promotedAt": "2026-09-30T10:47:12.907Z",
+  "publishedCount": 14,
+  "gateReport": {
+    "status": "READY_FOR_LAUNCH",
+    "warnings": []
+  }
+}

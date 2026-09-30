@@ -1,0 +1,119 @@
+// Germany Mosque Finder Prisma Schema
+// Target: PostgreSQL
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum DataStatus {
+  RAW
+  NORMALIZED
+  REVIEWED
+  PUBLISHED
+  REJECTED
+}
+
+enum VerificationStatus {
+  UNVERIFIED
+  COMMUNITY_VERIFIED
+  OFFICIALLY_VERIFIED
+}
+
+enum MosqueCategory {
+  MOSQUE
+  ISLAMIC_CENTER
+  RELIGIOUS_ORGANIZATION
+  PRAYER_ROOM
+  COMMUNITY_CENTER
+  OTHER
+}
+
+model Mosque {
+  id                 String             @id @default(cuid())
+  canonicalName      String
+  slug               String
+  address            String
+  street             String?
+  postalCode         String
+  city               String             // e.g. "Köln"
+  district           String?            // e.g. "Kalk", "Nippes", "Mülheim"
+  state              String             @default("Nordrhein-Westfalen")
+  country            String             @default("Germany")
+  latitude           Float
+  longitude          Float
+  phone              String?
+  website            String?
+  mapsUrl            String?
+  placeId            String?            @unique
+  category           MosqueCategory     @default(MOSQUE)
+  organization       String?            // e.g. DITIB, IGMG, VIKZ, ATIB, Independent
+  description        String?
+  openingHours       Json?              // structured weekly hours
+  rating             Float?
+  reviewCount        Int                @default(0)
+  imageUrl           String?
+  dataStatus         DataStatus         @default(NORMALIZED)
+  verificationStatus VerificationStatus @default(UNVERIFIED)
+  source             String             @default("google_maps_pilot")
+  lastVerified       DateTime?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  facilities   Facilities?
+  translations Translation[]
+  auditLogs    AuditLog[]
+
+  @@unique([city, slug])
+  @@index([city, district])
+  @@index([postalCode])
+  @@index([dataStatus])
+  @@index([category])
+  @@index([latitude, longitude])
+}
+
+model Facilities {
+  id                   String   @id @default(cuid())
+  mosqueId             String   @unique
+  parking              Boolean?
+  womenArea            Boolean?
+  wheelchairAccessible Boolean?
+  restroom             Boolean?
+  wudu                 Boolean?
+  other                String?
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+
+  mosque Mosque @relation(fields: [mosqueId], references: [id], onDelete: Cascade)
+}
+
+model Translation {
+  id             String   @id @default(cuid())
+  mosqueId       String
+  locale         String   // "de", "en", "ar"
+  name           String
+  description    String?
+  seoTitle       String?
+  seoDescription String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  mosque Mosque @relation(fields: [mosqueId], references: [id], onDelete: Cascade)
+
+  @@unique([mosqueId, locale])
+  @@index([locale])
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  mosqueId  String?
+  action    String
+  details   Json?
+  createdAt DateTime @default(now())
+
+  mosque Mosque? @relation(fields: [mosqueId], references: [id], onDelete: SetNull)
+}

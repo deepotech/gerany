@@ -1,0 +1,10 @@
+{
+  "city": "Bremen",
+  "slug": "bremen",
+  "promotedAt": "2026-09-30T10:53:16.299Z",
+  "publishedCount": 37,
+  "gateReport": {
+    "status": "READY_FOR_LAUNCH",
+    "warnings": []
+  }
+}

@@ -1,0 +1,4354 @@
+{
+  "timestamp": "2026-09-30T11:08:48.919Z",
+  "totalExisting": 443,
+  "totalIncoming": 542,
+  "addedCount": 99,
+  "removedCount": 0,
+  "updatedCount": 0,
+  "unchangedCount": 443,
+  "severitySummary": {
+    "NO_CHANGE": 443,
+    "MINOR_CHANGE": 0,
+    "SIGNIFICANT_CHANGE": 99,
+    "CONFLICT": 0
+  },
+  "reviewRequiredCount": 99,
+  "changes": [
+    {
+      "id": "ChIJdS9FyEFTqEcRE-EAa2RjgYQ",
+      "name": "Lubars Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpURK451RqEcRu5cIUk2ABMk",
+      "name": "Indonesische Weisheit und Kultur Zentrum",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJK5nUx0tQqEcRMFVmd1kS69o",
+      "name": "Semerkand Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJqbUumLtPqEcRXtDHFuTWaX4",
+      "name": "Imam Riza Moschee und Solidaritätsverein e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJCZ8byjFSqEcRjD8gH9yk5YQ",
+      "name": "Interkulturelles Zentrum für Dialog und Bildung e.V. IZDB",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJVVVFYjRSqEcRDrclS95J3aU",
+      "name": "DITIB-Kocasinan Türkisch-Islamische Gemeinde zu Reinickendorf e. V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ23mbeIlRqEcRKO14LbCZOWw",
+      "name": "Darul Ihsan Berlin Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJg7Luw6tPqEcRGncaWNP1dRY",
+      "name": "Darul Aman Masjid Lichtenberg",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ55kymDROqEcR0gdYVe0rWY4",
+      "name": "Mevlana Moschee Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJgx41R2lPqEcRpB_Lx9CYK7o",
+      "name": "Al-Nur Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcRzfbyNSqEcRibqBXxBhgNM",
+      "name": "Aksemseddin Camii DITIB",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTZf5hHBQqEcR4VtJgEnlhM8",
+      "name": "Valide Sultan Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJq06fMpxOqEcR5wma_sKeSjU",
+      "name": "Berliner Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2dzcVHZTqEcRClNATGJ3x14",
+      "name": "IGMG Medina Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJPVluYjVOqEcRZ1IzmSCONbk",
+      "name": "Omar Mosche - مسجد عُمر",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJV6S3wUBQqEcRSsh2uSCq1jg",
+      "name": "Emir Sultan Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJPfVUf6ZPqEcRBz2SIe9aGWA",
+      "name": "Islamic culture u. education center",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJeWHFMpxOqEcRSU6oTju9JGs",
+      "name": "Pakistanische Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ7Y2U83dSqEcRARLgTgjKv_c",
+      "name": "Khadija Moschee Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJu-HqeTBSqEcRZwr3sNjH0Ug",
+      "name": "Haci Bayram Mosque e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5RHksyBRqEcRRxScJO_Qj0s",
+      "name": "Mabed Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ7_rS7sNPqEcRQ4kvSKV8BNM",
+      "name": "Berlin Şehitlik Camii",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsVan7ChRqEcRf3xkNp9bzeo",
+      "name": "Osman Gazi Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ4e1f6pNPqEcR9YF6unerbUw",
+      "name": "Mimar Sinan Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJeVaJ2ZlPqEcRAz6RBaGzCdw",
+      "name": "Neukölln Selimiye Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJj_fvCbxPqEcRfFttkAj1cM4",
+      "name": "Dar Assalam Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwTAYMo1FqEcRD_XFjcrnUdU",
+      "name": "Aziziye Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJNXy3X05PqEcR3-kG-g7Iwj8",
+      "name": "Interkulturelle Gemeinde Berlin e.V. (IGB)",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8Q3qK6pPqEcRV1ICgp5FvxQ",
+      "name": "Al-Badr Moschee مسجد البدر",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJoVGAnBJPqEcRSupeU6wJDJg",
+      "name": "Al-Ummah Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJUTssh5tPqEcRvRhJJOOd4Gc",
+      "name": "Mizgefta Mezopotamya Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJkZ-QaXVPqEcR3uw-g4xcmnI",
+      "name": "Gazi Osman Pasa Mosque e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJYX5FUG9FqEcRZypNri8_kwY",
+      "name": "Heimat Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJL6vGmW8jZUER0ahRRcPc_64",
+      "name": "Isa Beu Moschee e.V. Albanisch-Islamisches Gemeinde- und Kulturzentrum",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ___vHyxQqEcR9rgn8HdieWU",
+      "name": "Orhan Gazi Moschee – DİTİB Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3zJQjIZRqEcRWxgoSmNVo6g",
+      "name": "Eyüp Sultan Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJC9LIKQBHqEcRoZM_udP3Zqo",
+      "name": "DITIB Rudow Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJh3UStylSqEcRZ3tgsYMlGwA",
+      "name": "Yunus Emre Mosque Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ44MmtpxPqEcRVBf4-gHKneg",
+      "name": "Furkan Zentrum Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5ZT_U79WqEcRXJokqjb82O4",
+      "name": "Kocatepe Mosque - DITIB",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJX34RPbZPqEcRfkZEk05EskY",
+      "name": "Muradiye Moschee - DITIB Kulturverein e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSRa7lUpOqEcRUK6kqOiNcms",
+      "name": "DITIB Merkez Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSQfQ-6NPqEcRmBMJh5Espco",
+      "name": "DITIB Berlin New Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJy26KOG9UqEcRRt4Zfh7Qhg8",
+      "name": "DITIB Tegel Selimiye Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ29BHWjpSqEcRGFih_b68NbY",
+      "name": "Mescid-i Aksa Mosque - DITIB",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJCe5iFlBFqEcRxLANVK6R4H4",
+      "name": "Mariendorfer Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJv3kxTR1RqEcRosmmdjJ9JoQ",
+      "name": "Hasan Basri Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJbXBFRbdPqEcRZiyaPM9jzI8",
+      "name": "Hamidiye-Moschee Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-57J_75PqEcRckPN8qV1drY",
+      "name": "Baitul Mukarram Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZyarEgBFqEcR-YviWBl6fkU",
+      "name": "Mariendorf Ulu Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ1-yaIgJQqEcR_f-QRz8tjjc",
+      "name": "مركز الامام السيد موسى الصدر",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGZMpgU1OqEcRpaiub8_5gLE",
+      "name": "Fatih Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcaS4UABPqEcRcAaa6fYKKa0",
+      "name": "Vakif Moschee e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJt125375PqEcRGkq9EArcg2w",
+      "name": "Markaz Al-Qaim (Al-Irshad e.V.)",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTW6gTABFqEcRh2hJ-4lPmL0",
+      "name": "IID Moschee - Gemeinschaft der Mitte Gemeindezentrum Marienfelde Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJdwQpf3RRqEcRkrM2HMOGxao",
+      "name": "Ayasofya Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm3KGRh1RqEcRhtxyg-DfkHo",
+      "name": "Markaz Al-Hassanein E.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJlddWdgBRqEcRpk7WCsi4QW4",
+      "name": "مسجد الزيتونة",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAUgquRRWqEcRDc2b3iXNGyw",
+      "name": "Spandau New Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJl_LeozNRqEcRmsv4cFbF_E4",
+      "name": "Prayer rooms Charité Campus Virchow-Klinikum",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJXQ_BP59RqEcRYNlQ2yQu5pY",
+      "name": "Familienberatung Haus der Weisheit دار الحكمة",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2eAj7NlTqEcR1LoRq7ciX7E",
+      "name": "Süleymaniye Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-XfwMABRqEcRCKx0Xk4OxfY",
+      "name": "PAK Mohammad Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJnxt5bdBRqEcRyR08u3IvV8I",
+      "name": "Bosniakisches Kulturzentrum Sabur e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ_dfs04RXqEcRJ-1VG7XVz84",
+      "name": "Islamische Gemeinde Al Baraka e.V Haselhorst مسجد البركه هازل هورست",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAXh-b7hRqEcRPg9rTuy05Qc",
+      "name": "Sultan Ahmet Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJnZx9GQBRqEcRHk2DrrVKSFY",
+      "name": "Masjid as-Salam",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3UVmAKJRqEcRZ6FfdVs9Eyw",
+      "name": "Al Firdaus Moschee - Kultur und Integration e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAa8vgvNRqEcRwuM4CuAxqrQ",
+      "name": "Ashabe Kehf Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJeXBGPcRRqEcR7S8_3AyKaEY",
+      "name": "Haus der Weisheit Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxTa9vwpRqEcR8kgDlFa0_xg",
+      "name": "Ibn Rushd-Goethe Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ6Tiaoy5RqEcROp68NX0xf2A",
+      "name": "Ensar Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJvR0p6V1XqEcR5p1LxsmJIh8",
+      "name": "Al Ajurry Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ37rYLSpRqEcRSM420rZ-QW4",
+      "name": "Zeituna Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm4baHjBWqEcRVWuD6FxXHwQ",
+      "name": "Teiba",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJmwWL6zBRqEcRY1S-KePN-64",
+      "name": "Arresalah Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJtW3S-TVWqEcR6UZSnOFKYho",
+      "name": "Spandau Central Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm7awRwBLqEcRW-bSuFtXTlo",
+      "name": "BDMG Zentrum Hellersdorf",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJW5_NtnZTqEcREszCd1yEbgI",
+      "name": "Al Khair Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJNdnNYeVTqEcRCbHsefQBECI",
+      "name": "Farhat Pasha Mosque - Ikre Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJvRII1gNTqEcR9GWH0IvetBk",
+      "name": "Turgut Alp Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJP1EhIMJPqEcRWczYOqjYbhw",
+      "name": "مسجد الفرقان",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ7SgLXjBSqEcRf1l-vKi7FCg",
+      "name": "BILAL MASJID",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJXZwNS5xPqEcRRHTiryp1Mg4",
+      "name": "Oniki Imam Yolu E.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ62EGOABPqEcR0Kh9XalZJ3I",
+      "name": "Afghan Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ6WgRQwBPqEcReVNgdIEsdCk",
+      "name": "Bilvanis Dosteli e.V Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ9QLG25dPqEcRTskBanyjUdE",
+      "name": "Masjid Aqsa Mosque - African Muslim Brotherhood e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJnz5Hxz9OqEcRl5stajy-Vbw",
+      "name": "Berliner PAK Kulturverein e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJH1fI9dZTqEcRaUUEgrxPNXs",
+      "name": "Minhaj-ul-Quran International Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ67SstQVXqEcRk8kyRoXSSYc",
+      "name": "Jakup Asipi e.V Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGa8BLE5TqEcRGViER6j8DzM",
+      "name": "Masjd Ibrahim Al khalil",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJR3xG8mtWqEcRxxBmo1g7bKY",
+      "name": "Hoca Ahmet Yesevi Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJo6ANNwBTqEcRJmFO8sNcrIY",
+      "name": "Imam Nafi Zentrum Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxYmrsvlTqEcR2gci1qawWhQ",
+      "name": "Sultan Abdul Hamid Jugend und Kulturhaus e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJWe-P-DlSqEcRCSi8MMG8MkQ",
+      "name": "Imam Jafar Sadik Mosque e.V. .",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ0YmP7YhTqEcR4a_fhRL6n7U",
+      "name": "Mehmed Zahid Kotku Sufi Lodge",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE7EEpl5QqEcRzbTS71AzoC4",
+      "name": "Albanische Moschee Ikra-Bashkimi e.V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJN33rT7RTqEcRsy61OQ6A8RE",
+      "name": "Kulturzentrum der Afghanen in Berlin e.V. - Afghanische Gemeinde Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJnRqy0yVSqEcRqgBCtmV0b44",
+      "name": "Al Ummah Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJL9zMzD1TqEcRWnOLH5GiNDU",
+      "name": "IGMG Sultan Abdulhamid Moschee Berlin",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsYerbiNSqEcRXa9FMawr74k",
+      "name": "Ravza Mosque",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJLxU1T2hTqEcR2t0tZXz-ICo",
+      "name": "Markaz Al-Mojtaba",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJK0k_DABTqEcRDhUr_phm_eI",
+      "name": "Tevhid Moschee",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSazQNQBTqEcR5l13624g-WU",
+      "name": "Iqraa Moschee – Afghanen Islamisches Kulturzentrum e. V.",
+      "city": "Berlin",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJDfcsxvgZuUcRgyy_c_OYId8",
+      "name": "مسجد ابو بكر",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJy_EZW1AXuUcR09YdfdB4Zzw",
+      "name": "Islamic Cultural Association Takwa",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxw0JWvgZuUcRZfTDweGMQio",
+      "name": "Ahmed-Yesevi-Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJU_0W7PgQuUcRCFb1fua9_i0",
+      "name": "IGMG Ortsverein Derne e.V",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpzSxEHsZuUcRh7H9752MuvM",
+      "name": "DITIB - Osman Gazi Mosque",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJvXAmd_oZuUcROUFEvqStu2E",
+      "name": "Al-Fath Moschee ( Camii.)",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJCaNLrlUXuUcRmCIsrOHoDXg",
+      "name": "Dortmund Merkez Câmii",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJU_mHDAAbuUcRriotNIIGXGM",
+      "name": "Alsahaba Moschee مسجد الصحابة",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJbTF3lVUXuUcRNMGY-ddcNzg",
+      "name": "Islamisches Kulturzentrum der Bosniaken - Sandžak e. V.",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJL7Q_r_AZuUcR-Z08r11QQ70",
+      "name": "Yeni Cami",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJt7JRh_kZuUcRW-p3OMBJ1Wo",
+      "name": "IGMG Anatolian Mosque Dortmund",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJoY-hKQAbuUcR3YwmNB7u01g",
+      "name": "VIKZ Camii - Moschee - مسجد",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJW7Jf86MQuUcROhUY9WYyWyY",
+      "name": "Bosnian Islamic Cultural Center of Dortmund",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJIWWcXFIXuUcRcCyULPg2mco",
+      "name": "Kocatepe Mosque Dortmund",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJExWt0v4ZuUcR6vVuY0aLiro",
+      "name": "Darussalam Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJa93GS_kZuUcRtIK8x1k_j90",
+      "name": "Eyüp-Sultan-Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJXcAJrdsQuUcRX3c9x8oJ184",
+      "name": "DITIB Ayasofya Moschee Scharnhorst",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc23kQE0XuUcReqLqHlE2wE0",
+      "name": "مسجد عمر بن الخطاب",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJjy2I_KYQuUcRx9CLiDbjvC0",
+      "name": "Islamisches Zentrum",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZc7DxPcZuUcR5mleP3sKH0c",
+      "name": "Hanif Moschee / Bildungszentrum e.V",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ4RsBuPgZuUcRjC7Qoj96zmI",
+      "name": "Islamischer Bund Dortmund e.V",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJQ_13DAAbuUcRjO_LA0HQ9ao",
+      "name": "Hz. Meryem Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ7yZg6iEZuUcRJ-dai9t0-Rk",
+      "name": "Assahabah Mosque",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ12i3_aYQuUcRDRKw9jP9WBQ",
+      "name": "Ulu Cami",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSR8vWgARuUcRyaDzge_5Ccw",
+      "name": "Ditib İbadullah Camii",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJN0MCC_4ZuUcR3DWuzK6jgxk",
+      "name": "مسجد الامام مالك",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAz51ydIZuUcRirdffxpAdgU",
+      "name": "DITIB Türkisch Islamische Gemeinde zu Dortmund-Hombruch e.V.",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTchDTo0buUcRPqCxKQBT07w",
+      "name": "Yunus-Emre-Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpYu6cgsauUcRvoXo4bMdq28",
+      "name": "DiTiB Selimiye Mosque Dortmund",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJUw_Y3asXuUcR0wnAuPm7ErM",
+      "name": "DITIB Dortmund Central Mosque-Hörde",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJfWGtbo0WuUcRHzFs7AnD0O0",
+      "name": "Assunaa Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJf2e8EPAZuUcRs9__nvbqRfU",
+      "name": "Al-Anwar Mochee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJzSr_jz4ZuUcRRwLTLIgbkDo",
+      "name": "Veysel-Karani-Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJf64PQAsfuUcRx7J-jiw_o7k",
+      "name": "DITIB - Yunus Emre Moschee Dortmund-Bövinghausen",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJXVdhXQAXuUcRPmmFWZQ7dqQ",
+      "name": "Assalam Moschee Do-Hörde",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsZXBW4kbuUcR0_Wgm9IO2Wg",
+      "name": "Mevlana Camii",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8_BPDfoZuUcRJQDEfJrZoC0",
+      "name": "El Medine e. V.",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJM-Aa0lMXuUcRe0dyJNZZ-ok",
+      "name": "Albanischer Islamischer Kultuverein Furkan",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-0_Il6cZuUcRs_5toENz6iQ",
+      "name": "Kasri Arifan-Dortmunder Verein für Jugend, Ethik und Wissenschaftsförderung e.V.",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJx7iCBYgZuUcRKtDhbv-GkUY",
+      "name": "Steinhammerstraße 85",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJQ756lbgRuUcRcZSzT98f9o8",
+      "name": "مسجد نور الهدى",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJOepa9gAXuUcRLV9ePInYSz0",
+      "name": "Massjid Ar 'Rahman",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJNRltwtwZuUcR8nFshKBWdVU",
+      "name": "مسجد نور الإسلام - Nurulislam Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJHVAIjngXuUcR4mkXZZ6etS0",
+      "name": "Tadschikische Gesellschaft NUR e. V.",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJM-Aa0lMXuUcRpvUCv66K2Fw",
+      "name": "Furkan-Moschee",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJL-2ClPwZuUcRwt_c5wSgW4k",
+      "name": "Ali Moschee - مسجد علي",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJT4OAUgAZuUcRyW_C8SWqs8Q",
+      "name": "Moschee مسجد غينيا",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJMRtbdAAZuUcRD8bkM8xyJQg",
+      "name": "Hicret Kur'an kurs",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJB5b3dwAZuUcRNGWN_8ZklQ4",
+      "name": "Mesjid Ikre",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm4BQGP4ZuUcRMMRokGT9N1Q",
+      "name": "Islamisches Kulturzentrum \"Bedr\" e.V. Dortmund",
+      "city": "Dortmund",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJQXDUW8HLuEcROysb6GyV-Iw",
+      "name": "Transparente Moschee (مسجد المصطفى)",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJUaAjF3S2uEcRHmPVFZ431Ws",
+      "name": "Dusseldorf Central Mosque",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJd_iFR2nKuEcRk0e6ljWSaak",
+      "name": "Bosnian Islamic Cultural Center of Dusseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJg7P8LgDLuEcR3XAyjDmBrjQ",
+      "name": "Islamisches Zentrum Düsseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2xTChy7KuEcR6D2kahIUJtA",
+      "name": "Islamisches Zentrum Düsseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwYq2iY7LuEcRJgpU4vQg88c",
+      "name": "DITIB-Türkisch Islamische Gemeinde zu Düsseldorf-Eller e.V",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsxxRd5nJuEcR2NixWP9ks8s",
+      "name": "DITIB - Zentralmoschee",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFwf39AXJuEcR50cxxoX5RZQ",
+      "name": "Masjid At Tauba",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJgbmek8fLuEcRXYkMqAwuYcQ",
+      "name": "Massjid Ar'Rahman e.V.",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ70C-TjfKuEcRpn_qy2UEsJU",
+      "name": "Islamischer Verein Düsseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJCXlkWTfKuEcROMMraLCqjOY",
+      "name": "MASJID OMAR",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTU2BYvvLuEcRyW2k9RAPMqw",
+      "name": "Fetih Moschee Düsseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJnQmkn-jJuEcR5eSumbANWdU",
+      "name": "Dituria e.V.",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ1ZuBWTfKuEcRCIMTsR64J9A",
+      "name": "Moroccan Islamic Cultural Center of Dusseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpYU-xZnMuEcRJRT6rYoDLOk",
+      "name": "Masjid Assalam",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJs2_bVADLuEcR6JDTUNvZJh8",
+      "name": "Bayan Kulturzentrum (BKZ) e.V.",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ7ye6hCHLuEcRx5c0RPTfaSY",
+      "name": "Masjid Bilal",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGQLh37fLuEcR0z4vG_w8kqs",
+      "name": "Islamisch-Albanisches Kulturzentrum Düsseldorf",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8TU3MOXLuEcR0giAN_QqUxM",
+      "name": "Moschee Mosque",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3WKWnWS3uEcRGTCj2YPZ4TA",
+      "name": "Moschee Mosque Beyazit Camii",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5cr28FnKuEcR1X09Mu7xvwY",
+      "name": "Deutsch-Algerischer Kulturverein Al Amanah e.V.",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJMcEXtm_LuEcRVisN7XbQpAY",
+      "name": "Масджид Ал-Уадуд",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJaSrCRxrLuEcRrgWMvzDFm08",
+      "name": "Fatima Al-Bakour-Moschee",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJCYRdTmTLuEcRl5tV4K-GEzg",
+      "name": "Fidan Mosque Holthausen",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJI3Q-TwC3uEcRF9-zo6lib2A",
+      "name": "Prayer room (Masjid)",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJe0WqRgDLuEcRkqegrgjzcDI",
+      "name": "Masjid",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ1W8N0DLLuEcR4hKVADfihcw",
+      "name": "Дуселдорф два намаза джумъа",
+      "city": "Düsseldorf",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxxdvEWDCuEcR2B-IB4BtORA",
+      "name": "DITIB Central Mosque Essen",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2fnai07duEcRBX68SOo-0nQ",
+      "name": "Islamisches Kulturzentrum für Albaner e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJexjzDmjouEcR4hXnMR3Vbtk",
+      "name": "Abu Bakr Moschee",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJfURbbqHCuEcRPa5ZIdHKuPU",
+      "name": "Alfarouq Moschee",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJy5SQXl3ouEcRdRrRyt4WVvo",
+      "name": "Jamia Masjid e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJfdSjR0HouEcRdghydW5qCi0",
+      "name": "Islamisches Zentrum Essen – Salâhud-Dîn-Moschee المركز الإسلامي الكبير في اسن مسجد السلطان صلاح الدين",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJzxcluM_nuEcRxgWm2dG-sOs",
+      "name": "Essen Central Mosque",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJU4C5x2TouEcRXRNehgcBp28",
+      "name": "Islamischer Förderungsver. v. türk. Arbeitnehmern in E- Altenessen und Umgebung e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJucTWHcDDuEcR0BT-AJPISnk",
+      "name": "Muslimischer Kultur-Verein e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJtbCLa8LnuEcRFN9PEOcVg7c",
+      "name": "Ayasofya Camii / Moschee",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwWmxxqjCuEcRLZup6hlnSdM",
+      "name": "El-Moahidin, Moroccan club E.V",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ61IrR4jCuEcRfJ6T_bJfWBk",
+      "name": "Mohammad Mustafa Moschee - Islamischer Verein der In Essen Lebenden Afganischen Mitbürger e.V",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ33W82CHnuEcRhKHcLWOrBxQ",
+      "name": "Moschee Cordoba - VDM e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJfX90cQDDuEcR9AUR6A-b28g",
+      "name": "Masjid/Mosque",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJzxCih4DduEcRc2zN3knIa_I",
+      "name": "Yavuz Sultan Selim Mosque",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJWbujxUzDuEcRSDxIx7SuHQ0",
+      "name": "Moschee Al Taqua",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJq7CubLzduEcRkAOWViidTUE",
+      "name": "Ibn Aafan Moschee",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ_yL3CQnduEcR7Gk0vq_BFnc",
+      "name": "DITIB Steele Ulu Cami",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJqVLcwHTcuEcR_sY7SGfJ0MI",
+      "name": "Islamische Gemeinde Essen-Kupferdreh u. Umgebung e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJY13Lif7buEcRRPak_WpTfmk",
+      "name": "مصلى داخل الكامب",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJWQjDGGDCuEcRnjaLL-oqmCc",
+      "name": "DITIB-Landesverband Nordrhein-Westfalen, Regionalverband Essen e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJtzEekmXCuEcRjFHgBuY4X-Q",
+      "name": "Integration und Bildungszentrum Essen e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJIeDGKwDDuEcRVbNTQAC3-f4",
+      "name": "مسجد",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJtcE3k47DuEcRfTK3u0UHTlc",
+      "name": "Moschee Des Afghanen H.GADA.M",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJMZclVQLquEcRR8CY4PRevrw",
+      "name": "Türkisch Islamischer Kulturverein Dellwig e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJEbT_k3LouEcRBmtwWJJDGLs",
+      "name": "Islamisches Kulturzentrum Essen",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJEbT_k3LouEcRIZPUMEPiK-w",
+      "name": "IGBD - Gemeinde Essen e.V.",
+      "city": "Essen",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5ch7Hp8IvUcRS8sOHD20Yy8",
+      "name": "DITIB - Türkisch Islamische Gemeinde zu Frankfurt-Bonames e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJs9WenDYKvUcRH0gLPfL7YHc",
+      "name": "Islamic Centre of Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJmYBDfaoOvUcRNj7kTrH2bew",
+      "name": "DITIB Zentralmoschee Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-fp7SAoJvUcR0R57vxy7wHA",
+      "name": "Islamic Community Frankfurt E.V Abu Bakr mosque",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGwpKF00OvUcRIJ-75TERfmU",
+      "name": "Afghanisch-Islamisches-Zentrum Frankfurt am Main e.V. - Abu Hanifa Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJRdUu3sCgvUcRzSPa7v9UCEQ",
+      "name": "Hassan Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJoRQG_6kJvUcR9jKkFXx8iMQ",
+      "name": "Familienzentrum e.V. Taunus",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJgSCLcCcGvUcRsFgPC_61IXE",
+      "name": "Baitus Sabuh AMJ Deutschland",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAUdaByMOvUcRcmX52wkbEJ8",
+      "name": "Eyüp-Sultan-Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJe12zYTgMvUcRQ9myXK99TLw",
+      "name": "Noor Mosque",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSdAfXucLvUcR2VQZ7ke0DYs",
+      "name": "Valide Sultan Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3ztmRjoKvUcRTKHkpxnI5b8",
+      "name": "Bilal Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGfJlANMLvUcR0W8PdRbivwA",
+      "name": "Islamischer Verein Moschee Tarik ben Ziad e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJkfxAlYMNvUcRZPBMtR90VYU",
+      "name": "Baitul Hamd Moschee (Bangladesch Islamisches Zentrum)",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJp1pMXqSgvUcRB3HWz_foV1c",
+      "name": "DITIB Eyüp Sultan Moschee in Frankfurt-Höchst",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJV_x6HwAJvUcRXkodhcuodD0",
+      "name": "Attassamuh Mosque/TUN e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJOw7lRyYGvUcRES2-BPP4Ioc",
+      "name": "Al Ihssan Moschee / Haus der Wohlfahrt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJtWI7MiIJvUcRHxuu8qzEIG0",
+      "name": "Falah Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSWTRnaEOvUcRxC1ADmo9ajY",
+      "name": "Hamidiye Mosque",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ__b-5bagvUcRpZFQzOK-sI0",
+      "name": "IGMG Ehl-i Sünnet Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5XANfKOgvUcR07o5bXJyEK4",
+      "name": "Bildungs-und Kulturverein Höchst",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJyXAUdkUOvUcR8IgsGxSWPns",
+      "name": "Afghan Islamic Cultural Centre of Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwd9JmTMPvUcRLQx5d9iLHmk",
+      "name": "Omar Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ_0Ww7DYKvUcRo0JkQvoyn_U",
+      "name": "Yunus Emre Mosque",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJp312fd0LvUcRk4pE8-AsBa0",
+      "name": "Islamisch-Bosnisches und Albanisches Kulturzentrum IKZ Frankfurt e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJbZsGh_0LvUcR2Y5rhmoMfWI",
+      "name": "Bosniakisches Kulturzentrum e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJEduKmbwLvUcRx1wrHxaQxhs",
+      "name": "Mevlana Moschee u. Kulturverein e.V..",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJgxlbCfsLvUcRbbiEnLOEzf0",
+      "name": "Taqwa Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ6-hEef0JvUcRS-xxA9RmA1w",
+      "name": "Islamischer Kulturverein As-Salam Moschee Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwWapJeYLvUcREE3E-18z9lU",
+      "name": "Muslim Prayer room مصلى للمسلمين بالطابق الثالث",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ260JFzYKvUcRE3Eme51L42A",
+      "name": "Verein der Hazrat-Fatima-Moschee",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ5SSboicMvUcRWqd8Pyn7mhs",
+      "name": "Indonesisch-moslemische Gemeinde in Frankfurt am Main und Umgebung e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJWxxzBwAMvUcRYWFsrkvmQsk",
+      "name": "Pak Dar Ul-Islam Islamische-Gemeinde e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc4jk_ysMvUcRdKJqXorYUoM",
+      "name": "Pak Muhammadi Masjid",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJhy27ooAHvUcRsjWOJPguW-Y",
+      "name": "Bait-ul-Qayyum",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcb4x0FcJvUcR4oudg72Yq-A",
+      "name": "Islamic Information and Services e.V. (IIS)",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTT0hU0YLvUcRHly8JzMP_NU",
+      "name": "Muslim Prayer room",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJp3TyILugvUcR5J2Xa_Rs99s",
+      "name": "Bosnian Islamic Community of Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJaV5n6KagvUcRHvw-uuzuiT8",
+      "name": "Afghanischer Kulturverein Hessen e.V.",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJQVE9nqagvUcREAf94fIF4jA",
+      "name": "Mevlana Moschee-Türk.Kultur und Bildungsverein e.V. in Frankfurt-Höchst",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJDy95n68PvUcR2-adGAHGawM",
+      "name": "Jamia Masjid Ghausia",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTae9DQB1vUcRvsSdsBKwCzA",
+      "name": "Muslim Prayer Room",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJweUtNAChvUcRKaC-Usy6GOs",
+      "name": "Nasrat Moschee Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJrfDtKFwLvUcRyR38qu8JA_E",
+      "name": "İmam Mehdi Hüseyniye Camii",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJT_BTSAAMvUcRply8nieVFzI",
+      "name": "Mabin e.V. (Main Bildungs- & Integrationsforum)",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZ5ZOEwAPvUcRvoCQw6iIrUE",
+      "name": "Gamaat Bismi Allah",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJWxjxVUQOvUcRBfWp3Kq44NY",
+      "name": "African Muslim Association",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJz7vILwAPvUcRRol3h2LfwT8",
+      "name": "Minhaj Ul Quran Int Frankfurt",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ4RdI5jsKvUcR97s-MYJScT0",
+      "name": "Türk Federasyon Cami Frankfurt Griesheim",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJf9mdSgALvUcRItmESbG5onU",
+      "name": "Union des Musulmans Togolais Rhein Main",
+      "city": "Frankfurt",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJA4S80vmLsUcR96C5FCg7py8",
+      "name": "Association Afghan Muslims Belal e. V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJJUGJeOiOsUcRG5zqma2qo-A",
+      "name": "Hamburg Central Mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJBQOczueOsUcRxwSzqh1k2BI",
+      "name": "Al-Nour Mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJaYsT-PLysUcRuJU1a296Low",
+      "name": "Verband der Islamischen Kulturzentren e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJiWKarhCJsUcRbP4KtlHBBrQ",
+      "name": "Verband der Islamischen Kulturzentren e.V.Selimiye Camii",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJn_LDKQDzsUcRWOqJczRxbSE",
+      "name": "DITIB Moschee Bergedorf",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJyWCebwCNsUcRPU_0fCBOqgs",
+      "name": "Kasri Sultan Dergah e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFz2yfgCPsUcR1065bBodYK8",
+      "name": "Al-Shafii Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJOXWJDwCPsUcRipSCc2FQIKA",
+      "name": "Bangladesh Islamic Center",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJEVEQ9dWOsUcRXk-nTSMrfiA",
+      "name": "Islamic Centre of Hamburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJo9L7R66RsUcRsxXtNcrtVZY",
+      "name": "Islamische Gemeinde in Harburg e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJY5Dw_hqPsUcRbGtkrIRFTXs",
+      "name": "Yeni Ayasofya Camii islamische Gemeinde Wilhelmsburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAQy1wIWFsUcR25-ZD0zRvkY",
+      "name": "Mosque community Altona - Ulu Cami",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGep4-LSPsUcRPalCwn-1ngw",
+      "name": "Masdjid Oummat",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJR1pfSJ-OsUcRJKqtFg1oHPQ",
+      "name": "Landesverband İslamische Religionsgemeinschaft DITIB Hamburg und Schleswig-Holstein e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJgQrMweCOsUcRrSHU5kBdC4Q",
+      "name": "Al Muhajirin Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJV4QfRT-MsUcRhKSUhQey4JE",
+      "name": "Bosnian Islamic Cultural Center Hamburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJu_cXRZWOsUcR4lQ8XHFx62k",
+      "name": "Alazhar Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJbyH9n2WPsUcRtW7fj14qXz4",
+      "name": "Islamische Gemeinde Veddel",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcwkPu6WRsUcRpFjvH7dwDxk",
+      "name": "El-Iman Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsQKSDTWOsUcRfzFGHqIJCFw",
+      "name": "Muradiye-Moschee DITIB Wilhelmsburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJySK62QWPsUcRN2LkEOjPZJg",
+      "name": "Masjid Umm Al-Mu’minin A’ishah",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJiXChx-eOsUcRHMX4i6sOZvU",
+      "name": "Al-Irschâd Moschee Hamburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJx4lwt1qMsUcR3i4k996P3WU",
+      "name": "Masjed Billstdt",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJf4hvUvqMsUcRjSqB4-qOozo",
+      "name": "Kulturelle Bildung und Integration in Billstedt e. V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ6fhGMQDzsUcRrrci_g3y0Qk",
+      "name": "Arifan Moschee Hamburg Bergedorf",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJM6rpZlaMsUcRZ9SlvhERj_A",
+      "name": "Nooralhuda -islamisch-Irakische Gemeinschaft Deutschland e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJH6-kMfeMsUcRS7nYDBM1LL4",
+      "name": "Sultan Ahmet Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2_ay8eiOsUcRBkAtAAWrLfE",
+      "name": "African Muslim Association e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJW5MMz-eOsUcRstL5HbheZGg",
+      "name": "Islamic Center Hamburg - Islami Tehrik e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJlXW0rmGJsUcRlJtEIgeyt2E",
+      "name": "Taha e. V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZ4VnnTWJsUcRqfdJXVDGm4A",
+      "name": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE-52cO-PsUcRYezDO059Q5Y",
+      "name": "Xhamia Mërgimtari - Hamburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJi5uMWh2PsUcRuZg0eVW9ujg",
+      "name": "Al Imam-Malik Moschee Hamburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ9U7pgdWJsUcRc3xwTbUREL8",
+      "name": "Masjid Al-Tawheed - Verein der afghanischen Muslime-Deutschland e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJdc9Ttj-JsUcR-RNfCePBSEk",
+      "name": "Assahaba Mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2wEPjh2HsUcRyhim0kg23EY",
+      "name": "Baitur Rasheed Mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ92iNmjWJsUcRu88nmQRZH3M",
+      "name": "DITIB Ali Pasha Mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ1VGgBQCLsUcRu4YP1LIjaXw",
+      "name": "Islamische Gemeinde Jenfeld e.V - Kuba Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJJQ3uc4qGsUcRTvz8LmUqVmg",
+      "name": "Islamische Gemeinde Eidelstedt e.v.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJT5Vy9Y2JsUcRPIj6gdkjfns",
+      "name": "Steilshoop Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZfe3lqWRsUcR2MO-9FJsuFE",
+      "name": "DITIB-Türkisch Islamische Gem. Zu Hamburg-Harburg e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSXz_b7ORsUcR-AtCAZfI3To",
+      "name": "Harburg Moschee - B.I.B in Harburg e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJb0B7N5-OsUcRbiJycThoWnE",
+      "name": "Hamburg merkez camii",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJdYKIDDWOsUcRI4Rb-KqWfUE",
+      "name": "DITIB-Moschee Wilhelmsburg",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJW6EQuWuPsUcRXfjoZClL73g",
+      "name": "Mevlana Mosque Hamburg (Moschee)",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJNQUeO-OasUcRIN7Y-MjAgMs",
+      "name": "Neugraben Yildiz Camii",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJSVgdIgCRsUcRDFZp4EDOkbA",
+      "name": "Islamische Gemeinde Kirchdorf",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc05jFQCRsUcRdSPBIn-bVVw",
+      "name": "مسجد السلطان أيوب",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJs6msjDKOsUcRrsKC_sCwLQ0",
+      "name": "Saidi Nursi Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm8_UkumasUcRPOyBp0lzYM8",
+      "name": "Масджид Хулафаа Ар-Рашидин مسجد الخلفاء الراشدين",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJMyglE1yDsUcRfU7WCkStZjc",
+      "name": "Küçük İstanbul Camii",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGzVlFwCPsUcRddWiQSBRsT0",
+      "name": "DEHLEVİ e.V",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJm9x6bwCPsUcRIawDz8MZau8",
+      "name": "Yeni Beyazit Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJDXIr7SmPsUcRy9Mhp5pvHTc",
+      "name": "Al Huda mosque",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJrUibvueOsUcRKWK6Vcuk2Vs",
+      "name": "Pak Islami Majlis e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGeO8xueOsUcRF3BhmfYQyms",
+      "name": "Vahdet Islamische Kultur e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAQBwg-WOsUcRcVcBoUmFGiA",
+      "name": "Masjid al Tawba",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJj36n2TuPsUcRBBE7ri4D0Ss",
+      "name": "Interreligiöser Raum der Stille",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJXWw9lueOsUcRt75zYW7UGTU",
+      "name": "Kurdisch-Islamische Gemeinde Hamburg e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJMYzPDQCFsUcR-tlwvuIC9zM",
+      "name": "Aktona Ulu Cami",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwxF-PQCNsUcR-UHeHZ3jq4I",
+      "name": "Rayyan Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJHbH6guiPsUcROUx42YM8hz4",
+      "name": "Albanische Moschee",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJsSLDzMmNsUcRt0_414acQts",
+      "name": "Nooralhuda Gemeinschaft Hamburg e.V",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAUt2DQCPsUcRI27bDuddTpU",
+      "name": "Al-Azhar Moschee Kulturzentrum des Al-Azhar e.V.",
+      "city": "Hamburg",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8xoKhMIvv0cRvHgLy2kh7ko",
+      "name": "Köln Moschee - Majlis Ansarullah",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJY8qKkoElv0cRtiH6riS4Eok",
+      "name": "IGMG Fatih-Moschee Nippes",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJebiyQ38mv0cRZSd7mJVhorM",
+      "name": "Taqiyyu d-Din al-Hilali Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJJWCnV5-FcUERUhrX2fXUHiw",
+      "name": "Cologne Mosque Bait-un-Nasr",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJU_c70sslv0cRvdJhmmXT4yc",
+      "name": "I.K.V Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJl4Hjnq4lv0cRVDYCdW5j-FM",
+      "name": "Zumunta Kulturverein E.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ62jSGFgkv0cR790gMrky99E",
+      "name": "Islamische Gemeinde Köln e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJwYM9xkckv0cRFQAzCh-KGh0",
+      "name": "DITIB Veysel Karani Moschee Köln-Chlodwigplatz",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJh-i7GFgkv0cRPr7dDZAORwM",
+      "name": "Abu Bakr Moschee - مسجد أبوبكر",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJBw_iwacjv0cROxntWJaJXNY",
+      "name": "DITIB El-Aksa Moschee Meschenich",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJW2CIyEonv0cRqlSDZ9kA6Co",
+      "name": "DITIB Köln Porz - Mevlana Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJHc7Emhwmv0cReDiIHyE_II0",
+      "name": "Zentrum für Bildung und Integration in Köln-Mülheim - VIKZ e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8dg8FWcmv0cR4bGP9J-p0xQ",
+      "name": "Moschee Köln-Vingst",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ4fPliQQmv0cRr4kTo5R8GtU",
+      "name": "Ömerül Faruk Moschee - ZKB e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFSRehhguv0cRtzxcEpOoHJI",
+      "name": "DITIB Cologne Chorweiler Mosque",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3UeTw6Yvv0cRZAb60z7rEAw",
+      "name": "Abbes-Alschakeri-Gemeinde e.V. - Moschee/Gebetsraum",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJy5YuJl0pv0cRt-6aiKe2fe4",
+      "name": "Moschee Ikra",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJi-IanHcmv0cRiRH7hmgSQ4A",
+      "name": "IGMG - Kuba Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpYX_rP8nv0cRUGcbT3DAapM",
+      "name": "DITIB - Eyüp-Sultan-Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJlf1qaxwmv0cRbZpW5j01H_U",
+      "name": "Ahl-ul-Bait-Moschee Köln",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc1-1uAYmv0cRHmlclDg6IQ4",
+      "name": "Masjid Hamza Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJuwitVDUlv0cRPfB5Lg22EeE",
+      "name": "Kurdistan Islam Zentrum e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ__-_HBElv0cRHAiuWfs2Pio",
+      "name": "DITIB Center an der Zentralmoschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJexA5XQAnv0cRs8LC40EaaVA",
+      "name": "Moschee Safaa",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-3iCg2gmv0cRg12YoM72eJk",
+      "name": "Al Nur",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJt3bs2Wkmv0cRwlNdBHGl-d8",
+      "name": "Mevlana Camii Moschee und Sittenverein Köln und Umgebung e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTVScPhcnv0cRw0zyGAy8ytY",
+      "name": "Yunus-Emre-Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJlahebnsnv0cRiPCmPBEHEZw",
+      "name": "مسجد التوحيد كولن Al Tauhid Moschee köln",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJh0EXQn8mv0cRNDRpS2Li-HE",
+      "name": "Marokkanische Moschee - مسجد المغربي",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJX023MXklv0cRznTaPkBpxOo",
+      "name": "Moschee Nippes",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJK0jyN4Elv0cR6gnzqSUmp2g",
+      "name": "Aliyyül Murteza Mosque",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJP8hf4UY7v0cRDiehvlz989c",
+      "name": "Bangladeshi Mosque",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTzOGOwAnv0cR1JTrEt9WFJw",
+      "name": "Awaisiah Moschee DPVK",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ99TTP2glv0cRPvT6r051gIc",
+      "name": "Nippes Yeni Camii",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ__8vS6o6v0cRsCTVbKV0zbQ",
+      "name": "Divan Lebens- und Kulturgemeinschaft Köln e.V.",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAZSXcjklv0cRH40k3QxP_nE",
+      "name": "Bosnische Islamische Kulturgemeinschaft Gazi-husrevbeg e.V. Köln",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpYIeSk4kv0cRmKZJIFGGODk",
+      "name": "ATIB Hodscha-Ahmed-Yesevi-Moschee",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJdfyGTXgnv0cRXfoV-FdOuOU",
+      "name": "Bedr verein mascid",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJvSJnOP0lv0cR1GsgQX9oNW4",
+      "name": "Mescid-ül Furkan",
+      "city": "Köln",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJN32byF91nkcRx6u5yTmIC8s",
+      "name": "Afghanische Moschee/Mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFec_6lN1nkcRUlidXpqiamI",
+      "name": "Masjid on 5th floor Oberpollinger",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJrS3fOAbYnUcR0RVEjwgOieQ",
+      "name": "DITIB - Türkische Islamische Gemeinde zu München e.V",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJq6ruCGngnUcRyFvCGIxE938",
+      "name": "Neuperlach Mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJkRI-8xp0nkcRHh737x05es0",
+      "name": "Türkische Moschee Deutsch-Türkischer-Kulturverein e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJr4f3kpfYnUcR_G6cU0IBFOo",
+      "name": "Omar Moschee",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJPV6kxhLfnUcRv6BFDX4mqyE",
+      "name": "VIKZ-Gemeinde München-Giesing",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJpcahnlN1nkcRuzihuPa_5hg",
+      "name": "Oberpollinger Mescid / Moschee",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTXWDPKUKnkcRBmde08EnWkU",
+      "name": "Verein der Zukunft",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJET1ACBjZnUcR2_zQ3Ir_FR4",
+      "name": "Islamische Gemeinschaft Fedzr München",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJdcvN0InfnUcRjUU-UYREs9g",
+      "name": "Mosque Eyüp Sultan MG Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJUTdrxQF2nkcRiwuUkzEb7nc",
+      "name": "Moschee مسجد",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJAWzOM5t2nkcRoWCQPV8J-sE",
+      "name": "DITIB Mehmet Akif Moschee München",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJuxW6ujLfnUcR0-w2zqHM-fc",
+      "name": "Mosque Al-Salam Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxUr7PUzfnUcRd6RwXcs1taY",
+      "name": "Moschee Kosova e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJBToV8zbfnUcRJ3Ws_rdcIes",
+      "name": "DİTİM Merkez Camii Münih",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJbejs8K_fnUcRjbglQ_F4rhs",
+      "name": "Mosque Al-Rahma Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJa0bwK3XgnUcRf4zapo9P6Vo",
+      "name": "DIKZ Deutsch-Islamisches Kulturzentrum und Moschee Neuperlach",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJR8U_RLB2nkcRnkHCBxzd0qE",
+      "name": "Turkish Mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJTSHJyX9znkcRtMjp7yJN_1M",
+      "name": "Islamic Centre of Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-dfc5Ip1nkcRwaWkB6YAd2M",
+      "name": "Islamic Center of Albanians El-Furkan e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJw6OvoGl2nkcRXB7_bEpAWuI",
+      "name": "Islamische Gemeinschaft Tevhid e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJs8LHBPt1nkcRCbW-bjW-eJg",
+      "name": "AIG Moschee – Albanische Islamische Gemeinschaft Balkan e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJja0opNV5nkcRYnKCJZ94804",
+      "name": "Türkische Islamische Gemeinde e.V. zu Allach/München",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+      "name": "Münchner Forum für Islam e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJjw6x3XzYnUcRUrUZzcPnl4c",
+      "name": "Moschee VIKZ München",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJuURmFbB2nkcRoShyUvLgtCk",
+      "name": "Förderverein der VIKZ-Gemeinde in München-Hasenbergl und Umgebung e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcaMiQwB3nkcRtTyyPKgx-KA",
+      "name": "IGMG Ortsverein Moosach e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJHSL2hrB3nkcRvP09npHZMFk",
+      "name": "IGMG Moschee München Moosach",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJM2igPwDfnUcRm0jOpYT57v8",
+      "name": "Imam Malik mosque مسجد الإمام مالك",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ11jBfQDhnUcRjFGtYeJHIJ8",
+      "name": "Silamski centar",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJqfkRPQALnkcRTD2K61Ehmlo",
+      "name": "Gebetsraum Riem Arcaden",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE0FCOAV1nkcRWcmZDrylsiU",
+      "name": "Imam Al Hadi - 14 Rivers Moschee",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJIfakyYYLnkcR0QLO38SChdo",
+      "name": "Verein der Kulturen e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJffch-id0nkcR3qu4PogW49g",
+      "name": "IKRE e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJYZZSl_V1nkcRQK9FtRPOwdA",
+      "name": "Marienplatz Mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJl2bzSiZ0nkcREAGRDzmRB6c",
+      "name": "Mosque Taufik Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+      "name": "Neuaubing Mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJmVRiyFh2nkcRkCoCe8p919I",
+      "name": "Islamisches Kulturzentrum Hidaje e.V. مسجد بوسني",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+      "name": "Turkish mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc1jJxlh2nkcRmvQbKA-DzmY",
+      "name": "Alahibba Mosque Munich",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ_f8J-dV1nkcROls4cnLS2Z8",
+      "name": "Al-Andalus",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJYYANFvV3nkcR4MpDGh6gVlw",
+      "name": "MARKEZ",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE4rULcF2nkcRfqyyCpWz0W0",
+      "name": "Jamia Masjid Sufia Deutsch-Pakistanischer Kulturverein für Bildung und Integration e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJzadrjv_XnUcRbrkDyxWDkzY",
+      "name": "Dzemat SABUR e. V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJq6ravibZnUcRSO-2mibl838",
+      "name": "Afghani mosque",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ-xKXR7B2nkcRLf_29tBTEt4",
+      "name": "HasenberglHEE",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJv5yhYlx3nkcRZwFTL0OlToI",
+      "name": "Moschee Sufi Geylani",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZZIYPaUKnkcRCVDKLaCztC4",
+      "name": "Moschee Al-Muhsinin München",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2ZVFLcF2nkcRwDd5da61Oxg",
+      "name": "Masjid Al-Ummah",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJJ_2GAwB1nkcRWu8k17qTptA",
+      "name": "Balkan e.V.",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJvdBaOdd3nkcRyyx4-aqaMBw",
+      "name": "Togolesische Moschee (ACTIM e.V.)",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJt9jJagB3nkcRIqMiQ0PIxP0",
+      "name": "Bulgarisch-Muslimischer Kultur und Sozialverein e.V Osmanpazarı",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJc5luJ_eRnkcRG1L7A4QXPDo",
+      "name": "Mevlana Camii Moschee",
+      "city": "München",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJuYQW1hzFmUcRf_mm0qctoMA",
+      "name": "Akşemsettin Mosque – Turkish National Cultural Association Stuttgart",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ0wS8e2zEmUcRvNWhGZKyEFY",
+      "name": "Islamische Gemeinschaft Stuttgart e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ8V1dw-jamUcRHc9y2SaREEU",
+      "name": "Annasîhah Moschee Stuttgart",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJO31v1xTFmUcR9Cq1fcqan-0",
+      "name": "Moschee Khalid Bin Al-Walid",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJZ_DBZynpC0ERZmUZ5H_aE_c",
+      "name": "Zuffenhause Mosqu, Мечеть,Мечит.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ2SUdy-jamUcRpnvhIG1HRVQ",
+      "name": "Islamic Center for Albanians e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ23tZYhfFmUcResTm4j4mtOQ",
+      "name": "Islamic Centre of Stuttgart(الجامع العربي)",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ3YBpBMDamUcRaC_6eAJ8BqU",
+      "name": "Stuttgart Central Mosque",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+      "name": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJO8k50vDEmUcRHeT5BN_AiDM",
+      "name": "Kuba Mosque – IGMG",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+      "name": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJyf4XgETFmUcRPwBVRwqX6u0",
+      "name": "Turkish Mosque",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE2wFlwHdmUcRNVducBRQSjA",
+      "name": "Mescidi Aksa Camii",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJHyRHt5_cmUcRZI6kMpFBJjA",
+      "name": "Islamic Community for Kosovo-Albanians",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJRQMoCE7bmUcRcLklv0nj5EY",
+      "name": "Al-Umma-Moschee",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxXuu4CDmC0ERBiGwqalYn50",
+      "name": "Landesverband der Islamischen Kulturzentren Baden-Württemberg e. V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJNdf3e2zEmUcR3DP0SOxhfGA",
+      "name": "IGS e.V. TV",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJeXoeRVfcmUcRfuSiZOYm78M",
+      "name": "Vaihingen Masjid",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ_eGkEz3FmUcR1ZEBBrLqh5A",
+      "name": "Pakistan Welfare Society Stuttgart e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJ93zrP1vFmUcRFMAT6iP2Pmw",
+      "name": "Madina Pakistani Masjid",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJLyRcj_bFmUcR0M4seTNxQ-8",
+      "name": "Kasri Arifan Dergahı Stuttgart",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJGx6V9xXbmUcR9hxjZJzBpqM",
+      "name": "Afghanischer Kulturverein e.V. - Bilal Moschee",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJUfZ9MvTbmUcRNMEuZsYsB7w",
+      "name": "Kulturgemeinschaft der Kosovo Bosniaken",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJb5XFxOjamUcRia1zLjYunRw",
+      "name": "Verein für Kultur und Bildung Stuttgart e.V",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJx_D2svnbmUcR_riroKdcles",
+      "name": "Annur Moschee – IQRA e.V",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJxY3xOgDbmUcRAX9yIy912zc",
+      "name": "Tunesischer Kultur und Dialogverein e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJkSMsEDrFmUcRVVjF8vX8Ugs",
+      "name": "Khorasan Kulturverein e.V.",
+      "city": "Stuttgart",
+      "changeType": "UNCHANGED",
+      "severity": "NO_CHANGE",
+      "reviewRequired": false
+    },
+    {
+      "id": "ChIJE3QeUwopsUcRiX3YAqsLR9s",
+      "name": "DITIB Mevlana-Moschee Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJWblWqUMosUcRCHSS4Iw3U6M",
+      "name": "DITIB Mescidi Aksa",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJw-vYTUbTtkcRTwiRJpqhPHg",
+      "name": "DITIB Selimiye Moschee Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJdYyL83ApsUcRCZrM_Z5_yKE",
+      "name": "Islamisches Zentrum Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJw7asRQApsUcRsBsPP3tcGKA",
+      "name": "Islamisches Kulturzentrum Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJS2vuwPfXsEcRR8KO-d9ebDI",
+      "name": "Bilal-Habashi-Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJOdZoQUgosUcRARq0BYDrTEY",
+      "name": "Said'i Kurdi Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJH29GPnUpsUcRbeP8sn2VPvk",
+      "name": "Gemeinde Bosnischer Moslems-Bremen e.V.",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJw-vYTUbTtkcRFJBc1Ca2sH8",
+      "name": "DITIB Eyüp Sultan Bahce Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJlaLLdpfTtkcRy0C9Fvx33tw",
+      "name": "Türkisch Islamische Kultur Union e.V.",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ-zcHPhYssUcRnXfWyyRMt0g",
+      "name": "ATIB Bremen - Yunus-Emre-Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJbZ23ERQosUcRzYGZEUUe44s",
+      "name": "Al-Fadîlah Moschee Bremen مسجد الفضيلة",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJLwI4eY0tsUcRwE6YF8H2ruo",
+      "name": "Ausländer Treff",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJT6B2w4HYsEcRSPcN2nzPMj0",
+      "name": "IGMG Quba Moschee Hemelingen / Kuba Camii",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJv3nwMgspsUcRPUhnImXONK8",
+      "name": "Fatih Mosque Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJB5vM2PLXsEcRTzeXCPuxPfM",
+      "name": "Bangladesch Islamisches Zentrum",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJYZi4620psUcRzyjWI1J5HKA",
+      "name": "Albanische Islamische Gemeinde",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJV61dx1YnsUcR_nZqwiYSvN4",
+      "name": "Verband der Islamischen Kulturzentren",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ5c6ncq4gsUcREsJn96PcV2s",
+      "name": "IGMG Moschee Mescid-i Aksa Tenever",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJNxADUXHTtkcRdKrnnBC-KWM",
+      "name": "IGMG Bremen Blumenthal",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJt30YfAwpsUcR3TxLwqPgbgQ",
+      "name": "SCHURA - Islamische Religionsgemeinschaft Bremen e.V.",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJzXVw8_spsUcR4x7Nw11VTeo",
+      "name": "Medina Masjid - Pak A.L.E.M (e.V) Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ5QooZpgnsUcR-T4sLOnICQ8",
+      "name": "Islamische Föderation Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJE5yqdi8psUcRGS9sVQX-ee8",
+      "name": "BIKZ Bremen e. V. - Walle Moschee (Camii)",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJWT_1LgDfsEcRhdc90EgkmLE",
+      "name": "IGBD - Gemeinde Bremen - Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJdfE_g7YgsUcRfvb4Z_HBbac",
+      "name": "ATIB Zentralmoschee Bremen",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+      "name": "Bangladesch Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJL0lleyMosUcRRuL7qBuyaWE",
+      "name": "Daawa Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJt3dCktfXsEcRvPEvkv-BAfg",
+      "name": "Abu Bakr Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJE384GfsnsUcR-JiLsM5X0JA",
+      "name": "Sulaimaniya-Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJEVABzYQpsUcRyyuv2UBcLn4",
+      "name": "Bremer Ebrar Verein",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ8fl9FwDZsEcRnen9r9CT1ds",
+      "name": "Hicret Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJtbk-fqQpsUcRmu4ZB85YcQw",
+      "name": "Masjid Ar-Rahma Moschee",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ0YH-ggjXsEcRUIRcKdAvm4E",
+      "name": "Masjid Al Sunnah Bremen مسجد السنة بريمن",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJxUUsY_rXsEcRnBOqoxAzH5I",
+      "name": "Gebetsraum - Muslim Prayer Room",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJi9e3OVoosUcRJ4UuuDAcELw",
+      "name": "Масджид Ахлулбейт",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJEZYdH9PXsEcREjCw7Cr9KkA",
+      "name": "Masjid sunnah Bremen مسجد السنه بريمن",
+      "city": "Bremen",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJzf_1ULDXuEcRF5jTze4voWs",
+      "name": "DITIB Zentralmoschee Wuppertal",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJCQqnKNjXuEcRgXthIj6I1to",
+      "name": "Wuppertal Central Mosque",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJvdMLUgDXuEcRzbGOT9FzFbI",
+      "name": "Haus des Friedens",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJMepGT2kouUcRW-X3hdLKBAg",
+      "name": "Islamisches Zentrum Ar-Raschad",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJgzuyjXAouUcRkzgsS0Ssxeo",
+      "name": "IGMG - Wuppertal-Oberbarmen e.V.",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJxYF2n_nWuEcRQhY0h60aFq0",
+      "name": "Wuppertaler Integrations - und Bildunsgverein",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ94WUT7DXuEcRugaFc5o4d7Q",
+      "name": "DITIB Türkisch Islamische Kultur Verein e.V.",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJt4xA31O4cUERw61UnJB9T_w",
+      "name": "WUPPERTAL DİTİB BARMEN FATIH CAMii",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJqYwgWSLXuEcRomB6zUwUWps",
+      "name": "IGMG Yunus Emre Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJke8Z42wouUcRO4vqPV5mOmc",
+      "name": "Kültür ve eğitim merkezi Wuppertal",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJJcKhTwDXuEcRt7KYb48ECX0",
+      "name": "Taten Werk e.V. - Wuppertal",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJDxv-nLHXuEcRn1ThPzkIeGw",
+      "name": "Alshame Moschee المسجد الشامي",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJxy2cDLDXuEcR0FaVgtydjow",
+      "name": "Center of WuppertalTürkiye de tip Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJYyB2Ne_XuEcRmqklyktrwWs",
+      "name": "Kurdische Moschee Ehmedê Xanê",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJpRgSIrrXuEcRIbPM7vyrTv0",
+      "name": "Ar'Rahma Moschee - مسجد الرحمة",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJuUR972kouUcRqsQX_I7VaL0",
+      "name": "Al-Mutasaddiqūn-Moschee/مزگەوتی خێرخوازان, Trägerverein: Kurdischer Kulturverein e.V.",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJOdm1KrnXuEcRbAVyUM0JeNk",
+      "name": "مسجد التوحيد",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ9cbY1PEpuUcRiScAthbS7uM",
+      "name": "Al taqwa Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ1QRyq1QpuUcRLreXxZVVWCw",
+      "name": "Alabrar Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJYXzmawDXuEcR_S14jTBl0Pc",
+      "name": "Dzemat Wuppertal Dzamija",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJR8gr-t7XuEcRe540v7Ye994",
+      "name": "Abu Bakr Alsedek Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJnfSXbmnRuEcRhTrvN2UV8TQ",
+      "name": "Al-Nur Moschee مسجد النور",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJa6GDc7DXuEcRxoUz1cC6WPk",
+      "name": "Othman Moschee",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJWQOCxXMouUcRzcbakbuhLd4",
+      "name": "مسجد السلام",
+      "city": "Wuppertal",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJuwEBhsPhvkcRDCqyxDysJHo",
+      "name": "Al-Muhajirin Mosque Bonn e.V.",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJjTfOhfjhvkcRD9kECfyajbE",
+      "name": "Moschee Haus der Integration",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJM4JJfOfhvkcRiBeSu674jGI",
+      "name": "مسجد السُّنة",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJP2UM18nhvkcRgpe2QzqpsR4",
+      "name": "Bonn Süleymaniye Mosque",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJmS7KdBvlvkcREjXChJMD2AU",
+      "name": "Salam Förderverein e.V.",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ-533FADjvkcRbwDi5QmbjqA",
+      "name": "مسجد الانصار الجديد",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJE2mlN6bhvkcRPVvHkIJ_ppM",
+      "name": "Deutsch Bosniakisches Kulturzentrum Hajr e. V.",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ_w-Yy4nhvkcR8_Kw6Qwt0LQ",
+      "name": "مسجد المدينة Medina Moschee",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJWf1pTjnhvkcRtP2Bo3rtmkM",
+      "name": "مسجد المحسنين",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJkUIPaKPhvkcRDYOX7L9N9LM",
+      "name": "Bonner Moscheengemeinschaft e.V.",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJi7lMhLPjvkcRPnozYvFIcwQ",
+      "name": "Al Ansar Moshee Bonn - مسجد الأنصار بو",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJoVbKqL3hvkcRj7lIFfiV_7k",
+      "name": "Bonn Central Mosque",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ9x65OmnkvkcRjtLltZy3iEw",
+      "name": "Fatih-Moschee",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJI4XWWmfkvkcRFpYxecIsK3Y",
+      "name": "Haus der Generationen e.V.",
+      "city": "Bonn",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJYx8sehFXn0cRpbRvKpnVLLQ",
+      "name": "DITIB Nuremberg Central Mosque",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJK850Sf5Wn0cR-LU5uQoF_j8",
+      "name": "Islamic Center of Nuremberg",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJWQi7qXlXn0cRhccU6_t04Bc",
+      "name": "Bosnian Islamic Centre",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJGRkjdxdXn0cRVg0xZt9d_3o",
+      "name": "AIKF e.V. Al Rahama Moschee",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ4c0yrONWn0cRMAxgZZptc8o",
+      "name": "Nuremberg Mosque",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJVU-WfwZXn0cRjo_C64Z7rgQ",
+      "name": "Al Madinah Darussalam",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ-0gi4g5Xn0cRT71CsvrRRX8",
+      "name": "Bait-ur-Rahman Mosque",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJF1LGQH5Xn0cRwjPB-1sdw-g",
+      "name": "Pakistani - Huzaifa Masjid",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ_bxKGNhXn0cR-5baSqHm7js",
+      "name": "IHSAN Moschee Nürnberg",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJq88PJwBXn0cR_z5i0NAMz7k",
+      "name": "Sahaba Mosque مسجد الصحابة",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJaxJTtfZXn0cRyKWqYJuSpfA",
+      "name": "مركز و حسينية الزهراء (ع) نورنبيرغ المانيا Zahraa Kulturzentrum Nürnberg",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJgf1wbVBXn0cRIwLKq9SiaQA",
+      "name": "DITIB-Türkisch Islamische Gemeinde zu Nürnberg-Plärrer e.V. Aksa Camii",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ38WoSwdXn0cRdddbPAWrw4c",
+      "name": "Albanische Islamische Gemeinschaft Bashkimi",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJwzbRnwRXn0cRI9l70Yj1sis",
+      "name": "Nürnberg Türk Ocağı",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJDzMIb9ZXn0cRrKc23uX_UcA",
+      "name": "مسجد ايوب السلطان مركزاسلامي نورنبيرغ",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJFzd01wBZn0cRSsO-y2NgKnY",
+      "name": "Ehlibeyt Mescidi",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJjbrZiqtXn0cRhqAXUJwics4",
+      "name": "Hagia-Sophia-Moschee - B.I.N. e.V.",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJkbrSbgBXn0cRgf_WxVNBNfI",
+      "name": "مسجد نورمبورغ",
+      "city": "Nürnberg",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJK2clbxv4pkcRKerKRAyClBE",
+      "name": "Al Rahman Mosque",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJ-RAaZpj3pkcR9L8C7CeZMTg",
+      "name": "DITIB-Türkisch islamische Gemeinde zu Leipzig e.V.",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJQWDVKAD5pkcRZzJGnIIiy1Q",
+      "name": "Takva Moschee Camii Mosque",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJg-k4qbf3pkcRx2lIGrG4AVY",
+      "name": "Bosnische Moschee",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJbRG_WAD5pkcRk--vPdppaks",
+      "name": "Imambaragah Leipzig Shia Community",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    },
+    {
+      "id": "ChIJDQRQBQBXpkcR1c2nM4COdHk",
+      "name": "Bilal Moschee",
+      "city": "Leipzig",
+      "changeType": "ADDED",
+      "severity": "SIGNIFICANT_CHANGE",
+      "reviewRequired": true
+    }
+  ]
+}

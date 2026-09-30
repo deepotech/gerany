@@ -1,0 +1,51 @@
+{
+  "name": "germany-mosque-finder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "pipeline": "ts-node --project tsconfig.scripts.json scripts/run-pipeline.ts",
+    "prisma:generate": "prisma generate",
+    "data:audit": "tsx scripts/data-audit.ts",
+    "data:duplicates": "tsx scripts/data-duplicates.ts",
+    "data:diff": "tsx scripts/data-diff.ts",
+    "data:import": "tsx scripts/run-pipeline.ts",
+    "data:pilot": "tsx scripts/run-pilot.ts",
+    "city:status": "tsx scripts/city-status.ts",
+    "city:promote": "tsx scripts/city-promote.ts",
+    "phase5a:baseline": "tsx scripts/phase5a-baseline.ts",
+    "phase6:baseline": "tsx scripts/phase6-baseline.ts",
+    "phase6:operations": "tsx scripts/phase6-generate-operations.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "clsx": "^2.1.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "next": "^14.2.24",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.14",
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.24",
+    "postcss": "^8.4.49",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^3.4.16",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  }
+}

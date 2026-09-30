@@ -1,0 +1,1686 @@
+{
+  "timestamp": "2026-09-30T11:08:48.050Z",
+  "totalRecordsEvaluated": 594,
+  "uniqueEntitiesCount": 594,
+  "duplicateCandidatesCount": 93,
+  "candidates": [
+    {
+      "primaryId": "ChIJNXy3X05PqEcR3-kG-g7Iwj8",
+      "primaryName": "Interkulturelle Gemeinde Berlin e.V. (IGB)",
+      "duplicateId": "ChIJ8Q3qK6pPqEcRV1ICgp5FvxQ",
+      "duplicateName": "Al-Badr Moschee مسجد البدر",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 0,
+      "address": "Juliusstraße 58, 12051 Berlin, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJlddWdgBRqEcRpk7WCsi4QW4",
+      "primaryName": "مسجد الزيتونة",
+      "duplicateId": "ChIJ37rYLSpRqEcRSM420rZ-QW4",
+      "duplicateName": "Zeituna Mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 13,
+      "address": "Sophie-Charlotten-Straße 31–32, 14059 Berlin, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 13,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 13m"
+      }
+    },
+    {
+      "primaryId": "ChIJ44MmtpxPqEcRVBf4-gHKneg",
+      "primaryName": "Furkan Zentrum Moschee",
+      "duplicateId": "ChIJP1EhIMJPqEcRWczYOqjYbhw",
+      "duplicateName": "مسجد الفرقان",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 9,
+      "address": "Glasower Str. 41, 12051 Berlin, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 9,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 9m"
+      }
+    },
+    {
+      "primaryId": "ChIJPVluYjVOqEcRZ1IzmSCONbk",
+      "primaryName": "Omar Mosche - مسجد عُمر",
+      "duplicateId": "ChIJ_fufOQBPqEcR21BURrUkSus",
+      "duplicateName": "مسجد",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 13,
+      "address": "Wiener Str. 5, 10999 Berlin, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 13,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 13m"
+      }
+    },
+    {
+      "primaryId": "ChIJeWHFMpxOqEcRSU6oTju9JGs",
+      "primaryName": "Pakistanische Moschee",
+      "duplicateId": "ChIJnz5Hxz9OqEcRl5stajy-Vbw",
+      "duplicateName": "Berliner PAK Kulturverein e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 11,
+      "address": "Am Wasserwerk 18, 10365 Berlin, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 11,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 11m"
+      }
+    },
+    {
+      "primaryId": "ChIJDfcsxvgZuUcRgyy_c_OYId8",
+      "primaryName": "مسجد ابو بكر",
+      "duplicateId": "ChIJ4RsBuPgZuUcRjC7Qoj96zmI",
+      "duplicateName": "Islamischer Bund Dortmund e.V",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 20,
+      "address": "Carl-Holtschneider-Straße 8A, 44145 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.35,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": true,
+        "distanceMeters": 20,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: exact, Distance: 20m"
+      }
+    },
+    {
+      "primaryId": "ChIJU_mHDAAbuUcRriotNIIGXGM",
+      "primaryName": "Alsahaba Moschee مسجد الصحابة",
+      "duplicateId": "ChIJ7yZg6iEZuUcRJ-dai9t0-Rk",
+      "duplicateName": "Assahabah Mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 15,
+      "address": "Evinger Str. 176, 44339 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 15,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 15m"
+      }
+    },
+    {
+      "primaryId": "ChIJjy2I_KYQuUcRx9CLiDbjvC0",
+      "primaryName": "Islamisches Zentrum",
+      "duplicateId": "ChIJ12i3_aYQuUcRDRKw9jP9WBQ",
+      "duplicateName": "Ulu Cami",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 11,
+      "address": "Gründlingsweg 1, 44339 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 11,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 11m"
+      }
+    },
+    {
+      "primaryId": "ChIJvXAmd_oZuUcROUFEvqStu2E",
+      "primaryName": "Al-Fath Moschee ( Camii.)",
+      "duplicateId": "ChIJ8_BPDfoZuUcRJQDEfJrZoC0",
+      "duplicateName": "El Medine e. V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 48,
+      "address": "Uhlandstraße 54, 44147 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 48,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 48m"
+      }
+    },
+    {
+      "primaryId": "ChIJy_EZW1AXuUcR09YdfdB4Zzw",
+      "primaryName": "Islamic Cultural Association Takwa",
+      "duplicateId": "ChIJHVAIjngXuUcR4mkXZZ6etS0",
+      "duplicateName": "Tadschikische Gesellschaft NUR e. V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 4,
+      "address": "Oesterholzstraße 8, 44145 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 4,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 4m"
+      }
+    },
+    {
+      "primaryId": "ChIJM-Aa0lMXuUcRe0dyJNZZ-ok",
+      "primaryName": "Albanischer Islamischer Kultuverein Furkan",
+      "duplicateId": "ChIJM-Aa0lMXuUcRpvUCv66K2Fw",
+      "duplicateName": "Furkan-Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 1,
+      "address": "Dreherstraße 21, 44145 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.17,
+      "evidence": {
+        "nameSimilarity": 0.14,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 1,
+        "explanation": "Name similarity: low (0.14), Address match: differ, Phone match: none, Distance: 1m"
+      }
+    },
+    {
+      "primaryId": "ChIJCaNLrlUXuUcRmCIsrOHoDXg",
+      "primaryName": "Dortmund Merkez Câmii",
+      "duplicateId": "ChIJ-Xd2fgAZuUcR695KCbkLGes",
+      "duplicateName": "جامع",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 3,
+      "address": "Kielstraße 16, 44145 Dortmund, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 3,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 3m"
+      }
+    },
+    {
+      "primaryId": "ChIJCXlkWTfKuEcROMMraLCqjOY",
+      "primaryName": "MASJID OMAR",
+      "duplicateId": "ChIJ1ZuBWTfKuEcRCIMTsR64J9A",
+      "duplicateName": "Moroccan Islamic Cultural Center of Dusseldorf",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 5,
+      "address": "Adersstraße 91-93, 40215 Düsseldorf, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.35,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": true,
+        "distanceMeters": 5,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: exact, Distance: 5m"
+      }
+    },
+    {
+      "primaryId": "ChIJg7P8LgDLuEcR3XAyjDmBrjQ",
+      "primaryName": "Islamisches Zentrum Düsseldorf",
+      "duplicateId": "ChIJs2_bVADLuEcR6JDTUNvZJh8",
+      "duplicateName": "Bayan Kulturzentrum (BKZ) e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 14,
+      "address": "Im Liefeld 51, 40227 Düsseldorf, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 14,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 14m"
+      }
+    },
+    {
+      "primaryId": "ChIJUaAjF3S2uEcRHmPVFZ431Ws",
+      "primaryName": "Dusseldorf Central Mosque",
+      "duplicateId": "ChIJ3WKWnWS3uEcRGTCj2YPZ4TA",
+      "duplicateName": "Moschee Mosque Beyazit Camii",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 20,
+      "address": "Hansaallee 376, 40547 Düsseldorf, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 20,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 20m"
+      }
+    },
+    {
+      "primaryId": "ChIJMcEXtm_LuEcRVisN7XbQpAY",
+      "primaryName": "Масджид Ал-Уадуд",
+      "duplicateId": "ChIJaSrCRxrLuEcRrgWMvzDFm08",
+      "duplicateName": "Fatima Al-Bakour-Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 22,
+      "address": "Kölner Landstraße 405, 40589 Düsseldorf, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 22,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 22m"
+      }
+    },
+    {
+      "primaryId": "ChIJQXDUW8HLuEcROysb6GyV-Iw",
+      "primaryName": "Transparente Moschee (مسجد المصطفى)",
+      "duplicateId": "ChIJ1W8N0DLLuEcR4hKVADfihcw",
+      "duplicateName": "Дуселдорф два намаза джумъа",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 26,
+      "address": "Klosterstraße 114, 40211 Düsseldorf, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 26,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 26m"
+      }
+    },
+    {
+      "primaryId": "ChIJxxdvEWDCuEcR2B-IB4BtORA",
+      "primaryName": "DITIB Central Mosque Essen",
+      "duplicateId": "ChIJWQjDGGDCuEcRnjaLL-oqmCc",
+      "duplicateName": "DITIB-Landesverband Nordrhein-Westfalen, Regionalverband Essen e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 31,
+      "address": "In d. Hagenbeck 41, 45143 Essen (Stadtbezirke III), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.35,
+      "evidence": {
+        "nameSimilarity": 0.29,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 31,
+        "explanation": "Name similarity: low (0.29), Address match: exact, Phone match: none, Distance: 31m"
+      }
+    },
+    {
+      "primaryId": "ChIJEbT_k3LouEcRBmtwWJJDGLs",
+      "primaryName": "Islamisches Kulturzentrum Essen",
+      "duplicateId": "ChIJEbT_k3LouEcRIZPUMEPiK-w",
+      "duplicateName": "IGBD - Gemeinde Essen e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Rahmstraße 253, 45326 Essen (Stadtbezirke V), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.35,
+      "evidence": {
+        "nameSimilarity": 0.2,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0.2), Address match: exact, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJ5ch7Hp8IvUcRS8sOHD20Yy8",
+      "primaryName": "DITIB - Türkisch Islamische Gemeinde zu Frankfurt-Bonames e.V.",
+      "duplicateId": "ChIJcbHQewAJvUcRcP9Q5Z2uf6w",
+      "duplicateName": "Hazreti Ali Camii",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 9,
+      "address": "Ben-Gurion-Ring 110A, 60437 Frankfurt, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 9,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 9m"
+      }
+    },
+    {
+      "primaryId": "ChIJkfxAlYMNvUcRZPBMtR90VYU",
+      "primaryName": "Baitul Hamd Moschee (Bangladesch Islamisches Zentrum)",
+      "duplicateId": "ChIJWxxzBwAMvUcRYWFsrkvmQsk",
+      "duplicateName": "Pak Dar Ul-Islam Islamische-Gemeinde e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 36,
+      "address": "Münchener Str. 55, 60329 Frankfurt, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.2,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 36,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 36m"
+      }
+    },
+    {
+      "primaryId": "ChIJyXAUdkUOvUcR8IgsGxSWPns",
+      "primaryName": "Afghan Islamic Cultural Centre of Frankfurt",
+      "duplicateId": "ChIJcb4x0FcJvUcR4oudg72Yq-A",
+      "duplicateName": "Islamic Information and Services e.V. (IIS)",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Wächtersbacher Str. 95, 60386 Frankfurt (Ost), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.3,
+      "evidence": {
+        "nameSimilarity": 0.1,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0.1), Address match: exact, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJAUdaByMOvUcRcmX52wkbEJ8",
+      "primaryName": "Eyüp-Sultan-Moschee",
+      "duplicateId": "ChIJF7sNYJ0PvUcR1rPmHa9tXXs",
+      "duplicateName": "Джамия",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Mittelseestraße 16-28, 60386 Frankfurt (Ost), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJp3TyILugvUcR5J2Xa_Rs99s",
+      "primaryName": "Bosnian Islamic Community of Frankfurt",
+      "duplicateId": "ChIJweUtNAChvUcRKaC-Usy6GOs",
+      "duplicateName": "Nasrat Moschee Frankfurt",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 4,
+      "address": "Höchster Bahnstraße 2a, 65929 Frankfurt, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.34,
+      "evidence": {
+        "nameSimilarity": 0.17,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 4,
+        "explanation": "Name similarity: low (0.17), Address match: exact, Phone match: none, Distance: 4m"
+      }
+    },
+    {
+      "primaryId": "ChIJmYBDfaoOvUcRNj7kTrH2bew",
+      "primaryName": "DITIB Zentralmoschee Frankfurt",
+      "duplicateId": "ChIJJ6GCBgAPvUcR_aojSp6e0mY",
+      "duplicateName": "MOSQUE -FRANKFURT",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 3,
+      "address": "Münchener Str. 21, 60329 Frankfurt, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.4,
+      "evidence": {
+        "nameSimilarity": 0.3,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 3,
+        "explanation": "Name similarity: low (0.3), Address match: exact, Phone match: none, Distance: 3m"
+      }
+    },
+    {
+      "primaryId": "ChIJGep4-LSPsUcRPalCwn-1ngw",
+      "primaryName": "Masdjid Oummat",
+      "duplicateId": "ChIJu_cXRZWOsUcR4lQ8XHFx62k",
+      "duplicateName": "Alazhar Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Anckelmannstraße 31, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJGep4-LSPsUcRPalCwn-1ngw",
+      "primaryName": "Masdjid Oummat",
+      "duplicateId": "ChIJi5uMWh2PsUcRuZg0eVW9ujg",
+      "duplicateName": "Al Imam-Malik Moschee Hamburg",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Borgfelder Str. 34/4 Etage, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJu_cXRZWOsUcR4lQ8XHFx62k",
+      "primaryName": "Alazhar Moschee",
+      "duplicateId": "ChIJi5uMWh2PsUcRuZg0eVW9ujg",
+      "duplicateName": "Al Imam-Malik Moschee Hamburg",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Borgfelder Str. 34/4 Etage, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJZ4VnnTWJsUcRqfdJXVDGm4A",
+      "primaryName": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+      "duplicateId": "ChIJ92iNmjWJsUcRu88nmQRZH3M",
+      "duplicateName": "DITIB Ali Pasha Mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Hamburger Str. 199, 22083 Hamburg (Nord), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJR1pfSJ-OsUcRJKqtFg1oHPQ",
+      "primaryName": "Landesverband İslamische Religionsgemeinschaft DITIB Hamburg und Schleswig-Holstein e.V.",
+      "duplicateId": "ChIJb0B7N5-OsUcRbiJycThoWnE",
+      "duplicateName": "Hamburg merkez camii",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Borstelmannsweg 68, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.3,
+      "evidence": {
+        "nameSimilarity": 0.1,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0.1), Address match: exact, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJsQKSDTWOsUcRfzFGHqIJCFw",
+      "primaryName": "Muradiye-Moschee DITIB Wilhelmsburg",
+      "duplicateId": "ChIJdYKIDDWOsUcRI4Rb-KqWfUE",
+      "duplicateName": "DITIB-Moschee Wilhelmsburg",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 36,
+      "address": "Eckermannstraße 3, 21107 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.39,
+      "evidence": {
+        "nameSimilarity": 0.67,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 36,
+        "explanation": "Name similarity: moderate (0.67), Address match: differ, Phone match: none, Distance: 36m"
+      }
+    },
+    {
+      "primaryId": "ChIJo9L7R66RsUcRsxXtNcrtVZY",
+      "primaryName": "Islamische Gemeinde in Harburg e.V.",
+      "duplicateId": "ChIJc05jFQCRsUcRdSPBIn-bVVw",
+      "duplicateName": "مسجد السلطان أيوب",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 5,
+      "address": "Knoopstraße 4, 21073 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 5,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 5m"
+      }
+    },
+    {
+      "primaryId": "ChIJW5MMz-eOsUcRstL5HbheZGg",
+      "primaryName": "Islamic Center Hamburg - Islami Tehrik e.V.",
+      "duplicateId": "ChIJDXIr7SmPsUcRy9Mhp5pvHTc",
+      "duplicateName": "Al Huda mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 47,
+      "address": "Steindamm 62, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 47,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 47m"
+      }
+    },
+    {
+      "primaryId": "ChIJrUibvueOsUcRKWK6Vcuk2Vs",
+      "primaryName": "Pak Islami Majlis e.V.",
+      "duplicateId": "ChIJGeO8xueOsUcRF3BhmfYQyms",
+      "duplicateName": "Vahdet Islamische Kultur e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 30,
+      "address": "Steindamm 47, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 30,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 30m"
+      }
+    },
+    {
+      "primaryId": "ChIJrUibvueOsUcRKWK6Vcuk2Vs",
+      "primaryName": "Pak Islami Majlis e.V.",
+      "duplicateId": "ChIJXWw9lueOsUcRt75zYW7UGTU",
+      "duplicateName": "Kurdisch-Islamische Gemeinde Hamburg e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 10,
+      "address": "Brennerstraße 12, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 10,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 10m"
+      }
+    },
+    {
+      "primaryId": "ChIJGeO8xueOsUcRF3BhmfYQyms",
+      "primaryName": "Vahdet Islamische Kultur e.V.",
+      "duplicateId": "ChIJXWw9lueOsUcRt75zYW7UGTU",
+      "duplicateName": "Kurdisch-Islamische Gemeinde Hamburg e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 26,
+      "address": "Brennerstraße 12, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.14,
+      "evidence": {
+        "nameSimilarity": 0.17,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 26,
+        "explanation": "Name similarity: low (0.17), Address match: differ, Phone match: none, Distance: 26m"
+      }
+    },
+    {
+      "primaryId": "ChIJAQy1wIWFsUcR25-ZD0zRvkY",
+      "primaryName": "Mosque community Altona - Ulu Cami",
+      "duplicateId": "ChIJMYzPDQCFsUcR-tlwvuIC9zM",
+      "duplicateName": "Aktona Ulu Cami",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Bahrenfelder Str. 92, 22765 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.45,
+      "evidence": {
+        "nameSimilarity": 0.4,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0.4), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJW5MMz-eOsUcRstL5HbheZGg",
+      "primaryName": "Islamic Center Hamburg - Islami Tehrik e.V.",
+      "duplicateId": "ChIJHbH6guiPsUcROUx42YM8hz4",
+      "duplicateName": "Albanische Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 17,
+      "address": "Kleiner Pulverteich 17, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 17,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 17m"
+      }
+    },
+    {
+      "primaryId": "ChIJDXIr7SmPsUcRy9Mhp5pvHTc",
+      "primaryName": "Al Huda mosque",
+      "duplicateId": "ChIJHbH6guiPsUcROUx42YM8hz4",
+      "duplicateName": "Albanische Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 46,
+      "address": "Kleiner Pulverteich 17, 20099 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 46,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 46m"
+      }
+    },
+    {
+      "primaryId": "ChIJM6rpZlaMsUcRZ9SlvhERj_A",
+      "primaryName": "Nooralhuda -islamisch-Irakische Gemeinschaft Deutschland e.V.",
+      "duplicateId": "ChIJsSLDzMmNsUcRt0_414acQts",
+      "duplicateName": "Nooralhuda Gemeinschaft Hamburg e.V",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 48,
+      "address": "Billbrookdeich 265, 22113 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0.4,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 48,
+        "explanation": "Name similarity: low (0.4), Address match: differ, Phone match: none, Distance: 48m"
+      }
+    },
+    {
+      "primaryId": "ChIJGep4-LSPsUcRPalCwn-1ngw",
+      "primaryName": "Masdjid Oummat",
+      "duplicateId": "ChIJAUt2DQCPsUcRI27bDuddTpU",
+      "duplicateName": "Al-Azhar Moschee Kulturzentrum des Al-Azhar e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Borgfelder Str. 34, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJu_cXRZWOsUcR4lQ8XHFx62k",
+      "primaryName": "Alazhar Moschee",
+      "duplicateId": "ChIJAUt2DQCPsUcRI27bDuddTpU",
+      "duplicateName": "Al-Azhar Moschee Kulturzentrum des Al-Azhar e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Borgfelder Str. 34, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJi5uMWh2PsUcRuZg0eVW9ujg",
+      "primaryName": "Al Imam-Malik Moschee Hamburg",
+      "duplicateId": "ChIJAUt2DQCPsUcRI27bDuddTpU",
+      "duplicateName": "Al-Azhar Moschee Kulturzentrum des Al-Azhar e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Borgfelder Str. 34, 20537 Hamburg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.17,
+      "evidence": {
+        "nameSimilarity": 0.14,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0.14), Address match: differ, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJ8xoKhMIvv0cRvHgLy2kh7ko",
+      "primaryName": "Köln Moschee - Majlis Ansarullah",
+      "duplicateId": "ChIJJWCnV5-FcUERUhrX2fXUHiw",
+      "duplicateName": "Cologne Mosque Bait-un-Nasr",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 21,
+      "address": "Eichhornstraße 2-4, 50735 Köln (Nippes), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 21,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 21m"
+      }
+    },
+    {
+      "primaryId": "ChIJ62jSGFgkv0cR790gMrky99E",
+      "primaryName": "Islamische Gemeinde Köln e.V.",
+      "duplicateId": "ChIJh-i7GFgkv0cRPr7dDZAORwM",
+      "duplicateName": "Abu Bakr Moschee - مسجد أبوبكر",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 7,
+      "address": "Höninger Weg 5, 50969 Köln (Rodenkirchen), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 7,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 7m"
+      }
+    },
+    {
+      "primaryId": "ChIJ05b14RAlv0cRwgKCVpIY3bw",
+      "primaryName": "الإتحاد الإسلامي لمعهد الدين",
+      "duplicateId": "ChIJ__-_HBElv0cRHAiuWfs2Pio",
+      "duplicateName": "DITIB Center an der Zentralmoschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 10,
+      "address": "Venloer Str. 160, 50823 Köln (Ehrenfeld), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 10,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 10m"
+      }
+    },
+    {
+      "primaryId": "ChIJRywvJQAmv0cR2nxmRy7XTik",
+      "primaryName": "Deutsch - Türkischer Kulturverein e.V.",
+      "duplicateId": "ChIJfyCVY0Qnv0cREVFvNvkAQ5I",
+      "duplicateName": "Pastel-ghost-Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 14,
+      "address": "Clevischer Ring 113, 51063 Köln (Mülheim), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 14,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 14m"
+      }
+    },
+    {
+      "primaryId": "ChIJRywvJQAmv0cR2nxmRy7XTik",
+      "primaryName": "Deutsch - Türkischer Kulturverein e.V.",
+      "duplicateId": "ChIJTVScPhcnv0cRw0zyGAy8ytY",
+      "duplicateName": "Yunus-Emre-Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 14,
+      "address": "Clevischer Ring 113, 51063 Köln (Mülheim), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 14,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 14m"
+      }
+    },
+    {
+      "primaryId": "ChIJfyCVY0Qnv0cREVFvNvkAQ5I",
+      "primaryName": "Pastel-ghost-Moschee",
+      "duplicateId": "ChIJTVScPhcnv0cRw0zyGAy8ytY",
+      "duplicateName": "Yunus-Emre-Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Clevischer Ring 113, 51063 Köln (Mülheim), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJebiyQ38mv0cRZSd7mJVhorM",
+      "primaryName": "Taqiyyu d-Din al-Hilali Moschee",
+      "duplicateId": "ChIJh0EXQn8mv0cRNDRpS2Li-HE",
+      "duplicateName": "Marokkanische Moschee - مسجد المغربي",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 11,
+      "address": "Emser Str. 2, 51105 Köln (Kalk), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 11,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 11m"
+      }
+    },
+    {
+      "primaryId": "ChIJ-3iCg2gmv0cRg12YoM72eJk",
+      "primaryName": "Al Nur",
+      "duplicateId": "ChIJdfyGTXgnv0cRXfoV-FdOuOU",
+      "duplicateName": "Bedr verein mascid",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 19,
+      "address": "Bamberger Str. 20, 51103 Köln (Kalk), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 19,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 19m"
+      }
+    },
+    {
+      "primaryId": "ChIJN1vxiDYlv0cRfIxSCBNfJdg",
+      "primaryName": "ZENTRALE - Verband der Islamischen Kulturzentren (VIKZ)",
+      "duplicateId": "ChIJf_RbXbglv0cRVM4n5y5aovM",
+      "duplicateName": "Ehrenfelder Bildungs- und Kulturverein e.V. - Eine Gemeinde des Verband der Islamischen Kutlurzentren e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 542,
+      "address": "Vogelsanger Str. 290, 50825 Köln (Ehrenfeld), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.27,
+      "evidence": {
+        "nameSimilarity": 0.23,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 542,
+        "explanation": "Name similarity: low (0.23), Address match: exact, Phone match: none, Distance: 542m"
+      }
+    },
+    {
+      "primaryId": "ChIJc1-1uAYmv0cRHmlclDg6IQ4",
+      "primaryName": "Masjid Hamza Moschee",
+      "duplicateId": "ChIJw30JwwYmv0cR8g2unoNbBxI",
+      "duplicateName": "Kulturzentrum Köln e.V.",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 0,
+      "address": "Bergisch Gladbacher Str. 4, 51065 Köln (Mülheim), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJFec_6lN1nkcRUlidXpqiamI",
+      "primaryName": "Masjid on 5th floor Oberpollinger",
+      "duplicateId": "ChIJpcahnlN1nkcRuzihuPa_5hg",
+      "duplicateName": "Oberpollinger Mescid / Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 68,
+      "address": "Neuhauser Str. 18, 80331 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.4,
+      "evidence": {
+        "nameSimilarity": 0.5,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 68,
+        "explanation": "Name similarity: low (0.5), Address match: exact, Phone match: none, Distance: 68m"
+      }
+    },
+    {
+      "primaryId": "ChIJUTdrxQF2nkcRiwuUkzEb7nc",
+      "primaryName": "Moschee مسجد",
+      "duplicateId": "ChIJw6OvoGl2nkcRXB7_bEpAWuI",
+      "duplicateName": "Islamische Gemeinschaft Tevhid e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 2,
+      "address": "Ligsalzstraße 31A, 80339 München (Schwanthalerhöhe), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 2,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 2m"
+      }
+    },
+    {
+      "primaryId": "ChIJR8U_RLB2nkcRnkHCBxzd0qE",
+      "primaryName": "Turkish Mosque",
+      "duplicateId": "ChIJuURmFbB2nkcRoShyUvLgtCk",
+      "duplicateName": "Förderverein der VIKZ-Gemeinde in München-Hasenbergl und Umgebung e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 55,
+      "address": "Schleißheimer Str. 443, 80935 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.2,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 55,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 55m"
+      }
+    },
+    {
+      "primaryId": "ChIJcaMiQwB3nkcRtTyyPKgx-KA",
+      "primaryName": "IGMG Ortsverein Moosach e.V.",
+      "duplicateId": "ChIJHSL2hrB3nkcRvP09npHZMFk",
+      "duplicateName": "IGMG Moschee München Moosach",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 1,
+      "address": "Baubergerstraße 32, 80992 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.3,
+      "evidence": {
+        "nameSimilarity": 0.4,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 1,
+        "explanation": "Name similarity: low (0.4), Address match: differ, Phone match: none, Distance: 1m"
+      }
+    },
+    {
+      "primaryId": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+      "primaryName": "Münchner Forum für Islam e.V.",
+      "duplicateId": "ChIJYZZSl_V1nkcRQK9FtRPOwdA",
+      "duplicateName": "Marienplatz Mosque",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 7,
+      "address": "Hotterstraße 16, 80331 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 7,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 7m"
+      }
+    },
+    {
+      "primaryId": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+      "primaryName": "Neuaubing Mosque",
+      "duplicateId": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+      "duplicateName": "Turkish mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Bodenseestr. 222, 81243 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJYYANFvV3nkcR4MpDGh6gVlw",
+      "primaryName": "MARKEZ",
+      "duplicateId": "ChIJE4rULcF2nkcRfqyyCpWz0W0",
+      "duplicateName": "Jamia Masjid Sufia Deutsch-Pakistanischer Kulturverein für Bildung und Integration e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 55,
+      "address": "Tagetesstraße 5, 80935 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 55,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 55m"
+      }
+    },
+    {
+      "primaryId": "ChIJET1ACBjZnUcR2_zQ3Ir_FR4",
+      "primaryName": "Islamische Gemeinschaft Fedzr München",
+      "duplicateId": "ChIJl9M0PADZnUcRBjwPcZp9deE",
+      "duplicateName": "Mesjid",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 41,
+      "address": "Drygalski-Allee 33C, 81477 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 41,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 41m"
+      }
+    },
+    {
+      "primaryId": "ChIJET1ACBjZnUcR2_zQ3Ir_FR4",
+      "primaryName": "Islamische Gemeinschaft Fedzr München",
+      "duplicateId": "ChIJq6ravibZnUcRSO-2mibl838",
+      "duplicateName": "Afghani mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 43,
+      "address": "Drygalski-Allee 33C, 81477 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 43,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 43m"
+      }
+    },
+    {
+      "primaryId": "ChIJl9M0PADZnUcRBjwPcZp9deE",
+      "primaryName": "Mesjid",
+      "duplicateId": "ChIJq6ravibZnUcRSO-2mibl838",
+      "duplicateName": "Afghani mosque",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 6,
+      "address": "Drygalski-Allee 33C, 81477 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJR8U_RLB2nkcRnkHCBxzd0qE",
+      "primaryName": "Turkish Mosque",
+      "duplicateId": "ChIJ-xKXR7B2nkcRLf_29tBTEt4",
+      "duplicateName": "HasenberglHEE",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 10,
+      "address": "Schleißheimer Str. 443, 80935 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 10,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 10m"
+      }
+    },
+    {
+      "primaryId": "ChIJuURmFbB2nkcRoShyUvLgtCk",
+      "primaryName": "Förderverein der VIKZ-Gemeinde in München-Hasenbergl und Umgebung e.V.",
+      "duplicateId": "ChIJ-xKXR7B2nkcRLf_29tBTEt4",
+      "duplicateName": "HasenberglHEE",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 54,
+      "address": "Schleißheimer Str. 443, 80935 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.2,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 54,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 54m"
+      }
+    },
+    {
+      "primaryId": "ChIJ_f8J-dV1nkcROls4cnLS2Z8",
+      "primaryName": "Al-Andalus",
+      "duplicateId": "ChIJZZIYPaUKnkcRCVDKLaCztC4",
+      "duplicateName": "Moschee Al-Muhsinin München",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Lerchenstraße 66, 80995 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.35,
+      "evidence": {
+        "nameSimilarity": 0.2,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0.2), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJs8LHBPt1nkcRCbW-bjW-eJg",
+      "primaryName": "AIG Moschee – Albanische Islamische Gemeinschaft Balkan e.V.",
+      "duplicateId": "ChIJJ_2GAwB1nkcRWu8k17qTptA",
+      "duplicateName": "Balkan e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 38,
+      "address": "Dachauer Str. 26, 80335 München, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.12,
+      "evidence": {
+        "nameSimilarity": 0.13,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 38,
+        "explanation": "Name similarity: low (0.13), Address match: differ, Phone match: none, Distance: 38m"
+      }
+    },
+    {
+      "primaryId": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+      "primaryName": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+      "duplicateId": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+      "duplicateName": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 6,
+      "address": "Friedhofstraße 71, 70191 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.64,
+      "evidence": {
+        "nameSimilarity": 0.27,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0.27), Address match: exact, Phone match: exact, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+      "primaryName": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+      "duplicateId": "ChIJxXuu4CDmC0ERBiGwqalYn50",
+      "duplicateName": "Landesverband der Islamischen Kulturzentren Baden-Württemberg e. V.",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 11,
+      "address": "Friedhofstraße 71, 70191 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.62,
+      "evidence": {
+        "nameSimilarity": 0.23,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 11,
+        "explanation": "Name similarity: low (0.23), Address match: exact, Phone match: exact, Distance: 11m"
+      }
+    },
+    {
+      "primaryId": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+      "primaryName": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+      "duplicateId": "ChIJxXuu4CDmC0ERBiGwqalYn50",
+      "duplicateName": "Landesverband der Islamischen Kulturzentren Baden-Württemberg e. V.",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 6,
+      "address": "Friedhofstraße 71, 70191 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.73,
+      "evidence": {
+        "nameSimilarity": 0.45,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 6,
+        "explanation": "Name similarity: low (0.45), Address match: exact, Phone match: exact, Distance: 6m"
+      }
+    },
+    {
+      "primaryId": "ChIJ0wS8e2zEmUcRvNWhGZKyEFY",
+      "primaryName": "Islamische Gemeinschaft Stuttgart e.V.",
+      "duplicateId": "ChIJNdf3e2zEmUcR3DP0SOxhfGA",
+      "duplicateName": "IGS e.V. TV",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Kesselstraße 27, 70374 Stuttgart (Wangen), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJ_eGkEz3FmUcR1ZEBBrLqh5A",
+      "primaryName": "Pakistan Welfare Society Stuttgart e.V.",
+      "duplicateId": "ChIJ93zrP1vFmUcRFMAT6iP2Pmw",
+      "duplicateName": "Madina Pakistani Masjid",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 0,
+      "address": "Spreuergasse 37, 70372 Stuttgart (Bad Cannstatt), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.5,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": true,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: exact, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJyf4XgETFmUcRPwBVRwqX6u0",
+      "primaryName": "Turkish Mosque",
+      "duplicateId": "ChIJLyRcj_bFmUcR0M4seTNxQ-8",
+      "duplicateName": "Kasri Arifan Dergahı Stuttgart",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 2,
+      "address": "Kesselstraße 41, 70327 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 2,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 2m"
+      }
+    },
+    {
+      "primaryId": "ChIJHyRHt5_cmUcRZI6kMpFBJjA",
+      "primaryName": "Islamic Community for Kosovo-Albanians",
+      "duplicateId": "ChIJr7iAEQDdmUcRscymaXmIP58",
+      "duplicateName": "Xhamia",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 8,
+      "address": "Böblinger Str. 203, 70199 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 8,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 8m"
+      }
+    },
+    {
+      "primaryId": "ChIJ8V1dw-jamUcRHc9y2SaREEU",
+      "primaryName": "Annasîhah Moschee Stuttgart",
+      "duplicateId": "ChIJb5XFxOjamUcRia1zLjYunRw",
+      "duplicateName": "Verein für Kultur und Bildung Stuttgart e.V",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 0,
+      "address": "Stuttgarter Str. 60A, 70469 Stuttgart, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.32,
+      "evidence": {
+        "nameSimilarity": 0.13,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 0,
+        "explanation": "Name similarity: low (0.13), Address match: exact, Phone match: none, Distance: 0m"
+      }
+    },
+    {
+      "primaryId": "ChIJ23tZYhfFmUcResTm4j4mtOQ",
+      "primaryName": "Islamic Centre of Stuttgart(الجامع العربي)",
+      "duplicateId": "ChIJ869vLADFmUcRUjrqs0zLn_Q",
+      "duplicateName": "Mosjid",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 20,
+      "address": "Waiblinger Str. 30, 70372 Stuttgart (Bad Cannstatt), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 20,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 20m"
+      }
+    },
+    {
+      "primaryId": "ChIJO31v1xTFmUcR9Cq1fcqan-0",
+      "primaryName": "Moschee Khalid Bin Al-Walid",
+      "duplicateId": "ChIJd4z8DwDFmUcR0JmLvrqck6U",
+      "duplicateName": "Freitagsgebet Khalid Ibn Alwaleed",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 9,
+      "address": "Viaduktstraße 2-6, 70372 Stuttgart (Bad Cannstatt), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.17,
+      "evidence": {
+        "nameSimilarity": 0.14,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 9,
+        "explanation": "Name similarity: low (0.14), Address match: differ, Phone match: none, Distance: 9m"
+      }
+    },
+    {
+      "primaryId": "ChIJw-vYTUbTtkcRTwiRJpqhPHg",
+      "primaryName": "DITIB Selimiye Moschee Bremen",
+      "duplicateId": "ChIJlaLLdpfTtkcRy0C9Fvx33tw",
+      "duplicateName": "Türkisch Islamische Kultur Union e.V.",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 20,
+      "address": "Kreinsloger 126, 28777 Bremen (Blumenthal), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 20,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 20m"
+      }
+    },
+    {
+      "primaryId": "ChIJB5vM2PLXsEcRTzeXCPuxPfM",
+      "primaryName": "Bangladesch Islamisches Zentrum",
+      "duplicateId": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+      "duplicateName": "Bangladesch Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 27,
+      "address": "Yorckstraße 6, 28201 Bremen (Neustadt), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.22,
+      "evidence": {
+        "nameSimilarity": 0.35,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 27,
+        "explanation": "Name similarity: low (0.35), Address match: differ, Phone match: none, Distance: 27m"
+      }
+    },
+    {
+      "primaryId": "ChIJDzVjSwDZsEcReYsfqBrGTvU",
+      "primaryName": "Moschee IGMG Zentrale Bremen",
+      "duplicateId": "ChIJ8fl9FwDZsEcRnen9r9CT1ds",
+      "duplicateName": "Hicret Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 57,
+      "address": "Hinterm Sielhof, 28277 Bremen (Obervieland), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 57,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 57m"
+      }
+    },
+    {
+      "primaryId": "ChIJB5vM2PLXsEcRTzeXCPuxPfM",
+      "primaryName": "Bangladesch Islamisches Zentrum",
+      "duplicateId": "ChIJEZYdH9PXsEcREjCw7Cr9KkA",
+      "duplicateName": "Masjid sunnah Bremen مسجد السنه بريمن",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 1,
+      "address": "Neustadt, 28201 Bremen, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 1,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 1m"
+      }
+    },
+    {
+      "primaryId": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+      "primaryName": "Bangladesch Moschee",
+      "duplicateId": "ChIJEZYdH9PXsEcREjCw7Cr9KkA",
+      "duplicateName": "Masjid sunnah Bremen مسجد السنه بريمن",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 27,
+      "address": "Neustadt, 28201 Bremen, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 27,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 27m"
+      }
+    },
+    {
+      "primaryId": "ChIJ0YH-ggjXsEcRUIRcKdAvm4E",
+      "primaryName": "Masjid Al Sunnah Bremen مسجد السنة بريمن",
+      "duplicateId": "ChIJEZYdH9PXsEcREjCw7Cr9KkA",
+      "duplicateName": "Masjid sunnah Bremen مسجد السنه بريمن",
+      "reason": "FUZZY_CANDIDATE",
+      "distanceMeters": 871,
+      "address": "Neustadt, 28201 Bremen, Germany",
+      "actionTaken": "FLAGGED_FOR_REVIEW",
+      "similarityScore": 0.66,
+      "evidence": {
+        "nameSimilarity": 0.81,
+        "addressMatch": false,
+        "phoneMatch": true,
+        "distanceMeters": 871,
+        "explanation": "Name similarity: moderate (0.81), Address match: differ, Phone match: exact, Distance: 871m"
+      }
+    },
+    {
+      "primaryId": "ChIJzf_1ULDXuEcRF5jTze4voWs",
+      "primaryName": "DITIB Zentralmoschee Wuppertal",
+      "duplicateId": "ChIJ94WUT7DXuEcRugaFc5o4d7Q",
+      "duplicateName": "DITIB Türkisch Islamische Kultur Verein e.V.",
+      "reason": "PHONE_MATCH",
+      "distanceMeters": 47,
+      "address": "Diyanet Merkez Camii 31/A, 42107 Wuppertal (Elberfeld), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.37,
+      "evidence": {
+        "nameSimilarity": 0.14,
+        "addressMatch": false,
+        "phoneMatch": true,
+        "distanceMeters": 47,
+        "explanation": "Name similarity: low (0.14), Address match: differ, Phone match: exact, Distance: 47m"
+      }
+    },
+    {
+      "primaryId": "ChIJke8Z42wouUcRO4vqPV5mOmc",
+      "primaryName": "Kültür ve eğitim merkezi Wuppertal",
+      "duplicateId": "ChIJ1QRyq1QpuUcRLreXxZVVWCw",
+      "duplicateName": "Alabrar Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 7,
+      "address": "Wichlinghauser Str. 53, 42277 Wuppertal, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 7,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 7m"
+      }
+    },
+    {
+      "primaryId": "ChIJxy2cDLDXuEcR0FaVgtydjow",
+      "primaryName": "Center of WuppertalTürkiye de tip Moschee",
+      "duplicateId": "ChIJYXzmawDXuEcR_S14jTBl0Pc",
+      "duplicateName": "Dzemat Wuppertal Dzamija",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 3,
+      "address": "Uellendahler Str. 6A, 42107 Wuppertal, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 3,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 3m"
+      }
+    },
+    {
+      "primaryId": "ChIJCQqnKNjXuEcRgXthIj6I1to",
+      "primaryName": "Wuppertal Central Mosque",
+      "duplicateId": "ChIJR8gr-t7XuEcRe540v7Ye994",
+      "duplicateName": "Abu Bakr Alsedek Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 1,
+      "address": "Wittensteinstraße 190, 42285 Wuppertal, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 1,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 1m"
+      }
+    },
+    {
+      "primaryId": "ChIJxy2cDLDXuEcR0FaVgtydjow",
+      "primaryName": "Center of WuppertalTürkiye de tip Moschee",
+      "duplicateId": "ChIJa6GDc7DXuEcRxoUz1cC6WPk",
+      "duplicateName": "Othman Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 7,
+      "address": "Uellendahler Str. 6a, 42107 Wuppertal (Elberfeld), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 7,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 7m"
+      }
+    },
+    {
+      "primaryId": "ChIJYXzmawDXuEcR_S14jTBl0Pc",
+      "primaryName": "Dzemat Wuppertal Dzamija",
+      "duplicateId": "ChIJa6GDc7DXuEcRxoUz1cC6WPk",
+      "duplicateName": "Othman Moschee",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 3,
+      "address": "Uellendahler Str. 6a, 42107 Wuppertal (Elberfeld), Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.25,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": true,
+        "phoneMatch": false,
+        "distanceMeters": 3,
+        "explanation": "Name similarity: low (0), Address match: exact, Phone match: none, Distance: 3m"
+      }
+    },
+    {
+      "primaryId": "ChIJ-533FADjvkcRbwDi5QmbjqA",
+      "primaryName": "مسجد الانصار الجديد",
+      "duplicateId": "ChIJi7lMhLPjvkcRPnozYvFIcwQ",
+      "duplicateName": "Al Ansar Moshee Bonn - مسجد الأنصار بو",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 34,
+      "address": "Weststraße 7, 53175 Bonn, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 34,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 34m"
+      }
+    },
+    {
+      "primaryId": "ChIJF1LGQH5Xn0cRwjPB-1sdw-g",
+      "primaryName": "Pakistani - Huzaifa Masjid",
+      "duplicateId": "ChIJ38WoSwdXn0cRdddbPAWrw4c",
+      "duplicateName": "Albanische Islamische Gemeinschaft Bashkimi",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 50,
+      "address": "Zufuhrstraße 11, 90443 Nürnberg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 50,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 50m"
+      }
+    },
+    {
+      "primaryId": "ChIJYx8sehFXn0cRpbRvKpnVLLQ",
+      "primaryName": "DITIB Nuremberg Central Mosque",
+      "duplicateId": "ChIJDzMIb9ZXn0cRrKc23uX_UcA",
+      "duplicateName": "مسجد ايوب السلطان مركزاسلامي نورنبيرغ",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 25,
+      "address": "Kurfürstenstraße 15, 90459 Nürnberg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.05,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 25,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 25m"
+      }
+    },
+    {
+      "primaryId": "ChIJK850Sf5Wn0cR-LU5uQoF_j8",
+      "primaryName": "Islamic Center of Nuremberg",
+      "duplicateId": "ChIJkbrSbgBXn0cRgf_WxVNBNfI",
+      "duplicateName": "مسجد نورمبورغ",
+      "reason": "SAME_ADDRESS_DIFFERENT_ORG",
+      "distanceMeters": 10,
+      "address": "Hessestraße 14, 90443 Nürnberg, Germany",
+      "actionTaken": "FLAGGED_CO_LOCATED",
+      "similarityScore": 0.1,
+      "evidence": {
+        "nameSimilarity": 0,
+        "addressMatch": false,
+        "phoneMatch": false,
+        "distanceMeters": 10,
+        "explanation": "Name similarity: low (0), Address match: differ, Phone match: none, Distance: 10m"
+      }
+    }
+  ],
+  "policy": {
+    "coLocationRule": "Distinct organizations at same address are flagged as FLAGGED_CO_LOCATED and NEVER auto-merged.",
+    "nameSimilarityThreshold": "0.85 token overlap required for address-based matches."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "city": "Bremen",
+  "slug": "bremen",
+  "evaluatedAt": "2026-09-30T10:17:44.285Z",
+  "status": "BLOCKED",
+  "passed": false,
+  "blockers": [
+    {
+      "gate": "GATE_F",
+      "passed": false,
+      "blocker": true,
+      "reason": "0 publishable records (minimum required: 5)",
+      "metric": 0
+    },
+    {
+      "gate": "GATE_G",
+      "passed": false,
+      "blocker": true,
+      "reason": "< 50% records have an address"
+    }
+  ],
+  "warnings": [
+    {
+      "gate": "GATE_C",
+      "passed": false,
+      "blocker": false,
+      "reason": "> 50% missing phone"
+    },
+    {
+      "gate": "GATE_C",
+      "passed": false,
+      "blocker": false,
+      "reason": "> 70% missing website"
+    }
+  ],
+  "metrics": {
+    "totalEntities": 0,
+    "publishableEntities": 0,
+    "coordsPercent": 0
+  },
+  "recommendation": "City has hard blockers that must be resolved before launch."
+}

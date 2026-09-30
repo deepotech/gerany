@@ -1,0 +1,218 @@
+{
+  "runAt": "2026-09-30T11:01:35.901Z",
+  "isDryRun": true,
+  "existingPublished": 542,
+  "existingAllEntities": 594,
+  "crossCandidateDups": 0,
+  "cities": [
+    {
+      "city": "Hannover",
+      "slug": "hannover",
+      "state": "Niedersachsen",
+      "rawCount": 28,
+      "uniqueCount": 28,
+      "duplicatesRemoved": 0,
+      "publishedCount": 24,
+      "reviewCount": 4,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "NOT_READY",
+      "gateBlockers": [],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone"
+      ]
+    },
+    {
+      "city": "Bremen",
+      "slug": "bremen",
+      "state": "Bremen",
+      "rawCount": 40,
+      "uniqueCount": 0,
+      "duplicatesRemoved": 40,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 0 publishable records (minimum required: 5)",
+        "[GATE_G] < 50% records have an address"
+      ],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone",
+        "[GATE_C] > 70% missing website"
+      ]
+    },
+    {
+      "city": "Duisburg",
+      "slug": "duisburg",
+      "state": "Nordrhein-Westfalen",
+      "rawCount": 61,
+      "uniqueCount": 61,
+      "duplicatesRemoved": 0,
+      "publishedCount": 58,
+      "reviewCount": 3,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "NOT_READY",
+      "gateBlockers": [],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone"
+      ]
+    },
+    {
+      "city": "Bochum",
+      "slug": "bochum",
+      "state": "Nordrhein-Westfalen",
+      "rawCount": 13,
+      "uniqueCount": 13,
+      "duplicatesRemoved": 0,
+      "publishedCount": 10,
+      "reviewCount": 3,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_D] Found 1 non-Islamic entity (OTHER category) in publishable records"
+      ],
+      "gateWarnings": [
+        "[GATE_D] > 10% are non-mosque categories (15%)"
+      ]
+    },
+    {
+      "city": "Wuppertal",
+      "slug": "wuppertal",
+      "state": "Nordrhein-Westfalen",
+      "rawCount": 28,
+      "uniqueCount": 0,
+      "duplicatesRemoved": 28,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 0 publishable records (minimum required: 5)",
+        "[GATE_G] < 50% records have an address"
+      ],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone",
+        "[GATE_C] > 70% missing website"
+      ]
+    },
+    {
+      "city": "Bonn",
+      "slug": "bonn",
+      "state": "Nordrhein-Westfalen",
+      "rawCount": 15,
+      "uniqueCount": 0,
+      "duplicatesRemoved": 15,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 0 publishable records (minimum required: 5)",
+        "[GATE_G] < 50% records have an address"
+      ],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone",
+        "[GATE_C] > 70% missing website"
+      ]
+    },
+    {
+      "city": "Mannheim",
+      "slug": "mannheim",
+      "state": "Baden-Württemberg",
+      "rawCount": 23,
+      "uniqueCount": 23,
+      "duplicatesRemoved": 0,
+      "publishedCount": 21,
+      "reviewCount": 2,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "NOT_READY",
+      "gateBlockers": [],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone"
+      ]
+    },
+    {
+      "city": "Nürnberg",
+      "slug": "nuernberg",
+      "state": "Bayern",
+      "rawCount": 19,
+      "uniqueCount": 0,
+      "duplicatesRemoved": 19,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 0 publishable records (minimum required: 5)",
+        "[GATE_G] < 50% records have an address"
+      ],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone",
+        "[GATE_C] > 70% missing website"
+      ]
+    },
+    {
+      "city": "Leipzig",
+      "slug": "leipzig",
+      "state": "Sachsen",
+      "rawCount": 6,
+      "uniqueCount": 0,
+      "duplicatesRemoved": 6,
+      "publishedCount": 0,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 0 publishable records (minimum required: 5)",
+        "[GATE_G] < 50% records have an address"
+      ],
+      "gateWarnings": [
+        "[GATE_C] > 50% missing phone",
+        "[GATE_C] > 70% missing website"
+      ]
+    },
+    {
+      "city": "Dresden",
+      "slug": "dresden",
+      "state": "Sachsen",
+      "rawCount": 3,
+      "uniqueCount": 3,
+      "duplicatesRemoved": 0,
+      "publishedCount": 3,
+      "reviewCount": 0,
+      "rejectedCount": 0,
+      "crossCityAnomalyCount": 0,
+      "gateStatus": "BLOCKED",
+      "gateBlockers": [
+        "[GATE_F] 3 publishable records (minimum required: 5)"
+      ],
+      "gateWarnings": []
+    }
+  ],
+  "readyForLaunch": [],
+  "notReady": [
+    "Hannover",
+    "Duisburg",
+    "Mannheim"
+  ],
+  "blocked": [
+    "Bremen",
+    "Bochum",
+    "Wuppertal",
+    "Bonn",
+    "Nürnberg",
+    "Leipzig",
+    "Dresden"
+  ],
+  "totalNewPublishable": 116,
+  "projectedTotalIfAllPublished": 658
+}

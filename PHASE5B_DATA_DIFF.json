@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-09-30T10:56:07.002Z",
+  "baseline": {
+    "totalPublished": 443,
+    "totalAllEntities": 486,
+    "publishedCityCount": 9,
+    "sitemapUrlsEstimate": 1362
+  },
+  "current": {
+    "totalPublished": 542,
+    "totalAllEntities": 594,
+    "publishedCityCount": 14,
+    "sitemapUrlsEstimate": 1674
+  },
+  "delta": {
+    "publishedAdded": 99,
+    "allEntitiesAdded": 108,
+    "citiesPromoted": 5,
+    "sitemapUrlsAdded": 312
+  },
+  "promotedCities": [
+    "Bremen",
+    "Wuppertal",
+    "Bonn",
+    "Nürnberg",
+    "Leipzig"
+  ],
+  "unpromotedCities": [
+    "Hannover",
+    "Duisburg",
+    "Bochum",
+    "Mannheim",
+    "Dresden"
+  ],
+  "cityBreakdown": {
+    "Berlin": {
+      "baseline": 104,
+      "current": 104,
+      "delta": 0
+    },
+    "Bonn": {
+      "baseline": 0,
+      "current": 14,
+      "delta": 14
+    },
+    "Bremen": {
+      "baseline": 0,
+      "current": 37,
+      "delta": 37
+    },
+    "Dortmund": {
+      "baseline": 50,
+      "current": 50,
+      "delta": 0
+    },
+    "Düsseldorf": {
+      "baseline": 27,
+      "current": 27,
+      "delta": 0
+    },
+    "Essen": {
+      "baseline": 27,
+      "current": 27,
+      "delta": 0
+    },
+    "Frankfurt": {
+      "baseline": 50,
+      "current": 50,
+      "delta": 0
+    },
+    "Hamburg": {
+      "baseline": 65,
+      "current": 65,
+      "delta": 0
+    },
+    "Köln": {
+      "baseline": 39,
+      "current": 39,
+      "delta": 0
+    },
+    "Leipzig": {
+      "baseline": 0,
+      "current": 6,
+      "delta": 6
+    },
+    "München": {
+      "baseline": 54,
+      "current": 54,
+      "delta": 0
+    },
+    "Nürnberg": {
+      "baseline": 0,
+      "current": 18,
+      "delta": 18
+    },
+    "Stuttgart": {
+      "baseline": 27,
+      "current": 27,
+      "delta": 0
+    },
+    "Wuppertal": {
+      "baseline": 0,
+      "current": 24,
+      "delta": 24
+    }
+  }
+}

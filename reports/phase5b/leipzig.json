@@ -1,0 +1,57 @@
+{
+  "city": "Leipzig",
+  "slug": "leipzig",
+  "state": "Sachsen",
+  "runAt": "2026-09-30T11:01:35.898Z",
+  "isDryRun": true,
+  "rawCount": 6,
+  "uniqueCount": 0,
+  "duplicatesRemoved": 6,
+  "publishedCount": 0,
+  "reviewCount": 0,
+  "rejectedCount": 0,
+  "crossCityAnomalyCount": 0,
+  "crossCityAnomalies": [],
+  "gateReport": {
+    "city": "Leipzig",
+    "slug": "leipzig",
+    "evaluatedAt": "2026-09-30T11:01:35.898Z",
+    "status": "BLOCKED",
+    "passed": false,
+    "blockers": [
+      {
+        "gate": "GATE_F",
+        "passed": false,
+        "blocker": true,
+        "reason": "0 publishable records (minimum required: 5)",
+        "metric": 0
+      },
+      {
+        "gate": "GATE_G",
+        "passed": false,
+        "blocker": true,
+        "reason": "< 50% records have an address"
+      }
+    ],
+    "warnings": [
+      {
+        "gate": "GATE_C",
+        "passed": false,
+        "blocker": false,
+        "reason": "> 50% missing phone"
+      },
+      {
+        "gate": "GATE_C",
+        "passed": false,
+        "blocker": false,
+        "reason": "> 70% missing website"
+      }
+    ],
+    "metrics": {
+      "totalEntities": 0,
+      "publishableEntities": 0,
+      "coordsPercent": 0
+    },
+    "recommendation": "City has hard blockers that must be resolved before launch."
+  }
+}

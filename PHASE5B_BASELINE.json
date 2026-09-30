@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-09-30T10:22:16.189Z",
+  "totalPublished": 443,
+  "totalAllEntities": 486,
+  "publishedCityCount": 9,
+  "publishedCities": {
+    "Berlin": 104,
+    "Dortmund": 50,
+    "Düsseldorf": 27,
+    "Essen": 27,
+    "Frankfurt": 50,
+    "Hamburg": 65,
+    "Köln": 39,
+    "München": 54,
+    "Stuttgart": 27
+  },
+  "publishedDataStatuses": {
+    "PUBLISHED": 443
+  },
+  "allEntityDataStatuses": {
+    "PUBLISHED": 443,
+    "REVIEWED": 39,
+    "REJECTED": 4
+  },
+  "verificationStatuses": {
+    "UNVERIFIED": 443
+  },
+  "categories": {
+    "MOSQUE": 419,
+    "ISLAMIC_CENTER": 24
+  },
+  "sitemapUrlsEstimate": 1362
+}

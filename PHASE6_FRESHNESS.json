@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-09-30T11:08:48.050Z",
+  "thresholds": {
+    "freshMaxDays": 90,
+    "staleMaxDays": 365,
+    "veryStaleThresholdDays": 365
+  },
+  "summary": {
+    "FRESH": 542,
+    "STALE": 0,
+    "VERY_STALE": 0,
+    "UNKNOWN": 0
+  },
+  "totalAssessed": 542,
+  "reviewRequiredCount": 0,
+  "freshPercentage": "100.0%",
+  "stalePercentage": "0.0%",
+  "unknownPercentage": "0.0%",
+  "policy": {
+    "zeroDataMutation": "Freshness assessment is read-only. No records are deleted, unverified, or altered automatically.",
+    "sourceFetchTimePolicy": "Source import timestamp is NOT treated as human verification.",
+    "verificationRequiredAction": "Entities in UNKNOWN or STALE create an operator review task."
+  }
+}

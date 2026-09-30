@@ -1,0 +1,32 @@
+{
+  "wuppertal": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-09-30T10:47:12.906Z"
+  },
+  "bonn": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-09-30T10:47:12.907Z"
+  },
+  "bremen": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-09-30T10:53:16.299Z"
+  },
+  "nuernberg": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-09-30T10:53:16.301Z"
+  },
+  "leipzig": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-09-30T10:53:16.302Z"
+  }
+}

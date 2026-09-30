@@ -1,0 +1,1954 @@
+{
+  "dataset": {
+    "rawFiles": [
+      "Berlin, Germany.json",
+      "Dortmund, Germany.json",
+      "Düsseldorf, Germany.json",
+      "Essen, Germany.json",
+      "Frankfurt, Germany.json",
+      "Hamburg, Germany.json",
+      "Köln, Germany.json",
+      "München, Germany.json",
+      "Stuttgart, Germany.json"
+    ],
+    "totalRawCount": 486,
+    "rawByFile": {
+      "Berlin, Germany.json": 110,
+      "Dortmund, Germany.json": 51,
+      "Düsseldorf, Germany.json": 30,
+      "Essen, Germany.json": 29,
+      "Frankfurt, Germany.json": 57,
+      "Hamburg, Germany.json": 70,
+      "Köln, Germany.json": 50,
+      "München, Germany.json": 57,
+      "Stuttgart, Germany.json": 32
+    },
+    "uniqueRawPlaceIds": 486,
+    "crossFileDuplicatePlaceIdsCount": 0,
+    "statusCounts": {
+      "PUBLISHED": 443,
+      "REVIEWED": 39,
+      "REJECTED": 4,
+      "total": 486
+    }
+  },
+  "completeness": {
+    "globalMatrix": {
+      "canonicalName": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "slug": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "address": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "postalCode": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "city": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "latitude": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "longitude": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      },
+      "phone": {
+        "present": 258,
+        "missing": 185,
+        "pct": "58.2%"
+      },
+      "website": {
+        "present": 252,
+        "missing": 191,
+        "pct": "56.9%"
+      },
+      "openingHours": {
+        "present": 221,
+        "missing": 222,
+        "pct": "49.9%"
+      },
+      "organization": {
+        "present": 37,
+        "missing": 406,
+        "pct": "8.4%"
+      },
+      "description": {
+        "present": 0,
+        "missing": 443,
+        "pct": "0.0%"
+      },
+      "rating": {
+        "present": 439,
+        "missing": 4,
+        "pct": "99.1%"
+      },
+      "reviewCount": {
+        "present": 439,
+        "missing": 4,
+        "pct": "99.1%"
+      },
+      "imageUrl": {
+        "present": 439,
+        "missing": 4,
+        "pct": "99.1%"
+      },
+      "facilities": {
+        "present": 430,
+        "missing": 13,
+        "pct": "97.1%"
+      },
+      "lastVerified": {
+        "present": 443,
+        "missing": 0,
+        "pct": "100.0%"
+      }
+    },
+    "cityMatrix": {
+      "Köln": {
+        "count": 39,
+        "matrix": {
+          "canonicalName": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 20,
+            "missing": 19,
+            "pct": "51.3%"
+          },
+          "website": {
+            "present": 21,
+            "missing": 18,
+            "pct": "53.8%"
+          },
+          "openingHours": {
+            "present": 13,
+            "missing": 26,
+            "pct": "33.3%"
+          },
+          "organization": {
+            "present": 6,
+            "missing": 33,
+            "pct": "15.4%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 39,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 38,
+            "missing": 1,
+            "pct": "97.4%"
+          },
+          "facilities": {
+            "present": 38,
+            "missing": 1,
+            "pct": "97.4%"
+          },
+          "lastVerified": {
+            "present": 39,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Berlin": {
+        "count": 104,
+        "matrix": {
+          "canonicalName": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 63,
+            "missing": 41,
+            "pct": "60.6%"
+          },
+          "website": {
+            "present": 56,
+            "missing": 48,
+            "pct": "53.8%"
+          },
+          "openingHours": {
+            "present": 60,
+            "missing": 44,
+            "pct": "57.7%"
+          },
+          "organization": {
+            "present": 8,
+            "missing": 96,
+            "pct": "7.7%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 104,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 103,
+            "missing": 1,
+            "pct": "99.0%"
+          },
+          "facilities": {
+            "present": 101,
+            "missing": 3,
+            "pct": "97.1%"
+          },
+          "lastVerified": {
+            "present": 104,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Hamburg": {
+        "count": 65,
+        "matrix": {
+          "canonicalName": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 37,
+            "missing": 28,
+            "pct": "56.9%"
+          },
+          "website": {
+            "present": 39,
+            "missing": 26,
+            "pct": "60.0%"
+          },
+          "openingHours": {
+            "present": 35,
+            "missing": 30,
+            "pct": "53.8%"
+          },
+          "organization": {
+            "present": 7,
+            "missing": 58,
+            "pct": "10.8%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 65,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 63,
+            "missing": 2,
+            "pct": "96.9%"
+          },
+          "reviewCount": {
+            "present": 63,
+            "missing": 2,
+            "pct": "96.9%"
+          },
+          "imageUrl": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 61,
+            "missing": 4,
+            "pct": "93.8%"
+          },
+          "lastVerified": {
+            "present": 65,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "München": {
+        "count": 54,
+        "matrix": {
+          "canonicalName": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 27,
+            "missing": 27,
+            "pct": "50.0%"
+          },
+          "website": {
+            "present": 32,
+            "missing": 22,
+            "pct": "59.3%"
+          },
+          "openingHours": {
+            "present": 29,
+            "missing": 25,
+            "pct": "53.7%"
+          },
+          "organization": {
+            "present": 4,
+            "missing": 50,
+            "pct": "7.4%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 54,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 53,
+            "missing": 1,
+            "pct": "98.1%"
+          },
+          "reviewCount": {
+            "present": 53,
+            "missing": 1,
+            "pct": "98.1%"
+          },
+          "imageUrl": {
+            "present": 52,
+            "missing": 2,
+            "pct": "96.3%"
+          },
+          "facilities": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "lastVerified": {
+            "present": 54,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Frankfurt": {
+        "count": 50,
+        "matrix": {
+          "canonicalName": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 33,
+            "missing": 17,
+            "pct": "66.0%"
+          },
+          "website": {
+            "present": 32,
+            "missing": 18,
+            "pct": "64.0%"
+          },
+          "openingHours": {
+            "present": 27,
+            "missing": 23,
+            "pct": "54.0%"
+          },
+          "organization": {
+            "present": 2,
+            "missing": 48,
+            "pct": "4.0%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 50,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 49,
+            "missing": 1,
+            "pct": "98.0%"
+          },
+          "reviewCount": {
+            "present": 49,
+            "missing": 1,
+            "pct": "98.0%"
+          },
+          "imageUrl": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 47,
+            "missing": 3,
+            "pct": "94.0%"
+          },
+          "lastVerified": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Düsseldorf": {
+        "count": 27,
+        "matrix": {
+          "canonicalName": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 20,
+            "missing": 7,
+            "pct": "74.1%"
+          },
+          "website": {
+            "present": 21,
+            "missing": 6,
+            "pct": "77.8%"
+          },
+          "openingHours": {
+            "present": 14,
+            "missing": 13,
+            "pct": "51.9%"
+          },
+          "organization": {
+            "present": 1,
+            "missing": 26,
+            "pct": "3.7%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 27,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "lastVerified": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Stuttgart": {
+        "count": 27,
+        "matrix": {
+          "canonicalName": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 20,
+            "missing": 7,
+            "pct": "74.1%"
+          },
+          "website": {
+            "present": 15,
+            "missing": 12,
+            "pct": "55.6%"
+          },
+          "openingHours": {
+            "present": 9,
+            "missing": 18,
+            "pct": "33.3%"
+          },
+          "organization": {
+            "present": 3,
+            "missing": 24,
+            "pct": "11.1%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 27,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "lastVerified": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Dortmund": {
+        "count": 50,
+        "matrix": {
+          "canonicalName": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 21,
+            "missing": 29,
+            "pct": "42.0%"
+          },
+          "website": {
+            "present": 20,
+            "missing": 30,
+            "pct": "40.0%"
+          },
+          "openingHours": {
+            "present": 19,
+            "missing": 31,
+            "pct": "38.0%"
+          },
+          "organization": {
+            "present": 3,
+            "missing": 47,
+            "pct": "6.0%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 50,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 48,
+            "missing": 2,
+            "pct": "96.0%"
+          },
+          "lastVerified": {
+            "present": 50,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      },
+      "Essen": {
+        "count": 27,
+        "matrix": {
+          "canonicalName": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "slug": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "address": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "postalCode": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "city": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "latitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "longitude": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "phone": {
+            "present": 17,
+            "missing": 10,
+            "pct": "63.0%"
+          },
+          "website": {
+            "present": 16,
+            "missing": 11,
+            "pct": "59.3%"
+          },
+          "openingHours": {
+            "present": 15,
+            "missing": 12,
+            "pct": "55.6%"
+          },
+          "organization": {
+            "present": 3,
+            "missing": 24,
+            "pct": "11.1%"
+          },
+          "description": {
+            "present": 0,
+            "missing": 27,
+            "pct": "0.0%"
+          },
+          "rating": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "reviewCount": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "imageUrl": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "facilities": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          },
+          "lastVerified": {
+            "present": 27,
+            "missing": 0,
+            "pct": "100.0%"
+          }
+        }
+      }
+    }
+  },
+  "geo": {
+    "totalPublishedChecked": 443,
+    "anomalies": []
+  },
+  "duplicates": {
+    "duplicatePlaceIds": [],
+    "coLocatedOrDuplicateAddresses": [
+      {
+        "address": "berlin|am wasserwerk 18, 10365 berlin, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJeWHFMpxOqEcRSU6oTju9JGs",
+            "name": "Pakistanische Moschee",
+            "slug": "pakistanische-moschee",
+            "phone": null
+          },
+          {
+            "id": "ChIJnz5Hxz9OqEcRl5stajy-Vbw",
+            "name": "Berliner PAK Kulturverein e.V.",
+            "slug": "berliner-pak-kulturverein",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "berlin|juliusstraße 58, 12051 berlin, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJNXy3X05PqEcR3-kG-g7Iwj8",
+            "name": "Interkulturelle Gemeinde Berlin e.V. (IGB)",
+            "slug": "interkulturelle-gemeinde-berlin-igb",
+            "phone": "+49 176 62970916"
+          },
+          {
+            "id": "ChIJ8Q3qK6pPqEcRV1ICgp5FvxQ",
+            "name": "Al-Badr Moschee مسجد البدر",
+            "slug": "al-badr-moschee",
+            "phone": "+49 176 62970916"
+          }
+        ]
+      },
+      {
+        "address": "dortmund|oesterholzstraße 8, 44145 dortmund, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJy_EZW1AXuUcR09YdfdB4Zzw",
+            "name": "Islamic Cultural Association Takwa",
+            "slug": "islamic-cultural-association-takwa",
+            "phone": "+49 178 6372352"
+          },
+          {
+            "id": "ChIJHVAIjngXuUcR4mkXZZ6etS0",
+            "name": "Tadschikische Gesellschaft NUR e. V.",
+            "slug": "tadschikische-gesellschaft-nur",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "düsseldorf|hansaallee 376, 40547 düsseldorf, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJUaAjF3S2uEcRHmPVFZ431Ws",
+            "name": "Dusseldorf Central Mosque",
+            "slug": "dusseldorf-central-mosque",
+            "phone": "+49 211 5381670"
+          },
+          {
+            "id": "ChIJ3WKWnWS3uEcRGTCj2YPZ4TA",
+            "name": "Moschee Mosque Beyazit Camii",
+            "slug": "moschee-mosque-beyazit-camii",
+            "phone": "+49 211 5381670"
+          }
+        ]
+      },
+      {
+        "address": "düsseldorf|im liefeld 51, 40227 düsseldorf, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJg7P8LgDLuEcR3XAyjDmBrjQ",
+            "name": "Islamisches Zentrum Düsseldorf",
+            "slug": "islamisches-zentrum-duesseldorf",
+            "phone": "+49 211 161185"
+          },
+          {
+            "id": "ChIJs2_bVADLuEcR6JDTUNvZJh8",
+            "name": "Bayan Kulturzentrum (BKZ) e.V.",
+            "slug": "bayan-kulturzentrum-bkz",
+            "phone": "+49 176 62164380"
+          }
+        ]
+      },
+      {
+        "address": "essen|in d. hagenbeck 41, 45143 essen (stadtbezirke iii), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJxxdvEWDCuEcR2B-IB4BtORA",
+            "name": "DITIB Central Mosque Essen",
+            "slug": "ditib-central-mosque-essen",
+            "phone": "+49 201 890774"
+          },
+          {
+            "id": "ChIJWQjDGGDCuEcRnjaLL-oqmCc",
+            "name": "DITIB-Landesverband Nordrhein-Westfalen, Regionalverband Essen e.V.",
+            "slug": "ditib-landesverband-nordrhein-westfalen-regionalverband-essen",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "essen|rahmstraße 253, 45326 essen (stadtbezirke v), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJEbT_k3LouEcRBmtwWJJDGLs",
+            "name": "Islamisches Kulturzentrum Essen",
+            "slug": "islamisches-kulturzentrum-essen",
+            "phone": null
+          },
+          {
+            "id": "ChIJEbT_k3LouEcRIZPUMEPiK-w",
+            "name": "IGBD - Gemeinde Essen e.V.",
+            "slug": "igbd-gemeinde-essen",
+            "phone": "+49 201 47673999"
+          }
+        ]
+      },
+      {
+        "address": "frankfurt|münchener str. 55, 60329 frankfurt, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJkfxAlYMNvUcRZPBMtR90VYU",
+            "name": "Baitul Hamd Moschee (Bangladesch Islamisches Zentrum)",
+            "slug": "baitul-hamd-moschee-bangladesch-islamisches-zentrum",
+            "phone": null
+          },
+          {
+            "id": "ChIJWxxzBwAMvUcRYWFsrkvmQsk",
+            "name": "Pak Dar Ul-Islam Islamische-Gemeinde e.V.",
+            "slug": "pak-dar-ul-islam-islamische-gemeinde",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "frankfurt|wächtersbacher str. 95, 60386 frankfurt (ost), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJyXAUdkUOvUcR8IgsGxSWPns",
+            "name": "Afghan Islamic Cultural Centre of Frankfurt",
+            "slug": "afghan-islamic-cultural-centre-of-frankfurt",
+            "phone": "+49 69 26918463"
+          },
+          {
+            "id": "ChIJcb4x0FcJvUcR4oudg72Yq-A",
+            "name": "Islamic Information and Services e.V. (IIS)",
+            "slug": "islamic-information-and-services-iis",
+            "phone": "+49 69 74386825"
+          }
+        ]
+      },
+      {
+        "address": "frankfurt|höchster bahnstraße 2a, 65929 frankfurt, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJp3TyILugvUcR5J2Xa_Rs99s",
+            "name": "Bosnian Islamic Community of Frankfurt",
+            "slug": "bosnian-islamic-community-of-frankfurt",
+            "phone": "+49 177 4574936"
+          },
+          {
+            "id": "ChIJweUtNAChvUcRKaC-Usy6GOs",
+            "name": "Nasrat Moschee Frankfurt",
+            "slug": "nasrat-moschee-frankfurt",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "hamburg|knoopstraße 4, 21073 hamburg, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJo9L7R66RsUcRsxXtNcrtVZY",
+            "name": "Islamische Gemeinde in Harburg e.V.",
+            "slug": "islamische-gemeinde-in-harburg",
+            "phone": "+49 40 772785"
+          },
+          {
+            "id": "ChIJc05jFQCRsUcRdSPBIn-bVVw",
+            "name": "مسجد السلطان أيوب",
+            "slug": "msjd-alsltan-aywb",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "hamburg|bahrenfelder str. 92, 22765 hamburg, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJAQy1wIWFsUcR25-ZD0zRvkY",
+            "name": "Mosque community Altona - Ulu Cami",
+            "slug": "mosque-community-altona-ulu-cami",
+            "phone": "+49 40 392664"
+          },
+          {
+            "id": "ChIJMYzPDQCFsUcR-tlwvuIC9zM",
+            "name": "Aktona Ulu Cami",
+            "slug": "aktona-ulu-cami",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "hamburg|borgfelder str. 34, 20537 hamburg, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJGep4-LSPsUcRPalCwn-1ngw",
+            "name": "Masdjid Oummat",
+            "slug": "masdjid-oummat",
+            "phone": null
+          },
+          {
+            "id": "ChIJAUt2DQCPsUcRI27bDuddTpU",
+            "name": "Al-Azhar Moschee Kulturzentrum des Al-Azhar e.V.",
+            "slug": "al-azhar-moschee-kulturzentrum-des-al-azhar",
+            "phone": "+49 174 1902309"
+          }
+        ]
+      },
+      {
+        "address": "hamburg|borstelmannsweg 68, 20537 hamburg, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJR1pfSJ-OsUcRJKqtFg1oHPQ",
+            "name": "Landesverband İslamische Religionsgemeinschaft DITIB Hamburg und Schleswig-Holstein e.V.",
+            "slug": "landesverband-slamische-religionsgemeinschaft-ditib-hamburg-und-schleswig-holstein",
+            "phone": "+49 40 55899220"
+          },
+          {
+            "id": "ChIJb0B7N5-OsUcRbiJycThoWnE",
+            "name": "Hamburg merkez camii",
+            "slug": "hamburg-merkez-camii",
+            "phone": "+49 40 212031"
+          }
+        ]
+      },
+      {
+        "address": "hamburg|hamburger str. 199, 22083 hamburg (nord), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJZ4VnnTWJsUcRqfdJXVDGm4A",
+            "name": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+            "slug": "wandsbek-tuerkisch-islamischer-kulturverein",
+            "phone": "+49 40 2009351"
+          },
+          {
+            "id": "ChIJ92iNmjWJsUcRu88nmQRZH3M",
+            "name": "DITIB Ali Pasha Mosque",
+            "slug": "ditib-ali-pasha-mosque",
+            "phone": "+49 40 2998828"
+          }
+        ]
+      },
+      {
+        "address": "hamburg|brennerstraße 12, 20099 hamburg, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJrUibvueOsUcRKWK6Vcuk2Vs",
+            "name": "Pak Islami Majlis e.V.",
+            "slug": "pak-islami-majlis",
+            "phone": "+49 40 2801214"
+          },
+          {
+            "id": "ChIJXWw9lueOsUcRt75zYW7UGTU",
+            "name": "Kurdisch-Islamische Gemeinde Hamburg e.V.",
+            "slug": "kurdisch-islamische-gemeinde-hamburg",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "köln|höninger weg 5, 50969 köln (rodenkirchen), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJ62jSGFgkv0cR790gMrky99E",
+            "name": "Islamische Gemeinde Köln e.V.",
+            "slug": "islamische-gemeinde-koeln",
+            "phone": "+49 221 218676"
+          },
+          {
+            "id": "ChIJh-i7GFgkv0cRPr7dDZAORwM",
+            "name": "Abu Bakr Moschee - مسجد أبوبكر",
+            "slug": "abu-bakr-moschee",
+            "phone": "+49 221 218676"
+          }
+        ]
+      },
+      {
+        "address": "münchen|neuhauser str. 18, 80331 münchen, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJFec_6lN1nkcRUlidXpqiamI",
+            "name": "Masjid on 5th floor Oberpollinger",
+            "slug": "masjid-on-5th-floor-oberpollinger",
+            "phone": null
+          },
+          {
+            "id": "ChIJpcahnlN1nkcRuzihuPa_5hg",
+            "name": "Oberpollinger Mescid / Moschee",
+            "slug": "oberpollinger-mescid-moschee",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "münchen|ligsalzstraße 31a, 80339 münchen (schwanthalerhöhe), germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJUTdrxQF2nkcRiwuUkzEb7nc",
+            "name": "Moschee مسجد",
+            "slug": "moschee",
+            "phone": "+49 89 506449"
+          },
+          {
+            "id": "ChIJw6OvoGl2nkcRXB7_bEpAWuI",
+            "name": "Islamische Gemeinschaft Tevhid e.V.",
+            "slug": "islamische-gemeinschaft-tevhid",
+            "phone": "+49 89 51818736"
+          }
+        ]
+      },
+      {
+        "address": "münchen|schleißheimer str. 443, 80935 münchen, germany",
+        "count": 3,
+        "mosques": [
+          {
+            "id": "ChIJR8U_RLB2nkcRnkHCBxzd0qE",
+            "name": "Turkish Mosque",
+            "slug": "turkish-mosque",
+            "phone": null
+          },
+          {
+            "id": "ChIJuURmFbB2nkcRoShyUvLgtCk",
+            "name": "Förderverein der VIKZ-Gemeinde in München-Hasenbergl und Umgebung e.V.",
+            "slug": "foerderverein-der-vikz-gemeinde-in-muenchen-hasenbergl-und-umgebung",
+            "phone": null
+          },
+          {
+            "id": "ChIJ-xKXR7B2nkcRLf_29tBTEt4",
+            "name": "HasenberglHEE",
+            "slug": "hasenberglhee",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "münchen|hotterstraße 16, 80331 münchen, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+            "name": "Münchner Forum für Islam e.V.",
+            "slug": "muenchner-forum-fuer-islam",
+            "phone": "+49 89 21269366"
+          },
+          {
+            "id": "ChIJYZZSl_V1nkcRQK9FtRPOwdA",
+            "name": "Marienplatz Mosque",
+            "slug": "marienplatz-mosque",
+            "phone": "+49 89 21269366"
+          }
+        ]
+      },
+      {
+        "address": "münchen|bodenseestr. 222, 81243 münchen, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+            "name": "Neuaubing Mosque",
+            "slug": "neuaubing-mosque",
+            "phone": "+49 176 41800088"
+          },
+          {
+            "id": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+            "name": "Turkish mosque",
+            "slug": "turkish-mosque-2",
+            "phone": null
+          }
+        ]
+      },
+      {
+        "address": "münchen|lerchenstraße 66, 80995 münchen, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJ_f8J-dV1nkcROls4cnLS2Z8",
+            "name": "Al-Andalus",
+            "slug": "al-andalus",
+            "phone": null
+          },
+          {
+            "id": "ChIJZZIYPaUKnkcRCVDKLaCztC4",
+            "name": "Moschee Al-Muhsinin München",
+            "slug": "moschee-al-muhsinin-muenchen",
+            "phone": "+49 89 35061966"
+          }
+        ]
+      },
+      {
+        "address": "stuttgart|stuttgarter str. 60a, 70469 stuttgart, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJ8V1dw-jamUcRHc9y2SaREEU",
+            "name": "Annasîhah Moschee Stuttgart",
+            "slug": "annas-hah-moschee-stuttgart",
+            "phone": null
+          },
+          {
+            "id": "ChIJb5XFxOjamUcRia1zLjYunRw",
+            "name": "Verein für Kultur und Bildung Stuttgart e.V",
+            "slug": "verein-fuer-kultur-und-bildung-stuttgart",
+            "phone": "+49 172 7112150"
+          }
+        ]
+      },
+      {
+        "address": "stuttgart|friedhofstraße 71, 70191 stuttgart, germany",
+        "count": 3,
+        "mosques": [
+          {
+            "id": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+            "name": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+            "slug": "ulu-camii-moschee-des-landesverbands-der-islamischen-kulturzentren-bw",
+            "phone": "+49 711 2571777"
+          },
+          {
+            "id": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+            "name": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+            "slug": "vikz-verband-der-islamischen-kulturzentren",
+            "phone": "+49 711 2571777"
+          },
+          {
+            "id": "ChIJxXuu4CDmC0ERBiGwqalYn50",
+            "name": "Landesverband der Islamischen Kulturzentren Baden-Württemberg e. V.",
+            "slug": "landesverband-der-islamischen-kulturzentren-baden-wuerttemberg",
+            "phone": "+49 711 2571777"
+          }
+        ]
+      },
+      {
+        "address": "stuttgart|kesselstraße 41, 70327 stuttgart, germany",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJyf4XgETFmUcRPwBVRwqX6u0",
+            "name": "Turkish Mosque",
+            "slug": "turkish-mosque",
+            "phone": null
+          },
+          {
+            "id": "ChIJLyRcj_bFmUcR0M4seTNxQ-8",
+            "name": "Kasri Arifan Dergahı Stuttgart",
+            "slug": "kasri-arifan-dergah-stuttgart",
+            "phone": null
+          }
+        ]
+      }
+    ],
+    "phoneDuplicates": [
+      {
+        "phone": "49304935026",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJcRzfbyNSqEcRibqBXxBhgNM",
+            "name": "Aksemseddin Camii DITIB",
+            "city": "Berlin",
+            "address": "Bellermannstraße 89-90, 13357 Berlin, Germany"
+          },
+          {
+            "id": "ChIJsYerbiNSqEcRXa9FMawr74k",
+            "name": "Ravza Mosque",
+            "city": "Berlin",
+            "address": "Stettiner Str. 25, 13357 Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "4917662970916",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJNXy3X05PqEcR3-kG-g7Iwj8",
+            "name": "Interkulturelle Gemeinde Berlin e.V. (IGB)",
+            "city": "Berlin",
+            "address": "Juliusstraße 58, 12051 Berlin, Germany"
+          },
+          {
+            "id": "ChIJ8Q3qK6pPqEcRV1ICgp5FvxQ",
+            "name": "Al-Badr Moschee مسجد البدر",
+            "city": "Berlin",
+            "address": "Juliusstraße 58, 12051 Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "49231836904",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJDfcsxvgZuUcRgyy_c_OYId8",
+            "name": "مسجد ابو بكر",
+            "city": "Dortmund",
+            "address": "Innenstadt-Nord, 44145 Dortmund, Germany"
+          },
+          {
+            "id": "ChIJ4RsBuPgZuUcRjC7Qoj96zmI",
+            "name": "Islamischer Bund Dortmund e.V",
+            "city": "Dortmund",
+            "address": "Carl-Holtschneider-Straße 8A, 44145 Dortmund, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "492115381670",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJUaAjF3S2uEcRHmPVFZ431Ws",
+            "name": "Dusseldorf Central Mosque",
+            "city": "Düsseldorf",
+            "address": "Hansaallee 376, 40547 Düsseldorf, Germany"
+          },
+          {
+            "id": "ChIJ3WKWnWS3uEcRGTCj2YPZ4TA",
+            "name": "Moschee Mosque Beyazit Camii",
+            "city": "Düsseldorf",
+            "address": "Hansaallee 376, 40547 Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "492113840534",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJCXlkWTfKuEcROMMraLCqjOY",
+            "name": "MASJID OMAR",
+            "city": "Düsseldorf",
+            "address": "Adersstraße 93, 40215 Düsseldorf, Germany"
+          },
+          {
+            "id": "ChIJ1ZuBWTfKuEcRCIMTsR64J9A",
+            "name": "Moroccan Islamic Cultural Center of Dusseldorf",
+            "city": "Düsseldorf",
+            "address": "Adersstraße 91-93, 40215 Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "496997390353",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJGfJlANMLvUcR0W8PdRbivwA",
+            "name": "Islamischer Verein Moschee Tarik ben Ziad e.V.",
+            "city": "Frankfurt",
+            "address": "Mönchhofstraße 24a, 60326 Frankfurt, Germany"
+          },
+          {
+            "id": "ChIJp312fd0LvUcRk4pE8-AsBa0",
+            "name": "Islamisch-Bosnisches und Albanisches Kulturzentrum IKZ Frankfurt e.V.",
+            "city": "Frankfurt",
+            "address": "Lahnstraße 15, 60326 Frankfurt, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "49221218676",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJ62jSGFgkv0cR790gMrky99E",
+            "name": "Islamische Gemeinde Köln e.V.",
+            "city": "Köln",
+            "address": "Höninger Weg 5, 50969 Köln (Rodenkirchen), Germany"
+          },
+          {
+            "id": "ChIJh-i7GFgkv0cRPr7dDZAORwM",
+            "name": "Abu Bakr Moschee - مسجد أبوبكر",
+            "city": "Köln",
+            "address": "Höninger Weg 5, 50969 Köln (Rodenkirchen), Germany"
+          }
+        ]
+      },
+      {
+        "phone": "498921269366",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+            "name": "Münchner Forum für Islam e.V.",
+            "city": "München",
+            "address": "Hotterstraße 16, 80331 München, Germany"
+          },
+          {
+            "id": "ChIJYZZSl_V1nkcRQK9FtRPOwdA",
+            "name": "Marienplatz Mosque",
+            "city": "München",
+            "address": "Hotterstraße 16, 80331 München, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "497112571777",
+        "count": 3,
+        "mosques": [
+          {
+            "id": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+            "name": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+            "city": "Stuttgart",
+            "address": "Friedhofstraße 71, 70191 Stuttgart, Germany"
+          },
+          {
+            "id": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+            "name": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+            "city": "Stuttgart",
+            "address": "Friedhofstraße 71, 70191 Stuttgart, Germany"
+          },
+          {
+            "id": "ChIJxXuu4CDmC0ERBiGwqalYn50",
+            "name": "Landesverband der Islamischen Kulturzentren Baden-Württemberg e. V.",
+            "city": "Stuttgart",
+            "address": "Friedhofstraße 71, 70191 Stuttgart, Germany"
+          }
+        ]
+      },
+      {
+        "phone": "497113413845",
+        "count": 2,
+        "mosques": [
+          {
+            "id": "ChIJ_eGkEz3FmUcR1ZEBBrLqh5A",
+            "name": "Pakistan Welfare Society Stuttgart e.V.",
+            "city": "Stuttgart",
+            "address": "Spreuergasse 37, 70372 Stuttgart, Germany"
+          },
+          {
+            "id": "ChIJ93zrP1vFmUcRFMAT6iP2Pmw",
+            "name": "Madina Pakistani Masjid",
+            "city": "Stuttgart",
+            "address": "Spreuergasse 37, 70372 Stuttgart (Bad Cannstatt), Germany"
+          }
+        ]
+      }
+    ]
+  },
+  "organizations": {
+    "totalWithOrganization": 37,
+    "entities": [
+      {
+        "name": "Lubars Mosque",
+        "city": "Berlin",
+        "organization": "VIKZ",
+        "website": "http://vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB-Kocasinan Türkisch-Islamische Gemeinde zu Reinickendorf e. V.",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "IGMG Medina Mosque",
+        "city": "Berlin",
+        "organization": "IGMG",
+        "website": "http://www.medine.berlin-igmg.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Osman Gazi Mosque",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "http://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Kocatepe Mosque - DITIB",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "http://ditib-kocatepe-berlin.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Merkez Moschee",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "http://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Berlin New Mosque",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "http://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Tegel Selimiye Moschee",
+        "city": "Berlin",
+        "organization": "DITIB",
+        "website": "https://www.ditib-tegel-selimiye.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Ayasofya Moschee Scharnhorst",
+        "city": "Dortmund",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/default.php?id=13&lang=de&13=&filter=alphabet&abc=D",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DiTiB Selimiye Mosque Dortmund",
+        "city": "Dortmund",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Dortmund Central Mosque-Hörde",
+        "city": "Dortmund",
+        "organization": "DITIB",
+        "website": "http://www.ditib-hoerde.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB - Zentralmoschee",
+        "city": "Düsseldorf",
+        "organization": "DITIB",
+        "website": "http://www.ditib-duesseldorf.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Central Mosque Essen",
+        "city": "Essen",
+        "organization": "DITIB",
+        "website": "https://www.ditib-essen.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB-Landesverband Nordrhein-Westfalen, Regionalverband Essen e.V.",
+        "city": "Essen",
+        "organization": "DITIB",
+        "website": "https://www.ditib-essen.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Türkisch Islamischer Kulturverein Dellwig e.V.",
+        "city": "Essen",
+        "organization": "DITIB",
+        "website": "http://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Zentralmoschee Frankfurt",
+        "city": "Frankfurt",
+        "organization": "DITIB",
+        "website": "http://www.ditib-hessen.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Noor Mosque",
+        "city": "Frankfurt",
+        "organization": "AMJ",
+        "website": "http://www.ahmadiyya.de/gebetsstaette/moscheen/frankfurt-am-main/",
+        "hasMatchingDomain": false
+      },
+      {
+        "name": "Verband der Islamischen Kulturzentren e.V.",
+        "city": "Hamburg",
+        "organization": "VIKZ",
+        "website": "https://www.vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Verband der Islamischen Kulturzentren e.V.Selimiye Camii",
+        "city": "Hamburg",
+        "organization": "VIKZ",
+        "website": "https://www.vikz.de/de/gemeinden/ort/Hamburg.html",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Landesverband İslamische Religionsgemeinschaft DITIB Hamburg und Schleswig-Holstein e.V.",
+        "city": "Hamburg",
+        "organization": "DITIB",
+        "website": "http://www.ditib-nord.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+        "city": "Hamburg",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/default.php?id=13&lang=de&13=&filter=alphabet&abc=H",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Ali Pasha Mosque",
+        "city": "Hamburg",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB-Türkisch Islamische Gem. Zu Hamburg-Harburg e.V.",
+        "city": "Hamburg",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/default.php?id=13&lang=de&13=&filter=alphabet&abc=H",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB-Moschee Wilhelmsburg",
+        "city": "Hamburg",
+        "organization": "DITIB",
+        "website": "https://www.ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Cologne Mosque Bait-un-Nasr",
+        "city": "Köln",
+        "organization": "AMJ",
+        "website": "http://www.ahmadiyya.de/gebetsstaette/moscheen/koeln/",
+        "hasMatchingDomain": false
+      },
+      {
+        "name": "DITIB Köln Porz - Mevlana Moschee",
+        "city": "Köln",
+        "organization": "DITIB",
+        "website": "http://porz-ditib.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Zentrum für Bildung und Integration in Köln-Mülheim - VIKZ e.V.",
+        "city": "Köln",
+        "organization": "VIKZ",
+        "website": "http://www.vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Cologne Chorweiler Mosque",
+        "city": "Köln",
+        "organization": "DITIB",
+        "website": "https://ditib-chorweiler.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Center an der Zentralmoschee",
+        "city": "Köln",
+        "organization": "DITIB",
+        "website": "https://ditibcenter.com/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Nippes Yeni Camii",
+        "city": "Köln",
+        "organization": "VIKZ",
+        "website": "https://nippes.vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Türkische Moschee Deutsch-Türkischer-Kulturverein e.V.",
+        "city": "München",
+        "organization": "DITIB",
+        "website": "https://ditib-mirac.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "VIKZ-Gemeinde München-Giesing",
+        "city": "München",
+        "organization": "VIKZ",
+        "website": "http://vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "DITIB Mehmet Akif Moschee München",
+        "city": "München",
+        "organization": "DITIB",
+        "website": "https://www.ditib-mehmetakif.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Moschee VIKZ München",
+        "city": "München",
+        "organization": "VIKZ",
+        "website": "https://nord.vikz.de/tr/gemeinden-tr/ort/M%C3%BCnchen.html",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Stuttgart Central Mosque",
+        "city": "Stuttgart",
+        "organization": "DITIB",
+        "website": "http://www.ditib-feuerbach.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+        "city": "Stuttgart",
+        "organization": "VIKZ",
+        "website": "https://bw.vikz.de/",
+        "hasMatchingDomain": true
+      },
+      {
+        "name": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+        "city": "Stuttgart",
+        "organization": "VIKZ",
+        "website": "https://bw.vikz.de/de/kontakt.html",
+        "hasMatchingDomain": true
+      }
+    ]
+  },
+  "slugs": {
+    "slugCollisionsInCity": [],
+    "allowedCrossCitySlugs": [
+      {
+        "slug": "valide-sultan-moschee",
+        "cities": [
+          "Berlin",
+          "Frankfurt"
+        ]
+      },
+      {
+        "slug": "eyuep-sultan-moschee",
+        "cities": [
+          "Berlin",
+          "Dortmund",
+          "Frankfurt"
+        ]
+      },
+      {
+        "slug": "yunus-emre-moschee",
+        "cities": [
+          "Dortmund",
+          "Köln"
+        ]
+      },
+      {
+        "slug": "massjid-ar-rahman",
+        "cities": [
+          "Dortmund",
+          "Düsseldorf"
+        ]
+      },
+      {
+        "slug": "moschee",
+        "cities": [
+          "Dortmund",
+          "Düsseldorf",
+          "München"
+        ]
+      },
+      {
+        "slug": "abu-bakr-moschee",
+        "cities": [
+          "Essen",
+          "Köln"
+        ]
+      },
+      {
+        "slug": "omar-moschee",
+        "cities": [
+          "Frankfurt",
+          "München"
+        ]
+      },
+      {
+        "slug": "african-muslim-association",
+        "cities": [
+          "Frankfurt",
+          "Hamburg"
+        ]
+      },
+      {
+        "slug": "turkish-mosque",
+        "cities": [
+          "München",
+          "Stuttgart"
+        ]
+      }
+    ]
+  },
+  "sitemap": {
+    "home": 3,
+    "search": 3,
+    "cityPages": 27,
+    "detailPages": 1329,
+    "total": 1362
+  }
+}

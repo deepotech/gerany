@@ -1,0 +1,37 @@
+{
+  "city": "Mannheim",
+  "slug": "mannheim",
+  "state": "Baden-Württemberg",
+  "runAt": "2026-09-30T11:01:35.893Z",
+  "isDryRun": true,
+  "rawCount": 23,
+  "uniqueCount": 23,
+  "duplicatesRemoved": 0,
+  "publishedCount": 21,
+  "reviewCount": 2,
+  "rejectedCount": 0,
+  "crossCityAnomalyCount": 0,
+  "crossCityAnomalies": [],
+  "gateReport": {
+    "city": "Mannheim",
+    "slug": "mannheim",
+    "evaluatedAt": "2026-09-30T11:01:35.893Z",
+    "status": "NOT_READY",
+    "passed": false,
+    "blockers": [],
+    "warnings": [
+      {
+        "gate": "GATE_C",
+        "passed": false,
+        "blocker": false,
+        "reason": "> 50% missing phone"
+      }
+    ],
+    "metrics": {
+      "totalEntities": 23,
+      "publishableEntities": 23,
+      "coordsPercent": 1
+    },
+    "recommendation": "City has warnings. Please review before proceeding."
+  }
+}
