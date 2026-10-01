@@ -64,6 +64,12 @@ describe('Production Domain Migration: moscheeindernaehe.de', () => {
       expect(titleTemplate).toContain('MoscheeAtlas');
       expect(titleTemplate).not.toContain('moscheeatlas.de');
     });
+
+    it('configures Google Search Console verification token', () => {
+      expect(rootMetadata.verification?.google).toBe(
+        'gn8N5OcGt0pLLpTALghRPXtJj31NPHB2UiK0uCZYCSI'
+      );
+    });
   });
 
   // 3. Sitemap URL Canonicalization
