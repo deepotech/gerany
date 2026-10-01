@@ -189,7 +189,7 @@ describe('PHASE 7: Verification, Operator Review & Community Enrichment Regressi
           (p) => p.city === r.city && p.slug === r.slug
         );
         if (!publishedInSameCityWithSlug) {
-          expect(urls.has(`https://moscheeatlas.de/de/moschee/${config.slug}/${r.slug}`)).toBe(false);
+          expect(urls.has(`https://moscheeindernaehe.de/de/moschee/${config.slug}/${r.slug}`)).toBe(false);
         }
       }
     }

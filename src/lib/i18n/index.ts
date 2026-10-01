@@ -124,7 +124,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       share: 'Teilen',
     },
     seo: {
-      homeTitle: 'MoscheeAtlas.de – Finde eine Moschee in deiner Nähe',
+      homeTitle: 'MoscheeAtlas – Finde eine Moschee in deiner Nähe',
       homeDesc: 'Finde erfasste Moscheen und Gebetsräume in Deutschland. Suche nach Stadt, PLZ oder aktuellem Standort mit Gebetszeiten und Ausstattung.',
       listTitle: 'Moscheen in Deutschland – Alle Gebetsräume & Adressen',
       listDesc: 'Übersicht erfasster Moscheen in ganz Deutschland. Finde Gebetsräume nach Stadt mit Karte, Adresse und Ausstattung.',
@@ -188,7 +188,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       share: 'Share',
     },
     seo: {
-      homeTitle: 'MoscheeAtlas.de – Find a Mosque Near You in Germany',
+      homeTitle: 'MoscheeAtlas – Find a Mosque Near You in Germany',
       homeDesc: 'Find listed mosques and Islamic prayer spaces across Germany. Search by city, postal code or location with map directions and facilities.',
       listTitle: 'Mosques in Germany – Directory of Islamic Prayer Spaces',
       listDesc: 'Directory of listed mosques across Germany. Search by city and district with interactive map and facility filters.',
@@ -252,7 +252,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       share: 'مشاركة',
     },
     seo: {
-      homeTitle: 'MoscheeAtlas.de – ابحث عن أقرب مسجد إليك في ألمانيا',
+      homeTitle: 'MoscheeAtlas – ابحث عن أقرب مسجد إليك في ألمانيا',
       homeDesc: 'ابحث عن المساجد والمراكز الإسلامية المُدرجة في جميع أنحاء ألمانيا عبر المدينة أو الرمز البريدي أو الخريطة التفاعلية.',
       listTitle: 'مساجد ألمانيا – دليل المصليات والمراكز الإسلامية',
       listDesc: 'دليل شامل لمساجد ألمانيا مع الخريطة والمرافق وأماكن وضوء ومصلى للنساء.',

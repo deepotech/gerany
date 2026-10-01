@@ -8,7 +8,7 @@ function main() {
   const pilotRaw = JSON.parse(fs.readFileSync(pilotPath, 'utf8'));
 
   console.log('\n' + '='.repeat(65));
-  console.log('   MOSCHEEATLAS.DE — CONTROLLED PILOT EXECUTION (HANNOVER)');
+  console.log('   MOSCHEEATLAS — CONTROLLED PILOT EXECUTION (HANNOVER)');
   console.log('='.repeat(65) + '\n');
 
   const res = runPipeline(pilotRaw, 'Hannover', { dryRun: true });

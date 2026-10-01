@@ -111,9 +111,9 @@ describe('Phase 1.5 Audit — 2. SEO INDEXATION SAFETY', () => {
           (p) => p.city === item.city && p.slug === item.slug
         );
         if (!publishedInSameCityWithSlug) {
-          expect(sitemapUrls.has(`https://moscheeatlas.de/de/moschee/${config.slug}/${item.slug}`)).toBe(false);
-          expect(sitemapUrls.has(`https://moscheeatlas.de/en/mosque/${config.englishSlug}/${item.slug}`)).toBe(false);
-          expect(sitemapUrls.has(`https://moscheeatlas.de/ar/mosque/${config.slug}/${item.slug}`)).toBe(false);
+          expect(sitemapUrls.has(`https://moscheeindernaehe.de/de/moschee/${config.slug}/${item.slug}`)).toBe(false);
+          expect(sitemapUrls.has(`https://moscheeindernaehe.de/en/mosque/${config.englishSlug}/${item.slug}`)).toBe(false);
+          expect(sitemapUrls.has(`https://moscheeindernaehe.de/ar/mosque/${config.slug}/${item.slug}`)).toBe(false);
         }
       }
     });
@@ -128,9 +128,9 @@ describe('Phase 1.5 Audit — 2. SEO INDEXATION SAFETY', () => {
     published.forEach((m) => {
       const config = CITY_CONFIGS.find((c) => c.canonical === m.city);
       if (!config) return;
-      const deMatches = urls.filter((u) => u === `https://moscheeatlas.de/de/moschee/${config.slug}/${m.slug}`);
-      const enMatches = urls.filter((u) => u === `https://moscheeatlas.de/en/mosque/${config.englishSlug}/${m.slug}`);
-      const arMatches = urls.filter((u) => u === `https://moscheeatlas.de/ar/mosque/${config.slug}/${m.slug}`);
+      const deMatches = urls.filter((u) => u === `https://moscheeindernaehe.de/de/moschee/${config.slug}/${m.slug}`);
+      const enMatches = urls.filter((u) => u === `https://moscheeindernaehe.de/en/mosque/${config.englishSlug}/${m.slug}`);
+      const arMatches = urls.filter((u) => u === `https://moscheeindernaehe.de/ar/mosque/${config.slug}/${m.slug}`);
 
       expect(deMatches.length).toBe(1);
       expect(enMatches.length).toBe(1);

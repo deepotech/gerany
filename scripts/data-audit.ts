@@ -1,5 +1,5 @@
 /**
- * MoscheeAtlas.de — Comprehensive Data Audit Script
+ * MoscheeAtlas — Comprehensive Data Audit Script
  * Command: npm run data:audit
  *
  * Audits published and staging records against Phase 4 data quality requirements:
@@ -21,7 +21,7 @@ import { validateMosqueEntity } from '../src/pipeline/validate';
 
 function main() {
   console.log('\n' + '='.repeat(65));
-  console.log('   MOSCHEEATLAS.DE — PRODUCTION DATA QUALITY AUDIT');
+  console.log('   MOSCHEEATLAS — PRODUCTION DATA QUALITY AUDIT');
   console.log('='.repeat(65) + '\n');
 
   const rootDir = path.resolve(__dirname, '..');

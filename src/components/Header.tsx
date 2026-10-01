@@ -41,7 +41,7 @@ export default function Header({ locale, cityCount = 9 }: HeaderProps) {
             </div>
             <div>
               <span className="font-bold text-slate-900 text-lg tracking-tight block leading-tight">
-                MoscheeAtlas.de
+                MoscheeAtlas
               </span>
               <span className="text-xs text-brand-700 font-medium tracking-wide">
                 {subtitle}

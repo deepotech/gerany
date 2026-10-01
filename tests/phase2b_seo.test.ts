@@ -1,10 +1,10 @@
 /**
  * Phase 2B SEO Regression Tests
- * MoscheeAtlas.de — Production SEO, Data Quality & Indexability Audit
+ * MoscheeAtlas — Production SEO, Data Quality & Indexability Audit
  *
  * Assertions:
  * 1.  No hardcoded "germany-mosque-finder.de" domain in key config files
- * 2.  SITE_URL resolves to moscheeatlas.de
+ * 2.  SITE_URL resolves to moscheeindernaehe.de
  * 3.  All 9 cities have published mosques (non-zero count)
  * 4.  No zero-coordinate mosques in published set
  * 5.  No same-city slug collisions
@@ -54,10 +54,10 @@ describe('Phase 2B — SEO & Data Quality Regression', () => {
     expect(SITE_URL).not.toContain('germany-mosque-finder.de');
   });
 
-  // ---- Test 2: SITE_URL resolves to moscheeatlas.de (default) ----
-  it('2. SITE_URL default resolves to moscheeatlas.de', () => {
+  // ---- Test 2: SITE_URL resolves to moscheeindernaehe.de (default) ----
+  it('2. SITE_URL default resolves to moscheeindernaehe.de', () => {
     // Allow override via env but the default must be correct
-    const expected = process.env.NEXT_PUBLIC_SITE_URL || 'https://moscheeatlas.de';
+    const expected = process.env.NEXT_PUBLIC_SITE_URL || 'https://moscheeindernaehe.de';
     expect(SITE_URL).toBe(expected);
   });
 

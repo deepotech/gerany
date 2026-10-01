@@ -176,10 +176,10 @@ describe('Phase 5B: Real Data Import & Controlled City Launch', () => {
   });
 
   // 15. All URLs in sitemap use valid domain
-  it('all sitemap URLs start with https://moscheeatlas.de', async () => {
+  it('all sitemap URLs start with https://moscheeindernaehe.de', async () => {
     const entries = await sitemap();
     for (const e of entries) {
-      expect(e.url.startsWith('https://moscheeatlas.de/')).toBe(true);
+      expect(e.url.startsWith('https://moscheeindernaehe.de/')).toBe(true);
     }
   });
 
@@ -191,9 +191,9 @@ describe('Phase 5B: Real Data Import & Controlled City Launch', () => {
     for (const m of mosques) {
       const config = getPublishedCityConfigs().find(c => c.canonical === m.city);
       if (config) {
-        expect(urls.has(`https://moscheeatlas.de/de/moschee/${config.slug}/${m.slug}`)).toBe(true);
-        expect(urls.has(`https://moscheeatlas.de/en/mosque/${config.englishSlug}/${m.slug}`)).toBe(true);
-        expect(urls.has(`https://moscheeatlas.de/ar/mosque/${config.slug}/${m.slug}`)).toBe(true);
+        expect(urls.has(`https://moscheeindernaehe.de/de/moschee/${config.slug}/${m.slug}`)).toBe(true);
+        expect(urls.has(`https://moscheeindernaehe.de/en/mosque/${config.englishSlug}/${m.slug}`)).toBe(true);
+        expect(urls.has(`https://moscheeindernaehe.de/ar/mosque/${config.slug}/${m.slug}`)).toBe(true);
       }
     }
   });

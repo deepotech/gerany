@@ -1,5 +1,5 @@
 /**
- * MoscheeAtlas.de — Data Diff Command
+ * MoscheeAtlas — Data Diff Command
  * Command: npm run data:diff [-- <incoming_file>]
  *
  * Compares current dataset against an incoming import file or staging dataset.
@@ -14,7 +14,7 @@ import { runPipeline } from '../src/pipeline/runner';
 
 function main() {
   console.log('\n' + '='.repeat(65));
-  console.log('   MOSCHEEATLAS.DE — DATASET DIFF REPORT');
+  console.log('   MOSCHEEATLAS — DATASET DIFF REPORT');
   console.log('='.repeat(65) + '\n');
 
   const rootDir = path.resolve(__dirname, '..');

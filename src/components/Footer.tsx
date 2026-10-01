@@ -21,7 +21,7 @@ export default function Footer({ locale, totalMosques, cityCount }: FooterProps)
           {/* Brand & Purpose */}
           <div className="md:col-span-1">
             <span className="font-bold text-white text-lg tracking-tight block mb-2">
-              MoscheeAtlas.de
+              MoscheeAtlas
             </span>
             <p className="text-slate-400 text-sm leading-relaxed mb-4">
               {dict.common.tagline}. Erfasste lokale Gebetsstätten, Kontaktdaten, Barrierefreiheit und Wegbeschreibungen in ganz Deutschland.
@@ -104,7 +104,7 @@ export default function Footer({ locale, totalMosques, cityCount }: FooterProps)
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>&copy; {new Date().getFullYear()} MoscheeAtlas.de. {locale === 'en' ? 'All rights reserved.' : locale === 'ar' ? 'جميع الحقوق محفوظة.' : 'Alle Rechte vorbehalten.'}</p>
+          <p>&copy; {new Date().getFullYear()} MoscheeAtlas. {locale === 'en' ? 'All rights reserved.' : locale === 'ar' ? 'جميع الحقوق محفوظة.' : 'Alle Rechte vorbehalten.'}</p>
           <div className="flex items-center gap-6">
             <Link href={getHomeUrl(locale)} className="hover:text-slate-300">
               Home

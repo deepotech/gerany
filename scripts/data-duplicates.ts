@@ -1,5 +1,5 @@
 /**
- * MoscheeAtlas.de — Duplicate Audit Script
+ * MoscheeAtlas — Duplicate Audit Script
  * Command: npm run data:duplicates
  *
  * Scans the published and staging dataset for:
@@ -20,7 +20,7 @@ import { calculateDuplicateEvidence } from '../src/pipeline/deduplicate';
 
 function main() {
   console.log('\n' + '='.repeat(65));
-  console.log('   MOSCHEEATLAS.DE — DUPLICATE AUDIT REPORT');
+  console.log('   MOSCHEEATLAS — DUPLICATE AUDIT REPORT');
   console.log('='.repeat(65) + '\n');
 
   const rootDir = path.resolve(__dirname, '..');

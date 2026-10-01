@@ -82,7 +82,7 @@ describe('PHASE 6: Production Data Operations & Scaling Regression Protection', 
           (p) => p.city === r.city && p.slug === r.slug
         );
         if (!publishedInSameCityWithSlug) {
-          expect(sitemapUrls.has(`https://moscheeatlas.de/de/moschee/${config.slug}/${r.slug}`)).toBe(false);
+          expect(sitemapUrls.has(`https://moscheeindernaehe.de/de/moschee/${config.slug}/${r.slug}`)).toBe(false);
         }
       }
     }

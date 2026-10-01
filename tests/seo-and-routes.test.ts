@@ -68,18 +68,18 @@ describe('2. SEO & Schema.org JSON-LD Generation', () => {
     expect(entries.length).toBeGreaterThan(100); // 3 home + 3*9 city + (443 * 3) mosques
 
     const urls = entries.map((e) => e.url);
-    expect(urls).toContain('https://moscheeatlas.de/de');
-    expect(urls).toContain('https://moscheeatlas.de/en');
-    expect(urls).toContain('https://moscheeatlas.de/ar');
-    expect(urls).toContain('https://moscheeatlas.de/de/moscheen/koeln');
-    expect(urls).toContain('https://moscheeatlas.de/en/mosques/cologne');
-    expect(urls).toContain('https://moscheeatlas.de/ar/mosques/koeln');
+    expect(urls).toContain('https://moscheeindernaehe.de/de');
+    expect(urls).toContain('https://moscheeindernaehe.de/en');
+    expect(urls).toContain('https://moscheeindernaehe.de/ar');
+    expect(urls).toContain('https://moscheeindernaehe.de/de/moscheen/koeln');
+    expect(urls).toContain('https://moscheeindernaehe.de/en/mosques/cologne');
+    expect(urls).toContain('https://moscheeindernaehe.de/ar/mosques/koeln');
   });
 
   it('generates robots.txt disallowing admin and thin query params', () => {
     const r = robots();
     expect(r.rules).toBeDefined();
-    expect(r.sitemap).toBe('https://moscheeatlas.de/sitemap.xml');
+    expect(r.sitemap).toBe('https://moscheeindernaehe.de/sitemap.xml');
   });
 });
 
