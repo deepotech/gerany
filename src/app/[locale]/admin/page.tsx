@@ -17,6 +17,8 @@ import {
   Layers,
 } from 'lucide-react';
 
+import { isAuthenticatedAdmin } from '@/lib/auth';
+
 interface AdminPageProps {
   params: {
     locale: string;
@@ -34,6 +36,11 @@ export const metadata: Metadata = {
 export default async function AdminPage({ params }: AdminPageProps) {
   const { locale } = params;
   if (!isValidLocale(locale)) notFound();
+
+  // Fail closed: require valid admin credentials
+  if (!isAuthenticatedAdmin()) {
+    notFound();
+  }
 
   const repo = getMosqueRepository();
   const report = await repo.getDataQualityReport();

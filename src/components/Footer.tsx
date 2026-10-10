@@ -1,7 +1,9 @@
+'use client';
+
 import React from 'react';
 import Link from 'next/link';
 import { Locale, getDictionary } from '@/lib/i18n';
-import { getCityUrl, getHomeUrl, getSearchUrl } from '@/lib/routes';
+import { getCityUrl, getDatenschutzUrl, getHomeUrl, getImpressumUrl, getSearchUrl } from '@/lib/routes';
 import { getPublishedCityConfigs } from '@/pipeline/city-config';
 
 interface FooterProps {
@@ -115,6 +117,23 @@ export default function Footer({ locale, totalMosques, cityCount }: FooterProps)
             <Link href={getSearchUrl(locale)} className="hover:text-slate-300">
               {dict.common.search}
             </Link>
+            <Link href={getImpressumUrl(locale)} className="hover:text-slate-300">
+              {dict.common.impressum}
+            </Link>
+            <Link href={getDatenschutzUrl(locale)} className="hover:text-slate-300">
+              {dict.common.datenschutz}
+            </Link>
+            <button
+              type="button"
+              onClick={() => {
+                if (typeof window !== 'undefined') {
+                  window.dispatchEvent(new CustomEvent('openCookieSettings'));
+                }
+              }}
+              className="hover:text-slate-300 text-left cursor-pointer transition-colors"
+            >
+              {dict.common.cookieSettings}
+            </button>
           </div>
         </div>
       </div>

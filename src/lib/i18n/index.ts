@@ -1,4 +1,5 @@
 export type Locale = 'de' | 'en' | 'ar';
+export const LOCALES: Locale[] = ['de', 'en', 'ar'];
 
 export interface Dictionary {
   common: {
@@ -33,6 +34,9 @@ export interface Dictionary {
     noInfo: string;
     resetFilters: string;
     reviews: string;
+    impressum: string;
+    datenschutz: string;
+    cookieSettings: string;
   };
   home: {
     heroTitle: string;
@@ -99,6 +103,9 @@ export const dictionaries: Record<Locale, Dictionary> = {
       noInfo: 'Keine Angabe',
       resetFilters: 'Filter zurücksetzen',
       reviews: 'Bewertungen',
+      impressum: 'Impressum',
+      datenschutz: 'Datenschutz',
+      cookieSettings: 'Cookie-Einstellungen',
     },
     home: {
       heroTitle: 'Finde eine Moschee in deiner Nähe',
@@ -163,6 +170,9 @@ export const dictionaries: Record<Locale, Dictionary> = {
       noInfo: 'Not available',
       resetFilters: 'Reset filters',
       reviews: 'reviews',
+      impressum: 'Legal Notice / Imprint',
+      datenschutz: 'Privacy Policy',
+      cookieSettings: 'Cookie Settings',
     },
     home: {
       heroTitle: 'Find a Mosque Near You in Germany',
@@ -227,6 +237,9 @@ export const dictionaries: Record<Locale, Dictionary> = {
       noInfo: 'غير محدد',
       resetFilters: 'إعادة ضبط الفلاتر',
       reviews: 'تقييمات',
+      impressum: 'إشعار قانوني',
+      datenschutz: 'سياسة الخصوصية',
+      cookieSettings: 'إعدادات ملفات تعريف الارتباط',
     },
     home: {
       heroTitle: 'ابحث عن مسجد في ألمانيا بالقرب منك',

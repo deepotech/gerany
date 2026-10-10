@@ -10,6 +10,15 @@ export function getSearchUrl(locale: Locale): string {
   return `/${locale}/mosques`;
 }
 
+export function getImpressumUrl(locale: Locale): string {
+  return `/${locale}/impressum`;
+}
+
+export function getDatenschutzUrl(locale: Locale): string {
+  return `/${locale}/datenschutz`;
+}
+
+
 /**
  * Returns the canonical URL for a city collection page.
  * English routes use the englishSlug; German and Arabic use the Latin slug.

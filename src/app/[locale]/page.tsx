@@ -24,7 +24,9 @@ export async function generateMetadata({ params }: HomePageProps): Promise<Metad
   const dict = getDictionary(locale);
 
   return {
-    title: dict.seo.homeTitle,
+    title: {
+      absolute: dict.seo.homeTitle,
+    },
     description: dict.seo.homeDesc,
     alternates: {
       canonical: `/${locale}`,
