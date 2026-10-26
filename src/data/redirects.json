@@ -662,5 +662,3412 @@
     "placeId": "ChIJ8V1dw-jamUcRHc9y2SaREEU",
     "canonicalName": "Annasîhah Moschee Stuttgart",
     "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moscheen/berlin2",
+    "destination": "/de/moscheen/berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "canonicalName": "Berlin",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/d-t-m-merkez-camii-muenih3",
+    "destination": "/ar/mosque/muenchen/d-t-m-merkez-camii-muenih",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJBToV8zbfnUcRJ3Ws_rdcIes",
+    "canonicalName": "DİTİM Merkez Camii Münih",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/masjid-hamza-moschee4",
+    "destination": "/en/mosque/cologne/masjid-hamza-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJc1-1uAYmv0cRHmlclDg6IQ4",
+    "canonicalName": "Masjid Hamza Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/duesseldorf/moschee-mosque-beyazit-camii3",
+    "destination": "/de/moschee/duesseldorf/moschee-mosque-beyazit-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ3WKWnWS3uEcRGTCj2YPZ4TA",
+    "canonicalName": "Moschee Mosque Beyazit Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/rayyan-moschee3",
+    "destination": "/en/mosque/hamburg/rayyan-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJwxF-PQCNsUcR-UHeHZ3jq4I",
+    "canonicalName": "Rayyan Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/igbd-gemeinde-essen4",
+    "destination": "/ar/mosque/essen/igbd-gemeinde-essen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJEbT_k3LouEcRIZPUMEPiK-w",
+    "canonicalName": "IGBD - Gemeinde Essen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/essen-central-mosque4",
+    "destination": "/ar/mosque/essen/essen-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJzxcluM_nuEcRxgWm2dG-sOs",
+    "canonicalName": "Essen Central Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/hamburg-merkez-camii3",
+    "destination": "/ar/mosque/hamburg/hamburg-merkez-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJb0B7N5-OsUcRbiJycThoWnE",
+    "canonicalName": "Hamburg merkez camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/nuremberg/al-madinah-darussalam3",
+    "destination": "/en/mosque/nuremberg/al-madinah-darussalam",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJVU-WfwZXn0cRjo_C64Z7rgQ",
+    "canonicalName": "Al Madinah Darussalam",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/mam-mehdi-hueseyniye-camii3",
+    "destination": "/de/moschee/frankfurt/mam-mehdi-hueseyniye-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJrfDtKFwLvUcRyR38qu8JA_E",
+    "canonicalName": "İmam Mehdi Hüseyniye Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/essen/igbd-gemeinde-essen4",
+    "destination": "/en/mosque/essen/igbd-gemeinde-essen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJEbT_k3LouEcRIZPUMEPiK-w",
+    "canonicalName": "IGBD - Gemeinde Essen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/nuernberg/aikf-al-rahama-moschee3",
+    "destination": "/ar/mosque/nuernberg/aikf-al-rahama-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJGRkjdxdXn0cRVg0xZt9d_3o",
+    "canonicalName": "AIKF e.V. Al Rahama Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/leipzig/takva-moschee-camii-mosque3",
+    "destination": "/de/moschee/leipzig/takva-moschee-camii-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJQWDVKAD5pkcRZzJGnIIiy1Q",
+    "canonicalName": "Takva Moschee Camii Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/al-shafii-moschee4",
+    "destination": "/de/moschee/hamburg/al-shafii-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJFz2yfgCPsUcR1065bBodYK8",
+    "canonicalName": "Al-Shafii Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/al-ummah-moschee3",
+    "destination": "/en/mosque/berlin/al-ummah-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJoVGAnBJPqEcRSupeU6wJDJg",
+    "canonicalName": "Al-Ummah Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/assahaba-mosque4",
+    "destination": "/ar/mosque/hamburg/assahaba-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJdc9Ttj-JsUcR-RNfCePBSEk",
+    "canonicalName": "Assahaba Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/leipzig/ditib-tuerkisch-islamische-gemeinde-zu-leipzig4",
+    "destination": "/en/mosque/leipzig/ditib-tuerkisch-islamische-gemeinde-zu-leipzig",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ-RAaZpj3pkcR9L8C7CeZMTg",
+    "canonicalName": "DITIB-Türkisch islamische Gemeinde zu Leipzig e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/igmg-bremen-blumenthal4",
+    "destination": "/ar/mosque/bremen/igmg-bremen-blumenthal",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJNxADUXHTtkcRdKrnnBC-KWM",
+    "canonicalName": "IGMG Bremen Blumenthal",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/wuppertaler-integrations-und-bildunsgverein3",
+    "destination": "/ar/mosque/wuppertal/wuppertaler-integrations-und-bildunsgverein",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJxYF2n_nWuEcRQhY0h60aFq0",
+    "canonicalName": "Wuppertaler Integrations - und Bildunsgverein",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/verein-der-zukunft3",
+    "destination": "/ar/mosque/muenchen/verein-der-zukunft",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJTXWDPKUKnkcRBmde08EnWkU",
+    "canonicalName": "Verein der Zukunft",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/ditib-eyuep-sultan-bahce-moschee3",
+    "destination": "/de/moschee/bremen/ditib-eyuep-sultan-bahce-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJw-vYTUbTtkcRFJBc1Ca2sH8",
+    "canonicalName": "DITIB Eyüp Sultan Bahce Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/ditib-landesverband-nordrhein-westfalen-regionalverband-essen4",
+    "destination": "/ar/mosque/essen/ditib-landesverband-nordrhein-westfalen-regionalverband-essen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJWQjDGGDCuEcRnjaLL-oqmCc",
+    "canonicalName": "DITIB-Landesverband Nordrhein-Westfalen, Regionalverband Essen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/aig-moschee-albanische-islamische-gemeinschaft-balkan4",
+    "destination": "/de/moschee/muenchen/aig-moschee-albanische-islamische-gemeinschaft-balkan",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJs8LHBPt1nkcRCbW-bjW-eJg",
+    "canonicalName": "AIG Moschee – Albanische Islamische Gemeinschaft Balkan e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bonn/deutsch-bosniakisches-kulturzentrum-hajr3",
+    "destination": "/ar/mosque/bonn/deutsch-bosniakisches-kulturzentrum-hajr",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJE2mlN6bhvkcRPVvHkIJ_ppM",
+    "canonicalName": "Deutsch Bosniakisches Kulturzentrum Hajr e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/fatih-mosque3",
+    "destination": "/ar/mosque/berlin/fatih-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJGZMpgU1OqEcRpaiub8_5gLE",
+    "canonicalName": "Fatih Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/kocatepe-mosque-ditib3",
+    "destination": "/en/mosque/berlin/kocatepe-mosque-ditib",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ5ZT_U79WqEcRXJokqjb82O4",
+    "canonicalName": "Kocatepe Mosque - DITIB",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/african-muslim-association3",
+    "destination": "/ar/mosque/hamburg/african-muslim-association",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ2_ay8eiOsUcRBkAtAAWrLfE",
+    "canonicalName": "African Muslim Association e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/yeni-beyazit-moschee3",
+    "destination": "/de/moschee/hamburg/yeni-beyazit-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJm9x6bwCPsUcRIawDz8MZau8",
+    "canonicalName": "Yeni Beyazit Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/essen/integration-und-bildungszentrum-essen4",
+    "destination": "/de/moschee/essen/integration-und-bildungszentrum-essen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJtzEekmXCuEcRjFHgBuY4X-Q",
+    "canonicalName": "Integration und Bildungszentrum Essen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/pakistanische-moschee3",
+    "destination": "/ar/mosque/berlin/pakistanische-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJeWHFMpxOqEcRSU6oTju9JGs",
+    "canonicalName": "Pakistanische Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/ayasofya-moschee3",
+    "destination": "/ar/mosque/berlin/ayasofya-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJdwQpf3RRqEcRkrM2HMOGxao",
+    "canonicalName": "Ayasofya Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/moschee-sufi-geylani4",
+    "destination": "/de/moschee/muenchen/moschee-sufi-geylani",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJv5yhYlx3nkcRZwFTL0OlToI",
+    "canonicalName": "Moschee Sufi Geylani",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/abu-bakr-moschee4",
+    "destination": "/ar/mosque/essen/abu-bakr-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJexjzDmjouEcR4hXnMR3Vbtk",
+    "canonicalName": "Abu Bakr Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/jamia-masjid-sufia-deutsch-pakistanischer-kulturverein-fuer-bildung-und-integration3",
+    "destination": "/de/moschee/muenchen/jamia-masjid-sufia-deutsch-pakistanischer-kulturverein-fuer-bildung-und-integration",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJE4rULcF2nkcRfqyyCpWz0W0",
+    "canonicalName": "Jamia Masjid Sufia Deutsch-Pakistanischer Kulturverein für Bildung und Integration e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/koeln/ditib-veysel-karani-moschee-koeln-chlodwigplatz4",
+    "destination": "/de/moschee/koeln/ditib-veysel-karani-moschee-koeln-chlodwigplatz",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJwYM9xkckv0cRFQAzCh-KGh0",
+    "canonicalName": "DITIB Veysel Karani Moschee Köln-Chlodwigplatz",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/al-nur-moschee4",
+    "destination": "/ar/mosque/wuppertal/al-nur-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJnfSXbmnRuEcRhTrvN2UV8TQ",
+    "canonicalName": "Al-Nur Moschee مسجد النور",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/i-k-v-moschee4",
+    "destination": "/en/mosque/cologne/i-k-v-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJU_c70sslv0cRvdJhmmXT4yc",
+    "canonicalName": "I.K.V Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/igmg-kuba-moschee4",
+    "destination": "/en/mosque/cologne/igmg-kuba-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJi-IanHcmv0cRiRH7hmgSQ4A",
+    "canonicalName": "IGMG - Kuba Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/mimar-sinan-mosque3",
+    "destination": "/de/moschee/berlin/mimar-sinan-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ4e1f6pNPqEcR9YF6unerbUw",
+    "canonicalName": "Mimar Sinan Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/kasri-sultan-dergah3",
+    "destination": "/en/mosque/hamburg/kasri-sultan-dergah",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJyWCebwCNsUcRPU_0fCBOqgs",
+    "canonicalName": "Kasri Sultan Dergah e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/muenchner-forum-fuer-islam3",
+    "destination": "/ar/mosque/muenchen/muenchner-forum-fuer-islam",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+    "canonicalName": "Münchner Forum für Islam e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/bosniakisches-kulturzentrum3",
+    "destination": "/de/moschee/frankfurt/bosniakisches-kulturzentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJbZsGh_0LvUcR2Y5rhmoMfWI",
+    "canonicalName": "Bosniakisches Kulturzentrum e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/mevlana-mosque-hamburg-moschee3",
+    "destination": "/ar/mosque/hamburg/mevlana-mosque-hamburg-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJW6EQuWuPsUcRXfjoZClL73g",
+    "canonicalName": "Mevlana Mosque Hamburg (Moschee)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/omar-moschee3",
+    "destination": "/en/mosque/munich/omar-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJr4f3kpfYnUcR_G6cU0IBFOo",
+    "canonicalName": "Omar Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/ditib-rudow-moschee3",
+    "destination": "/de/moschee/berlin/ditib-rudow-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJC9LIKQBHqEcRoZM_udP3Zqo",
+    "canonicalName": "DITIB Rudow Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/hasenberglhee3",
+    "destination": "/ar/mosque/muenchen/hasenberglhee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ-xKXR7B2nkcRLf_29tBTEt4",
+    "canonicalName": "HasenberglHEE",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/yunus-emre-mosque-berlin3",
+    "destination": "/de/moschee/berlin/yunus-emre-mosque-berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJh3UStylSqEcRZ3tgsYMlGwA",
+    "canonicalName": "Yunus Emre Mosque Berlin",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/islamic-information-and-services-iis4",
+    "destination": "/de/moschee/frankfurt/islamic-information-and-services-iis",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJcb4x0FcJvUcR4oudg72Yq-A",
+    "canonicalName": "Islamic Information and Services e.V. (IIS)",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/hassan-moschee3",
+    "destination": "/en/mosque/frankfurt/hassan-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJRdUu3sCgvUcRzSPa7v9UCEQ",
+    "canonicalName": "Hassan Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/orhan-gazi-moschee-d-t-b-berlin3",
+    "destination": "/ar/mosque/berlin/orhan-gazi-moschee-d-t-b-berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ___vHyxQqEcR9rgn8HdieWU",
+    "canonicalName": "Orhan Gazi Moschee – DİTİB Berlin",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/bulgarisch-muslimischer-kultur-und-sozialverein-osmanpazar3",
+    "destination": "/en/mosque/munich/bulgarisch-muslimischer-kultur-und-sozialverein-osmanpazar",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJt9jJagB3nkcRIqMiQ0PIxP0",
+    "canonicalName": "Bulgarisch-Muslimischer Kultur und Sozialverein e.V Osmanpazarı",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/teiba3",
+    "destination": "/de/moschee/berlin/teiba",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJm4baHjBWqEcRVWuD6FxXHwQ",
+    "canonicalName": "Teiba",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/semerkand-moschee3",
+    "destination": "/ar/mosque/berlin/semerkand-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJK5nUx0tQqEcRMFVmd1kS69o",
+    "canonicalName": "Semerkand Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/al-fath-moschee-camii3",
+    "destination": "/ar/mosque/dortmund/al-fath-moschee-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJvXAmd_oZuUcROUFEvqStu2E",
+    "canonicalName": "Al-Fath Moschee ( Camii.)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/al-anwar-mochee3",
+    "destination": "/ar/mosque/dortmund/al-anwar-mochee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJf2e8EPAZuUcRs9__nvbqRfU",
+    "canonicalName": "Al-Anwar Mochee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/ali-moschee3",
+    "destination": "/de/moschee/dortmund/ali-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJL-2ClPwZuUcRwt_c5wSgW4k",
+    "canonicalName": "Ali Moschee - مسجد علي",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/mesjid-ikre3",
+    "destination": "/de/moschee/dortmund/mesjid-ikre",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJB5b3dwAZuUcRNGWN_8ZklQ4",
+    "canonicalName": "Mesjid Ikre",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/zeituna-mosque3",
+    "destination": "/ar/mosque/berlin/zeituna-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ37rYLSpRqEcRSM420rZ-QW4",
+    "canonicalName": "Zeituna Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/omar-mosche3",
+    "destination": "/ar/mosque/berlin/omar-mosche",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJPVluYjVOqEcRZ1IzmSCONbk",
+    "canonicalName": "Omar Mosche - مسجد عُمر",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/wuppertal-central-mosque3",
+    "destination": "/ar/mosque/wuppertal/wuppertal-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJCQqnKNjXuEcRgXthIj6I1to",
+    "canonicalName": "Wuppertal Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/bildungs-und-kulturverein-hoechst3",
+    "destination": "/en/mosque/frankfurt/bildungs-und-kulturverein-hoechst",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ5XANfKOgvUcR07o5bXJyEK4",
+    "canonicalName": "Bildungs-und Kulturverein Höchst",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/msjd-altwhyd4",
+    "destination": "/ar/mosque/wuppertal/msjd-altwhyd",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJOdm1KrnXuEcRbAVyUM0JeNk",
+    "canonicalName": "مسجد التوحيد",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/abu-bakr-alsedek-moschee3",
+    "destination": "/ar/mosque/wuppertal/abu-bakr-alsedek-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJR8gr-t7XuEcRe540v7Ye994",
+    "canonicalName": "Abu Bakr Alsedek Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/islamische-gemeinde-eidelstedt3",
+    "destination": "/de/moschee/hamburg/islamische-gemeinde-eidelstedt",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJJQ3uc4qGsUcRTvz8LmUqVmg",
+    "canonicalName": "Islamische Gemeinde Eidelstedt e.v.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/turkish-mosque-23",
+    "destination": "/de/moschee/muenchen/turkish-mosque-2",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+    "canonicalName": "Turkish mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/wuppertal/wuppertal-d-t-b-barmen-fatih-camii3",
+    "destination": "/de/moschee/wuppertal/wuppertal-d-t-b-barmen-fatih-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJt4xA31O4cUERw61UnJB9T_w",
+    "canonicalName": "WUPPERTAL DİTİB BARMEN FATIH CAMii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/leipzig/al-rahman-mosque3",
+    "destination": "/en/mosque/leipzig/al-rahman-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJK2clbxv4pkcRKerKRAyClBE",
+    "canonicalName": "Al Rahman Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/bangladesch-moschee4",
+    "destination": "/ar/mosque/bremen/bangladesch-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+    "canonicalName": "Bangladesch Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/ditib-tuerkisch-islamische-gemeinde-zu-frankfurt-bonames3",
+    "destination": "/ar/mosque/frankfurt/ditib-tuerkisch-islamische-gemeinde-zu-frankfurt-bonames",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ5ch7Hp8IvUcRS8sOHD20Yy8",
+    "canonicalName": "DITIB - Türkisch Islamische Gemeinde zu Frankfurt-Bonames e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bonn/bonn-central-mosque3",
+    "destination": "/de/moschee/bonn/bonn-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJoVbKqL3hvkcRj7lIFfiV_7k",
+    "canonicalName": "Bonn Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/nuremberg/msjd-nwrmbwrgh3",
+    "destination": "/en/mosque/nuremberg/msjd-nwrmbwrgh",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJkbrSbgBXn0cRgf_WxVNBNfI",
+    "canonicalName": "مسجد نورمبورغ",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/masjid-ar-rahma-moschee3",
+    "destination": "/de/moschee/bremen/masjid-ar-rahma-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJtbk-fqQpsUcRmu4ZB85YcQw",
+    "canonicalName": "Masjid Ar-Rahma Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/wuppertal/igmg-yunus-emre-moschee3",
+    "destination": "/de/moschee/wuppertal/igmg-yunus-emre-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJqYwgWSLXuEcRomB6zUwUWps",
+    "canonicalName": "IGMG Yunus Emre Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/islamischer-kulturverein-as-salam-moschee-frankfurt3",
+    "destination": "/ar/mosque/frankfurt/islamischer-kulturverein-as-salam-moschee-frankfurt",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ6-hEef0JvUcRS-xxA9RmA1w",
+    "canonicalName": "Islamischer Kulturverein As-Salam Moschee Frankfurt",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ulu-cami3",
+    "destination": "/ar/mosque/dortmund/ulu-cami",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ12i3_aYQuUcRDRKw9jP9WBQ",
+    "canonicalName": "Ulu Cami",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/stuttgart/zuffenhause-mosqu4",
+    "destination": "/ar/mosque/stuttgart/zuffenhause-mosqu",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJZ_DBZynpC0ERZmUZ5H_aE_c",
+    "canonicalName": "Zuffenhause Mosqu, Мечеть,Мечит.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-ayasofya-moschee-scharnhorst4",
+    "destination": "/ar/mosque/dortmund/ditib-ayasofya-moschee-scharnhorst",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJXcAJrdsQuUcRX3c9x8oJ184",
+    "canonicalName": "DITIB Ayasofya Moschee Scharnhorst",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/masjid-omar3",
+    "destination": "/ar/mosque/duesseldorf/masjid-omar",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJCXlkWTfKuEcROMMraLCqjOY",
+    "canonicalName": "MASJID OMAR",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/ditib-mevlana-moschee-bremen4",
+    "destination": "/de/moschee/bremen/ditib-mevlana-moschee-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJE3QeUwopsUcRiX3YAqsLR9s",
+    "canonicalName": "DITIB Mevlana-Moschee Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/kocatepe-mosque-dortmund3",
+    "destination": "/ar/mosque/dortmund/kocatepe-mosque-dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJIWWcXFIXuUcRcCyULPg2mco",
+    "canonicalName": "Kocatepe Mosque Dortmund",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/msjd-amr-bn-alkhtab3",
+    "destination": "/de/moschee/dortmund/msjd-amr-bn-alkhtab",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJc23kQE0XuUcReqLqHlE2wE0",
+    "canonicalName": "مسجد عمر بن الخطاب",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/vikz-camii-moschee3",
+    "destination": "/ar/mosque/dortmund/vikz-camii-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJoY-hKQAbuUcR3YwmNB7u01g",
+    "canonicalName": "VIKZ Camii - Moschee - مسجد",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/assunaa-moschee3",
+    "destination": "/ar/mosque/dortmund/assunaa-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJfWGtbo0WuUcRHzFs7AnD0O0",
+    "canonicalName": "Assunaa Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/moschee3",
+    "destination": "/ar/mosque/duesseldorf/moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJMcEXtm_LuEcRVisN7XbQpAY",
+    "canonicalName": "Масджид Ал-Уадуд",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/assahabah-mosque3",
+    "destination": "/ar/mosque/dortmund/assahabah-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ7yZg6iEZuUcRJ-dai9t0-Rk",
+    "canonicalName": "Assahabah Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/prayer-room-masjid4",
+    "destination": "/ar/mosque/duesseldorf/prayer-room-masjid",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJI3Q-TwC3uEcRF9-zo6lib2A",
+    "canonicalName": "Prayer room (Masjid)",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/bosnian-islamic-cultural-center-of-dusseldorf3",
+    "destination": "/ar/mosque/duesseldorf/bosnian-islamic-cultural-center-of-dusseldorf",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJd_iFR2nKuEcRk0e6ljWSaak",
+    "canonicalName": "Bosnian Islamic Cultural Center of Dusseldorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/moschee-mosque3",
+    "destination": "/ar/mosque/duesseldorf/moschee-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ8TU3MOXLuEcR0giAN_QqUxM",
+    "canonicalName": "Moschee Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/islamisches-zentrum3",
+    "destination": "/ar/mosque/dortmund/islamisches-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJjy2I_KYQuUcRx9CLiDbjvC0",
+    "canonicalName": "Islamisches Zentrum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/mevlana-camii3",
+    "destination": "/ar/mosque/dortmund/mevlana-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJsZXBW4kbuUcR0_Wgm9IO2Wg",
+    "canonicalName": "Mevlana Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/msjd-nwr-alhda3",
+    "destination": "/ar/mosque/dortmund/msjd-nwr-alhda",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJQ756lbgRuUcRcZSzT98f9o8",
+    "canonicalName": "مسجد نور الهدى",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/masjid-assalam3",
+    "destination": "/ar/mosque/duesseldorf/masjid-assalam",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJpYU-xZnMuEcRJRT6rYoDLOk",
+    "canonicalName": "Masjid Assalam",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/yunus-emre-moschee3",
+    "destination": "/ar/mosque/dortmund/yunus-emre-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJTchDTo0buUcRPqCxKQBT07w",
+    "canonicalName": "Yunus-Emre-Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/igmg-ortsverein-derne4",
+    "destination": "/ar/mosque/dortmund/igmg-ortsverein-derne",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJU_0W7PgQuUcRCFb1fua9_i0",
+    "canonicalName": "IGMG Ortsverein Derne e.V",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/afghani-mosque3",
+    "destination": "/ar/mosque/muenchen/afghani-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJq6ravibZnUcRSO-2mibl838",
+    "canonicalName": "Afghani mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/alsahaba-moschee3",
+    "destination": "/ar/mosque/dortmund/alsahaba-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJU_mHDAAbuUcRriotNIIGXGM",
+    "canonicalName": "Alsahaba Moschee مسجد الصحابة",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/masjid-al-sunnah-bremen3",
+    "destination": "/de/moschee/bremen/masjid-al-sunnah-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ0YH-ggjXsEcRUIRcKdAvm4E",
+    "canonicalName": "Masjid Al Sunnah Bremen مسجد السنة بريمن",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/dituria3",
+    "destination": "/ar/mosque/duesseldorf/dituria",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJnQmkn-jJuEcR5eSumbANWdU",
+    "canonicalName": "Dituria e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bonn/fatih-moschee4",
+    "destination": "/ar/mosque/bonn/fatih-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ9x65OmnkvkcRjtLltZy3iEw",
+    "canonicalName": "Fatih-Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/ditib-tuerkisch-islamische-gemeinde-zu-duesseldorf-eller3",
+    "destination": "/ar/mosque/duesseldorf/ditib-tuerkisch-islamische-gemeinde-zu-duesseldorf-eller",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJwYq2iY7LuEcRJgpU4vQg88c",
+    "canonicalName": "DITIB-Türkisch Islamische Gemeinde zu Düsseldorf-Eller e.V",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/islamische-gemeinschaft-fedzr-muenchen3",
+    "destination": "/de/moschee/muenchen/islamische-gemeinschaft-fedzr-muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJET1ACBjZnUcR2_zQ3Ir_FR4",
+    "canonicalName": "Islamische Gemeinschaft Fedzr München",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/integration-und-bildungszentrum-essen4",
+    "destination": "/ar/mosque/essen/integration-und-bildungszentrum-essen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJtzEekmXCuEcRjFHgBuY4X-Q",
+    "canonicalName": "Integration und Bildungszentrum Essen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/bayan-kulturzentrum-bkz3",
+    "destination": "/ar/mosque/duesseldorf/bayan-kulturzentrum-bkz",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJs2_bVADLuEcR6JDTUNvZJh8",
+    "canonicalName": "Bayan Kulturzentrum (BKZ) e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/islamische-gemeinschaft-tevhid4",
+    "destination": "/ar/mosque/muenchen/islamische-gemeinschaft-tevhid",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJw6OvoGl2nkcRXB7_bEpAWuI",
+    "canonicalName": "Islamische Gemeinschaft Tevhid e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/turkish-mosque-23",
+    "destination": "/en/mosque/munich/turkish-mosque-2",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+    "canonicalName": "Turkish mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/zeituna-mosque3",
+    "destination": "/de/moschee/berlin/zeituna-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ37rYLSpRqEcRSM420rZ-QW4",
+    "canonicalName": "Zeituna Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/wandsbek-tuerkisch-islamischer-kulturverein4",
+    "destination": "/de/moschee/hamburg/wandsbek-tuerkisch-islamischer-kulturverein",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJZ4VnnTWJsUcRqfdJXVDGm4A",
+    "canonicalName": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak3",
+    "destination": "/en/mosque/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJbTF3lVUXuUcRNMGY-ddcNzg",
+    "canonicalName": "Islamisches Kulturzentrum der Bosniaken - Sandžak e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/hicret-moschee4",
+    "destination": "/de/moschee/bremen/hicret-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ8fl9FwDZsEcRnen9r9CT1ds",
+    "canonicalName": "Hicret Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/msjd-nwr-alhda3",
+    "destination": "/de/moschee/dortmund/msjd-nwr-alhda",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJQ756lbgRuUcRcZSzT98f9o8",
+    "canonicalName": "مسجد نور الهدى",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/baitur-rasheed-mosque3",
+    "destination": "/en/mosque/hamburg/baitur-rasheed-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ2wEPjh2HsUcRyhim0kg23EY",
+    "canonicalName": "Baitur Rasheed Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/bangladesch-islamisches-zentrum3",
+    "destination": "/en/mosque/bremen/bangladesch-islamisches-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJB5vM2PLXsEcRTzeXCPuxPfM",
+    "canonicalName": "Bangladesch Islamisches Zentrum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/msjd-alamam-malk3",
+    "destination": "/en/mosque/dortmund/msjd-alamam-malk",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJN0MCC_4ZuUcR3DWuzK6jgxk",
+    "canonicalName": "مسجد الامام مالك",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/familienberatung-haus-der-weisheit3",
+    "destination": "/ar/mosque/berlin/familienberatung-haus-der-weisheit",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJXQ_BP59RqEcRYNlQ2yQu5pY",
+    "canonicalName": "Familienberatung Haus der Weisheit دار الحكمة",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/yunus-emre-mosque3",
+    "destination": "/en/mosque/frankfurt/yunus-emre-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ_0Ww7DYKvUcRo0JkQvoyn_U",
+    "canonicalName": "Yunus Emre Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/wuppertal/igmg-yunus-emre-moschee3",
+    "destination": "/en/mosque/wuppertal/igmg-yunus-emre-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJqYwgWSLXuEcRomB6zUwUWps",
+    "canonicalName": "IGMG Yunus Emre Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/duesseldorf/moschee3",
+    "destination": "/de/moschee/duesseldorf/moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJMcEXtm_LuEcRVisN7XbQpAY",
+    "canonicalName": "Масджид Ал-Уадуд",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/msjd-alfrqan3",
+    "destination": "/en/mosque/berlin/msjd-alfrqan",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJP1EhIMJPqEcRWczYOqjYbhw",
+    "canonicalName": "مسجد الفرقان",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/fatih-mosque3",
+    "destination": "/en/mosque/berlin/fatih-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJGZMpgU1OqEcRpaiub8_5gLE",
+    "canonicalName": "Fatih Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/arresalah-mosque3",
+    "destination": "/ar/mosque/berlin/arresalah-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJmwWL6zBRqEcRY1S-KePN-64",
+    "canonicalName": "Arresalah Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/ali-moschee3",
+    "destination": "/en/mosque/dortmund/ali-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJL-2ClPwZuUcRwt_c5wSgW4k",
+    "canonicalName": "Ali Moschee - مسجد علي",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/nuernberg/nuernberg-tuerk-oca3",
+    "destination": "/de/moschee/nuernberg/nuernberg-tuerk-oca",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJwzbRnwRXn0cRI9l70Yj1sis",
+    "canonicalName": "Nürnberg Türk Ocağı",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/isa-beu-moschee-albanisch-islamisches-gemeinde-und-kulturzentrum4",
+    "destination": "/de/moschee/berlin/isa-beu-moschee-albanisch-islamisches-gemeinde-und-kulturzentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJL6vGmW8jZUER0ahRRcPc_64",
+    "canonicalName": "Isa Beu Moschee e.V. Albanisch-Islamisches Gemeinde- und Kulturzentrum",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/essen/moschee-al-taqua4",
+    "destination": "/de/moschee/essen/moschee-al-taqua",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJWbujxUzDuEcRSDxIx7SuHQ0",
+    "canonicalName": "Moschee Al Taqua",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/msjd-nwr-alhda3",
+    "destination": "/en/mosque/dortmund/msjd-nwr-alhda",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJQ756lbgRuUcRcZSzT98f9o8",
+    "canonicalName": "مسجد نور الهدى",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/aziziye-mosque4",
+    "destination": "/ar/mosque/berlin/aziziye-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJwTAYMo1FqEcRD_XFjcrnUdU",
+    "canonicalName": "Aziziye Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/afghan-mosque3",
+    "destination": "/ar/mosque/berlin/afghan-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ62EGOABPqEcR0Kh9XalZJ3I",
+    "canonicalName": "Afghan Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/hamidiye-mosque3",
+    "destination": "/en/mosque/frankfurt/hamidiye-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJSWTRnaEOvUcRxC1ADmo9ajY",
+    "canonicalName": "Hamidiye Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/islamic-culture-u-education-center4",
+    "destination": "/en/mosque/berlin/islamic-culture-u-education-center",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJPfVUf6ZPqEcRBz2SIe9aGWA",
+    "canonicalName": "Islamic culture u. education center",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/balkan3",
+    "destination": "/de/moschee/muenchen/balkan",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJJ_2GAwB1nkcRWu8k17qTptA",
+    "canonicalName": "Balkan e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/minhaj-ul-quran-international-moschee3",
+    "destination": "/en/mosque/berlin/minhaj-ul-quran-international-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJH1fI9dZTqEcRaUUEgrxPNXs",
+    "canonicalName": "Minhaj-ul-Quran International Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/mevlana-moschee-u-kulturverein4",
+    "destination": "/ar/mosque/frankfurt/mevlana-moschee-u-kulturverein",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJEduKmbwLvUcRx1wrHxaQxhs",
+    "canonicalName": "Mevlana Moschee u. Kulturverein e.V..",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/stuttgart/ak-emsettin-mosque-turkish-national-cultural-association-stuttgart3",
+    "destination": "/de/moschee/stuttgart/ak-emsettin-mosque-turkish-national-cultural-association-stuttgart",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJuYQW1hzFmUcRf_mm0qctoMA",
+    "canonicalName": "Akşemsettin Mosque – Turkish National Cultural Association Stuttgart",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/ditib-kocasinan-tuerkisch-islamische-gemeinde-zu-reinickendorf4",
+    "destination": "/de/moschee/berlin/ditib-kocasinan-tuerkisch-islamische-gemeinde-zu-reinickendorf",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJVVVFYjRSqEcRDrclS95J3aU",
+    "canonicalName": "DITIB-Kocasinan Türkisch-Islamische Gemeinde zu Reinickendorf e. V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/bosniakisches-kulturzentrum-sabur3",
+    "destination": "/ar/mosque/berlin/bosniakisches-kulturzentrum-sabur",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJnxt5bdBRqEcRyR08u3IvV8I",
+    "canonicalName": "Bosniakisches Kulturzentrum Sabur e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/bikz-bremen-walle-moschee-camii3",
+    "destination": "/en/mosque/bremen/bikz-bremen-walle-moschee-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJE5yqdi8psUcRGS9sVQX-ee8",
+    "canonicalName": "BIKZ Bremen e. V. - Walle Moschee (Camii)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/nuernberg/bait-ur-rahman-mosque3",
+    "destination": "/de/moschee/nuernberg/bait-ur-rahman-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ-0gi4g5Xn0cRT71CsvrRRX8",
+    "canonicalName": "Bait-ur-Rahman Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosques/muenchen2",
+    "destination": "/ar/mosques/muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "canonicalName": "München",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/en/mosque/duesseldorf/moschee-mosque3",
+    "destination": "/en/mosque/duesseldorf/moschee-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJ8TU3MOXLuEcR0giAN_QqUxM",
+    "canonicalName": "Moschee Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosques/hamburg2",
+    "destination": "/en/mosques/hamburg",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "canonicalName": "Hamburg",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/berlin/hasan-basri-moschee3",
+    "destination": "/ar/mosque/berlin/hasan-basri-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJv3kxTR1RqEcRosmmdjJ9JoQ",
+    "canonicalName": "Hasan Basri Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/massjid-ar-rahman4",
+    "destination": "/en/mosque/dortmund/massjid-ar-rahman",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJOepa9gAXuUcRLV9ePInYSz0",
+    "canonicalName": "Massjid Ar 'Rahman",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/ditib-tuerkische-islamische-gemeinde-zu-muenchen3",
+    "destination": "/en/mosque/munich/ditib-tuerkische-islamische-gemeinde-zu-muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJrS3fOAbYnUcR0RVEjwgOieQ",
+    "canonicalName": "DITIB - Türkische Islamische Gemeinde zu München e.V",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/gebetsraum-riem-arcaden3",
+    "destination": "/en/mosque/munich/gebetsraum-riem-arcaden",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJqfkRPQALnkcRTD2K61Ehmlo",
+    "canonicalName": "Gebetsraum Riem Arcaden",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/moschee-nippes4",
+    "destination": "/en/mosque/cologne/moschee-nippes",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJX023MXklv0cRznTaPkBpxOo",
+    "canonicalName": "Moschee Nippes",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/verein-der-kulturen3",
+    "destination": "/en/mosque/munich/verein-der-kulturen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJIfakyYYLnkcR0QLO38SChdo",
+    "canonicalName": "Verein der Kulturen e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/yunus-emre-moschee3",
+    "destination": "/en/mosque/dortmund/yunus-emre-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJTchDTo0buUcRPqCxKQBT07w",
+    "canonicalName": "Yunus-Emre-Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/alfarouq-moschee3",
+    "destination": "/ar/mosque/essen/alfarouq-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJfURbbqHCuEcRPa5ZIdHKuPU",
+    "canonicalName": "Alfarouq Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/masjid-on-5th-floor-oberpollinger3",
+    "destination": "/ar/mosque/muenchen/masjid-on-5th-floor-oberpollinger",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJFec_6lN1nkcRUlidXpqiamI",
+    "canonicalName": "Masjid on 5th floor Oberpollinger",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/omar-moschee3",
+    "destination": "/ar/mosque/muenchen/omar-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJr4f3kpfYnUcR_G6cU0IBFOo",
+    "canonicalName": "Omar Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/moschee-vikz-muenchen4",
+    "destination": "/de/moschee/muenchen/moschee-vikz-muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJjw6x3XzYnUcRUrUZzcPnl4c",
+    "canonicalName": "Moschee VIKZ München",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/schura-islamische-religionsgemeinschaft-bremen4",
+    "destination": "/ar/mosque/bremen/schura-islamische-religionsgemeinschaft-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJt30YfAwpsUcR3TxLwqPgbgQ",
+    "canonicalName": "SCHURA - Islamische Religionsgemeinschaft Bremen e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/awaisiah-moschee-dpvk4",
+    "destination": "/en/mosque/cologne/awaisiah-moschee-dpvk",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJTzOGOwAnv0cR1JTrEt9WFJw",
+    "canonicalName": "Awaisiah Moschee DPVK",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bonn/bonn-central-mosque3",
+    "destination": "/en/mosque/bonn/bonn-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "placeId": "ChIJoVbKqL3hvkcRj7lIFfiV_7k",
+    "canonicalName": "Bonn Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar1",
+    "destination": "/ar",
+    "permanent": true,
+    "crawlDate": "2026-10-24",
+    "reason": "Stray digit \"1\" stripped to resolve canonical homepage"
+  },
+  {
+    "source": "/en/mosque/frankfurt/ditib-eyuep-sultan-moschee-in-frankfurt-hoechst3",
+    "destination": "/en/mosque/frankfurt/ditib-eyuep-sultan-moschee-in-frankfurt-hoechst",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJp1pMXqSgvUcRB3HWz_foV1c",
+    "canonicalName": "DITIB Eyüp Sultan Moschee in Frankfurt-Höchst",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-tuerkisch-islamische-gemeinde-zu-dortmund-hombruch3",
+    "destination": "/ar/mosque/dortmund/ditib-tuerkisch-islamische-gemeinde-zu-dortmund-hombruch",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJAz51ydIZuUcRirdffxpAdgU",
+    "canonicalName": "DITIB Türkisch Islamische Gemeinde zu Dortmund-Hombruch e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/albanischer-islamischer-kultuverein-furkan3",
+    "destination": "/de/moschee/dortmund/albanischer-islamischer-kultuverein-furkan",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJM-Aa0lMXuUcRe0dyJNZZ-ok",
+    "canonicalName": "Albanischer Islamischer Kultuverein Furkan",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/yeni-ayasofya-camii-islamische-gemeinde-wilhelmsburg3",
+    "destination": "/de/moschee/hamburg/yeni-ayasofya-camii-islamische-gemeinde-wilhelmsburg",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJY5Dw_hqPsUcRbGtkrIRFTXs",
+    "canonicalName": "Yeni Ayasofya Camii islamische Gemeinde Wilhelmsburg",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/omar-moschee3",
+    "destination": "/de/moschee/muenchen/omar-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJr4f3kpfYnUcR_G6cU0IBFOo",
+    "canonicalName": "Omar Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/koeln/ditib-cologne-chorweiler-mosque4",
+    "destination": "/ar/mosque/koeln/ditib-cologne-chorweiler-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJFSRehhguv0cRtzxcEpOoHJI",
+    "canonicalName": "DITIB Cologne Chorweiler Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/ditib-ayasofya-moschee-scharnhorst4",
+    "destination": "/de/moschee/dortmund/ditib-ayasofya-moschee-scharnhorst",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJXcAJrdsQuUcRX3c9x8oJ184",
+    "canonicalName": "DITIB Ayasofya Moschee Scharnhorst",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/ditib-yunus-emre-moschee-dortmund-boevinghausen4",
+    "destination": "/de/moschee/dortmund/ditib-yunus-emre-moschee-dortmund-boevinghausen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJf64PQAsfuUcRx7J-jiw_o7k",
+    "canonicalName": "DITIB - Yunus Emre Moschee Dortmund-Bövinghausen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/koeln/bangladeshi-mosque4",
+    "destination": "/ar/mosque/koeln/bangladeshi-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJP8hf4UY7v0cRDiehvlz989c",
+    "canonicalName": "Bangladeshi Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/silamski-centar3",
+    "destination": "/de/moschee/muenchen/silamski-centar",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ11jBfQDhnUcRjFGtYeJHIJ8",
+    "canonicalName": "Silamski centar",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/hicret-kur-an-kurs3",
+    "destination": "/de/moschee/dortmund/hicret-kur-an-kurs",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJMRtbdAAZuUcRD8bkM8xyJQg",
+    "canonicalName": "Hicret Kur'an kurs",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/islamic-cultural-association-takwa3",
+    "destination": "/de/moschee/dortmund/islamic-cultural-association-takwa",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJy_EZW1AXuUcR09YdfdB4Zzw",
+    "canonicalName": "Islamic Cultural Association Takwa",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/moschee-23",
+    "destination": "/ar/mosque/duesseldorf/moschee-2",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ1W8N0DLLuEcR4hKVADfihcw",
+    "canonicalName": "Дуселдорф два намаза джумъа",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/islamischer-foerderungsver-v-tuerk-arbeitnehmern-in-e-altenessen-und-umgebung4",
+    "destination": "/ar/mosque/essen/islamischer-foerderungsver-v-tuerk-arbeitnehmern-in-e-altenessen-und-umgebung",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJU4C5x2TouEcRXRNehgcBp28",
+    "canonicalName": "Islamischer Förderungsver. v. türk. Arbeitnehmern in E- Altenessen und Umgebung e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-badullah-camii3",
+    "destination": "/ar/mosque/dortmund/ditib-badullah-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJSR8vWgARuUcRyaDzge_5Ccw",
+    "canonicalName": "Ditib İbadullah Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bonn/msjd-almhsnyn4",
+    "destination": "/ar/mosque/bonn/msjd-almhsnyn",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJWf1pTjnhvkcRtP2Bo3rtmkM",
+    "canonicalName": "مسجد المحسنين",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/omar-mosche3",
+    "destination": "/de/moschee/berlin/omar-mosche",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJPVluYjVOqEcRZ1IzmSCONbk",
+    "canonicalName": "Omar Mosche - مسجد عُمر",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/omar-mosche3",
+    "destination": "/en/mosque/berlin/omar-mosche",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJPVluYjVOqEcRZ1IzmSCONbk",
+    "canonicalName": "Omar Mosche - مسجد عُمر",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/aktona-ulu-cami3",
+    "destination": "/en/mosque/hamburg/aktona-ulu-cami",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJMYzPDQCFsUcR-tlwvuIC9zM",
+    "canonicalName": "Aktona Ulu Cami",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/tadschikische-gesellschaft-nur3",
+    "destination": "/ar/mosque/dortmund/tadschikische-gesellschaft-nur",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJHVAIjngXuUcR4mkXZZ6etS0",
+    "canonicalName": "Tadschikische Gesellschaft NUR e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/medina-masjid-pak-a-l-e-m-bremen3",
+    "destination": "/de/moschee/bremen/medina-masjid-pak-a-l-e-m-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJzXVw8_spsUcR4x7Nw11VTeo",
+    "canonicalName": "Medina Masjid - Pak A.L.E.M (e.V) Bremen",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/dusseldorf-central-mosque3",
+    "destination": "/ar/mosque/duesseldorf/dusseldorf-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJUaAjF3S2uEcRHmPVFZ431Ws",
+    "canonicalName": "Dusseldorf Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/igmg-quba-moschee-hemelingen-kuba-camii3",
+    "destination": "/de/moschee/bremen/igmg-quba-moschee-hemelingen-kuba-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJT6B2w4HYsEcRSPcN2nzPMj0",
+    "canonicalName": "IGMG Quba Moschee Hemelingen / Kuba Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bonn/msjd-als-nah3",
+    "destination": "/de/moschee/bonn/msjd-als-nah",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJM4JJfOfhvkcRiBeSu674jGI",
+    "canonicalName": "مسجد السُّنة",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/moschee-al-muhsinin-muenchen3",
+    "destination": "/ar/mosque/muenchen/moschee-al-muhsinin-muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJZZIYPaUKnkcRCVDKLaCztC4",
+    "canonicalName": "Moschee Al-Muhsinin München",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/tuerkische-islamische-gemeinde-zu-allach-muenchen3",
+    "destination": "/ar/mosque/muenchen/tuerkische-islamische-gemeinde-zu-allach-muenchen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJja0opNV5nkcRYnKCJZ94804",
+    "canonicalName": "Türkische Islamische Gemeinde e.V. zu Allach/München",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/hicret-kur-an-kurs3",
+    "destination": "/en/mosque/dortmund/hicret-kur-an-kurs",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJMRtbdAAZuUcRD8bkM8xyJQg",
+    "canonicalName": "Hicret Kur'an kurs",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/turkish-mosque-23",
+    "destination": "/ar/mosque/muenchen/turkish-mosque-2",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJcZH7sTDXnUcRPuF4gyxNdig",
+    "canonicalName": "Turkish mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/stuttgart/islamic-centre-of-stuttgart4",
+    "destination": "/en/mosque/stuttgart/islamic-centre-of-stuttgart",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ23tZYhfFmUcResTm4j4mtOQ",
+    "canonicalName": "Islamic Centre of Stuttgart(الجامع العربي)",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/massjid-ar-rahman4",
+    "destination": "/ar/mosque/dortmund/massjid-ar-rahman",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJOepa9gAXuUcRLV9ePInYSz0",
+    "canonicalName": "Massjid Ar 'Rahman",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/mescid-i-aksa-mosque-ditib3",
+    "destination": "/ar/mosque/berlin/mescid-i-aksa-mosque-ditib",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ29BHWjpSqEcRGFih_b68NbY",
+    "canonicalName": "Mescid-i Aksa Mosque - DITIB",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/islamische-gemeinde-eidelstedt3",
+    "destination": "/ar/mosque/hamburg/islamische-gemeinde-eidelstedt",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJJQ3uc4qGsUcRTvz8LmUqVmg",
+    "canonicalName": "Islamische Gemeinde Eidelstedt e.v.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/wuppertal/al-taqwa-moschee3",
+    "destination": "/de/moschee/wuppertal/al-taqwa-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ9cbY1PEpuUcRiScAthbS7uM",
+    "canonicalName": "Al taqwa Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/al-nur-moschee4",
+    "destination": "/de/moschee/berlin/al-nur-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJgx41R2lPqEcRpB_Lx9CYK7o",
+    "canonicalName": "Al-Nur Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/tevhid-moschee3",
+    "destination": "/en/mosque/berlin/tevhid-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJK0k_DABTqEcRDhUr_phm_eI",
+    "canonicalName": "Tevhid Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/indonesische-weisheit-und-kultur-zentrum3",
+    "destination": "/en/mosque/berlin/indonesische-weisheit-und-kultur-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJpURK451RqEcRu5cIUk2ABMk",
+    "canonicalName": "Indonesische Weisheit und Kultur Zentrum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/neugraben-yildiz-camii3",
+    "destination": "/de/moschee/hamburg/neugraben-yildiz-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJNQUeO-OasUcRIN7Y-MjAgMs",
+    "canonicalName": "Neugraben Yildiz Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/stuttgart/kuba-mosque-igmg3",
+    "destination": "/de/moschee/stuttgart/kuba-mosque-igmg",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJO8k50vDEmUcRHeT5BN_AiDM",
+    "canonicalName": "Kuba Mosque – IGMG",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/duesseldorf/islamisches-zentrum-duesseldorf-23",
+    "destination": "/de/moschee/duesseldorf/islamisches-zentrum-duesseldorf-2",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ2xTChy7KuEcR6D2kahIUJtA",
+    "canonicalName": "Islamisches Zentrum Düsseldorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/ravza-mosque3",
+    "destination": "/de/moschee/berlin/ravza-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJsYerbiNSqEcRXa9FMawr74k",
+    "canonicalName": "Ravza Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/bdmg-zentrum-hellersdorf3",
+    "destination": "/en/mosque/berlin/bdmg-zentrum-hellersdorf",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJm7awRwBLqEcRW-bSuFtXTlo",
+    "canonicalName": "BDMG Zentrum Hellersdorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosques/nuremberg2",
+    "destination": "/en/mosques/nuremberg",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Nürnberg",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/en/mosque/berlin/ibn-rushd-goethe-moschee3",
+    "destination": "/en/mosque/berlin/ibn-rushd-goethe-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJxTa9vwpRqEcR8kgDlFa0_xg",
+    "canonicalName": "Ibn Rushd-Goethe Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/duesseldorf/fidan-mosque-holthausen4",
+    "destination": "/en/mosque/duesseldorf/fidan-mosque-holthausen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJCYRdTmTLuEcRl5tV4K-GEzg",
+    "canonicalName": "Fidan Mosque Holthausen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/ditib-tegel-selimiye-moschee4",
+    "destination": "/en/mosque/berlin/ditib-tegel-selimiye-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJy26KOG9UqEcRRt4Zfh7Qhg8",
+    "canonicalName": "DITIB Tegel Selimiye Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/al-huda-mosque3",
+    "destination": "/ar/mosque/hamburg/al-huda-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJDXIr7SmPsUcRy9Mhp5pvHTc",
+    "canonicalName": "Al Huda mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosques/frankfurt2",
+    "destination": "/en/mosques/frankfurt",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Frankfurt",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/wandsbek-tuerkisch-islamischer-kulturverein4",
+    "destination": "/ar/mosque/hamburg/wandsbek-tuerkisch-islamischer-kulturverein",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJZ4VnnTWJsUcRqfdJXVDGm4A",
+    "canonicalName": "Wandsbek Türkisch-Islamischer Kulturverein e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/msjd4",
+    "destination": "/ar/mosque/essen/msjd",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJIeDGKwDDuEcRVbNTQAC3-f4",
+    "canonicalName": "مسجد",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/baitur-rasheed-mosque3",
+    "destination": "/ar/mosque/hamburg/baitur-rasheed-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ2wEPjh2HsUcRyhim0kg23EY",
+    "canonicalName": "Baitur Rasheed Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/ditib-ali-pasha-mosque4",
+    "destination": "/de/moschee/hamburg/ditib-ali-pasha-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ92iNmjWJsUcRu88nmQRZH3M",
+    "canonicalName": "DITIB Ali Pasha Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/nuernberg/nuernberg-tuerk-oca3",
+    "destination": "/ar/mosque/nuernberg/nuernberg-tuerk-oca",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJwzbRnwRXn0cRI9l70Yj1sis",
+    "canonicalName": "Nürnberg Türk Ocağı",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/ikre3",
+    "destination": "/en/mosque/munich/ikre",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJffch-id0nkcR3qu4PogW49g",
+    "canonicalName": "IKRE e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/masjid-al-tawba3",
+    "destination": "/ar/mosque/hamburg/masjid-al-tawba",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJAQBwg-WOsUcRcVcBoUmFGiA",
+    "canonicalName": "Masjid al Tawba",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosques/bonn2",
+    "destination": "/en/mosques/bonn",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Bonn",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/vikz-gemeinde-muenchen-giesing4",
+    "destination": "/ar/mosque/muenchen/vikz-gemeinde-muenchen-giesing",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJPV6kxhLfnUcRv6BFDX4mqyE",
+    "canonicalName": "VIKZ-Gemeinde München-Giesing",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosques/dortmund2",
+    "destination": "/ar/mosques/dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Dortmund",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/en/mosque/essen/islamischer-foerderungsver-v-tuerk-arbeitnehmern-in-e-altenessen-und-umgebung4",
+    "destination": "/en/mosque/essen/islamischer-foerderungsver-v-tuerk-arbeitnehmern-in-e-altenessen-und-umgebung",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJU4C5x2TouEcRXRNehgcBp28",
+    "canonicalName": "Islamischer Förderungsver. v. türk. Arbeitnehmern in E- Altenessen und Umgebung e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/muenchner-forum-fuer-islam3",
+    "destination": "/en/mosque/munich/muenchner-forum-fuer-islam",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+    "canonicalName": "Münchner Forum für Islam e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/zumunta-kulturverein4",
+    "destination": "/en/mosque/cologne/zumunta-kulturverein",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJl4Hjnq4lv0cRVDYCdW5j-FM",
+    "canonicalName": "Zumunta Kulturverein E.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/al-nur-moschee4",
+    "destination": "/ar/mosque/berlin/al-nur-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJgx41R2lPqEcRpB_Lx9CYK7o",
+    "canonicalName": "Al-Nur Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/stuttgart/al-umma-moschee3",
+    "destination": "/en/mosque/stuttgart/al-umma-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJRQMoCE7bmUcRcLklv0nj5EY",
+    "canonicalName": "Al-Umma-Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/islamisches-kulturzentrum-hidaje4",
+    "destination": "/ar/mosque/muenchen/islamisches-kulturzentrum-hidaje",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJmVRiyFh2nkcRkCoCe8p919I",
+    "canonicalName": "Islamisches Kulturzentrum Hidaje e.V. مسجد بوسني",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/wuppertal/dzemat-wuppertal-dzamija3",
+    "destination": "/de/moschee/wuppertal/dzemat-wuppertal-dzamija",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJYXzmawDXuEcR_S14jTBl0Pc",
+    "canonicalName": "Dzemat Wuppertal Dzamija",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/attassamuh-mosque-tun3",
+    "destination": "/de/moschee/frankfurt/attassamuh-mosque-tun",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJV_x6HwAJvUcRXkodhcuodD0",
+    "canonicalName": "Attassamuh Mosque/TUN e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/stuttgart/turkish-mosque3",
+    "destination": "/en/mosque/stuttgart/turkish-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJyf4XgETFmUcRPwBVRwqX6u0",
+    "canonicalName": "Turkish Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/islamische-gemeinde-kirchdorf3",
+    "destination": "/ar/mosque/hamburg/islamische-gemeinde-kirchdorf",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJSVgdIgCRsUcRDFZp4EDOkbA",
+    "canonicalName": "Islamische Gemeinde Kirchdorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/verein-der-hazrat-fatima-moschee3",
+    "destination": "/de/moschee/frankfurt/verein-der-hazrat-fatima-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ260JFzYKvUcRE3Eme51L42A",
+    "canonicalName": "Verein der Hazrat-Fatima-Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/african-muslim-association3",
+    "destination": "/de/moschee/hamburg/african-muslim-association",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ2_ay8eiOsUcRBkAtAAWrLfE",
+    "canonicalName": "African Muslim Association e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/ditib-mevlana-moschee-bremen4",
+    "destination": "/en/mosque/bremen/ditib-mevlana-moschee-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJE3QeUwopsUcRiX3YAqsLR9s",
+    "canonicalName": "DITIB Mevlana-Moschee Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/hasan-basri-moschee3",
+    "destination": "/en/mosque/berlin/hasan-basri-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJv3kxTR1RqEcRosmmdjJ9JoQ",
+    "canonicalName": "Hasan Basri Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moscheen/wuppertal2",
+    "destination": "/de/moscheen/wuppertal",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Wuppertal",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/de/moschee/essen/ditib-steele-ulu-cami3",
+    "destination": "/de/moschee/essen/ditib-steele-ulu-cami",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ_yL3CQnduEcR7Gk0vq_BFnc",
+    "canonicalName": "DITIB Steele Ulu Cami",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/minhaj-ul-quran-int-frankfurt3",
+    "destination": "/de/moschee/frankfurt/minhaj-ul-quran-int-frankfurt",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJz7vILwAPvUcRRol3h2LfwT8",
+    "canonicalName": "Minhaj Ul Quran Int Frankfurt",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/moschee-walle4",
+    "destination": "/de/moschee/bremen/moschee-walle",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJi9e3OVoosUcRJ4UuuDAcELw",
+    "canonicalName": "Масджид Ахлулбейт",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/vikz-camii-moschee3",
+    "destination": "/de/moschee/dortmund/vikz-camii-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJoY-hKQAbuUcR3YwmNB7u01g",
+    "canonicalName": "VIKZ Camii - Moschee - مسجد",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/transparente-moschee3",
+    "destination": "/ar/mosque/duesseldorf/transparente-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJQXDUW8HLuEcROysb6GyV-Iw",
+    "canonicalName": "Transparente Moschee (مسجد المصطفى)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/dehlev3",
+    "destination": "/de/moschee/hamburg/dehlev",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJGzVlFwCPsUcRddWiQSBRsT0",
+    "canonicalName": "DEHLEVİ e.V",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/nuremberg/ditib-nuremberg-central-mosque3",
+    "destination": "/en/mosque/nuremberg/ditib-nuremberg-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJYx8sehFXn0cRpbRvKpnVLLQ",
+    "canonicalName": "DITIB Nuremberg Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/ditib-tegel-selimiye-moschee4",
+    "destination": "/ar/mosque/berlin/ditib-tegel-selimiye-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJy26KOG9UqEcRRt4Zfh7Qhg8",
+    "canonicalName": "DITIB Tegel Selimiye Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/muslim-prayer-room-33",
+    "destination": "/en/mosque/frankfurt/muslim-prayer-room-3",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJTae9DQB1vUcRvsSdsBKwCzA",
+    "canonicalName": "Muslim Prayer Room",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/sulaimaniya-moschee4",
+    "destination": "/ar/mosque/bremen/sulaimaniya-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJE384GfsnsUcR-JiLsM5X0JA",
+    "canonicalName": "Sulaimaniya-Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/al-huda-mosque3",
+    "destination": "/en/mosque/hamburg/al-huda-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJDXIr7SmPsUcRy9Mhp5pvHTc",
+    "canonicalName": "Al Huda mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/imam-jafar-sadik-mosque3",
+    "destination": "/de/moschee/berlin/imam-jafar-sadik-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJWe-P-DlSqEcRCSi8MMG8MkQ",
+    "canonicalName": "Imam Jafar Sadik Mosque e.V. .",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/al-anwar-mochee3",
+    "destination": "/de/moschee/dortmund/al-anwar-mochee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJf2e8EPAZuUcRs9__nvbqRfU",
+    "canonicalName": "Al-Anwar Mochee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/verein-der-zukunft3",
+    "destination": "/de/moschee/muenchen/verein-der-zukunft",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJTXWDPKUKnkcRBmde08EnWkU",
+    "canonicalName": "Verein der Zukunft",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosques/hamburg2",
+    "destination": "/ar/mosques/hamburg",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "canonicalName": "Hamburg",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/msjd-alamam-malk3",
+    "destination": "/ar/mosque/dortmund/msjd-alamam-malk",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJN0MCC_4ZuUcR3DWuzK6jgxk",
+    "canonicalName": "مسجد الامام مالك",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/islamisches-kulturzentrum-bedr-dortmund3",
+    "destination": "/de/moschee/dortmund/islamisches-kulturzentrum-bedr-dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJm4BQGP4ZuUcRMMRokGT9N1Q",
+    "canonicalName": "Islamisches Kulturzentrum \"Bedr\" e.V. Dortmund",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/dortmund-merkez-c-mii3",
+    "destination": "/de/moschee/dortmund/dortmund-merkez-c-mii",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJCaNLrlUXuUcRmCIsrOHoDXg",
+    "canonicalName": "Dortmund Merkez Câmii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/essen/alfarouq-moschee3",
+    "destination": "/de/moschee/essen/alfarouq-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJfURbbqHCuEcRPa5ZIdHKuPU",
+    "canonicalName": "Alfarouq Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/kasri-arifan-dortmunder-verein-fuer-jugend-ethik-und-wissenschaftsfoerderung3",
+    "destination": "/ar/mosque/dortmund/kasri-arifan-dortmunder-verein-fuer-jugend-ethik-und-wissenschaftsfoerderung",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ-0_Il6cZuUcRs_5toENz6iQ",
+    "canonicalName": "Kasri Arifan-Dortmunder Verein für Jugend, Ethik und Wissenschaftsförderung e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/ayasofya-moschee3",
+    "destination": "/en/mosque/berlin/ayasofya-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJdwQpf3RRqEcRkrM2HMOGxao",
+    "canonicalName": "Ayasofya Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/islamischer-verein-moschee-tarik-ben-ziad3",
+    "destination": "/de/moschee/frankfurt/islamischer-verein-moschee-tarik-ben-ziad",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJGfJlANMLvUcR0W8PdRbivwA",
+    "canonicalName": "Islamischer Verein Moschee Tarik ben Ziad e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/gazi-osman-pasa-mosque4",
+    "destination": "/de/moschee/berlin/gazi-osman-pasa-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJkZ-QaXVPqEcR3uw-g4xcmnI",
+    "canonicalName": "Gazi Osman Pasa Mosque e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/yunus-emre-moschee4",
+    "destination": "/en/mosque/cologne/yunus-emre-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJTVScPhcnv0cRw0zyGAy8ytY",
+    "canonicalName": "Yunus-Emre-Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/saidi-nursi-moschee3",
+    "destination": "/en/mosque/hamburg/saidi-nursi-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJs6msjDKOsUcRrsKC_sCwLQ0",
+    "canonicalName": "Saidi Nursi Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/essen/msjd4",
+    "destination": "/en/mosque/essen/msjd",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJIeDGKwDDuEcRVbNTQAC3-f4",
+    "canonicalName": "مسجد",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/fatih-mosque-bremen4",
+    "destination": "/de/moschee/bremen/fatih-mosque-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJv3nwMgspsUcRPUhnImXONK8",
+    "canonicalName": "Fatih Mosque Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/essen/islamisches-zentrum-essen-sal-hud-d-n-moschee4",
+    "destination": "/de/moschee/essen/islamisches-zentrum-essen-sal-hud-d-n-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJfdSjR0HouEcRdghydW5qCi0",
+    "canonicalName": "Islamisches Zentrum Essen – Salâhud-Dîn-Moschee المركز الإسلامي الكبير في اسن مسجد السلطان صلاح الدين",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/islamisches-zentrum-duesseldorf-23",
+    "destination": "/ar/mosque/duesseldorf/islamisches-zentrum-duesseldorf-2",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ2xTChy7KuEcR6D2kahIUJtA",
+    "canonicalName": "Islamisches Zentrum Düsseldorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/duesseldorf/moroccan-islamic-cultural-center-of-dusseldorf3",
+    "destination": "/en/mosque/duesseldorf/moroccan-islamic-cultural-center-of-dusseldorf",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJ1ZuBWTfKuEcRCIMTsR64J9A",
+    "canonicalName": "Moroccan Islamic Cultural Center of Dusseldorf",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/imam-riza-moschee-und-solidaritaetsverein3",
+    "destination": "/en/mosque/berlin/imam-riza-moschee-und-solidaritaetsverein",
+    "permanent": true,
+    "crawlDate": "2026-10-23",
+    "placeId": "ChIJqbUumLtPqEcRXtDHFuTWaX4",
+    "canonicalName": "Imam Riza Moschee und Solidaritätsverein e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/al-ajurry-moschee3",
+    "destination": "/en/mosque/berlin/al-ajurry-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJvR0p6V1XqEcR5p1LxsmJIh8",
+    "canonicalName": "Al Ajurry Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/darussalam-moschee3",
+    "destination": "/ar/mosque/dortmund/darussalam-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJExWt0v4ZuUcR6vVuY0aLiro",
+    "canonicalName": "Darussalam Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/mevlana-moschee-berlin3",
+    "destination": "/de/moschee/berlin/mevlana-moschee-berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJ55kymDROqEcR0gdYVe0rWY4",
+    "canonicalName": "Mevlana Moschee Berlin",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/alazhar-moschee3",
+    "destination": "/de/moschee/hamburg/alazhar-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJu_cXRZWOsUcR4lQ8XHFx62k",
+    "canonicalName": "Alazhar Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/kocatepe-mosque-ditib3",
+    "destination": "/de/moschee/berlin/kocatepe-mosque-ditib",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJ5ZT_U79WqEcRXJokqjb82O4",
+    "canonicalName": "Kocatepe Mosque - DITIB",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/yunus-emre-mosque-berlin3",
+    "destination": "/en/mosque/berlin/yunus-emre-mosque-berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJh3UStylSqEcRZ3tgsYMlGwA",
+    "canonicalName": "Yunus Emre Mosque Berlin",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/islamisches-kulturzentrum-bremen3",
+    "destination": "/en/mosque/bremen/islamisches-kulturzentrum-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJw7asRQApsUcRsBsPP3tcGKA",
+    "canonicalName": "Islamisches Kulturzentrum Bremen",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/koeln/bedr-verein-mascid4",
+    "destination": "/ar/mosque/koeln/bedr-verein-mascid",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJdfyGTXgnv0cRXfoV-FdOuOU",
+    "canonicalName": "Bedr verein mascid",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/leipzig/imambaragah-leipzig-shia-community4",
+    "destination": "/de/moschee/leipzig/imambaragah-leipzig-shia-community",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJbRG_WAD5pkcRk--vPdppaks",
+    "canonicalName": "Imambaragah Leipzig Shia Community",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/sultan-ahmet-mosque3",
+    "destination": "/de/moschee/berlin/sultan-ahmet-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJAXh-b7hRqEcRPg9rTuy05Qc",
+    "canonicalName": "Sultan Ahmet Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/aliyyuel-murteza-mosque4",
+    "destination": "/en/mosque/cologne/aliyyuel-murteza-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJK0jyN4Elv0cR6gnzqSUmp2g",
+    "canonicalName": "Aliyyül Murteza Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/bait-ul-qayyum3",
+    "destination": "/ar/mosque/frankfurt/bait-ul-qayyum",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJhy27ooAHvUcRsjWOJPguW-Y",
+    "canonicalName": "Bait-ul-Qayyum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/aksemseddin-camii-ditib3",
+    "destination": "/en/mosque/berlin/aksemseddin-camii-ditib",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJcRzfbyNSqEcRibqBXxBhgNM",
+    "canonicalName": "Aksemseddin Camii DITIB",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosques/stuttgart2",
+    "destination": "/en/mosques/stuttgart",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "canonicalName": "Stuttgart",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/berlin/islamic-culture-u-education-center4",
+    "destination": "/ar/mosque/berlin/islamic-culture-u-education-center",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJPfVUf6ZPqEcRBz2SIe9aGWA",
+    "canonicalName": "Islamic culture u. education center",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/duesseldorf/ditib-tuerkisch-islamische-gemeinde-zu-duesseldorf-eller3",
+    "destination": "/de/moschee/duesseldorf/ditib-tuerkisch-islamische-gemeinde-zu-duesseldorf-eller",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJwYq2iY7LuEcRJgpU4vQg88c",
+    "canonicalName": "DITIB-Türkisch Islamische Gemeinde zu Düsseldorf-Eller e.V",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/bilal-habashi-moschee4",
+    "destination": "/ar/mosque/bremen/bilal-habashi-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJS2vuwPfXsEcRR8KO-d9ebDI",
+    "canonicalName": "Bilal-Habashi-Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/cologne/taqiyyu-d-din-al-hilali-moschee4",
+    "destination": "/en/mosque/cologne/taqiyyu-d-din-al-hilali-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJebiyQ38mv0cRZSd7mJVhorM",
+    "canonicalName": "Taqiyyu d-Din al-Hilali Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/stuttgart/vikz-verband-der-islamischen-kulturzentren3",
+    "destination": "/en/mosque/stuttgart/vikz-verband-der-islamischen-kulturzentren",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJFev-mCnbmUcRPy_3kup8FxM",
+    "canonicalName": "VIKZ e. V. - Verband der Islamischen Kulturzentren",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/harburg-moschee-b-i-b-in-harburg3",
+    "destination": "/ar/mosque/hamburg/harburg-moschee-b-i-b-in-harburg",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJSXz_b7ORsUcR-AtCAZfI3To",
+    "canonicalName": "Harburg Moschee - B.I.B in Harburg e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/masjid-as-salam3",
+    "destination": "/de/moschee/berlin/masjid-as-salam",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJnZx9GQBRqEcRHk2DrrVKSFY",
+    "canonicalName": "Masjid as-Salam",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/essen/yavuz-sultan-selim-mosque4",
+    "destination": "/de/moschee/essen/yavuz-sultan-selim-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJzxCih4DduEcRc2zN3knIa_I",
+    "canonicalName": "Yavuz Sultan Selim Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/steinhammerstrasse-853",
+    "destination": "/ar/mosque/dortmund/steinhammerstrasse-85",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJx7iCBYgZuUcRKtDhbv-GkUY",
+    "canonicalName": "Steinhammerstraße 85",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/bait-ul-qayyum3",
+    "destination": "/en/mosque/frankfurt/bait-ul-qayyum",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJhy27ooAHvUcRsjWOJPguW-Y",
+    "canonicalName": "Bait-ul-Qayyum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/islamische-gemeinschaft-tevhid4",
+    "destination": "/en/mosque/munich/islamische-gemeinschaft-tevhid",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJw6OvoGl2nkcRXB7_bEpAWuI",
+    "canonicalName": "Islamische Gemeinschaft Tevhid e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bonn/bonn-central-mosque3",
+    "destination": "/ar/mosque/bonn/bonn-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJoVbKqL3hvkcRj7lIFfiV_7k",
+    "canonicalName": "Bonn Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/masjid-al-tawheed-verein-der-afghanischen-muslime-deutschland3",
+    "destination": "/en/mosque/hamburg/masjid-al-tawheed-verein-der-afghanischen-muslime-deutschland",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJ9U7pgdWJsUcRc3xwTbUREL8",
+    "canonicalName": "Masjid Al-Tawheed - Verein der afghanischen Muslime-Deutschland e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/koeln/bangladeshi-mosque4",
+    "destination": "/de/moschee/koeln/bangladeshi-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJP8hf4UY7v0cRDiehvlz989c",
+    "canonicalName": "Bangladeshi Mosque",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/dortmund/ditib-badullah-camii3",
+    "destination": "/en/mosque/dortmund/ditib-badullah-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJSR8vWgARuUcRyaDzge_5Ccw",
+    "canonicalName": "Ditib İbadullah Camii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/baitus-sabuh-amj-deutschland3",
+    "destination": "/ar/mosque/frankfurt/baitus-sabuh-amj-deutschland",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJgSCLcCcGvUcRsFgPC_61IXE",
+    "canonicalName": "Baitus Sabuh AMJ Deutschland",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/masjid-al-sunnah-bremen3",
+    "destination": "/ar/mosque/bremen/masjid-al-sunnah-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJ0YH-ggjXsEcRUIRcKdAvm4E",
+    "canonicalName": "Masjid Al Sunnah Bremen مسجد السنة بريمن",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/fatih-mosque-bremen4",
+    "destination": "/ar/mosque/bremen/fatih-mosque-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJv3nwMgspsUcRPUhnImXONK8",
+    "canonicalName": "Fatih Mosque Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/ulu-cami3",
+    "destination": "/de/moschee/dortmund/ulu-cami",
+    "permanent": true,
+    "crawlDate": "2026-10-22",
+    "placeId": "ChIJ12i3_aYQuUcRDRKw9jP9WBQ",
+    "canonicalName": "Ulu Cami",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/stuttgart/kasri-arifan-dergah-stuttgart3",
+    "destination": "/en/mosque/stuttgart/kasri-arifan-dergah-stuttgart",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJLyRcj_bFmUcR0M4seTNxQ-8",
+    "canonicalName": "Kasri Arifan Dergahı Stuttgart",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/bangladesch-moschee4",
+    "destination": "/en/mosque/bremen/bangladesch-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+    "canonicalName": "Bangladesch Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/ditib-tuerkisch-islamische-gemeinde-zu-dortmund-hombruch3",
+    "destination": "/de/moschee/dortmund/ditib-tuerkisch-islamische-gemeinde-zu-dortmund-hombruch",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJAz51ydIZuUcRirdffxpAdgU",
+    "canonicalName": "DITIB Türkisch Islamische Gemeinde zu Dortmund-Hombruch e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosques/duesseldorf2",
+    "destination": "/ar/mosques/duesseldorf",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "canonicalName": "Düsseldorf",
+    "reason": "Stray digit \"2\" stripped to resolve canonical city collection page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/islamic-cultural-association-takwa3",
+    "destination": "/ar/mosque/dortmund/islamic-cultural-association-takwa",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJy_EZW1AXuUcR09YdfdB4Zzw",
+    "canonicalName": "Islamic Cultural Association Takwa",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-yunus-emre-moschee-dortmund-boevinghausen4",
+    "destination": "/ar/mosque/dortmund/ditib-yunus-emre-moschee-dortmund-boevinghausen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJf64PQAsfuUcRx7J-jiw_o7k",
+    "canonicalName": "DITIB - Yunus Emre Moschee Dortmund-Bövinghausen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/ditib-zentralmoschee3",
+    "destination": "/ar/mosque/duesseldorf/ditib-zentralmoschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJsxxRd5nJuEcR2NixWP9ks8s",
+    "canonicalName": "DITIB - Zentralmoschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/masjid3",
+    "destination": "/ar/mosque/duesseldorf/masjid",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJe0WqRgDLuEcRkqegrgjzcDI",
+    "canonicalName": "Masjid",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/assalam-moschee-do-hoerde4",
+    "destination": "/ar/mosque/dortmund/assalam-moschee-do-hoerde",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJXVdhXQAXuUcRPmmFWZQ7dqQ",
+    "canonicalName": "Assalam Moschee Do-Hörde",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-dortmund-central-mosque-hoerde4",
+    "destination": "/ar/mosque/dortmund/ditib-dortmund-central-mosque-hoerde",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJUw_Y3asXuUcR0wnAuPm7ErM",
+    "canonicalName": "DITIB Dortmund Central Mosque-Hörde",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ditib-selimiye-mosque-dortmund3",
+    "destination": "/ar/mosque/dortmund/ditib-selimiye-mosque-dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJpYu6cgsauUcRvoXo4bMdq28",
+    "canonicalName": "DiTiB Selimiye Mosque Dortmund",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/hz-meryem-moschee3",
+    "destination": "/ar/mosque/dortmund/hz-meryem-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJQ_13DAAbuUcRjO_LA0HQ9ao",
+    "canonicalName": "Hz. Meryem Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/essen/ayasofya-camii-moschee4",
+    "destination": "/ar/mosque/essen/ayasofya-camii-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJtbCLa8LnuEcRFN9PEOcVg7c",
+    "canonicalName": "Ayasofya Camii / Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/bangladesch-islamisches-zentrum3",
+    "destination": "/de/moschee/bremen/bangladesch-islamisches-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJB5vM2PLXsEcRTzeXCPuxPfM",
+    "canonicalName": "Bangladesch Islamisches Zentrum",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/daawa-moschee3",
+    "destination": "/de/moschee/bremen/daawa-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJL0lleyMosUcRRuL7qBuyaWE",
+    "canonicalName": "Daawa Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/abu-bakr-moschee4",
+    "destination": "/de/moschee/bremen/abu-bakr-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJt3dCktfXsEcRvPEvkv-BAfg",
+    "canonicalName": "Abu Bakr Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/auslaender-treff3",
+    "destination": "/de/moschee/bremen/auslaender-treff",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJLwI4eY0tsUcRwE6YF8H2ruo",
+    "canonicalName": "Ausländer Treff",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/islamische-foederation-bremen4",
+    "destination": "/de/moschee/bremen/islamische-foederation-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ5QooZpgnsUcR-T4sLOnICQ8",
+    "canonicalName": "Islamische Föderation Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/stuttgart/tunesischer-kultur-und-dialogverein3",
+    "destination": "/ar/mosque/stuttgart/tunesischer-kultur-und-dialogverein",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJxY3xOgDbmUcRAX9yIy912zc",
+    "canonicalName": "Tunesischer Kultur und Dialogverein e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/nuernberg/msjd-nwrmbwrgh3",
+    "destination": "/ar/mosque/nuernberg/msjd-nwrmbwrgh",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJkbrSbgBXn0cRgf_WxVNBNfI",
+    "canonicalName": "مسجد نورمبورغ",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/association-afghan-muslims-belal3",
+    "destination": "/ar/mosque/hamburg/association-afghan-muslims-belal",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJA4S80vmLsUcR96C5FCg7py8",
+    "canonicalName": "Association Afghan Muslims Belal e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/ditib-mevlana-moschee-bremen4",
+    "destination": "/ar/mosque/bremen/ditib-mevlana-moschee-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJE3QeUwopsUcRiX3YAqsLR9s",
+    "canonicalName": "DITIB Mevlana-Moschee Bremen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/bremen/islamisches-kulturzentrum-bremen3",
+    "destination": "/ar/mosque/bremen/islamisches-kulturzentrum-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJw7asRQApsUcRsBsPP3tcGKA",
+    "canonicalName": "Islamisches Kulturzentrum Bremen",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/koeln/marokkanische-moschee4",
+    "destination": "/de/moschee/koeln/marokkanische-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJh0EXQn8mv0cRNDRpS2Li-HE",
+    "canonicalName": "Marokkanische Moschee - مسجد المغربي",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/tadschikische-gesellschaft-nur3",
+    "destination": "/de/moschee/dortmund/tadschikische-gesellschaft-nur",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJHVAIjngXuUcR4mkXZZ6etS0",
+    "canonicalName": "Tadschikische Gesellschaft NUR e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/balkan3",
+    "destination": "/en/mosque/munich/balkan",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJJ_2GAwB1nkcRWu8k17qTptA",
+    "canonicalName": "Balkan e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/sueleymaniye-mosque3",
+    "destination": "/en/mosque/berlin/sueleymaniye-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ2eAj7NlTqEcR1LoRq7ciX7E",
+    "canonicalName": "Süleymaniye Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/gazi-osman-pasa-mosque4",
+    "destination": "/en/mosque/berlin/gazi-osman-pasa-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJkZ-QaXVPqEcR3uw-g4xcmnI",
+    "canonicalName": "Gazi Osman Pasa Mosque e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/imam-malik-mosque3",
+    "destination": "/en/mosque/munich/imam-malik-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJM2igPwDfnUcRm0jOpYT57v8",
+    "canonicalName": "Imam Malik mosque مسجد الإمام مالك",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/imam-jafar-sadik-mosque3",
+    "destination": "/ar/mosque/berlin/imam-jafar-sadik-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJWe-P-DlSqEcRCSi8MMG8MkQ",
+    "canonicalName": "Imam Jafar Sadik Mosque e.V. .",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/mescid-i-aksa-mosque-ditib3",
+    "destination": "/en/mosque/berlin/mescid-i-aksa-mosque-ditib",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ29BHWjpSqEcRGFih_b68NbY",
+    "canonicalName": "Mescid-i Aksa Mosque - DITIB",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/ditib-rudow-moschee3",
+    "destination": "/en/mosque/berlin/ditib-rudow-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJC9LIKQBHqEcRoZM_udP3Zqo",
+    "canonicalName": "DITIB Rudow Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/mariendorfer-moschee3",
+    "destination": "/en/mosque/berlin/mariendorfer-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJCe5iFlBFqEcRxLANVK6R4H4",
+    "canonicalName": "Mariendorfer Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/markaz-al-qaim-al-irshad4",
+    "destination": "/en/mosque/berlin/markaz-al-qaim-al-irshad",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJt125375PqEcRGkq9EArcg2w",
+    "canonicalName": "Markaz Al-Qaim (Al-Irshad e.V.)",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/heimat-moschee4",
+    "destination": "/en/mosque/berlin/heimat-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJYX5FUG9FqEcRZypNri8_kwY",
+    "canonicalName": "Heimat Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/vahdet-islamische-kultur3",
+    "destination": "/en/mosque/hamburg/vahdet-islamische-kultur",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJGeO8xueOsUcRF3BhmfYQyms",
+    "canonicalName": "Vahdet Islamische Kultur e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/bilvanis-dosteli-moschee3",
+    "destination": "/ar/mosque/berlin/bilvanis-dosteli-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ6WgRQwBPqEcReVNgdIEsdCk",
+    "canonicalName": "Bilvanis Dosteli e.V Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/islamisches-zentrum-bremen3",
+    "destination": "/en/mosque/bremen/islamisches-zentrum-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJdYyL83ApsUcRCZrM_Z5_yKE",
+    "canonicalName": "Islamisches Zentrum Bremen",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/muenchner-forum-fuer-islam3",
+    "destination": "/de/moschee/muenchen/muenchner-forum-fuer-islam",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJA-E9lvV1nkcRYQZf4E8Ykl0",
+    "canonicalName": "Münchner Forum für Islam e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/masjid-on-5th-floor-oberpollinger3",
+    "destination": "/en/mosque/munich/masjid-on-5th-floor-oberpollinger",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJFec_6lN1nkcRUlidXpqiamI",
+    "canonicalName": "Masjid on 5th floor Oberpollinger",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/islamische-gemeinde-jenfeld-kuba-moschee3",
+    "destination": "/en/mosque/hamburg/islamische-gemeinde-jenfeld-kuba-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ1VGgBQCLsUcRu4YP1LIjaXw",
+    "canonicalName": "Islamische Gemeinde Jenfeld e.V - Kuba Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/iid-moschee-gemeinschaft-der-mitte-gemeindezentrum-marienfelde-moschee3",
+    "destination": "/de/moschee/berlin/iid-moschee-gemeinschaft-der-mitte-gemeindezentrum-marienfelde-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJTW6gTABFqEcRh2hJ-4lPmL0",
+    "canonicalName": "IID Moschee - Gemeinschaft der Mitte Gemeindezentrum Marienfelde Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/landesverband-slamische-religionsgemeinschaft-ditib-hamburg-und-schleswig-holstein3",
+    "destination": "/ar/mosque/hamburg/landesverband-slamische-religionsgemeinschaft-ditib-hamburg-und-schleswig-holstein",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJR1pfSJ-OsUcRJKqtFg1oHPQ",
+    "canonicalName": "Landesverband İslamische Religionsgemeinschaft DITIB Hamburg und Schleswig-Holstein e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/kulturzentrum-der-afghanen-in-berlin-afghanische-gemeinde-berlin4",
+    "destination": "/de/moschee/berlin/kulturzentrum-der-afghanen-in-berlin-afghanische-gemeinde-berlin",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJN33rT7RTqEcRsy61OQ6A8RE",
+    "canonicalName": "Kulturzentrum der Afghanen in Berlin e.V. - Afghanische Gemeinde Berlin",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/stuttgart/ulu-camii-moschee-des-landesverbands-der-islamischen-kulturzentren-bw3",
+    "destination": "/de/moschee/stuttgart/ulu-camii-moschee-des-landesverbands-der-islamischen-kulturzentren-bw",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJFev-mCnbmUcRPRTTdyeORWk",
+    "canonicalName": "Ulu Camii - Moschee des Landesverbands der islamischen Kulturzentren BW e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/baitul-hamd-moschee-bangladesch-islamisches-zentrum3",
+    "destination": "/de/moschee/frankfurt/baitul-hamd-moschee-bangladesch-islamisches-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJkfxAlYMNvUcRZPBMtR90VYU",
+    "canonicalName": "Baitul Hamd Moschee (Bangladesch Islamisches Zentrum)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/wuppertal/al-nur-moschee4",
+    "destination": "/en/mosque/wuppertal/al-nur-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJnfSXbmnRuEcRhTrvN2UV8TQ",
+    "canonicalName": "Al-Nur Moschee مسجد النور",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/koeln/ditib-koeln-porz-mevlana-moschee4",
+    "destination": "/ar/mosque/koeln/ditib-koeln-porz-mevlana-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJW2CIyEonv0cRqlSDZ9kA6Co",
+    "canonicalName": "DITIB Köln Porz - Mevlana Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/bangladesch-moschee4",
+    "destination": "/de/moschee/bremen/bangladesch-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJf_pKHgDXsEcR1lNyuRZo9eg",
+    "canonicalName": "Bangladesch Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/abu-bakr-moschee4",
+    "destination": "/en/mosque/bremen/abu-bakr-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJt3dCktfXsEcRvPEvkv-BAfg",
+    "canonicalName": "Abu Bakr Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/duesseldorf/fidan-mosque-holthausen4",
+    "destination": "/ar/mosque/duesseldorf/fidan-mosque-holthausen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJCYRdTmTLuEcRl5tV4K-GEzg",
+    "canonicalName": "Fidan Mosque Holthausen",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/albanischer-islamischer-kultuverein-furkan3",
+    "destination": "/ar/mosque/dortmund/albanischer-islamischer-kultuverein-furkan",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJM-Aa0lMXuUcRe0dyJNZZ-ok",
+    "canonicalName": "Albanischer Islamischer Kultuverein Furkan",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/arresalah-mosque3",
+    "destination": "/en/mosque/berlin/arresalah-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJmwWL6zBRqEcRY1S-KePN-64",
+    "canonicalName": "Arresalah Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/bremen/moschee-walle4",
+    "destination": "/en/mosque/bremen/moschee-walle",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJi9e3OVoosUcRJ4UuuDAcELw",
+    "canonicalName": "Масджид Ахлулбейт",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/bremen/gemeinde-bosnischer-moslems-bremen3",
+    "destination": "/de/moschee/bremen/gemeinde-bosnischer-moslems-bremen",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJH29GPnUpsUcRbeP8sn2VPvk",
+    "canonicalName": "Gemeinde Bosnischer Moslems-Bremen e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/masjid-al-tawba3",
+    "destination": "/de/moschee/hamburg/masjid-al-tawba",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJAQBwg-WOsUcRcVcBoUmFGiA",
+    "canonicalName": "Masjid al Tawba",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/muslim-prayer-room-sued4",
+    "destination": "/ar/mosque/frankfurt/muslim-prayer-room-sued",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJTT0hU0YLvUcRHly8JzMP_NU",
+    "canonicalName": "Muslim Prayer room",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/berlin/al-khair-mosque3",
+    "destination": "/ar/mosque/berlin/al-khair-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJW5_NtnZTqEcREszCd1yEbgI",
+    "canonicalName": "Al Khair Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/muenchen/neuaubing-mosque3",
+    "destination": "/de/moschee/muenchen/neuaubing-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+    "canonicalName": "Neuaubing Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/muenchen/neuaubing-mosque3",
+    "destination": "/ar/mosque/muenchen/neuaubing-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+    "canonicalName": "Neuaubing Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/berlin/turgut-alp-moschee4",
+    "destination": "/en/mosque/berlin/turgut-alp-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJvRII1gNTqEcR9GWH0IvetBk",
+    "canonicalName": "Turgut Alp Moschee",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/stuttgart/tunesischer-kultur-und-dialogverein3",
+    "destination": "/de/moschee/stuttgart/tunesischer-kultur-und-dialogverein",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJxY3xOgDbmUcRAX9yIy912zc",
+    "canonicalName": "Tunesischer Kultur und Dialogverein e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/hamburg/masjid-al-tawba3",
+    "destination": "/en/mosque/hamburg/masjid-al-tawba",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJAQBwg-WOsUcRcVcBoUmFGiA",
+    "canonicalName": "Masjid al Tawba",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/wuppertal/wuppertal-d-t-b-barmen-fatih-camii3",
+    "destination": "/ar/mosque/wuppertal/wuppertal-d-t-b-barmen-fatih-camii",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJt4xA31O4cUERw61UnJB9T_w",
+    "canonicalName": "WUPPERTAL DİTİB BARMEN FATIH CAMii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/muslim-prayer-room-sued4",
+    "destination": "/de/moschee/frankfurt/muslim-prayer-room-sued",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJTT0hU0YLvUcRHly8JzMP_NU",
+    "canonicalName": "Muslim Prayer room",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/munich/neuaubing-mosque3",
+    "destination": "/en/mosque/munich/neuaubing-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJRQbNqdDXnUcR8T3_vd_9fM4",
+    "canonicalName": "Neuaubing Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/wuppertal/wuppertal-central-mosque3",
+    "destination": "/en/mosque/wuppertal/wuppertal-central-mosque",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJCQqnKNjXuEcRgXthIj6I1to",
+    "canonicalName": "Wuppertal Central Mosque",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak3",
+    "destination": "/de/moschee/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJbTF3lVUXuUcRNMGY-ddcNzg",
+    "canonicalName": "Islamisches Kulturzentrum der Bosniaken - Sandžak e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/mesjid-ikre3",
+    "destination": "/ar/mosque/dortmund/mesjid-ikre",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJB5b3dwAZuUcRNGWN_8ZklQ4",
+    "canonicalName": "Mesjid Ikre",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak3",
+    "destination": "/ar/mosque/dortmund/islamisches-kulturzentrum-der-bosniaken-sand-ak",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJbTF3lVUXuUcRNMGY-ddcNzg",
+    "canonicalName": "Islamisches Kulturzentrum der Bosniaken - Sandžak e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/msjd-alamam-malk3",
+    "destination": "/de/moschee/dortmund/msjd-alamam-malk",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJN0MCC_4ZuUcR3DWuzK6jgxk",
+    "canonicalName": "مسجد الامام مالك",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/sultan-ahmet-moschee3",
+    "destination": "/ar/mosque/hamburg/sultan-ahmet-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJH6-kMfeMsUcRS7nYDBM1LL4",
+    "canonicalName": "Sultan Ahmet Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/pak-mohammad-moschee3",
+    "destination": "/de/moschee/berlin/pak-mohammad-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ-XfwMABRqEcRCKx0Xk4OxfY",
+    "canonicalName": "PAK Mohammad Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/stuttgart/islamische-gemeinschaft-stuttgart4",
+    "destination": "/de/moschee/stuttgart/islamische-gemeinschaft-stuttgart",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ0wS8e2zEmUcRvNWhGZKyEFY",
+    "canonicalName": "Islamische Gemeinschaft Stuttgart e.V.",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/yeni-cami3",
+    "destination": "/de/moschee/dortmund/yeni-cami",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJL7Q_r_AZuUcR-Z08r11QQ70",
+    "canonicalName": "Yeni Cami",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/dortmund-merkez-c-mii3",
+    "destination": "/ar/mosque/dortmund/dortmund-merkez-c-mii",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJCaNLrlUXuUcRmCIsrOHoDXg",
+    "canonicalName": "Dortmund Merkez Câmii",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/el-medine3",
+    "destination": "/de/moschee/dortmund/el-medine",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ8_BPDfoZuUcRJQDEfJrZoC0",
+    "canonicalName": "El Medine e. V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/ali-moschee3",
+    "destination": "/ar/mosque/dortmund/ali-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJL-2ClPwZuUcRwt_c5wSgW4k",
+    "canonicalName": "Ali Moschee - مسجد علي",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/muradiye-moschee-ditib-wilhelmsburg3",
+    "destination": "/de/moschee/hamburg/muradiye-moschee-ditib-wilhelmsburg",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJsQKSDTWOsUcRfzFGHqIJCFw",
+    "canonicalName": "Muradiye-Moschee DITIB Wilhelmsburg",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/dortmund/islamisches-kulturzentrum-bedr-dortmund3",
+    "destination": "/ar/mosque/dortmund/islamisches-kulturzentrum-bedr-dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJm4BQGP4ZuUcRMMRokGT9N1Q",
+    "canonicalName": "Islamisches Kulturzentrum \"Bedr\" e.V. Dortmund",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/dortmund/igmg-anatolian-mosque-dortmund3",
+    "destination": "/de/moschee/dortmund/igmg-anatolian-mosque-dortmund",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJt7JRh_kZuUcRW-p3OMBJ1Wo",
+    "canonicalName": "IGMG Anatolian Mosque Dortmund",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/frankfurt/taqwa-moschee3",
+    "destination": "/de/moschee/frankfurt/taqwa-moschee",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJgxlbCfsLvUcRbbiEnLOEzf0",
+    "canonicalName": "Taqwa Moschee",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/hamburg/islamische-gemeinde-in-harburg3",
+    "destination": "/de/moschee/hamburg/islamische-gemeinde-in-harburg",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJo9L7R66RsUcRsxXtNcrtVZY",
+    "canonicalName": "Islamische Gemeinde in Harburg e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/de/moschee/berlin/islamische-gemeinde-al-baraka-haselhorst3",
+    "destination": "/de/moschee/berlin/islamische-gemeinde-al-baraka-haselhorst",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ_dfs04RXqEcRJ-1VG7XVz84",
+    "canonicalName": "Islamische Gemeinde Al Baraka e.V Haselhorst مسجد البركه هازل هورست",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/hamburg/masjid-al-tawheed-verein-der-afghanischen-muslime-deutschland3",
+    "destination": "/ar/mosque/hamburg/masjid-al-tawheed-verein-der-afghanischen-muslime-deutschland",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJ9U7pgdWJsUcRc3xwTbUREL8",
+    "canonicalName": "Masjid Al-Tawheed - Verein der afghanischen Muslime-Deutschland e.V.",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/mevlana-moschee-tuerk-kultur-und-bildungsverein-in-frankfurt-hoechst3",
+    "destination": "/ar/mosque/frankfurt/mevlana-moschee-tuerk-kultur-und-bildungsverein-in-frankfurt-hoechst",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJQVE9nqagvUcREAf94fIF4jA",
+    "canonicalName": "Mevlana Moschee-Türk.Kultur und Bildungsverein e.V. in Frankfurt-Höchst",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/stuttgart/islamic-community-for-kosovo-albanians3",
+    "destination": "/ar/mosque/stuttgart/islamic-community-for-kosovo-albanians",
+    "permanent": true,
+    "crawlDate": "2026-10-21",
+    "placeId": "ChIJHyRHt5_cmUcRZI6kMpFBJjA",
+    "canonicalName": "Islamic Community for Kosovo-Albanians",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/en/mosque/frankfurt/gamaat-bismi-allah4",
+    "destination": "/en/mosque/frankfurt/gamaat-bismi-allah",
+    "permanent": true,
+    "crawlDate": "2026-10-20",
+    "placeId": "ChIJZ5ZOEwAPvUcRvoCQw6iIrUE",
+    "canonicalName": "Gamaat Bismi Allah",
+    "reason": "Stray digit \"4\" stripped to resolve canonical mosque page"
+  },
+  {
+    "source": "/ar/mosque/frankfurt/baitul-hamd-moschee-bangladesch-islamisches-zentrum3",
+    "destination": "/ar/mosque/frankfurt/baitul-hamd-moschee-bangladesch-islamisches-zentrum",
+    "permanent": true,
+    "crawlDate": "2026-10-20",
+    "placeId": "ChIJkfxAlYMNvUcRZPBMtR90VYU",
+    "canonicalName": "Baitul Hamd Moschee (Bangladesch Islamisches Zentrum)",
+    "reason": "Stray digit \"3\" stripped to resolve canonical mosque page"
   }
 ]
