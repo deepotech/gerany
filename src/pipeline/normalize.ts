@@ -87,12 +87,17 @@ export function parseAddress(
   includeExtended?: boolean
 ): NormalizedAddress {
   // 1. Extract postal code from address string or raw field
+  const cleanRawPostal =
+    rawPostal && rawPostal !== 'null' && rawPostal !== 'undefined' ? rawPostal.trim() : null;
   const postalFromAddr = rawAddress?.match(/\b(\d{5})\b/)?.[1] ?? null;
-  const postalCode = rawPostal || postalFromAddr || '';
+  const postalCode = cleanRawPostal || postalFromAddr || '';
 
   // 2. Extract street (first comma-segment)
   const parts = (rawAddress || '').split(',').map((p) => p.trim());
-  const street = parts[0] || null;
+  let street: string | null = parts[0] || null;
+  if (street && (street === 'null' || street === 'undefined' || /^\d{5}\s+/.test(street))) {
+    street = null;
+  }
 
   // 3. Resolve canonical city from postal / city field / source hint
   const rawCityField = null; // raw records don't have a reliable city field for some datasets
@@ -161,16 +166,22 @@ export function parseAddress(
     // Also check the second address segment for suburb names (e.g. "Wandsbek" in Hamburg)
     if (!district && parts.length >= 2) {
       const seg2 = parts[1].trim();
-      // If seg2 looks like a district (not a postal+city pair)
-      if (!/\d{5}/.test(seg2) && seg2.length > 2 && !seg2.toLowerCase().includes(city.toLowerCase())) {
+      const isCountry = ['germany', 'deutschland'].includes(seg2.toLowerCase());
+      // If seg2 looks like a district (not a postal+city pair, not country name)
+      if (
+        !/\d{5}/.test(seg2) &&
+        seg2.length > 2 &&
+        !seg2.toLowerCase().includes(city.toLowerCase()) &&
+        !isCountry
+      ) {
         district = seg2;
       }
     }
   }
 
-  const formattedAddress = `${street || ''}, ${postalCode} ${city}${
-    district ? ` (${district})` : ''
-  }, Germany`.replace(/^,\s*/, '');
+  const formattedAddress = street
+    ? `${street}, ${postalCode} ${city}${district ? ` (${district})` : ''}, Germany`
+    : `${postalCode} ${city}${district ? ` (${district})` : ''}, Germany`.trim();
 
   return {
     street,
@@ -381,6 +392,19 @@ export function validateCoordinatesQuality(
   };
 }
 
+export function isPlaceholderPhone(phone?: string | null): boolean {
+  if (!phone) return false;
+  const digitsOnly = phone.replace(/[^\d+]/g, '');
+  const withoutPrefix = digitsOnly.replace(/^\+49/, '').replace(/^0/, '');
+  // Repeating "123" patterns (e.g. 123123456123456, 123456123456, 123123123)
+  if (/^(123)+/.test(withoutPrefix) && withoutPrefix.length >= 6) return true;
+  // Sequential ascending or descending digits
+  if (withoutPrefix === '12345678' || withoutPrefix === '123456789' || withoutPrefix === '987654321') return true;
+  // All identical repeating digits (e.g. 0000000, 1111111)
+  if (/^(\d)\1{5,}$/.test(withoutPrefix)) return true;
+  return false;
+}
+
 export function normalizePhone(phone?: string | null): {
   normalized: string | null;
   raw: string | null;
@@ -408,11 +432,12 @@ export function normalizePhone(phone?: string | null): {
 
   const numericCount = digitsOnly.replace(/\D/g, '').length;
   // A plausible German phone number has between 7 and 15 digits
-  const isValid = numericCount >= 7 && numericCount <= 15;
-  const isSuspicious = !isValid && numericCount > 0;
+  const isPlaceholder = isPlaceholderPhone(digitsOnly);
+  const isValid = numericCount >= 7 && numericCount <= 15 && !isPlaceholder;
+  const isSuspicious = (!isValid && numericCount > 0) || isPlaceholder;
 
   return {
-    normalized: isValid ? digitsOnly : raw,
+    normalized: isValid ? digitsOnly : null,
     raw,
     isValid,
     isSuspicious,
@@ -421,7 +446,7 @@ export function normalizePhone(phone?: string | null): {
 
 export function sanitizePhone(phone?: string | null): string | null {
   const res = normalizePhone(phone);
-  return res.isValid ? res.normalized : res.raw;
+  return res.isValid ? res.normalized : null;
 }
 
 export function normalizeWebsite(website?: string | null): {

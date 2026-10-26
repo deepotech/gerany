@@ -1,3 +1,5 @@
+import fs from 'fs';
+import path from 'path';
 import {
   RawGooglePlaceRecord,
   MosqueEntity,
@@ -63,6 +65,16 @@ export function runPipeline(
   console.log(
     `[Pipeline] Starting pipeline for ${sourceCity || 'unknown city'} with ${rawRecords.length} raw records...`
   );
+
+  const enrichmentsPath = path.join(process.cwd(), 'src', 'data', 'phone-enrichments.json');
+  let phoneEnrichments: Record<string, { phone: string; sourceUrl?: string; evidence?: string }> = {};
+  if (fs.existsSync(enrichmentsPath)) {
+    try {
+      phoneEnrichments = JSON.parse(fs.readFileSync(enrichmentsPath, 'utf8'));
+    } catch {
+      // ignore
+    }
+  }
 
   const crossCityAnomalies: CrossCityAnomaly[] = [];
 
@@ -157,9 +169,10 @@ export function runPipeline(
     // Stats
     const lat = raw.location?.lat ?? addressInfo.cityConfig?.postalMin ?? 0;
     const lng = raw.location?.lng ?? 0;
+    const enrichedPhone = (raw.placeId && phoneEnrichments[raw.placeId]?.phone) || raw.phone;
     if (raw.location?.lat && raw.location?.lng) validCoordinatesCount++;
     if (!raw.website) missingWebsiteCount++;
-    if (!raw.phone) missingPhoneCount++;
+    if (!enrichedPhone) missingPhoneCount++;
     if (!raw.openingHours || raw.openingHours.length === 0) missingHoursCount++;
 
     const catName = classification.category;
@@ -201,7 +214,7 @@ export function runPipeline(
       country: addressInfo.country,
       latitude: lat,
       longitude: lng,
-      phone: sanitizePhone(raw.phone),
+      phone: sanitizePhone(enrichedPhone),
       website: sanitizeWebsite(raw.website),
       mapsUrl: raw.url || null,
       placeId: raw.placeId || null,

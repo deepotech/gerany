@@ -1,0 +1,508 @@
+{
+  "generatedAt": "2026-10-25T11:52:24.931Z",
+  "productionCount": 542,
+  "results": [
+    {
+      "slug": "bielefeld",
+      "canonical": "Bielefeld",
+      "fileFound": true,
+      "fileSizeBytes": 176362,
+      "rawCount": 21,
+      "jsonValid": true,
+      "normalizedCount": 21,
+      "reviewedCount": 2,
+      "publishedCount": 19,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 19,
+        "REVIEWED": 2
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 20,
+        "COMMUNITY_CENTER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 8,
+      "missingWebsite": 9,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 20,
+        "entitiesFailingAnyGate": 1,
+        "gateFailCounts": {
+          "GATE_3_CLASSIFICATION_VALID": 1,
+          "GATE_6_PUBLISHABILITY_PASSED": 1
+        },
+        "gateWarnCounts": {
+          "MISSING_WEBSITE": 9,
+          "MISSING_PHONE": 8
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "muenster",
+      "canonical": "Münster",
+      "fileFound": true,
+      "fileSizeBytes": 83938,
+      "rawCount": 8,
+      "jsonValid": true,
+      "normalizedCount": 8,
+      "reviewedCount": 1,
+      "publishedCount": 7,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "REVIEWED": 1,
+        "PUBLISHED": 7
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 8
+      },
+      "missingCoords": 0,
+      "missingPhone": 5,
+      "missingWebsite": 2,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 7,
+        "entitiesFailingAnyGate": 1,
+        "gateFailCounts": {
+          "GATE_1_SCHEMA_VALID": 1,
+          "GATE_6_PUBLISHABILITY_PASSED": 1
+        },
+        "gateWarnCounts": {
+          "MISSING_PHONE": 5,
+          "MISSING_WEBSITE": 2
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "karlsruhe",
+      "canonical": "Karlsruhe",
+      "fileFound": true,
+      "fileSizeBytes": 113684,
+      "rawCount": 13,
+      "jsonValid": true,
+      "normalizedCount": 13,
+      "reviewedCount": 1,
+      "publishedCount": 12,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 12,
+        "REVIEWED": 1
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 12,
+        "OTHER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 6,
+      "missingWebsite": 4,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 12,
+        "entitiesFailingAnyGate": 1,
+        "gateFailCounts": {
+          "GATE_3_CLASSIFICATION_VALID": 1,
+          "GATE_6_PUBLISHABILITY_PASSED": 1
+        },
+        "gateWarnCounts": {
+          "MISSING_PHONE": 6,
+          "MISSING_WEBSITE": 4
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "augsburg",
+      "canonical": "Augsburg",
+      "fileFound": true,
+      "fileSizeBytes": 203205,
+      "rawCount": 20,
+      "jsonValid": true,
+      "normalizedCount": 20,
+      "reviewedCount": 1,
+      "publishedCount": 18,
+      "rejectedCount": 1,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 18,
+        "REVIEWED": 1,
+        "REJECTED": 1
+      },
+      "categoryBreakdown": {
+        "ISLAMIC_CENTER": 3,
+        "COMMUNITY_CENTER": 2,
+        "MOSQUE": 15
+      },
+      "missingCoords": 0,
+      "missingPhone": 8,
+      "missingWebsite": 9,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 18,
+        "entitiesFailingAnyGate": 2,
+        "gateFailCounts": {
+          "GATE_3_CLASSIFICATION_VALID": 1,
+          "GATE_6_PUBLISHABILITY_PASSED": 1,
+          "REJECTED_BY_CLASSIFY": 1
+        },
+        "gateWarnCounts": {
+          "MISSING_PHONE": 8,
+          "MISSING_WEBSITE": 9
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "aachen",
+      "canonical": "Aachen",
+      "fileFound": true,
+      "fileSizeBytes": 104187,
+      "rawCount": 12,
+      "jsonValid": true,
+      "normalizedCount": 12,
+      "reviewedCount": 0,
+      "publishedCount": 12,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 12
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 12
+      },
+      "missingCoords": 0,
+      "missingPhone": 6,
+      "missingWebsite": 5,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 12,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_PHONE": 6,
+          "MISSING_WEBSITE": 5
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "mainz",
+      "canonical": "Mainz",
+      "fileFound": true,
+      "fileSizeBytes": 121851,
+      "rawCount": 16,
+      "jsonValid": true,
+      "normalizedCount": 16,
+      "reviewedCount": 2,
+      "publishedCount": 14,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 14,
+        "REVIEWED": 2
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 16
+      },
+      "missingCoords": 0,
+      "missingPhone": 6,
+      "missingWebsite": 8,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 16,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_PHONE": 6,
+          "MISSING_WEBSITE": 8
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "wiesbaden",
+      "canonical": "Wiesbaden",
+      "fileFound": true,
+      "fileSizeBytes": 150064,
+      "rawCount": 18,
+      "jsonValid": true,
+      "normalizedCount": 18,
+      "reviewedCount": 0,
+      "publishedCount": 18,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 18
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 17,
+        "ISLAMIC_CENTER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 4,
+      "missingWebsite": 7,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 18,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_WEBSITE": 7,
+          "MISSING_PHONE": 4
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "kiel",
+      "canonical": "Kiel",
+      "fileFound": true,
+      "fileSizeBytes": 58827,
+      "rawCount": 12,
+      "jsonValid": true,
+      "normalizedCount": 12,
+      "reviewedCount": 4,
+      "publishedCount": 8,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "REVIEWED": 4,
+        "PUBLISHED": 8
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 12
+      },
+      "missingCoords": 0,
+      "missingPhone": 7,
+      "missingWebsite": 8,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 12,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_PHONE": 7,
+          "MISSING_WEBSITE": 8
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "luebeck",
+      "canonical": "Lübeck",
+      "fileFound": true,
+      "fileSizeBytes": 68338,
+      "rawCount": 7,
+      "jsonValid": true,
+      "normalizedCount": 7,
+      "reviewedCount": 0,
+      "publishedCount": 7,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 7
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 6,
+        "ISLAMIC_CENTER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 2,
+      "missingWebsite": 1,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 7,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_PHONE": 2,
+          "MISSING_WEBSITE": 1
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "saarbruecken",
+      "canonical": "Saarbrücken",
+      "fileFound": true,
+      "fileSizeBytes": 115379,
+      "rawCount": 12,
+      "jsonValid": true,
+      "normalizedCount": 12,
+      "reviewedCount": 0,
+      "publishedCount": 12,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 12
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 11,
+        "ISLAMIC_CENTER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 6,
+      "missingWebsite": 9,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 12,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_WEBSITE": 9,
+          "MISSING_PHONE": 6
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "freiburg",
+      "canonical": "Freiburg im Breisgau",
+      "fileFound": true,
+      "fileSizeBytes": 79340,
+      "rawCount": 10,
+      "jsonValid": true,
+      "normalizedCount": 10,
+      "reviewedCount": 1,
+      "publishedCount": 9,
+      "rejectedCount": 0,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "REVIEWED": 1,
+        "PUBLISHED": 9
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 8,
+        "ISLAMIC_CENTER": 2
+      },
+      "missingCoords": 0,
+      "missingPhone": 4,
+      "missingWebsite": 6,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 10,
+        "entitiesFailingAnyGate": 0,
+        "gateFailCounts": {},
+        "gateWarnCounts": {
+          "MISSING_PHONE": 4,
+          "MISSING_WEBSITE": 6
+        }
+      },
+      "notes": []
+    },
+    {
+      "slug": "regensburg",
+      "canonical": "Regensburg",
+      "fileFound": true,
+      "fileSizeBytes": 103825,
+      "rawCount": 11,
+      "jsonValid": true,
+      "normalizedCount": 11,
+      "reviewedCount": 0,
+      "publishedCount": 10,
+      "rejectedCount": 1,
+      "rawStatusCount": 0,
+      "normalizedStatusCount": 0,
+      "statusBreakdown": {
+        "PUBLISHED": 10,
+        "REJECTED": 1
+      },
+      "categoryBreakdown": {
+        "MOSQUE": 9,
+        "ISLAMIC_CENTER": 1,
+        "OTHER": 1
+      },
+      "missingCoords": 0,
+      "missingPhone": 7,
+      "missingWebsite": 5,
+      "outOfBoundsCoords": [],
+      "crossCityAnomalies": 0,
+      "crossCityDetails": [],
+      "productionOverlaps": [],
+      "intraDatasetDuplicates": [],
+      "interDatasetDuplicates": [],
+      "gateSummary": {
+        "entitiesPassingAllGates": 10,
+        "entitiesFailingAnyGate": 1,
+        "gateFailCounts": {
+          "REJECTED_BY_CLASSIFY": 1
+        },
+        "gateWarnCounts": {
+          "MISSING_PHONE": 6,
+          "MISSING_WEBSITE": 5
+        }
+      },
+      "notes": []
+    }
+  ]
+}

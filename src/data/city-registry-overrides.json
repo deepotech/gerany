@@ -28,5 +28,41 @@
     "publicationEnabled": true,
     "seoIndexable": true,
     "launchedAt": "2026-09-30T10:53:16.302Z"
+  },
+  "wiesbaden": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-25T12:06:39.168Z"
+  },
+  "luebeck": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-25T17:09:48.548Z"
+  },
+  "aachen": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-25T17:54:19.004Z"
+  },
+  "saarbruecken": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-25T19:54:15.253Z"
+  },
+  "freiburg": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-25T20:47:20.436Z"
+  },
+  "muenster": {
+    "status": "PUBLISHED",
+    "publicationEnabled": true,
+    "seoIndexable": true,
+    "launchedAt": "2026-10-26T08:56:22.881Z"
   }
 }

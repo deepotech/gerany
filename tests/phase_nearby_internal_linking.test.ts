@@ -166,18 +166,18 @@ describe('PHASE — Internal Linking: Nearby Mosques Regression Suite', () => {
   });
 
   // 15. Existing production records remain unchanged
-  it('15. Production baseline remains exactly 542 published records across 14 cities', () => {
-    expect(publishedMosques.length).toBe(542);
+  it('15. Production baseline remains exactly 601 published records across 20 cities', () => {
+    expect(publishedMosques.length).toBe(601);
     expect(publishedMosques.every((m) => m.dataStatus === 'PUBLISHED')).toBe(true);
 
     const publishedCities = new Set(publishedMosques.map((m) => m.city));
-    expect(publishedCities.size).toBe(14);
+    expect(publishedCities.size).toBe(20);
   });
 
   // 16. Existing city routes remain unchanged
   it('16. City configs match published cities exactly', () => {
     const configs = getPublishedCityConfigs();
-    expect(configs.length).toBe(14);
+    expect(configs.length).toBe(20);
   });
 
   // 17. Arabic routes remain valid
@@ -203,10 +203,10 @@ describe('PHASE — Internal Linking: Nearby Mosques Regression Suite', () => {
     expect(formatDistance(0.85, 'ar')).toBe('850 م');
   });
 
-  // 19. Sitemap remains strictly 1,674 URLs without inflation
-  it('19. Sitemap canonical count remains unchanged at 1,674', async () => {
+  // 19. Sitemap remains strictly 1,869 URLs without inflation
+  it('19. Sitemap canonical count remains unchanged at 1,869', async () => {
     const entries = await sitemap();
-    expect(entries.length).toBe(1674);
+    expect(entries.length).toBe(1869);
   });
 
   // 20. Nearby selection is purely in-memory repository query with zero N+1 overhead

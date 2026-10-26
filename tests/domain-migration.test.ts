@@ -76,7 +76,7 @@ describe('Production Domain Migration: moscheeindernaehe.de', () => {
   describe('3. Sitemap Generation', () => {
     it('generates all sitemap URLs strictly starting with https://moscheeindernaehe.de', async () => {
       const entries = await sitemap();
-      expect(entries.length).toBe(1674);
+      expect(entries.length).toBe(1869);
 
       for (const entry of entries) {
         expect(entry.url.startsWith('https://moscheeindernaehe.de/')).toBe(true);
@@ -105,7 +105,7 @@ describe('Production Domain Migration: moscheeindernaehe.de', () => {
       }
     });
 
-    it('verifies exact baseline breakdown: 3 home, 3 search hub, 42 city, 1,626 detail = 1,674 URLs', async () => {
+    it('verifies exact baseline breakdown: 3 home, 3 search hub, 60 city, 1,803 detail = 1,869 URLs', async () => {
       const entries = await sitemap();
       const homeUrls = entries.filter((e) => ['/de', '/en', '/ar'].some((h) => e.url.endsWith(h)));
       expect(homeUrls.length).toBe(3);
@@ -116,11 +116,11 @@ describe('Production Domain Migration: moscheeindernaehe.de', () => {
       expect(hubUrls.length).toBe(3);
 
       const publishedCities = getPublishedCityConfigs();
-      expect(publishedCities.length).toBe(14);
+      expect(publishedCities.length).toBe(20);
 
-      const expectedTotal = 3 + 3 + (14 * 3) + (542 * 3);
-      expect(expectedTotal).toBe(1674);
-      expect(entries.length).toBe(1674);
+      const expectedTotal = 3 + 3 + (20 * 3) + (601 * 3);
+      expect(expectedTotal).toBe(1869);
+      expect(entries.length).toBe(1869);
     });
   });
 
@@ -233,21 +233,21 @@ describe('Production Domain Migration: moscheeindernaehe.de', () => {
 
   // 7. Production Baseline Safety
   describe('7. Production Baseline Invariant Protection', () => {
-    it('verifies exactly 542 published records remain unchanged', async () => {
+    it('verifies exactly 601 published records remain unchanged', async () => {
       const mosques = await repo.getAllPublished();
-      expect(mosques.length).toBe(542);
+      expect(mosques.length).toBe(601);
     });
 
-    it('verifies exactly 14 published cities remain unchanged', async () => {
+    it('verifies exactly 20 published cities remain unchanged', async () => {
       const cities = await repo.getCities();
       const liveCities = cities.filter((c) => c.count >= 1);
-      expect(liveCities.length).toBe(14);
+      expect(liveCities.length).toBe(20);
     });
 
-    it('verifies all 542 published entities remain UNVERIFIED (zero artificial upgrades)', async () => {
+    it('verifies all 601 published entities remain UNVERIFIED (zero artificial upgrades)', async () => {
       const mosques = await repo.getAllPublished();
       const unverified = mosques.filter((m) => m.verificationStatus === 'UNVERIFIED');
-      expect(unverified.length).toBe(542);
+      expect(unverified.length).toBe(601);
     });
   });
 });

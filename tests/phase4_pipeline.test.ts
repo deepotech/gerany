@@ -5,6 +5,8 @@ import path from 'path';
 import {
   normalizeMosqueName,
   normalizePhone,
+  sanitizePhone,
+  isPlaceholderPhone,
   normalizeWebsite,
   validateCoordinatesQuality,
   normalizeOpeningHours,
@@ -83,6 +85,15 @@ describe('PHASE 4: Germany-Wide Data Expansion & Production Quality Pipeline', (
     expect(suspicious.isValid).toBe(false);
     expect(suspicious.isSuspicious).toBe(true);
     expect(suspicious.raw).toBe('123'); // raw value preserved!
+
+    // Regression test for Phase 13B: placeholder phone number must be rejected and sanitized to null
+    const placeholder = normalizePhone('+49 123123456123456');
+    expect(placeholder.isValid).toBe(false);
+    expect(placeholder.isSuspicious).toBe(true);
+    expect(placeholder.normalized).toBeNull();
+    expect(placeholder.raw).toBe('+49 123123456123456');
+    expect(sanitizePhone('+49 123123456123456')).toBeNull();
+    expect(isPlaceholderPhone('+49 123123456123456')).toBe(true);
   });
 
   // 5. Website Normalization

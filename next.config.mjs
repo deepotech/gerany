@@ -1,6 +1,26 @@
+import fs from 'fs';
+import path from 'path';
+
+const redirectsPath = path.join(process.cwd(), 'src/data/redirects.json');
+let redirectsList = [];
+if (fs.existsSync(redirectsPath)) {
+  try {
+    redirectsList = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
+  } catch (err) {
+    console.error('Failed to parse redirects.json:', err);
+  }
+}
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  async redirects() {
+    return redirectsList.map((r) => ({
+      source: r.source,
+      destination: r.destination,
+      permanent: r.permanent ?? true,
+    }));
+  },
   images: {
     remotePatterns: [
       {
@@ -50,6 +70,9 @@ const nextConfig = {
         ],
       },
     ];
+  },
+  experimental: {
+    cpus: 1,
   },
 };
 

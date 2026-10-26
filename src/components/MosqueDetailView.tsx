@@ -44,6 +44,17 @@ const ARABIC_CITY_NAMES: Record<string, string> = {
   'Stuttgart': 'شتوتغارت',
   'Dortmund': 'دورتموند',
   'Essen': 'إيسن',
+  'Bremen': 'بريمن',
+  'Wuppertal': 'فوبيرتال',
+  'Bonn': 'بون',
+  'Nürnberg': 'نورنبرغ',
+  'Leipzig': 'لايبزيغ',
+  'Wiesbaden': 'فيسبادن',
+  'Lübeck': 'لوبيك',
+  'Aachen': 'آخن',
+  'Saarbrücken': 'زاربروكن',
+  'Freiburg im Breisgau': 'فرايبورغ إم برايسغاو',
+  'Münster': 'مونستر',
 };
 
 export default function MosqueDetailView({

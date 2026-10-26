@@ -1,0 +1,451 @@
+[
+  {
+    "slug": "freiburg",
+    "canonical": "Freiburg im Breisgau",
+    "file": "freiburg,germany.json",
+    "rawCount": 10,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 9,
+    "pipelineHold": 1,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 4,
+    "missingWebsite": 6,
+    "missingHours": 7,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "habsburgerstraße 56a, 79104 freiburg im breisgau (nord), germany",
+        "names": [
+          "Freiburg-Herdern Mosque",
+          "Ibad ur Rahman Moschee"
+        ],
+        "placeIds": [
+          "ChIJKwI2woYckUcRd9ll41_0lBs",
+          "ChIJ-xg0xIYckUcRO6tsryi7_Tc"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 1
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Near-ready candidate. 1 co-located pair at Hugstetter Str. 55 (different communities: DITIB vs Islamic Center)."
+    ]
+  },
+  {
+    "slug": "karlsruhe",
+    "canonical": "Karlsruhe",
+    "file": "karlsruhe,germany.json",
+    "rawCount": 13,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 12,
+    "pipelineHold": 1,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 6,
+    "missingWebsite": 4,
+    "missingHours": 7,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "greschbachstraße 3a, 76229 karlsruhe (grötzingen), germany",
+        "names": [
+          "Serhendi Karlsruhe",
+          "Al-Kawthar e.V."
+        ],
+        "placeIds": [
+          "ChIJRbw8TgAJl0cRSSR7TNpjZB4",
+          "ChIJlwU0_JcIl0cRopmv_d31ozE"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Unclear classification; requires manual review": 1
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Medium candidate. Multiple cultural associations and community centers."
+    ]
+  },
+  {
+    "slug": "muenster",
+    "canonical": "Münster",
+    "file": "muenster,germany.json",
+    "rawCount": 8,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 7,
+    "pipelineHold": 1,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 5,
+    "missingWebsite": 2,
+    "missingHours": 3,
+    "invalidCoords": 0,
+    "sameAddressGroups": [],
+    "reviewReasons": {
+      "Schema validation failed: postalCode: Invalid, postalCode: Must be a valid German postal code (5 digits, 01000–99999)": 1
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Includes university prayer room without permanent postal address."
+    ]
+  },
+  {
+    "slug": "mainz",
+    "canonical": "Mainz",
+    "file": "mainz,germany.json",
+    "rawCount": 16,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 14,
+    "pipelineHold": 2,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 6,
+    "missingWebsite": 8,
+    "missingHours": 9,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "haifa-allee 34, 55128 mainz, germany",
+        "names": [
+          "türkische masged",
+          "IGMG Ortsverein Mainz e.V."
+        ],
+        "placeIds": [
+          "ChIJ_WLGBwCRvUcRwSYL12DXsHs",
+          "ChIJb3_b2TWRvUcRAsu_LPXv9W8"
+        ]
+      },
+      {
+        "address": "mombacher str. 71, 55122 mainz, germany",
+        "names": [
+          "Eyüp sultan camii",
+          "Türk Fedarasyonu Mainz Ülkü Ocağı"
+        ],
+        "placeIds": [
+          "ChIJmfagJACXvUcRRm-cu2QLPDs",
+          "ChIJD8H9MUuXvUcR7RJCG3BoK5s"
+        ]
+      },
+      {
+        "address": "friedrich-koenig-straße 17a, 55129 mainz (hechtsheim), germany",
+        "names": [
+          "Moschee",
+          "Islamischer Kulturverein Mz e.V."
+        ],
+        "placeIds": [
+          "ChIJ7YKtTQCRvUcRm22Z4-gGtec",
+          "ChIJZ7OFW-KWvUcRbdzhWVXq8LU"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 1,
+      "Low quality: Generic placeholder title without specific congregation name": 1
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Includes Türk Federasyonu Mainz Ülkü Ocağı (cultural/political clubhouse requiring HOLD)."
+    ]
+  },
+  {
+    "slug": "bielefeld",
+    "canonical": "Bielefeld",
+    "file": "bielefeld,germany.json",
+    "rawCount": 21,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 19,
+    "pipelineHold": 2,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 8,
+    "missingWebsite": 9,
+    "missingHours": 10,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "windelsbleicher str. 100, 33647 bielefeld (brackwede), germany",
+        "names": [
+          "IGMG -Islamische Gemeinschaft Milli Görüs, Ortsverein Bielefeld e.V.",
+          "Hicret-Moschee"
+        ],
+        "placeIds": [
+          "ChIJb-e4QJo8ukcR7V5UYHg8Ays",
+          "ChIJWbMhR5o8ukcR6radbNE6koE"
+        ]
+      },
+      {
+        "address": "ernst-rein-straße 32, 33613 bielefeld, germany",
+        "names": [
+          "Bielefeld Merkez Cami",
+          "Muslim Gemeinde e.V. Moschee/ Camii"
+        ],
+        "placeIds": [
+          "ChIJJcIB7gE9ukcRLtBFJX_VjME",
+          "ChIJ-7flh2s9ukcRqczRUOeuIK4"
+        ]
+      },
+      {
+        "address": "schillerstraße 91, 33609 bielefeld, germany",
+        "names": [
+          "Mizgefta Şêyh Saîd Moschee",
+          "Camii"
+        ],
+        "placeIds": [
+          "ChIJGWe8DJ09ukcRNQ-57Dtzov4",
+          "ChIJe2PXBQA9ukcR23e2eHzHeLc"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Association/community center; requires manual confirmation of regular congregational prayer facilities": 1,
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 1
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Includes Afrikanische Islamische Kultur Verein (tagged corporate office but active prayer facility)."
+    ]
+  },
+  {
+    "slug": "augsburg",
+    "canonical": "Augsburg",
+    "file": "augsburg,germany.json",
+    "rawCount": 20,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 18,
+    "pipelineHold": 1,
+    "pipelineReject": 1,
+    "prodOverlapCount": 0,
+    "missingPhone": 8,
+    "missingWebsite": 9,
+    "missingHours": 11,
+    "invalidCoords": 0,
+    "sameAddressGroups": [],
+    "reviewReasons": {
+      "Association/community center; requires manual confirmation of regular congregational prayer facilities": 1
+    },
+    "rejectReasons": {
+      "Entity is a social/cultural club without confirmed prayer facilities": 1
+    },
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Requires inspection of cultural association premises."
+    ]
+  },
+  {
+    "slug": "regensburg",
+    "canonical": "Regensburg",
+    "file": "regensburg,germany.json",
+    "rawCount": 11,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 10,
+    "pipelineHold": 0,
+    "pipelineReject": 1,
+    "prodOverlapCount": 0,
+    "missingPhone": 7,
+    "missingWebsite": 5,
+    "missingHours": 8,
+    "invalidCoords": 0,
+    "sameAddressGroups": [],
+    "reviewReasons": {},
+    "rejectReasons": {
+      "Google Maps category \"association / organization\" is not a mosque or prayer facility; no mosque indicator found in title": 1
+    },
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Smaller city dataset with university / student prayer facilities."
+    ]
+  },
+  {
+    "slug": "kiel",
+    "canonical": "Kiel",
+    "file": "kiel,germany.json",
+    "rawCount": 12,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 8,
+    "pipelineHold": 4,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 7,
+    "missingWebsite": 8,
+    "missingHours": 10,
+    "invalidCoords": 0,
+    "sameAddressGroups": [],
+    "reviewReasons": {
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 4
+    },
+    "rejectReasons": {},
+    "registryStatus": "DISCOVERED",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Northern city, clean dataset with solid community mosques."
+    ]
+  },
+  {
+    "slug": "duisburg",
+    "canonical": "Duisburg",
+    "file": "Duisburg, Germany.json",
+    "rawCount": 61,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 58,
+    "pipelineHold": 3,
+    "pipelineReject": 0,
+    "prodOverlapCount": 0,
+    "missingPhone": 29,
+    "missingWebsite": 30,
+    "missingHours": 39,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "dieselstraße 24, 47166 duisburg, germany",
+        "names": [
+          "Verband der Islamischen Kulturzentren Duisburg e.V.",
+          "Fatih Camii"
+        ],
+        "placeIds": [
+          "ChIJ842J1CC-uEcRtX8Oe9jyQRo",
+          "ChIJn2x91CC-uEcR3dvgf61LMbM"
+        ]
+      },
+      {
+        "address": "ostackerweg 122, 47166 duisburg, germany",
+        "names": [
+          "Islamischer Kulturverein türkischer Arbeitnehmer in Duisburg Ostackerweg",
+          "DITIB Mehmet Akif Moschee"
+        ],
+        "placeIds": [
+          "ChIJ20mRdSm-uEcRSSB8Wd9DDX0",
+          "ChIJryaTELO_uEcRwnlp0LIs-No"
+        ]
+      },
+      {
+        "address": "winterstraße 1, 47137 duisburg, germany",
+        "names": [
+          "Mevlana Moschee Bildung und Kulturzentrum",
+          "IGMG Duisburg Mevlana Külliyesi"
+        ],
+        "placeIds": [
+          "ChIJuxrlUD2-uEcRDCy9OSjBNr4",
+          "ChIJs81vzAy_uEcRTbi8A2xZ444"
+        ]
+      },
+      {
+        "address": "elisabethstraße 3, 47226 duisburg, germany",
+        "names": [
+          "مسجد خالد ابن الوليد Khalid ibn Waleed Moschee",
+          "Arabisches Kulturzentrum Duisburg e.V."
+        ],
+        "placeIds": [
+          "ChIJa7shAAC_uEcRZjk2YONCTtQ",
+          "ChIJwf1RXwC_uEcRTqcOfXn1lC0"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Association/community center; requires manual confirmation of regular congregational prayer facilities": 1,
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 2
+    },
+    "rejectReasons": {},
+    "registryStatus": "REVIEW",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Large dataset from initial ingestion batch. High volume, needs thorough deduplication."
+    ]
+  },
+  {
+    "slug": "hannover",
+    "canonical": "Hannover",
+    "file": "Hannover, Germany.json",
+    "rawCount": 28,
+    "duplicatePlaceIdInRaw": 0,
+    "pipelineReady": 23,
+    "pipelineHold": 4,
+    "pipelineReject": 1,
+    "prodOverlapCount": 0,
+    "missingPhone": 10,
+    "missingWebsite": 16,
+    "missingHours": 14,
+    "invalidCoords": 0,
+    "sameAddressGroups": [
+      {
+        "address": "davenstedter str. 123, 30453 hannover, germany",
+        "names": [
+          "Hasrate Mohammad (s) Moschee Hannover",
+          "مسجد رسول الله ص"
+        ],
+        "placeIds": [
+          "ChIJK3Nb4fV0sEcRsv58qsFcWdc",
+          "ChIJ33qNGwB1sEcReGCxD_tk7tU"
+        ]
+      },
+      {
+        "address": "am listholze 63, 30177 hannover, germany",
+        "names": [
+          "Pakistan Zentrum Hannover",
+          "Masjid-El-Ummah Hannover"
+        ],
+        "placeIds": [
+          "ChIJV-N_pLQMsEcRGOIuSzXdQCs",
+          "ChIJwbfDmbQMsEcR11kMAvSeK58"
+        ]
+      }
+    ],
+    "reviewReasons": {
+      "Association/community center; requires manual confirmation of regular congregational prayer facilities": 1,
+      "Low quality: Generic placeholder title without specific congregation name": 1,
+      "Thin record: Zero reviews, no phone, no website, and no opening hours; held in review queue to avoid thin page indexing": 2
+    },
+    "rejectReasons": {
+      "Detected commercial non-mosque business or sports facility": 1
+    },
+    "registryStatus": "REVIEW",
+    "publicationEnabled": false,
+    "seoIndexable": false,
+    "inCityConfigs": false,
+    "inExtendedConfigs": true,
+    "notes": [
+      "Large dataset from initial ingestion batch. High volume, needs cross-city anomaly resolution."
+    ]
+  }
+]

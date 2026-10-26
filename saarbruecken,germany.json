@@ -1,0 +1,2863 @@
+[{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd7hVd4NtyaIw_K2Hf-SMwI10eU4alHMNxTxaESkL-m8-g4oRWtqYpH2bPpNz7K9UDbw7j4nLCazc5GfbdBVFwFuzaUnNa-aPhJ4DhQqV-BJtVZ4t5HfLbtDxf7F88NT3go9qjb=w411-h231-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RSZWVYnOyakZYQJOgbQTDcmiIBX-QwEfNiHDyMIT7bZvZrzq3ndULMT4z42n1exwZyTBwPMt6C6TDeNgcGcnf5usMjHWm4zvDfkbrSLZ3rdB4b3cfGV5aXf5LjlW7E9xu6msLQGg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q9HbSOp3J21RFMNf5nesM7YSkMO0xR86ikwHpDBuH7oBHcexYlDZM3N6hpnFdr91aChpT2Fy9w6EYWeSz5hldnujO2eLTtHyoNH0ndKo3Wa6fYbqmaICBkYmKc28lD5mnfOag8=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5mxFPnKAJCksBdXPFBdRzDawHUsSctL3YMV44_T3nAHLilBWOHQexa4meeGdGXHfp9zCVTxP76wj1KOr83N14WuUQlCOWwj6wytjzAflPgxpWqWrhnZsgaYExV0ieAvz7mqr_=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTUTF-WNHFKxyi6Y6uSP0FmuGgg1eU5uMeqlXAgaddjKq0w60RNvGHUdlRBc813EtbSE2OnFEKxPuOXqqmlcFCWpiQvUEleU-5siptJLH8O_Q6joDDBIsuERwFXJWTVZzFfcxy=w1920-h1080-k-no"
+  ],
+  "imagesCount": 4,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.23025,
+    "lng": 7.00828
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 123123456123456",
+  "placeId": "ChIJk8onlSG0lUcRyyx-Bbh6D5M",
+  "placesTags": [],
+  "plusCode": "62J5+48 Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein im Saarland e.V",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosanski kulturni Center Saarbrücken",
+      "reviewsCount": 5,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66121",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 32,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 23
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Arndtstraße 14",
+  "subTitle": null,
+  "title": "Islamisches Kulturzentrum Saarbrücken",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamisches%20Kulturzentrum%20Saarbr%C3%BCcken&query_place_id=ChIJk8onlSG0lUcRyyx-Bbh6D5M",
+  "website": "https://www.facebook.com/ikc.sbr",
+  "address": "Arndtstraße 14, 66121 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assisted listening devices": true
+      },
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Assistive hearing loop": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdgSRP_yAjtRg3Bw7CuPgvWSi0Jh8X0f5sXaUqZHVF9P7ECLaYhpkWtKUF4R-WMD_5CHWw8icAfIBSV6sNCdCkLNn8DZhXpVM09SafB-BSXD-WCtPVg5Va0K6KQq_h_i-pyeWh8rQ=w411-h548-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLdgSRP_yAjtRg3Bw7CuPgvWSi0Jh8X0f5sXaUqZHVF9P7ECLaYhpkWtKUF4R-WMD_5CHWw8icAfIBSV6sNCdCkLNn8DZhXpVM09SafB-BSXD-WCtPVg5Va0K6KQq_h_i-pyeWh8rQ=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2340264,
+    "lng": 6.9888798
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "1 to 10 PM"
+    }
+  ],
+  "ownerDescription": "Marokkanischer Kulturverein im Saarland e.V",
+  "ownerUpdates": [],
+  "phone": "+49 1525 4112801",
+  "placeId": "ChIJ4fg50zO3lUcRdYZltqxFN0E",
+  "placesTags": [],
+  "plusCode": "6XMQ+JH Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamisches Kulturzentrum Saarbrücken",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "32 Omar Ibn Abdalaziz Moschee - مسجد عمر بن عبد العزيز",
+      "reviewsCount": 33,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66117",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "103645762232848649588",
+      "reviewerUrl": "https://www.google.com/maps/contrib/103645762232848649588?hl=en",
+      "name": "ilirjana qunaj",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ7kmJ9Tqz0H_MAO_zhkf9hGUu8whDTYi06WqQwSKJ2kD-Byw=s1920-c-rp-mo-br100",
+      "text": "Selam alejkum ich habe eine Frage gib’s auch ein Raum wo Frauen auch beten können\nMöge Allah dich belohnen Allahuma Amin",
+      "textTranslated": "Peace be upon you. I have a question: Is there a room where women can also pray? May Allah reward you. Allahumma Ameen.",
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-13T12:17:07.782Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWQ2VYbE9VR3RoV2xrM1ZHMTRURzh5YlZaa05FRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWQ2VYbE9VR3RoV2xrM1ZHMTRURzh5YlZaa05FRRAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOkVCeXlOUGthWlk3VG14TG8ybVZkNEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-10-13T19:57:20.000Z",
+      "responseFromOwnerText": "Wa 3alaykum salam liebe Schwester.\nNatürlich, einfach den Flur durch dann fir Treppe links hoch. \nFreitagsgebet gibt's leider kein Platz für Frauen.",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "106692335105489654767",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106692335105489654767?hl=en",
+      "name": "mahmoud gharbia",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWjvRAqEyYzOGB6H0WN9O6EUYdxdGWELzThe-Nv852lWWDHB9ohCg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-06T13:44:14.728Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SR05teExPWFo1UlZsQ2RtbFdjRlpoTFRSdlIyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SR05teExPWFo1UlZsQ2RtbFdjRlpoTFRSdlIyYxAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOnRGNmxLOXZ5RVlCdmlWcFZhLTRvR2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-10-06T15:23:19.000Z",
+      "responseFromOwnerText": "❤️",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105647366170836609167",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105647366170836609167?hl=en",
+      "name": "Abdelhadi Jabraoui",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLUKmNonklXs5KboMVRJmHm7gIA6-Vvp7abR9MUCfx4Mdf4QQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-02T07:34:22.772Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xVMU1GVnpVbmRtYmpGTllVSmpWSEZsYmpST1owRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xVMU1GVnpVbmRtYmpGTllVSmpWSEZsYmpST1owRRAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOlU1MFVzUndmbjFNYUJjVHFlbjROZ0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-10-06T15:23:35.000Z",
+      "responseFromOwnerText": "❤️",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104602123720895719840",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104602123720895719840?hl=en",
+      "name": "Hamza Ali",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIlszAv3BX6vukfpTbSUBwnz03SBAtPD7kq_bUV_fo0CPwe0A=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-11T13:09:22.638Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pWaVpIRjJOR3RSV0Rac1psRjZUVkpzUzNjelJXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWaVpIRjJOR3RSV0Rac1psRjZUVkpzUzNjelJXYxAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOjViZHF2NGtRWDZsZlF6TVJsS3czRWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113175545270212980867",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113175545270212980867?hl=en",
+      "name": "Ali Sheraz",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUhTtm8Ll2jWJnINMAHfbbn6D4V_XNd_8WaogYbeOF3ErRttWpT=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-01T15:02:41.365Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT210UmVGWlFVMnAxTlZoYU9URlFOR0p2TVROaFdYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210UmVGWlFVMnAxTlZoYU9URlFOR0p2TVROaFdYYxAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOmtReFZQU2p1NVhaOTFQNGJvMTNhWXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104045124791542306615",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104045124791542306615?hl=en",
+      "name": "Lka_ 57",
+      "reviewerNumberOfReviews": 41,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJgQPx42n9TO-SJYVD4jpBnU3TKcPyhBMpmwN_qbttJoPplHSU8=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-25T11:59:21.013Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2taUlQwZ3lNRUZWTlRreE1qVTFWa2t5UVZoemFWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taUlQwZ3lNRUZWTlRreE1qVTFWa2t5UVZoemFWRRAB!2m1!1s0x0:0x413745acb6658675!3m1!1s2@1:CAIQACodChtycF9oOkZRT0gyMEFVNTkxMjU1VkkyQVhzaVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-08-29T09:18:29.000Z",
+      "responseFromOwnerText": "❤️",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 62,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 58
+  },
+  "reviewsTags": [
+    {
+      "title": "prayer room",
+      "count": 3
+    },
+    {
+      "title": "cleanliness",
+      "count": 6
+    },
+    {
+      "title": "May God reward you.",
+      "count": 3
+    },
+    {
+      "title": "Wage",
+      "count": 2
+    },
+    {
+      "title": "masha'allah",
+      "count": 2
+    },
+    {
+      "title": "Hello",
+      "count": 2
+    },
+    {
+      "title": "city center",
+      "count": 2
+    },
+    {
+      "title": "prayer",
+      "count": 4
+    },
+    {
+      "title": "volunteers",
+      "count": 3
+    }
+  ],
+  "state": null,
+  "street": "Eisenbahnstraße 40",
+  "subTitle": null,
+  "title": "Marokkanischer Kulturverein im Saarland e.V",
+  "url": "https://www.google.com/maps/search/?api=1&query=Marokkanischer%20Kulturverein%20im%20Saarland%20e.V&query_place_id=ChIJ4fg50zO3lUcRdYZltqxFN0E",
+  "address": "Eisenbahnstraße 40, 66117 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcjdK_L1zQLMf8ymBOTMCFsNCpz_PQPgpakWCzNWJbOzQ2tuXe3BlVBY9rNUNDCrGOp1hPb4FNwwOGLl2YD3EOXz6ErgHgK4939ipTsjiUN0F1j6Otvfo-JGF2hwLbuzg3dTLCQlA=w399-h710-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMAPgWo2mtYZMBjjhk7_ilbhH_ajfZC28KfHN_e8ECGdgi4qkGafuDk_hkntlwJXrd0bPY4s7UHIvYVgnCw8709xZv38gy0nvsH6iT1RF2lPRGtKNdodTVUfDazJtf2d1bjJw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QbWRTIcwslP84qLiVxX3aRLPSPrfpDRiqBG1FYrHDPpz4yEdXSgYi2gXGaGNyvyHFkp6MDstusLYkQuN_OCk1f_YZlmjxYvUCVGbSCh9BVsUuI_-lfgg_RWOhMuHg08wUGsPqp7Q=w1920-h1080-k-no"
+  ],
+  "imagesCount": 2,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2422847,
+    "lng": 6.9424518
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 6:30 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 6 AM, 12 PM to 12 AM"
+    }
+  ],
+  "ownerDescription": "سهرات حشاشة شرب تعاطي اكل خرا كلشي ممنوع 🤣🤣🇸🇾🇸🇾🇺🇲🇺🇲🪦📃",
+  "ownerUpdates": [],
+  "phone": "+49 173 3067351",
+  "placeId": "ChIJ9TXIFHyxlUcREjbZu-bS0vk",
+  "placesTags": [],
+  "plusCode": "6WRR+WX Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Al Noor",
+      "reviewsCount": 5,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamisches Kulturzentrum Saarbrücken",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66115",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 13,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 11
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Jakobstraße 2",
+  "subTitle": null,
+  "title": "Pakistan Islamic Centre Saarbrucken",
+  "url": "https://www.google.com/maps/search/?api=1&query=Pakistan%20Islamic%20Centre%20Saarbrucken&query_place_id=ChIJ9TXIFHyxlUcREjbZu-bS0vk",
+  "address": "Jakobstraße 2, 66115 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfVX_DMicObD15gTXKFMqFlZ7csLVGfcCK8ALiY7ROSqQozstay4Mwd2ygh_6vBdM8IPand3TUz9mopDKtH91x5xiHoBYfG1c81SsPwT5ACDPAoYEhA0ucocacecEF49K36XIw=w411-h404-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2450016,
+    "lng": 6.9703353
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJOUlD5VqxlUcRtLH7N1Cb_-8",
+  "placesTags": [],
+  "plusCode": "6XWC+24 Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Bilal",
+      "reviewsCount": 241,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "32 Omar Ibn Abdalaziz Moschee - مسجد عمر بن عبد العزيز",
+      "reviewsCount": 33,
+      "totalScore": 4.9
+    }
+  ],
+  "postalCode": "66113",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "109524485876801145110",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109524485876801145110?hl=en",
+      "name": "Tawfik Fzaa",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXDLGGVs8jIkScsWpbNXmijkiy0m3HLieRdZGDwvUtPjtE4fR-7=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-09T10:57:49.304Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwZlFqRnplRlExYVdRM1VEY3lVak5UU2pONlFtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwZlFqRnplRlExYVdRM1VEY3lVak5UU2pONlFtYxAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOlpfQjFzeFQ1aWQ3UDcyUjNTSjN6Qmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106674860540942591796",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106674860540942591796?hl=en",
+      "name": "A -",
+      "reviewerNumberOfReviews": 8,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL619b-375NIz9b2Yrc9qSRH_T46tOqp3gL_rPmtUTci2RN1mI=s1920-c-rp-mo-br100",
+      "text": "مسجد جميل جدا والقائمين عليه من أهل السنة والجماعة أهل الحديث ( لانزكيهم على الله تبارك وتعالى ) ليسوا مبتدعة اشعرية او صوفية ولله الحمد.\n\nملاحظة : المسجد انتقل الى جانب صالون الحلاقة 20 متر من الموقع القديم\n\nلايوجد به مصلى للنساء حاليا سوى أيام رمضان في التراويح ،\n\nيفتح فقط قبيل الصلوات وبعدها .\n\nولكن عند الحلاقة نسخة من المفتاح لمن شاء ان يصلي والمسجد مغلق فليطلب المفتاح من الحلاق .",
+      "textTranslated": "A very beautiful mosque, and those in charge are Sunni Muslims, followers of the Hadith (we do not presume to judge them before God, the Blessed and Exalted). They are not Ash'ari or Sufi innovators, praise be to God.\n\nNote: The mosque has moved to a location next to the barbershop, 20 meters from its original location.\n\nThere is currently no prayer area for women except during Ramadan for Taraweeh prayers.\n\nIt is only open before and after prayers.\n\nHowever, a copy of the key is available at the barbershop for anyone who wishes to pray while the mosque is closed.",
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-24T12:27:58.698Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25aWVYzTTRTSFJpWkVRd1NFWkZRWGRYWXpOVVgyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aWVYzTTRTSFJpWkVRd1NFWkZRWGRYWXpOVVgyYxAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOnZYV3M4SHRiZEQwSEZFQXdXYzNUX2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "105944717698180113390",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105944717698180113390?hl=en",
+      "name": "Awney Shbeeb",
+      "reviewerNumberOfReviews": 118,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV0p7hMSGK2t4hHWmJTmY6YGBKo-c88KwT-CFuoivuNcQOd9dEN=s1920-c-rp-mo-ba12-br100",
+      "text": "Der Ort ist wunderschön, man fühlt sich dort friedlich, und man kann sein Auto kostenlos in der nahegelegenen Straße parken.",
+      "textTranslated": "The place is beautiful, it feels peaceful, and you can park your car for free on the nearby street.",
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-03T13:47:55.869Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tsU09VcHVaM2wyUzJaUmVuSnROVkpLUW5kck1sRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsU09VcHVaM2wyUzJaUmVuSnROVkpLUW5kck1sRRAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOklSOUpuZ3l2S2ZRenJtNVJKQndrMlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "110394789999972225147",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110394789999972225147?hl=en",
+      "name": "Rahaf Tara",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocICr42NVxrDWWLb7aVp_Bwx7ESRBucaYGGWvDw6PaWIKfc-Qw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-21T15:29:11.158Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25semFVUlhkRlZKVmxKT1dXZE1ibXQwUVRsTFduYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25semFVUlhkRlZKVmxKT1dXZE1ibXQwUVRsTFduYxAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOnlzaURXdFVJVlJOWWdMbmt0QTlLWnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114957307178941711076",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114957307178941711076?hl=en",
+      "name": "Badr",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUtFyXPtcBPetuXLgQ800mJiUPQmSl4Pk10tYBurBG_eXOVTG1K=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-01-30T17:31:41.967Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s5T1NuUkJWVzg1VG5ZMVYxUlJlbkJpTmpnek1HYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5T1NuUkJWVzg1VG5ZMVYxUlJlbkJpTmpnek1HYxAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOk9OSnRBVW85TnY1V1RRenBiNjgzMGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111512238762149906670",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111512238762149906670?hl=en",
+      "name": "Moatasem Alrasheed",
+      "reviewerNumberOfReviews": 294,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXosGCoygfPiNm9iRzv9wZo4b9joQE6vB5UNfIXi7heDJ0KdywM=s1920-c-rp-mo-ba12-br100",
+      "text": "Good",
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-10-24T18:27:17.342Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2swMGVVdDZkV1E0Um1kVFNsZFlNVFIxT1dKVlpVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2swMGVVdDZkV1E0Um1kVFNsZFlNVFIxT1dKVlpVRRAB!2m1!1s0x0:0xefff9b5037fbb1b4!3m1!1s2@1:CAIQACodChtycF9oOk00eUt6dWQ4RmdTSldYMTR1OWJVZUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 59,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 8,
+    "fiveStar": 49
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Lebacher Str. 66",
+  "subTitle": null,
+  "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamische%20Glaubensgemeinschaft%20Saarbr%C3%BCcken%20e.V.&query_place_id=ChIJOUlD5VqxlUcRtLH7N1Cb_-8",
+  "address": "Lebacher Str. 66, 66113 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Cultural center",
+    "Recreation center"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfjgkvrQu9zVXsUbGSCtnwdn_YMMlfWhcorfdWaTZMroP4GevKx93S-7V4S1mO4g5wvbF4wkU41ZDsX4A4tBhVh-2xYN8IRnk8gd7rlOIhu0lmcj45pV7lrwebJzEvkWTZTCi5j=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZuT05lB46GO9EHhxTaHOvgRS20vRKBf7l5kW8dgLrj8wrsxtv5srX1JBIMGoQ0wODo0x9wUKwGhDhhs1F3aHrjZ25emSNXiQYaQl2lWXgxuDjeBlj8fRbFZUK1u0SvV98nYiB=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tj0o5dPzuRtgNCM4ag8zPrLEVAJq08StpGcANp8-vJrV0kleW5ZTnyLuqKZAPVK-Wscni74awGCaeteKK_9ZKM6tsoMPTtFExo_IwMrM1in0nNfeBRM3WTKbVHdtxnPHsMlYcb=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QPniM1eC_bpLej7PmWlLO3rUs2WRi6xi0OLtwzx8RmDJcMnREdYTTFUPTKamerjE8HkTyqqFoJ5ayVtmhdISIanKrH-RhP5bVQtlEoc9_kdqqj8_RXI4IWGc6FOWx86SZrIO_2mg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SS_0xDH9YxVyhzZNiuPOBNDsMfaRSky7F6R1EGga8KsgBFP3B7GN5_5pwqirCZH4lnmb98ND4KceZvJyac1PAuqQNbqtd5QeeHPzNy9DyS1a2CTFXlLIATplDQFWvF7TEfP0uK=w1920-h1080-k-no"
+  ],
+  "imagesCount": 4,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2458483,
+    "lng": 6.9439226
+  },
+  "menu": null,
+  "neighborhood": "West",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": "Seit Jahrzehnten engagiert sich die Islamische Gemeinde Saarland für die Integration und Aufklärung. Sie widmet sich intensiv der Förderung des Zusammenhalts und des muslimischen Lebens im Saarland. Mit einem vielfältigen Angebot an religiösen und kulturellen Aktivitäten, darunter die tägliche Verrichtung aller Gebete inklusive des Salat al-Jumuah, bereichert und stärkt sie das Gemeindeleben. Die Gemeinde hat es sich als erklärtes Ziel gesetzt, den interreligiösen Dialog zu fördern, gegenseitigen Respekt und Verständnis zwischen den Kulturen zu stärken, entschlossen gegen antimuslimischen Rassismus und Diskriminierung vorzugehen und somit einen positiven Beitrag zur Gesamtgesellschaft zu leisten.",
+  "ownerUpdates": [],
+  "phone": "+49 681 3875460",
+  "placeId": "ChIJRW_hOnqxlUcRTodhwBY9qro",
+  "placesTags": [],
+  "plusCode": "6WWV+8H Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Bilal",
+      "reviewsCount": 241,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Al Noor",
+      "reviewsCount": 5,
+      "totalScore": 4.2
+    }
+  ],
+  "postalCode": "66115",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "109754169813780464488",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109754169813780464488?hl=en",
+      "name": "Jasen Alor",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKhE2B_EDTLyT-blAKGNd1OfPUte96mqNi0cRkdMvqeS7A4nKCj=s1920-c-rp-mo-ba12-br100",
+      "text": "الحمدلله على هذا الصرح الجميل",
+      "textTranslated": "Praise be to God for this beautiful edifice",
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-23T06:52:14.892Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21OUWJXVm9lWEZyUWtkTVMxaFNNRFozWld0SFpHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OUWJXVm9lWEZyUWtkTVMxaFNNRFozWld0SFpHYxAB!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CAIQACodChtycF9oOmNQbWVoeXFrQkdMS1hSMDZ3ZWtHZGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "107997381506976761001",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107997381506976761001?hl=en",
+      "name": "Mohamed Buzyarsest",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUqWjdTznBK0EeqIedWbZos_iRG0LE8UC_v0PtvbITRdi14Bqrvnw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-23T01:11:55.255Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Oc2FuSk5WR2xKU2xocFlsVlJlbk5OVVZSTmJWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Oc2FuSk5WR2xKU2xocFlsVlJlbk5OVVZSTmJWRRAB!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CAIQACodChtycF9oOnNsanJNVGlJSlhpYlVRenNNUVRNbVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100627876691090576886",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100627876691090576886?hl=en",
+      "name": "Alhareth Alzoubi",
+      "reviewerNumberOfReviews": 11,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVqkHXTIciITe_TFMQJi7hwRH6jBRVT1xMbTKL9_hWfkt1PAUvM=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 days ago",
+      "publishedAtDate": "2026-10-20T15:31:29.666Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s1YVZtMTBRWGhQYUc5VVdHdzJSME5NY1U1bVdIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1YVZtMTBRWGhQYUc5VVdHdzJSME5NY1U1bVdIYxAB!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CAIQACodChtycF9oOk5aVm10QXhPaG9UWGw2R0NMcU5mWHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116863751902770469674",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116863751902770469674?hl=en",
+      "name": "Serdal Sahin",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLjfA_TEDqWp_clDoa_Y-SpC6sL2OLFZwDOZjkyHZZZneo1=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-14T06:28:34.680Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xCSVpuZEJReTFFVVUweFJreFdUUzE2TnpOSExYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCSVpuZEJReTFFVVUweFJreFdUUzE2TnpOSExYYxAB!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CAIQACodChtycF9oOlBIZndBQy1EUU0xRkxWTS16NzNHLXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101993309119373140023",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101993309119373140023?hl=en",
+      "name": "Mohamed Abdelnaser",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUy_rN0NquHuPQbEBqu9nPIl7JHHijpg82JsxoDQb4-Y9IhGH7a=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-10T08:18:22.802Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pNMU1IVkRSRFV4ZWt4UWVHMURRblpLTjFSa1dIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pNMU1IVkRSRFV4ZWt4UWVHMURRblpLTjFSa1dIYxAB!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CAIQACodChtycF9oOjM1MHVDRDUxekxQeG1DQnZKN1RkWHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117217020100959317400",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117217020100959317400?hl=en",
+      "name": "ODAY SWEID",
+      "reviewerNumberOfReviews": 31,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWurcL5bS0P2hEhas1h_xeBEs4WwsNPVoRyDiWTtcjzg-QjMgH-=s1920-c-rp-mo-ba12-br100",
+      "text": "جميل جدا و الإمام فقيه و دائما خطبه جميلة، ربنا يجعلنا و ذريتنا دائما مقيمين الصلاة\nلا إله إلا الله محمد رسول الله\nلا إله إلا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير سبحان الله والحمد لله ولا اله الا الله والله اكبر ولا حول ولا قوة الا بالله العلي العظيم.",
+      "textTranslated": "It is very beautiful, and the Imam is a scholar, and his sermons are always beautiful. May God make us and our descendants always steadfast in prayer. There is no god but God, Muhammad is the Messenger of God. There is no god but God alone, He has no partner, to Him belongs the dominion and to Him belongs all praise, He gives life and causes death, and He is over all things competent. Glory be to God, and praise be to God, and there is no god but God, and God is the greatest, and there is no power nor strength except with God, the Most High, the Magnificent.",
+      "publishAt": "Edited 2 weeks ago",
+      "publishedAtDate": "2026-10-04T22:47:16.212Z",
+      "likesCount": 3,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURodGJibkdREAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURodGJibkdREAE!2m1!1s0x0:0xbaaa3d16c061874e!3m1!1s2@1:CIHM0ogKEICAgIDhtbbnGQ%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ-d9GnzM7XpUDgXj4l5fPWipcdhjAHltTlVsk1Wl5ragrp9-OwvWM9RtihCRq1dO6BbscTgSaVsm5XxWmaXEmtTUJaL7X8v02dwQDsIshK6M7s8NTC3QYMtJqLp9zsfkXQXOUAYoKC1G6=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 535,
+  "reviewsDistribution": {
+    "oneStar": 23,
+    "twoStar": 6,
+    "threeStar": 15,
+    "fourStar": 45,
+    "fiveStar": 446
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Im Malhofen 4",
+  "subTitle": null,
+  "title": "Islamische Gemeinde Saarland e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamische%20Gemeinde%20Saarland%20e.V.&query_place_id=ChIJRW_hOnqxlUcRTodhwBY9qro",
+  "address": "Im Malhofen 4, 66115 Saarbrücken-West, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd-j8vQX91VKg0sH4aIAnt2hGnU3s9ETYefeyQkDkZAa5cMGUvv3MMo5ilopKfjYMir5tACW_gQjUXqB07teQb3giQVtYDQllqQH3YmIt_6nBwA4YMYTonZzAGNVZ63pVpW8V158A=w411-h231-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDosQe4NTSQjBfvraEJjy_Ry1b-4RzRZzqME1xGGM5IZYOmPxuylOYVLSLbHn_QGBKLprdcyn6EDbswf9fDDZDg9PKxdQPQzNeGtF6rLZIWUCJjtj8jo_I51OJFJoGL_1M2-jw-w=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sqzqs3UoarEIyTK0lp-fWCWlAPtxQcZ07NNSaTHFidmw-n2h1wWuKoM4vZ8XrRCkuOCB1GGHRWzwv-FdBtcMBO-JQjaf28VQeln8DCwm4z5RR2O_l6NYcUgOmfn_8zGNUgscIHbg=w1920-h1080-k-no"
+  ],
+  "imagesCount": 2,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2373128,
+    "lng": 6.9678731
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJifx4YlixlUcR6nUEbCzFPAw",
+  "placesTags": [],
+  "plusCode": "6XP9+W4 Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "32 Omar Ibn Abdalaziz Moschee - مسجد عمر بن عبد العزيز",
+      "reviewsCount": 33,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "66115",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "109925820414554022293",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109925820414554022293?hl=en",
+      "name": "Mostafa Mohammadi",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXWe4o5vMZNXHuKWSqk7YOHOcKi4z34F8Lnv_NBKJdXibgYmtE=s1920-c-rp-mo-br100",
+      "text": "Sehr schöner und ruhiger Ort, wirklich zum empfehlen.",
+      "textTranslated": "A very beautiful and peaceful place, highly recommended.",
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-22T17:22:51.121Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21WZllUUktXbGs1U2xONlN6SjFkRE5JZEd0MmMyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WZllUUktXbGs1U2xONlN6SjFkRE5JZEd0MmMyYxAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOmVfYTRKWlk5SlN6SzJ1dDNIdGt2c2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "107233623121464406910",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107233623121464406910?hl=en",
+      "name": "Fadi Slayaa",
+      "reviewerNumberOfReviews": 48,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW-MTluMg3RVvGRhi8UPEzzoguXAo1xYbCTrEgmp2efFYonDwsO=s1920-c-rp-mo-ba12-br100",
+      "text": "بسم الله ماشاء الله تبارك الرحمن،\nالمسجد لا شك جيد و لكن يجب علينا دعمه ماديآ لإتمام ترميمه و باقي اعمال الصيانة ، بارك الله بالقيمين على هذا مسجد بلال.",
+      "textTranslated": "In the name of God, what God wills, may God bless it.\nThe mosque is undoubtedly good, but we must support it financially to complete its restoration and the remaining maintenance work. May God bless those in charge of this Bilal Mosque.",
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-17T04:11:15.589Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21WTFRHNTFPV0ZsVkU5bVVIRlNTbkZxTkVOd09VRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WTFRHNTFPV0ZsVkU5bVVIRlNTbkZxTkVOd09VRRAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOmVLTG51OWFlVE9mUHFSSnFqNENwOUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "111950142630453789724",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111950142630453789724?hl=en",
+      "name": "Mohamed AL Moustafa",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLD7AyapEVV_n9Qya0dy4L59zFYTjjPtOfzHcXqL-TtLocsPg=s1920-c-rp-mo-br100",
+      "text": "جزا اللَّه خيراً القائمين على المسجد ، من الواضح أن القائمين عليه إمكانياتهم متواضعة جداً والمسجد يحتاج إلى دعم قوي لتحسين المسجد بشكل عام من مُصَلّى وأرضيات وحمامات ورفوف ولوازم للمسجد",
+      "textTranslated": "May God reward those in charge of the mosque. It is clear that their resources are very limited, and the mosque needs strong support to improve it in general, including the prayer hall, flooring, restrooms, shelves, and mosque supplies.",
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-15T08:08:54.248Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2t0b1RsVjZjelJGYTJObk1GVmZaMmhJZG1kYWJrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0b1RsVjZjelJGYTJObk1GVmZaMmhJZG1kYWJrRRAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOktoTlV6czRFa2NnMFVfZ2hIdmdabkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "113265848267818880232",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113265848267818880232?hl=en",
+      "name": "Nour",
+      "reviewerNumberOfReviews": 114,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL0BGR_Ae5rJ30Y5XHnhGFuYPJRFSOgBVHsaRw-vYXfjYeb=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-01T11:46:39.094Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xOa1JuaFBaemwwTUV4TGVURkNaMnBNTUY5bGVtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOa1JuaFBaemwwTUV4TGVURkNaMnBNTUY5bGVtYxAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOlNkRnhPZzl0MExLeTFCZ2pMMF9lemc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109748014574637655575",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109748014574637655575?hl=en",
+      "name": "Salah abobkr",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKbUVaO2_c__vFAw5x7KTSOAX6WhlSTFv61oAk-jCBAn2nlLWM=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-12T16:05:52.073Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2poeU1qUkdjbkl6Y1RsV01rMWxSM1ZJTmxCdlNsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poeU1qUkdjbkl6Y1RsV01rMWxSM1ZJTmxCdlNsRRAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOjhyMjRGcnIzcTlWMk1lR3VINlBvSlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109146805107283652807",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109146805107283652807?hl=en",
+      "name": "Dimmaswe88",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXjUqjtsvNqX1BfjaeLm8NfApv71e9xHXlgEGDcTvdmOaFRDAA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-10T23:33:54.530Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKeVIzUmZNamQ2ZUVzeVltTmtSRVZMZDNWUmQyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKeVIzUmZNamQ2ZUVzeVltTmtSRVZMZDNWUmQyYxAB!2m1!1s0x0:0xc3cc52c6c0475ea!3m1!1s2@1:CAIQACodChtycF9oOlJyR3RfMjd6eEsyYmNkREVLd3VRd2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 241,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 6,
+    "fourStar": 22,
+    "fiveStar": 205
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Wiesenstraße 10A",
+  "subTitle": null,
+  "title": "Masjid Bilal",
+  "url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Bilal&query_place_id=ChIJifx4YlixlUcR6nUEbCzFPAw",
+  "address": "Wiesenstraße 10A, 66115 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfyvwm8k-8fZrwAjoKyVgu8NhXXNSvPPw_XUuGKuvOjaYJGEJJncu7hXuEI8_INBtkRGawEekvhGPpCWh5EbIcB0Oj54NfBYFiO3OuR1N0eP4vAHzKUyvXKAOUFgULp-sbiZ0cR=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2738754,
+    "lng": 7.0148206
+  },
+  "menu": null,
+  "neighborhood": "Dudweiler",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJxUI-g9-2lUcRmk-swcGE1Sc",
+  "placesTags": [],
+  "plusCode": "72F7+HW Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "32 Omar Ibn Abdalaziz Moschee - مسجد عمر بن عبد العزيز",
+      "reviewsCount": 33,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein im Saarland e.V",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66125",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "107233623121464406910",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107233623121464406910?hl=en",
+      "name": "Fadi Slayaa",
+      "reviewerNumberOfReviews": 48,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW-MTluMg3RVvGRhi8UPEzzoguXAo1xYbCTrEgmp2efFYonDwsO=s1920-c-rp-mo-ba12-br100",
+      "text": "بسم الله ما شاء الله، تبارك الرحمن 🌿\n\nمسجدٌ رائعٌ ومبارك في **Dudweiler**، تشرح فيه الصدور وتطمئن فيه القلوب بذكر الله تعالى.\n\nبارك الله في القائمين على مسجد عمر بن الخطاب، وجزاهم الله خير الجزاء على جهودهم في خدمة بيتٍ من بيوت الله، وعمارتِه بالصلاة والعبادة، وجعل كل ما يقدمونه في ميزان حسناتهم.\n\nنسأل الله تعالى أن يبارك في هذا المسجد، وأن يجعله منارةً للهدى والعلم والإيمان، ومكانًا يجتمع فيه المسلمون على الخير والمحبة والأخوّة، وأن يتقبّل من الجميع صالح الأعمال.\n\n**اللهم عمّر بيوتَك بذكرك وشكرك وحسن عبادتك، واجزِ كل من ساهم في بنائها ورعايتها وخدمتها خير الجزاء. آمين يا رب العالمين.** 🤲",
+      "textTranslated": "In the name of God, the Most Gracious, the Most Merciful.\n\nA magnificent and blessed mosque in Dudweiler, where hearts find solace and peace through the remembrance of God Almighty.\n\nMay God bless those who maintain the Omar Ibn Al-Khattab Mosque, and reward them abundantly for their efforts in serving one of God's houses, filling it with prayer and worship, and placing all their good deeds on the scale of their merits.\n\nWe ask God Almighty to bless this mosque, to make it a beacon of guidance, knowledge, and faith, and a place where Muslims gather in goodness, love, and brotherhood, and to accept the righteous deeds of all.\n\nO God, fill Your houses with Your remembrance, gratitude, and excellent worship, and reward all who contributed to their construction, maintenance, and service with the best of rewards. Amen, O Lord of the Worlds.",
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-17T04:27:58.406Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2twZlUxOW5aRkF6TlhJdGFrZENVbFJ1U1haUlNWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twZlUxOW5aRkF6TlhJdGFrZENVbFJ1U1haUlNWRRAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOkpfU19nZFAzNXItakdCUlRuSXZRSVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "115789102305799016676",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115789102305799016676?hl=en",
+      "name": "Dr Farahat",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXilfHA8pgFswFUa7N4LXQUEmpQ4n3jX4bB4GgftYuKeBetDvA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-05T17:15:37.982Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pSSGMyeHdZbU5mVlVkbWQweFRhMGxyTmtRMWFYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSSGMyeHdZbU5mVlVkbWQweFRhMGxyTmtRMWFYYxAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOjRHc2xwYmNfVUdmd0xTa0lrNkQ1aXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114957307178941711076",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114957307178941711076?hl=en",
+      "name": "Badr",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUtFyXPtcBPetuXLgQ800mJiUPQmSl4Pk10tYBurBG_eXOVTG1K=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-01-30T17:31:25.449Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25CTGIwTXRZWFpQUzBwT0xWSlNVV1E1U0VkelJWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CTGIwTXRZWFpQUzBwT0xWSlNVV1E1U0VkelJWRRAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOnBLb0MtYXZPS0pOLVJSUWQ5SEdzRVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112499863941969699937",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112499863941969699937?hl=en",
+      "name": "Tharwa Alkhalil",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIRNTbYTpE7xkm8np8aEAqMnLDHCxXHGj8oa9nBiwNSFu1VUw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-01-28T13:16:50.031Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21aMlNrRm5kbXhGTW1oMlRtZ3djSFZWUTAxUFVIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aMlNrRm5kbXhGTW1oMlRtZ3djSFZWUTAxUFVIYxAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOmZ2SkFndmxFMmh2TmgwcHVVQ01PUHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114062889328022380644",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114062889328022380644?hl=en",
+      "name": "Riad Katta",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVAyFPvcVmMkhX7JQ3e0GUfZ8qj30xK4GAFyNaHLlabh3OMITGe1w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-08-26T20:16:39.026Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tsVlpEQkxZbmxvZEhsb2FuVk5SVjlWYVVGTE1XYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsVlpEQkxZbmxvZEhsb2FuVk5SVjlWYVVGTE1XYxAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOklVZDBLYnlodHloanVNRV9VaUFLMWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113389448787758415486",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113389448787758415486?hl=en",
+      "name": "Roula Aqeel",
+      "reviewerNumberOfReviews": 31,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUTBfFqZ1X227Oykv4bvC-35_BYRrWIyjvuVg2fuEi6K3ajc8QV3Q=s1920-c-rp-mo-ba12-br100",
+      "text": "⭐⭐⭐⭐",
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-07-15T09:52:06.903Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21KWllYWnhXUzFwWlZsM05rOXpNVlpUWjNsMGRsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KWllYWnhXUzFwWlZsM05rOXpNVlpUWjNsMGRsRRAB!2m1!1s0x0:0x27d584c1c1ac4f9a!3m1!1s2@1:CAIQACodChtycF9oOmJZYXZxWS1pZVl3Nk9zMVZTZ3l0dlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 38,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 34
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Petrusstraße 32",
+  "subTitle": null,
+  "title": "جامع عمر بن الخطاب Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=%D8%AC%D8%A7%D9%85%D8%B9%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%20Moschee&query_place_id=ChIJxUI-g9-2lUcRmk-swcGE1Sc",
+  "address": "Petrusstraße 32, 66125 Saarbrücken-Dudweiler, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd9e8IngOtaQPVRY33mtLkddixg2kngxVeIa7VkImOsZqzJS1bS2bzSBkTxgYcVUkhu0e3J14gI5C65DxHQJDPw5iLZpmv7sSrU-EqPsUOK4EMoz8bn3cIE9QoLbfWYOoT5tZz8YsOzjkmH=w411-h630-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2455354,
+    "lng": 6.9665137
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJJ_eL8u6xlUcRNiszmunrNic",
+  "placesTags": [],
+  "plusCode": "6XW8+6J Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamisches Kulturzentrum Saarbrücken",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein im Saarland e.V",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66113",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "109398377851057693793",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109398377851057693793?hl=en",
+      "name": "sead masovic",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIYs9PkZtsU-JehHRLHj5IjnDs1gjr7X7Of2lINRgogWFaXJQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-18T23:58:36.779Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21JNFJrcHlka0p0YTJsR1JWaDRXVU13ZERSVFpYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21JNFJrcHlka0p0YTJsR1JWaDRXVU13ZERSVFpYYxAB!2m1!1s0x0:0x2736ebe99a332b36!3m1!1s2@1:CAIQACodChtycF9oOmI4RkpydkJta2lGRVh4WUMwdDRTZXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111512238762149906670",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111512238762149906670?hl=en",
+      "name": "Moatasem Alrasheed",
+      "reviewerNumberOfReviews": 294,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXosGCoygfPiNm9iRzv9wZo4b9joQE6vB5UNfIXi7heDJ0KdywM=s1920-c-rp-mo-ba12-br100",
+      "text": "Very beautiful place , God save you",
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-24T13:12:46.045Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25CbVkwMU5helJhUmpCNFRsazFMVUpZV2pSWE5FRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CbVkwMU5helJhUmpCNFRsazFMVUpZV2pSWE5FRRAB!2m1!1s0x0:0x2736ebe99a332b36!3m1!1s2@1:CAIQACodChtycF9oOnBmY01NazRaRjB4Tlk1LUJYWjRXNEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "118202842091234531114",
+      "reviewerUrl": "https://www.google.com/maps/contrib/118202842091234531114?hl=en",
+      "name": "Omerovic Fahrudin",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKZriFSJmCjneON5yGCC_KDqhyi_lzlyZdHHOaOWJyMEP6uYw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "11 months ago",
+      "publishedAtDate": "2025-11-17T05:49:04.846Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVZuTmZVMlJSZEZCVFlubFlhREZJUzJ0M1lXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGeVZuTmZVMlJSZEZCVFlubFlhREZJUzJ0M1lXYxAB!2m1!1s0x0:0x2736ebe99a332b36!3m1!1s2@1:CAIQACodChtycF9oOjFyVnNfU2RRdFBTYnlYaDFIS2t3YWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104085247272991210041",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104085247272991210041?hl=en",
+      "name": "logis promotions",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIsjMNseTGK3R--35VyDTUniAHXlT-9U2yPPHWzxXodeReUbQ=s1920-c-rp-mo-br100",
+      "text": "Sehr schöne Moschee,zur Zeit ist Freitagsgebet um 14.30",
+      "textTranslated": "Very beautiful mosque, currently Friday prayers are at 2:30 pm.",
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-05-09T11:04:28.717Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VOX0FuN2lGbV9TR0Z3EAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VOX0FuN2lGbV9TR0Z3EAE!2m1!1s0x0:0x2736ebe99a332b36!3m1!1s2@1:CIHM0ogKEN_An7iFm_SGFw%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "116457725096046790975",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116457725096046790975?hl=en",
+      "name": "Armin Fajic",
+      "reviewerNumberOfReviews": 8,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVxEbVn54beSG2J5aVxEakpJSnu0CaNXaPcXBret9X3GtloDOA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-03-17T13:04:50.617Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUQ5d2VIaXpBRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ5d2VIaXpBRRAB!2m1!1s0x0:0x2736ebe99a332b36!3m1!1s2@1:CIHM0ogKEICAgID9weHizAE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Dresdener Str. 16a",
+  "subTitle": null,
+  "title": "Bosanski kulturni Center Saarbrücken",
+  "url": "https://www.google.com/maps/search/?api=1&query=Bosanski%20kulturni%20Center%20Saarbr%C3%BCcken&query_place_id=ChIJJ_eL8u6xlUcRNiszmunrNic",
+  "address": "Dresdener Str. 16a, 66113 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdj7bMQq8tOSHqDev3t1SvRTkZg-YPbIveCglDv9vJdKgpxOPgYN4Nz6siJdqjENk58YrH5gH-Qo7FJ0yEui2qBwj42Xsj01QGTa5DfF1rIMVGPxYDwmbpEQvx-dcshzw0qYP7S=w411-h231-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8aULmOwgBsgzbpuhtfmQPGKq1A4qqhpwRcSecDkHxuYAj_1O0rUNXDMWTOeS-gVrjaLySDXxR--IBgQBb0DDWJtZxtBF9HuJHzPLeUQdl1qpmCWNoAc5CU0MepMtMhzFKvzABgZXNroE=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SxXQcFvbL-v-GJM59rnSJKzeQSgspFkUNnnRLnqCxZKaTO0SEsc9ILjL0Mk2DnmJ0B6hoT09oD9MH0Q6WS1sRAPwTy6USCu6IbC_q1cVl3-4gitxEFom21h8XBqc_zyOzIAbO76w=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SducDmKdYvdY9DF_2VzCLXDi5b55YrdrVAJonIc_Y39EnH5ziGWJ8uwGlzxTf1O2lciBfYZ2EYtpSNB7fPV1cbNhSEEJjJ8XcHzRgfXZnKSpvvyIH_v9c8d3BZKgqgewEBNEy-=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TaGA9cHgVL5nPbFcyEXuXc3a6EyZS2xIH1HvWw1OulF9rIahkOsJZNSbZMsJXikEDPf3RBXWWqLZzFmvq-RHaBw-vt4wrjOuRjhvpIPDh7Mz7SQ2N_3J38gR0fpSKg2uknr11uUg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNlVzvOTjIsMGbEZuE9aeDeLMPvCWga8JaNLyfcLjMiTV9n25joR64z9_1Dz_iRmCcMJFHeiVOczl3QwzHLZHz5nEGXbmIUD-hx-2-Q4xz8ByRKGTWUnT4PXbqaFFThHuF0YD_A5m5zok=w1920-h1080-k-no"
+  ],
+  "imagesCount": 5,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2351463,
+    "lng": 6.9761148
+  },
+  "menu": null,
+  "neighborhood": "Mitte",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 681 9273298",
+  "placeId": "ChIJJ7MX3v2zlUcR015xVW9NeMU",
+  "placesTags": [],
+  "plusCode": "6XPG+3C Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamisches Kulturzentrum Saarbrücken",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Landesverband Saarland e.V.",
+      "reviewsCount": 2,
+      "totalScore": 5
+    }
+  ],
+  "postalCode": "66117",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "112014033400250976780",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112014033400250976780?hl=en",
+      "name": "Faduma Samatar",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVnHzohFGIYp7J8DMf9XOAm-6owmAMBBbTPZtrRiamxNPiZrqfX=s1920-c-rp-mo-br100",
+      "text": "Masha Allah",
+      "textTranslated": null,
+      "publishAt": "a day ago",
+      "publishedAtDate": "2026-10-23T16:08:13.833Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SRlgybDVjRE0zVjJkM1ZEQXpWRXBxVWw5cVJuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SRlgybDVjRE0zVjJkM1ZEQXpWRXBxVWw5cVJuYxAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOnRFX2l5cDM3V2d3VDAzVEpqUl9qRnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110555067280196989996",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110555067280196989996?hl=en",
+      "name": "ZH BROS",
+      "reviewerNumberOfReviews": 99,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW5dwSxyPJltpr1JM741S6qPRBT9oJKA1p2Yd-OoXEWtchDdG-J=s1920-c-rp-mo-ba12-br100",
+      "text": "Sehr schön",
+      "textTranslated": "Very nice",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-30T11:38:52.799Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2kxS2IxQlNVRFJmTlVsd1NHVlNWMlZNY213MWNIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxS2IxQlNVRFJmTlVsd1NHVlNWMlZNY213MWNIYxAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOi1Kb1BSUDRfNUlwSGVSV2VMcmw1cHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "110934657212146946861",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110934657212146946861?hl=en",
+      "name": "abdullah akça",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocICigmZldE88YagZJSYAnNr2T10flP98vvBbpbsUCnm4OKnvOmy=s1920-c-rp-mo-br100",
+      "text": "İmam yok ve kapalı . İnşaAllah hakkı anlatan bir imam gelir ve hakkı anlatan bir mescit olur",
+      "textTranslated": "There is no imam, and it is closed. God willing, an imam who speaks the truth will come, and it will become a mosque that speaks the truth.",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-13T00:16:46.188Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xGbWJEQllZa1ZaTTFKdU1HOXlSVkkxTURCcFRGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGbWJEQllZa1ZaTTFKdU1HOXlSVkkxTURCcFRGRRAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOlFmbDBYYkVZM1JuMG9yRVI1MDBpTFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "102835232460666087165",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102835232460666087165?hl=en",
+      "name": "Kadir Karaca",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL-8ixpSONTVQpc2DrF1a3B_P1pJq0hinmtUfJWP2RXof00rw=s1920-c-rp-mo-ba12-br100",
+      "text": "Vakit namazı dışında kapının duvar olduğu imamın keyfinin gelip camiyi açmadığı aldığı maaşı neden aldığı bilinmediği cami",
+      "textTranslated": "A mosque where the imam, who doesn't open the mosque except during prayer times, feels like it, and the reason for his salary is unknown.",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-10T13:51:03.235Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1R6VlhjVkJ0V0doV05UTTBZMnBFT0MxdFZrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZM1R6VlhjVkJ0V0doV05UTTBZMnBFT0MxdFZrRRAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOkY3TzVXcVBtWGhWNTM0Y2pEOC1tVkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "115402576376472039086",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115402576376472039086?hl=en",
+      "name": "I B (Isi)",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLoZ3IiNfLxBb3v-G6RfDy2RwebnyoixAtLQLsgR3BdhqQ2MQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-26T21:32:39.454Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pkVlVsQjBPR2RSZVRaaGRXVjVlRTFUT1docVVWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkVlVsQjBPR2RSZVRaaGRXVjVlRTFUT1docVVWRRAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOjdVUlB0OGdReTZhdWV5eE1TOWhqUVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105691584806669143235",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105691584806669143235?hl=en",
+      "name": "Mustafa Demir",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV-tRAUsmiuEyTsMPi50HG0-ePa2fBz4kI1gc7K1vm6L5FEkAVw=s1920-c-rp-mo-ba12-br100",
+      "text": "Wird mit dauerhaft geöffnet angegeben, war aber am Donnerstag Mittag komplett geschlossen. Es war niemand da und die Türen zu.",
+      "textTranslated": "It's listed as permanently open, but was completely closed on Thursday at noon. There was nobody there and the doors were locked.",
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-23T12:14:07.837Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xoMFFWaGpTVVZ4T0d4YVJHNUVSWGhCZGtobWIyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoMFFWaGpTVVZ4T0d4YVJHNUVSWGhCZGtobWIyYxAB!2m1!1s0x0:0xc5784d6f55715ed3!3m1!1s2@1:CAIQACodChtycF9oOlh0QVhjSUVxOGxaRG5ERXhBdkhmb2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 104,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 5,
+    "fourStar": 9,
+    "fiveStar": 86
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Goebenstraße 38",
+  "subTitle": null,
+  "title": "Ditib Saarbrücken Merkez Cami",
+  "url": "https://www.google.com/maps/search/?api=1&query=Ditib%20Saarbr%C3%BCcken%20Merkez%20Cami&query_place_id=ChIJJ7MX3v2zlUcR015xVW9NeMU",
+  "website": "http://www.ditib-saarbruecken.de/",
+  "address": "Goebenstraße 38, 66117 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLeKte3gcPmmwrvH78KirDvH_sXmG2uun9c1Bd7h8-C-sUqAjAHfIZy23CytG3mPTDGwRIZ5rWMAEUV9rbOBzmDqfQfp0L71SvpXv7CXTOcm-3afhC-ZKvNilLSOI2RdOZ7fmTN9=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2423225,
+    "lng": 6.9423303
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5:30 to 6 AM, 1 to 1:30 PM, 3:15 to 3:45 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5:30 to 6 AM, 1 to 1:30 PM, 3:15 to 3:45 PM, 5:30 to 7:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5:30 to 6 AM, 1 to 1:30 PM, 3:15 to 3:45 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5:30 to 6 AM, 1 to 1:30 PM, 3:15 to 3:45 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5:30 to 6 AM, 1 to 4:30 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5:30 to 6 AM, 1 to 3:45 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 to 6 AM, 1 to 3:45 PM, 5:30 to 6 PM, 7 to 7:30 PM"
+    }
+  ],
+  "ownerDescription": "Jamiah Masjid Al Noor\nvon Pak Dar Ul Hikma\n\nislamische Gemeinde Saarbrücken Burbach",
+  "ownerUpdates": [],
+  "phone": "+49 173 3067351",
+  "placeId": "ChIJ9Xnu8PaxlUcRMljGilFcRTE",
+  "placesTags": [],
+  "plusCode": "6WRR+WW Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein im Saarland e.V",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Bilal",
+      "reviewsCount": 241,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "66115",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "117915868964005144715",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117915868964005144715?hl=en",
+      "name": "Mourad Lahrour",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIUrHDNxCVVuZx2H_Dt7bcRBboRQfyntSUUgx0chmcbHepByA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-02T11:37:28.496Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xQlVsOVhPV3hYY1UxdlUxQXROWFZmYzBJNWRGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xQlVsOVhPV3hYY1UxdlUxQXROWFZmYzBJNWRGRRAB!2m1!1s0x0:0x31455c518ac65832!3m1!1s2@1:CAIQACodChtycF9oOm1BUl9XOWxXcU1vU1AtNXVfc0I5dFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111963295664477537559",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111963295664477537559?hl=en",
+      "name": "Muhammad Ayan",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXWxYIKGusiekVXp0TjNiaF14Y5RsLZgL-7EQw7z79_pFIp9Wo=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-09-10T17:03:40.141Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNIMzRLOUJ3EAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIMzRLOUJ3EAE!2m1!1s0x0:0x31455c518ac65832!3m1!1s2@1:CIHM0ogKEICAgICH34K9Bw%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104185553511230335441",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104185553511230335441?hl=en",
+      "name": "Noah Stampfli",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW7Snk5kLtlGibuR9nQtBKuioF7COzw1XfmV39MoIU78NBvnEF0=s1920-c-rp-mo-br100",
+      "text": "Too loud there also very dangerous",
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-02-16T21:43:35.232Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNkNVplelZnEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkNVplelZnEAE!2m1!1s0x0:0x31455c518ac65832!3m1!1s2@1:CIHM0ogKEICAgICd5ZezVg%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112714776351129678030",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112714776351129678030?hl=en",
+      "name": "ياسر الرجب",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLFx_UpqCtC6gyC40zE0iKN-4PdYjcpGQaJN4sVkUs1ew5VqRA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-01-29T13:30:30.442Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUN0akltNnZ3RRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN0akltNnZ3RRAB!2m1!1s0x0:0x31455c518ac65832!3m1!1s2@1:CIHM0ogKEICAgICtjIm6vwE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113600267357430079914",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113600267357430079914?hl=en",
+      "name": "Anees Asim",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL-cZPdMi7g49Yfi2Q9AOvQle5uvT-rKyXLBMVu3I_XV7NaTg=s1920-c-rp-mo-br100",
+      "text": "Ich hatte das Privileg, die Moschee zu besuchen, und ich bin überwältigt von der außergewöhnlichen Erfahrung, die ich dort gemacht habe. Die Gemeinschaft ist sehr freundlich und symphatisch. Außerdem hat der Imam sehr viel islamisches Wissen.",
+      "textTranslated": "I had the privilege of visiting the mosque, and I am overwhelmed by the extraordinary experience I had there. The community is very friendly and welcoming. Furthermore, the imam possesses a great deal of Islamic knowledge.",
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2023-10-28T13:13:26.038Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNGd2Y3WGNBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGd2Y3WGNBEAE!2m1!1s0x0:0x31455c518ac65832!3m1!1s2@1:CIHM0ogKEICAgICFwf7XcA%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Jakobstraße 2",
+  "subTitle": null,
+  "title": "Masjid Al Noor",
+  "url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Al%20Noor&query_place_id=ChIJ9Xnu8PaxlUcRMljGilFcRTE",
+  "website": "https://sites.google.com/view/masjid-al-noor-saarbruecken/startseite",
+  "address": "Jakobstraße 2, 66115 Saarbrücken, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd5zL7bus92erjusFR2UDlazoSoDNW42jN-bV6BYgFMo93GyNKWkRAtM1MG7tyx5Ll4B4MnUZsALOJLqYFYpPw4aL328z0KTLAJyfcjDqnDlg9uBG0ja6pLSmsLD59YpS3CZoM5bPpqx-g=w399-h710-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.220903,
+    "lng": 7.0274646
+  },
+  "menu": null,
+  "neighborhood": "Halberg",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJCzxD4Mq1lUcRGMryhOqaRow",
+  "placesTags": [],
+  "plusCode": "62CG+9X Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Bilal",
+      "reviewsCount": 241,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein im Saarland e.V",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "جامع عمر بن الخطاب Moschee",
+      "reviewsCount": 38,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "66130",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "107997381506976761001",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107997381506976761001?hl=en",
+      "name": "Mohamed Buzyarsest",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUqWjdTznBK0EeqIedWbZos_iRG0LE8UC_v0PtvbITRdi14Bqrvnw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-23T01:11:33.981Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xGS1dubFlSR0l0UVdFMVRIVkxhMkpmWmkxdVUxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGS1dubFlSR0l0UVdFMVRIVkxhMkpmWmkxdVUxRRAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOlFKWnlYRGItQWE1THVLa2JfZi1uU1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112258671959474415663",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112258671959474415663?hl=en",
+      "name": "Khalefa Mo",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWE-_myKF0bnxrq5aArB8c3ii-VQMEcBnZCZttXYZ6fJC-DH6M=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-02T21:30:21.456Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25wSVJGUmhWamhvU1VsRWVVWndZWFUwTVd0S05GRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wSVJGUmhWamhvU1VsRWVVWndZWFUwTVd0S05GRRAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOnpIRFRhVjhoSUlEeUZwYXU0MWtKNFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "115789102305799016676",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115789102305799016676?hl=en",
+      "name": "Dr Farahat",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXilfHA8pgFswFUa7N4LXQUEmpQ4n3jX4bB4GgftYuKeBetDvA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-24T13:13:14.856Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21nMmRHZEhOV0l4TjB4bVpETTJaRkpXYlZsclpVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21nMmRHZEhOV0l4TjB4bVpETTJaRkpXYlZsclpVRRAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOmg2dGdHNWIxN0xmZDM2ZFJWbVlrZUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110602679079252099461",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110602679079252099461?hl=en",
+      "name": "Mohammad Alzoubi",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW3VwZUVVrYB2A-wKJZrk5eWEXAM8ab7zXYoWXCRAiCnwiYDWyjFw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-20T10:07:06.058Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pOMGNXNVZTV1F6WWtORlZrcHdaMlJmTjFsVFFYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOMGNXNVZTV1F6WWtORlZrcHdaMlJmTjFsVFFYYxAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOjN0cW5VSWQzYkNFVkpwZ2RfN1lTQXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107194533907314776825",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107194533907314776825?hl=en",
+      "name": "abo yazan",
+      "reviewerNumberOfReviews": 25,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXN73tfZ9eT3_alCOuZY0uXmQ9PIGb1fh6PAfp-lw6brO5rI-K85Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-18T11:12:57.278Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25KU1dVaDNNbFYyYVdoUVlYcFhNWHBIU25kMFJHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KU1dVaDNNbFYyYVdoUVlYcFhNWHBIU25kMFJHYxAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOnJSWUh3MlV2aWhQYXpXMXpHSnd0RGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105536065727147966109",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105536065727147966109?hl=en",
+      "name": "علاء الدين رمضان",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjV92wK1dF738DAfwoN9twUt4IxDR9obnLSqzxL4IGBS0Zumx74Q=s1920-c-rp-mo-ba12-br100",
+      "text": "افضل مسجد وأمام الجامع محترم وابن حلال",
+      "textTranslated": "The best mosque and the imam is respectable and a good man.",
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-15T12:57:43.721Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25oT1VYaFNWWGhQVTI1QlQxbG1la1EwZERrd2JYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oT1VYaFNWWGhQVTI1QlQxbG1la1EwZERrd2JYYxAB!2m1!1s0x0:0x8c469aea84f2ca18!3m1!1s2@1:CAIQACodChtycF9oOnhOUXhSVXhPU25BT1lmekQ0dDkwbXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 33,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 4,
+    "fiveStar": 29
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Brebacher Landstraße 32",
+  "subTitle": null,
+  "title": "32 Omar Ibn Abdalaziz Moschee - مسجد عمر بن عبد العزيز",
+  "url": "https://www.google.com/maps/search/?api=1&query=32%20Omar%20Ibn%20Abdalaziz%20Moschee%20-%20%D9%85%D8%B3%D8%AC%D8%AF%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2&query_place_id=ChIJCzxD4Mq1lUcRGMryhOqaRow",
+  "address": "Brebacher Landstraße 32, 66130 Saarbrücken-Halberg, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Saarbrücken",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLeMTEnwOmy7dLoScQ3aeYlOq1FlbFVhAzp4KLyRXFD5fm2o_lLSswD6DMdCZ6FLM9g4vmSOkbbGeyaSjRTmlxriXncgZenlCrj9vGeEIdypy3kkwlu38XuHVggY9iyJoMRXBVE0dSB1cyN1=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2416246,
+    "lng": 6.9432397
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJa7X6CQCxlUcR2QVshvHP0CM",
+  "placesTags": [],
+  "plusCode": "6WRV+J7 Saarbrücken, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Ditib Saarbrücken Merkez Cami",
+      "reviewsCount": 104,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Saarland e.V.",
+      "reviewsCount": 535,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Masjid Bilal",
+      "reviewsCount": 241,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Pakistan Islamic Centre Saarbrucken",
+      "reviewsCount": 13,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Glaubensgemeinschaft Saarbrücken e.V.",
+      "reviewsCount": 59,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "66115",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "117582417480942486110",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117582417480942486110?hl=en",
+      "name": "Ahmed Omar Mulla",
+      "reviewerNumberOfReviews": 39,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXZX1jxYoPbGCE6lRBrUiDU_NK_dYc_APEjeSWu0sbJf3lIunJPCQ=s1920-c-rp-mo-ba12-br100",
+      "text": "دورات لتحفيظ القرآن الكريم\nنشاطات لفئة الأطفال العمرية\nتبارك الله جهود مباركة من إدارة المسجد لتنشئة الأجيال المتقدمة على تعاليم  دين الإسلام.",
+      "textTranslated": "Courses for memorizing the Holy Quran\nActivities for children of a certain age group\nMay God bless the blessed efforts of the mosque administration in raising future generations on the teachings of the religion of Islam.",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-10T12:10:40.237Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25kUlVscEdTRnBRU0hGeFFYTXhXamhXWldWcVUwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kUlVscEdTRnBRU0hGeFFYTXhXamhXWldWcVUwRRAB!2m1!1s0x0:0x23d0cff1866c05d9!3m1!1s2@1:CAIQACodChtycF9oOndRUlpGSFpQSHFxQXMxWjhWZWVqU0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdrVrhRPXlpmrwwqm2hHPHUeNyysxfbSi-uzHdyHcZJgfI16-M4OQs2jl4oj6g7rGKHwa8zvJccW_WU4Xd9YYVfrX9r_cIfrkMdfTjyr23SAFijxYF8DJbecdDVuX4XGvm71EQRscipOyHa=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMTEnwOmy7dLoScQ3aeYlOq1FlbFVhAzp4KLyRXFD5fm2o_lLSswD6DMdCZ6FLM9g4vmSOkbbGeyaSjRTmlxriXncgZenlCrj9vGeEIdypy3kkwlu38XuHVggY9iyJoMRXBVE0dSB1cyN1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLFU9E8YRhe4aFbC0abxpZgPlaNkVaEVF4EjwjRKRrxCzTU1ueNfEoBxwK7OAx6AUVjU2B-xUJKsBFPORBQ3lSnFNI7oyEirj1w_e8tWwhW7-JKGaOJBPodYbTRuBpLijKXIwqli5mSvCD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfvLKPceCQuIS3UZtUK-S-zUNLFyaAcah-WXfZhVfHD5RRBI_TOfNrtBaH8-eWpFx7tqWEHZ0IOHDWpkRC4x3fL6yV-msgVN3ZBRzRgSC8H25oW2pUF0bu3ihlnfajIbDmv_hgkYGRN7V8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcMPUtInSSDgEJm9rNto493WnA4rCAdyqFGWgHy8oeYpZyZzChs8pzYQ_jRJzm2jVKAx6fF-3udCjpOu9c-V4baU08tQmznkQKcacg1-ENWPEeLTa7fCBw2AkQFco7l2eYkBF9g4XSe32s=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVScICA03qQG_R5LX2ORnk-ILuM5llCtY1mnOl9oRAZPrQTRSbSCUzHrkFvZyFACgFyOIOFfkG541VdZHQ9qAZDnP3J61KRxcRIhzJ3H7ntVUeH-RsB86UKubL7p6z_py25Px6PQt38C4A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLctgrkmkgFZq4AbC2MWn0XVNRhxasBi_5TYddDgGKcmyc69tnrByNYUSKCQjDTPSKYqLP7h5umIsf8P88-3NagAMbmDUiKcKFd8y-bWdmThaGJhl0NO7rgUGQkMJLorF8TXWnJ1uj3LK2ft=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAX9Xn2I8s1PUPnSx5ML2JQiIhYolt5b26e_ut-fjqaSrf5JwWc9v6WFM1XdpVw8aldQXpxAZCR3g2hXeeLhRw6K1lzfBkB84sqoyFygEZ99hpxh7DdeTCHvLQaY-BUeIrhYbGCnLAXYs=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "109911781167636233534",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109911781167636233534?hl=en",
+      "name": "Bayram Öz.",
+      "reviewerNumberOfReviews": 18,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJALsfUEyZM4NOYovo734LZp9RWjW7A3aepj5qR7N5PFGoaNQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-10-12T13:23:05.048Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tOWlVtaHVYMkpOWjFwd05HdEhRazlEUmpsVlRrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOWlVtaHVYMkpOWjFwd05HdEhRazlEUmpsVlRrRRAB!2m1!1s0x0:0x23d0cff1866c05d9!3m1!1s2@1:CAIQACodChtycF9oOkNZUmhuX2JNZ1pwNGtHQk9DRjlVTkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107083067594813791260",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107083067594813791260?hl=en",
+      "name": "Serkan Danisan",
+      "reviewerNumberOfReviews": 21,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU2lXae97l-VSxSGQJpZcCDF0NSw0KcHsXKIt4vUa6W5QMW_qPz=s1920-c-rp-mo-ba12-br100",
+      "text": "İçerisi gayet temiz ve nezih, avlusunda otoparkı da var, yapanlardan emeği geçenlerden Allah razı olsun",
+      "textTranslated": "The interior is very clean and pleasant, and it also has a parking lot in the courtyard. May God bless those who built it and those who contributed to it.",
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-01-11T17:58:36.851Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNfd0lqUTh3RRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNfd0lqUTh3RRAB!2m1!1s0x0:0x23d0cff1866c05d9!3m1!1s2@1:CIHM0ogKEICAgIC_wIjQ8wE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Bergstraße 62",
+  "subTitle": null,
+  "title": "Fatih Cami",
+  "url": "https://www.google.com/maps/search/?api=1&query=Fatih%20Cami&query_place_id=ChIJa7X6CQCxlUcR2QVshvHP0CM",
+  "address": "Bergstraße 62, 66115 Saarbrücken, Germany"
+}]

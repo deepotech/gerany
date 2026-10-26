@@ -14,6 +14,12 @@ const SPAM_OR_PRANK_PATTERNS = [
   /spam/i,
 ];
 
+const NON_MOSQUE_BUSINESS_PATTERNS = [
+  /training center/i,
+  /fitness/i,
+  /sports club/i,
+];
+
 const EXPLICIT_MOSQUE_INDICATORS = [
   /moschee/i,
   /mosque/i,
@@ -69,6 +75,16 @@ export function classifyRecord(raw: RawGooglePlaceRecord): ClassificationResult 
         reason: 'Detected spam, prank, or suspicious title pattern',
       };
     }
+  }
+
+  // 1b. Check for non-mosque commercial businesses / fitness facilities
+  if (NON_MOSQUE_BUSINESS_PATTERNS.some((p) => p.test(title))) {
+    return {
+      category: 'OTHER',
+      dataStatus: 'REJECTED',
+      verificationStatus: 'UNVERIFIED',
+      reason: 'Detected commercial non-mosque business or sports facility',
+    };
   }
 
   // 2a. Definitively non-mosque Google Maps categories (Funeral Home, Charity, Association/Organization)

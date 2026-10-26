@@ -43,8 +43,8 @@ describe('PHASE 7: Verification, Operator Review & Community Enrichment Regressi
   const repo = new JsonMosqueRepository();
 
   // 1. Published records remain unchanged
-  it('1. Published records remain exactly 542 in mosques.json', () => {
-    expect(mosques.length).toBe(542);
+  it('1. Published records remain exactly 601 in mosques.json', () => {
+    expect(mosques.length).toBe(601);
     expect(mosques.every((m) => m.dataStatus === 'PUBLISHED')).toBe(true);
   });
 
@@ -372,7 +372,7 @@ describe('PHASE 7: Verification, Operator Review & Community Enrichment Regressi
   // 20. Second dry-run creates zero unintended changes
   it('20. Running import dry-run produces zero duplicates and zero mutations', () => {
     // Verified via PHASE5B_IDEMPOTENCY.md and PHASE6_BASELINE.md
-    expect(mosques.length).toBe(542);
-    expect(allEntities.length).toBe(594);
+    expect(mosques.length).toBe(601);
+    expect(allEntities.length).toBe(661);
   });
 });

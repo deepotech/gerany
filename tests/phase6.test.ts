@@ -28,26 +28,26 @@ describe('PHASE 6: Production Data Operations & Scaling Regression Protection', 
   const allEntities: MosqueEntity[] = JSON.parse(fs.readFileSync(allPath, 'utf8'));
   const repo = new JsonMosqueRepository();
 
-  // Assertion 1: 542 published mosques remain intact
-  it('1. 542 published mosques remain completely intact in mosques.json', () => {
-    expect(mosques.length).toBe(542);
+  // Assertion 1: 601 published mosques remain intact
+  it('1. 601 published mosques remain completely intact in mosques.json', () => {
+    expect(mosques.length).toBe(601);
     expect(mosques.every((m) => m.dataStatus === 'PUBLISHED')).toBe(true);
   });
 
-  // Assertion 2: 14 published cities remain published
-  it('2. 14 published cities remain published', () => {
+  // Assertion 2: 20 published cities remain published
+  it('2. 20 published cities remain published', () => {
     const publishedConfigs = getPublishedCityConfigs();
-    expect(publishedConfigs.length).toBe(14);
+    expect(publishedConfigs.length).toBe(20);
     for (const c of publishedConfigs) {
       expect(isPublishedCity(c.slug)).toBe(true);
     }
   });
 
   // Assertion 3: Published city count remains correct
-  it('3. Published city count in registry matches database exactly (14 cities)', async () => {
+  it('3. Published city count in registry matches database exactly (20 cities)', async () => {
     const citiesFromRepo = await repo.getCities();
     const liveCities = citiesFromRepo.filter((c) => c.count >= 1);
-    expect(liveCities.length).toBe(14);
+    expect(liveCities.length).toBe(20);
   });
 
   // Assertion 4: Unpublished cities remain non-indexable
@@ -258,10 +258,10 @@ describe('PHASE 6: Production Data Operations & Scaling Regression Protection', 
     }
   });
 
-  // Assertion 21: Sitemap contains only canonical indexable URLs (exactly 1674)
-  it('21. Sitemap contains exactly 1,674 canonical indexable URLs', async () => {
+  // Assertion 21: Sitemap contains only canonical indexable URLs (exactly 1869)
+  it('21. Sitemap contains exactly 1,869 canonical indexable URLs', async () => {
     const sitemapEntries = await sitemap();
-    expect(sitemapEntries.length).toBe(1674);
+    expect(sitemapEntries.length).toBe(1869);
 
     const urls = sitemapEntries.map((e) => e.url);
     const uniqueUrls = new Set(urls);

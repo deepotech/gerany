@@ -1,0 +1,3895 @@
+[{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZhgS_36m86cU-pYjYkjokw&cb_client=search.unparseable.grass&w=411&h=710&yaw=110.99977&pitch=0&thumbfov=100",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0157765,
+    "lng": 8.2896818
+  },
+  "menu": null,
+  "neighborhood": "Mainz-Kastel",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "2 to 3:30 PM, 8 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 174 6530755",
+  "placeId": "ChIJo73-4caXvUcR-JkPLVdR0SI",
+  "placesTags": [],
+  "plusCode": "278Q+8V Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Moroccan Culture Center",
+      "reviewsCount": 110,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein e.V. Badr Moschee",
+      "reviewsCount": 77,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Moschee Schierstein",
+      "reviewsCount": 2,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Vahdet-Moschee",
+      "reviewsCount": 26,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "55252",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "114084034072356233818",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114084034072356233818?hl=en",
+      "name": "Abdul Matin Haqeqat",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ3G8E1FHdkKWYf_1tD9B9joKTCnl9ZHDITq_V9Af1KE-coEg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-05T18:49:36.297Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tGRlRGOTJlVmxoVEhCZlNrTlpMVkZZU0hNek9HYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGRlRGOTJlVmxoVEhCZlNrTlpMVkZZU0hNek9HYxAB!2m1!1s0x0:0x22d151572d0f99f8!3m1!1s2@1:CAIQACodChtycF9oOkFFTF92eVlhTHBfSkNZLVFYSHMzOGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105251690166698338134",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105251690166698338134?hl=en",
+      "name": "Osman",
+      "reviewerNumberOfReviews": 48,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJWIoMSE932b_zjVmAeYV4pavq0Y6gVVMM1ewysjE1vx22TWw=s1920-c-rp-mo-ba12-br100",
+      "text": "📍In den Sommermonaten beginnen die Freitagsgebete um 14:30 Uhr.🤲\n\nDas Naht- und Teravih-Gebet beginnt um 20:00 Uhr.\n\nIn der Nähe der Sportanlage kann man am Straßenrand leicht einen Parkplatz finden.\n\nNach dem Gebet wird Tee ☕ angeboten. 👍.",
+      "textTranslated": "📍During the summer months, Friday prayers begin at 2:30 PM.🤲\n\nThe Nahh and Teravih prayers begin at 8:00 PM.\n\nParking is readily available along the roadside near the sports complex.\n\nTea ☕ is served after the prayers. 👍",
+      "publishAt": "Edited 5 months ago",
+      "publishedAtDate": "2026-05-08T12:19:57.108Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25KSlRteFNNblF3UzJwS1pTMDVTWGt3TkZRNWVrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KSlRteFNNblF3UzJwS1pTMDVTWGt3TkZRNWVrRRAB!2m1!1s0x0:0x22d151572d0f99f8!3m1!1s2@1:CAIQACodChtycF9oOnJJTmxSMnQwS2pKZS05SXkwNFQ5ekE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "109349747696787805911",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109349747696787805911?hl=en",
+      "name": "Suat Katranci",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXV9vhlpnYMRONtQK-ZDkhZYwLGBnp3W3zqabQPU5Pggmp9zKqA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "11 months ago",
+      "publishedAtDate": "2025-11-19T17:22:49.407Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xNemJESkRVVmxxVWpOSU1FUkNlWFZxWm1aWE0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xNemJESkRVVmxxVWpOSU1FUkNlWFZxWm1aWE0yYxAB!2m1!1s0x0:0x22d151572d0f99f8!3m1!1s2@1:CAIQACodChtycF9oOlMzbDJDUVlqUjNIMERCeXVqZmZXM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "102895337278069790180",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102895337278069790180?hl=en",
+      "name": "Hasan Sinan Koşmaz",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIuLeMFc3LZk2jRev0vIvXLMvXv6HFOuLZpLTb_rjGV93lFBw=s1920-c-rp-mo-br100",
+      "text": "Sommerzeit beginnt Freitagsgebet mit dem Ezan um 14:30 Uhr, ab 14 Uhr ist die Tür spätestens geöffnet.\n\nWinterzeit wird pünktlich das Freitagsgebet stattfinden.\n\nFreitags Abend findet unser Vortrag auf Deutsch und Samstags Abend auf Türkisch statt.",
+      "textTranslated": "During summer time, Friday prayers begin with the Ezan at 2:30 p.m. The doors will be open no later than 2:00 p.m.\n\nDuring winter time, Friday prayers will take place on time.\n\nOur lectures are held in German on Friday evenings and in Turkish on Saturday evenings.",
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-04-03T21:11:08.272Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnTUNJalpHc3RRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNJalpHc3RRRRAB!2m1!1s0x0:0x22d151572d0f99f8!3m1!1s2@1:CIHM0ogKEICAgMCIjZGstQE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "109024044642575235727",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109024044642575235727?hl=en",
+      "name": "Salih Koca",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLJXgaPOn6ONJFwDDIwvip-Zd_hHk_Pq9c-l4XfPvTa_EBQIw=s1920-c-rp-mo-br100",
+      "text": "Sehr schöne Gemeinschaft die jede Kultur und Religion akzeptiert und vorallem Freitags sich zum Unterhalten und lernen versammeln",
+      "textTranslated": "A very nice community that accepts every culture and religion and especially gathers on Fridays to talk and learn.",
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-01-24T15:20:26.003Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURfX3V6dmFBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURfX3V6dmFBEAE!2m1!1s0x0:0x22d151572d0f99f8!3m1!1s2@1:CIHM0ogKEICAgID__uzvaA%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 5,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Schmalweg 36",
+  "subTitle": null,
+  "title": "Ayasofya Cami, Medrese-i Nuriye",
+  "url": "https://www.google.com/maps/search/?api=1&query=Ayasofya%20Cami%2C%20Medrese-i%20Nuriye&query_place_id=ChIJo73-4caXvUcR-JkPLVdR0SI",
+  "address": "Schmalweg 36, 55252 Wiesbaden-Mainz-Kastel, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLecP62HTpPCV0OzN3ppq_FtjmWF9j47g3o7R_mCr1EH-x8ltmF7aZ41uSaPNkNo5Xc0OE9FD1qN0GB1wijLGoXDuigCDA8n2m8zqDbkqMc9JTtkwB7KzGXSOh5Mti_oxkO44Lw=w411-h548-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0781153,
+    "lng": 8.2336498
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 376333",
+  "placeId": "ChIJp1fuPXW-vUcRXsDzPMHQJKQ",
+  "placesTags": [],
+  "plusCode": "36HM+6F Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Mubarak Moschee",
+      "reviewsCount": 155,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Deutsch Somalischer e.V. - Masjid Abubakar",
+      "reviewsCount": 31,
+      "totalScore": 4.5
+    }
+  ],
+  "postalCode": "65185",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 39,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 35
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Dotzheimer Str. 24-26",
+  "subTitle": null,
+  "title": "Süleymaniye-Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=S%C3%BCleymaniye-Moschee&query_place_id=ChIJp1fuPXW-vUcRXsDzPMHQJKQ",
+  "address": "Dotzheimer Str. 24-26, 65185 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdMjcd9Wal838D58tKR6CkOO-iMXpPVixfsFo_ECPirhul6SoAgHJohlYdc6moU2fka5eCha1cfkmJouAESo3ImHBbe6CjgVEsNW5X_Ofjyw9T5XkNwaE_JFSO7swARCBmd3c8u=w411-h308-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLdMjcd9Wal838D58tKR6CkOO-iMXpPVixfsFo_ECPirhul6SoAgHJohlYdc6moU2fka5eCha1cfkmJouAESo3ImHBbe6CjgVEsNW5X_Ofjyw9T5XkNwaE_JFSO7swARCBmd3c8u=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0722729,
+    "lng": 8.2120954
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 9410492",
+  "placeId": "ChIJsZ_fkxa-vUcRbK4Lad3tmW8",
+  "placesTags": [],
+  "plusCode": "36C6+WR Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    }
+  ],
+  "postalCode": "65197",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 139,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 6,
+    "fiveStar": 126
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Holzstraße 36",
+  "subTitle": null,
+  "title": "Wiesbaden Central Mosque",
+  "url": "https://www.google.com/maps/search/?api=1&query=Wiesbaden%20Central%20Mosque&query_place_id=ChIJsZ_fkxa-vUcRbK4Lad3tmW8",
+  "website": "http://www.ditib-wiesbaden.de/",
+  "address": "Holzstraße 36, 65197 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLeZaWVZ_uAuAlbcCAZtZuR2X_h0BnbCg-WpyxDGBilNYV81W6PRKB_skVbTh_b1JW66VSUrixJYu6dMjeKws9zOOP_qW5EpdVD8tAD-rt7MX6lmHLF3AcChmxG0203BQQarB6KCyDuzFCbs=w411-h548-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9E-mgsuNrGtZ5ze-gOnFPXCB-O_03Bcj9h_AEZu-jdCQd2RymvtoK9UnVbb_b_s8gK7FBm1tVBgvl0oig7q7ZoQ6sLEEIcG8L9M9vgvYQ2eieecfqKXJgsjFjUYelxgRg0W-UZK7-l43g=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_Lh-licGfBc2GRAvel18kUxPdukdwV4fgXVWmAq2m4vhYPqgDu3DLwYatgKs4Wkn4Dn_9_ak3kcEhN5OBdzPFFG6CkRmwx9ZjN5CQcBDulKMTRDxXJFMFdyat8vlZ2lfpvN1vfkmkiacl=w1920-h1080-k-no"
+  ],
+  "imagesCount": 2,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0547884,
+    "lng": 8.2984099
+  },
+  "menu": null,
+  "neighborhood": "Wiesbaden-Erbenheim",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJRWTYPAC9vUcRbrQsUHPyB7A",
+  "placesTags": [],
+  "plusCode": "373X+W9 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65205",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "101539079227131579556",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101539079227131579556?hl=en",
+      "name": "azaan malik",
+      "reviewerNumberOfReviews": 32,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKHP7WhUmXDy1f2ay525MCI5sDacKJHDmq6jheLM3m1FXN21UCD=s1920-c-rp-mo-ba12-br100",
+      "text": "Gpod and clean",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-03T19:59:23.844Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwNlNVNXNkWFV3Ym5CVVRsOHljWFZuVkY5NU5FRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwNlNVNXNkWFV3Ym5CVVRsOHljWFZuVkY5NU5FRRAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOlp6SU5sdXUwbnBUTl8ycXVnVF95NEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114494990773156107239",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114494990773156107239?hl=en",
+      "name": "Mahir Filcan",
+      "reviewerNumberOfReviews": 31,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUQFzXCDThUIzXMZ68cOlIu4dL2WIBFqqOHy7dUi_guwkTqcWU=s1920-c-rp-mo-ba12-br100",
+      "text": "Super",
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-31T11:54:47.051Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2t4dFgydHZTUzEzUWtaT05qQkdZblkwU0RGWldVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4dFgydHZTUzEzUWtaT05qQkdZblkwU0RGWldVRRAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOkxtX2tvSS13QkZONjBGYnY0SDFZWUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117184321423478937628",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117184321423478937628?hl=en",
+      "name": "Ala.a hijazi",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWVmeG_Z_bq9poDCSBVor2gnMYuZ2ytYWoU6ZTMasxEb2ksmxY=s1920-c-rp-mo-br100",
+      "text": "متى. صلاة الجمعة   في هذه الايام. ؟",
+      "textTranslated": "When is Friday prayer these days?",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-26T11:29:05.374Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w5WGJrUm1hSEJTTWpnM1lsQlhRM0Z4VURKWmVuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5WGJrUm1hSEJTTWpnM1lsQlhRM0Z4VURKWmVuYxAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOl9XbkRmaHBSMjg3YlBXQ3FxUDJZenc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "117452576645882695839",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117452576645882695839?hl=en",
+      "name": "Enis Aydin",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ3ri7c4Mze__JzBscRvt9XCEwiUEMd62oqrJ74tAPg2o3Veg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-10T16:14:42.893Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25KUVFVdFBjRTl4Y0RaNWFtSmFZbVEyVEVzelltYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KUVFVdFBjRTl4Y0RaNWFtSmFZbVEyVEVzelltYxAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOnJQQUtPcE9xcDZ5amJaYmQ2TEszYmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111870800510793649354",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111870800510793649354?hl=en",
+      "name": "Abdel A",
+      "reviewerNumberOfReviews": 21,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLLLMuTu3RAm87DOk5CdqL3gxcqgDv_enw8lz_8gTFNSr5INQ=s1920-c-rp-mo-ba12-br100",
+      "text": "Salam warlaikum.... ich war heute das erste mal in der Masjid. Es war einfach nur TRAUMHAFT SCHÖN diese Brüderlichkeit dieses Taraweeh so wunderschön. Der Präsident hat ein offenes Ohr und der ganze Vorstand auch. Weiter so hut ab. Kann ich JEDEM NUR EMPFEHLEN.",
+      "textTranslated": "Salam wa laikum... I was at the Masjid for the first time today. It was simply breathtakingly beautiful, this brotherhood, this Taraweeh, so wonderful. The president is very approachable, and so is the entire board. Keep up the good work, hats off to you! I can only recommend it to everyone.",
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-02-26T23:52:55.267Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT201RVJXWlJkV28yTFVOWlNGSjZlWE0yVXpSNGVIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201RVJXWlJkV28yTFVOWlNGSjZlWE0yVXpSNGVIYxAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOm5ERWZRdWo2LUNZSFJ6eXM2UzR4eHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "100465841821868206985",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100465841821868206985?hl=en",
+      "name": "Abdullah Al Mamun",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWTA7igo3C-UTOi6aY5-VaNVaT-gvKeqLnN36sA5yWAZUG6B5u_Og=s1920-c-rp-mo-ba12-br100",
+      "text": "Wann ist das Freitagsgebet?",
+      "textTranslated": "When is Friday prayer?",
+      "publishAt": "9 months ago",
+      "publishedAtDate": "2026-01-09T10:28:54.345Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21wdGEyOUxNVmRzVTJONk5EUnBZMHBGZURWNWQxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wdGEyOUxNVmRzVTJONk5EUnBZMHBGZURWNWQxRRAB!2m1!1s0x0:0xb007f273502cb46e!3m1!1s2@1:CAIQACodChtycF9oOmpta29LMVdsU2N6NDRpY0pFeDV5d1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 48,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 47
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Egerstraße 2",
+  "subTitle": null,
+  "title": "Masjid as Sunnah",
+  "url": "https://www.google.com/maps/search/?api=1&query=Masjid%20as%20Sunnah&query_place_id=ChIJRWTYPAC9vUcRbrQsUHPyB7A",
+  "website": "https://www.masjid-as-sunnah.de/",
+  "address": "Egerstraße 2, 65205 Erbenheim, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfvFiEyYWN9lrJqQvVISDxnWi6lXcndKOI-CoWyALbyZqd67mFolgnW8664HQnNJp1_2Cknpb1Dv0FtOl_sshSVOo6BMn4GCM5MKubuyjdXOkqB_NjOsYT7v6VekCDrwTu3Y2A=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpMzPFX11Z4XsNYLjgH9VDQLKE69VytPY5NCsfhLZLueH6BMLzuADUudcr5VplCHhexm8NjhWYCs1-fL8G9bsxu3cXiogwvommzSX0D1p2RFC7AqimxL2EWbvAdmDBsv146EE=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMn6TtBXxGXZ-ufuMIn7nQwyeizSJDElwjcmrLT0tsn1iRiBO4Ju_2RPHU2JhQmwDtqiD1nGTZsm7s5q-cSW_xsOelBQ7ZB1ZNdvqnLoV_oqqRuBR_dB2bRNSZBLzW2wGLB3A=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QHOm7aNadi6IO4q3Va7AbA__HNYzqtIhP3gZk4w_zHKWDW1K0fp40oMFJp4NIClWEFp8H5Qj4ScyGRZEC7kDzzghqgPltsdb6yfGhsLCUNFhBfjo8PN9_gQqHbYmWOOBOFTv0s=w1920-h1080-k-no"
+  ],
+  "imagesCount": 3,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0492283,
+    "lng": 8.1945415
+  },
+  "menu": null,
+  "neighborhood": "Schierstein",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 598386",
+  "placeId": "ChIJw9OO_Y2VvUcRh1m-vh9dgDE",
+  "placesTags": [],
+  "plusCode": "25XV+MR Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Moroccan Culture Center",
+      "reviewsCount": 110,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Moschee Schierstein",
+      "reviewsCount": 2,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65201",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "115780000583728185986",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115780000583728185986?hl=en",
+      "name": "salah seed",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJyVv6gAg7lOBuZqV4p5DQgh7RcAaW0PT2fC7b5Q7P1gmun9g=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-11T00:20:57.994Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Wc1ZraFZjazFOTUZSbE1rVkhiRU5XZVVoWk4yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Wc1ZraFZjazFOTUZSbE1rVkhiRU5XZVVoWk4yYxAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOnVsVkhVck1NMFRlMkVHbENWeUhZN2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107169343492046063310",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107169343492046063310?hl=en",
+      "name": "Stana Elmas",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVrbBegEg9FA_VCnhgLri8oUOsH9U8DZuk5rcr5zxUzvE5ek8ndoA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-27T06:03:43.003Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tZd05tMWxkQzAzY2tZMU1scERVRVJTTUVWRGEwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZd05tMWxkQzAzY2tZMU1scERVRVJTTUVWRGEwRRAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOkYwNm1ldC03ckY1MlpDUERSMEVDa0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117847345667240541327",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117847345667240541327?hl=en",
+      "name": "Koray Özsamanci",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIgs3J3xOnmrrASPappdwg9yekqjFjFw0O4SLEfwDYW3_4Ekg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-23T00:07:20.436Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT214YVRGcGFiV0paTlhkRWRsbHRSRFJ2ZFZseU4zYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214YVRGcGFiV0paTlhkRWRsbHRSRFJ2ZFZseU4zYxAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOmxaTFpabWJZNXdEdlltRDRvdVlyN3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112950418063634069300",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112950418063634069300?hl=en",
+      "name": "Ab El",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIlRwnh6HY5k4jYrEDPnfF5uZcalYe10JWbH3FxNK902QACww=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-12T19:34:43.373Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2twNmVFcGlZa0pEWmpFeWRYWkhSalpRWkRCd01VRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twNmVFcGlZa0pEWmpFeWRYWkhSalpRWkRCd01VRRAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOkp6eEpiYkJDZjEydXZHRjZQZDBwMUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116013967906830680469",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116013967906830680469?hl=en",
+      "name": "Hicham lhaddouchi",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ6ZPn3XYdYbspPcJJmiI5WfnScx0TLQmdscZ1UDm4M_FQt_w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-04-27T11:11:12.788Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT201NFFVMUlaMGRtT1dORFkwOTFkWGxpVm1odVlYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201NFFVMUlaMGRtT1dORFkwOTFkWGxpVm1odVlYYxAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOm54QU1IZ0dmOWNDY091dXliVmhuYXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101478006568962885763",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101478006568962885763?hl=en",
+      "name": "khaled alhasouna",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIoVzhbwxSNteJhQcju0Ko63y7OlNP1UCSuqEyEHQJCKp5ytw=s1920-c-rp-mo-br100",
+      "text": "ارجو تعديل أوقات صلاة الجمعة اونلاين لانه مكتوب الساعه الواحدة والنصف وقد اتينا في هذا الموعد واحد الاشخاص اخبرنا انه في الساعه الثالثة عصرا الرجاء تعديل التوقيت اونلاين .جزاكم الله خيرا",
+      "textTranslated": "Please correct the Friday prayer times online, as they show 1:30 PM, and we arrived at that time. Someone told us it was 3:00 PM. Please adjust the timing online. May God reward you.",
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-17T12:05:45.078Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwMFRIUXdhVVZ2TTFkUVoyTmxWakEyV1ZvM2VFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwMFRIUXdhVVZ2TTFkUVoyTmxWakEyV1ZvM2VFRRAB!2m1!1s0x0:0x31805d1fbebe5987!3m1!1s2@1:CAIQACodChtycF9oOlp0THQwaUVvM1dQZ2NlVjA2WVo3eEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 77,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 67
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Stielstraße 19",
+  "subTitle": null,
+  "title": "Marokkanischer Kulturverein e.V. Badr Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Marokkanischer%20Kulturverein%20e.V.%20Badr%20Moschee&query_place_id=ChIJw9OO_Y2VvUcRh1m-vh9dgDE",
+  "website": "http://www.masjid-badr.de/",
+  "address": "Stielstraße 19, 65201 Schierstein, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Club"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcALrrmIAs7WFlMUJ6fOqdVpc6h9Pxf346s1KJ7XRa6JhihuIidNhv8piq6yVN0nhgslGhyGLAPG1yJkXIqjeSB42PkmEaGVQvcLuZMQGMSknGw3TF8aePZZNwXzLXy0a9xU1OR=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsGM-xbTdxaihzqpnmRt6qkY1VabJphpjcHGWBvMCUCoQSWzqXoo4IMBboWfk6Og6UkLy4RKSA28zCk_C-zgZPaCTYZh4X1SjTEd9K6K4t7f7apPBrhWsqNl1xZ3UWMIOIUyokTw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG8c_qQEx3H_Fm9NsDmcaIMuwVuIdLfp1OGzsiCpKZgHzq7iqOHQxHv_oRJwPYQtpQfFWXGFGsViEN9k8-PPX0w_j0CwQL5Ao4FDuerYDLB1aUDsRanFQvojzpveqkRKgzKOLDyg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SeEJ5gREulDr1vP-ssbpSnU8HCJ2OjqmMH0L4LC-PX6HoZE_wHiWG_g56JXtO3zShm0weyJtDPWXRFLuJqBsesJTlkNbb4V4K4yWn1rHa1BNHzx43zS1BDfcmEFZe_xyiDv-jM=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S09Xz3JoEvchNGAW-WntnFCH3U-9bn7BBmLrhRXNk2w20cg0r4aeoTi6kKIe6u7WGOF_XY0ufI6FrxV7sNW23lq6CVuJAT7eKpzdhZqIOZRaB_pD-tCCQxPmgKHo_0ylH26daX=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SG3vhCRN905i8aYeQM7hsscQF9MQr2HC06iEmi7ijTWL73MocB5HAciw51jo7si60ob2UUYzTnF_9aN_67eTxGfn5Vc-u31BSJwrj8qzj_7V4xXE7n82XWyFQjLsqAjfYw-seY=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFVYn1m6pf_7WFxt-SXzYZjmOrtzmtI59NMRwDLO5CdlqzsahL9fr9iMDD2cSlgG4tjDudPTXoQmuMzDdbw6618-7CyHeerQzIbSTpZlxUTkzI80CnjNziej92aDH7UPIPVQjH=w1920-h1080-k-no"
+  ],
+  "imagesCount": 6,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0531042,
+    "lng": 8.2412386
+  },
+  "menu": null,
+  "neighborhood": "Biebrich",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 608390",
+  "placeId": "ChIJd-yqKx2WvUcRUnMVfd0Eu5Y",
+  "placesTags": [],
+  "plusCode": "363R+6F Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Mubarak Moschee",
+      "reviewsCount": 155,
+      "totalScore": 4.9
+    }
+  ],
+  "postalCode": "65187",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "104147651172737742474",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104147651172737742474?hl=en",
+      "name": "Zeinab Aljazeery",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIo-5ObpidiwSP4D6CCxt5kDecQt8E0SqO7NtHMnGVAmTzl6awS=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-11T20:27:31.610Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT205M1RuRk1aekJJVjJaWFdqWlFhMWhzYzFWbE0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205M1RuRk1aekJJVjJaWFdqWlFhMWhzYzFWbE0yYxAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOm93TnFMZzBIV2ZXWjZQa1hsc1VlM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101539079227131579556",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101539079227131579556?hl=en",
+      "name": "azaan malik",
+      "reviewerNumberOfReviews": 32,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKHP7WhUmXDy1f2ay525MCI5sDacKJHDmq6jheLM3m1FXN21UCD=s1920-c-rp-mo-ba12-br100",
+      "text": "Nice interior and exterior too...",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-03T19:48:02.588Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xweVZVTkxNMWxJY21NM1pYbzJiM3BQU1VoSFMwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xweVZVTkxNMWxJY21NM1pYbzJiM3BQU1VoSFMwRRAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOlpyVUNLM1lIcmM3ZXo2b3pPSUhHS0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108806062109765999715",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108806062109765999715?hl=en",
+      "name": "Habib Hattab",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLkc49njPIC551awu_jXKXJpzCzMTpcy0F24gZFNZWFqujfYw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-13T11:31:32.275Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xb1dFWnlOekpSUzNWVFNWOXZkVTFqYVdSS1ZHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xb1dFWnlOekpSUzNWVFNWOXZkVTFqYVdSS1ZHYxAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOm1oWEZyNzJRS3VTSV9vdU1jaWRKVGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116049851500646189051",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116049851500646189051?hl=en",
+      "name": "Abdelhamid Meriami",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWNmagwl45eZiq71LqhKXTo5HsvoXll3DeV9oE-mUWpnJKx62V1=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-30T16:00:41.011Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pScE5tMHhOMWMzTFdWbFIySTVkR05hTWpaRVRVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pScE5tMHhOMWMzTFdWbFIySTVkR05hTWpaRVRVRRAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOjRpNm0xN1c3LWVlR2I5dGNaMjZETUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113451302059601018350",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113451302059601018350?hl=en",
+      "name": "Sofia Tarnanidou",
+      "reviewerNumberOfReviews": 50,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJndLiWGwh5293ry7533leMEdsNx-tUkZ7oYm9nuo1fMAr6aw=s1920-c-rp-mo-ba12-br100",
+      "text": "Hat mich sehr  gefallen",
+      "textTranslated": "I really enjoyed it",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-15T15:42:59.947Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2t4Uk9XbHdYemQ1UVVaaU5GVjZXRk01V2kweFQyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4Uk9XbHdYemQ1UVVaaU5GVjZXRk01V2kweFQyYxAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOkxROWlwXzd5QUZiNFV6WFM5Wi0xT2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "111444697834784549275",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111444697834784549275?hl=en",
+      "name": "khalid Aibrahim",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVZce3Cn-lpU6YiKZNPf1PgF2NVfpDp7W6QfCQAEzLC2n87iw=s1920-c-rp-mo-br100",
+      "text": "مشاءالله تبارك الرحمن مسجد جميل الله يبارك فيكم وكل واحد يزوره",
+      "textTranslated": "Mashallah, Tabarak Allah, a beautiful mosque. May God bless you and everyone who visits it.",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-13T13:11:16.415Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21STWNFMXpNak5HYkVkdmNIWmpTMUpOYmw4eVdFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21STWNFMXpNak5HYkVkdmNIWmpTMUpOYmw4eVdFRRAB!2m1!1s0x0:0x96bb04dd7d157352!3m1!1s2@1:CAIQACodChtycF9oOmRMcE1zMjNGbEdvcHZjS1JNbl8yWEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfYWjQXviUUBJR9tZHrnrs3e_rLWQR9w9K2vUQjeQya5ogh4cjYgMpzRtmxuGO6yaeNBnbqUEURLP-Yndx04MduCb2l4F-wn1whfPfhjkv4jRfQh0QZghFifPwr-8TqXFeeWhiHH4BfXNzf=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 211,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 4,
+    "threeStar": 3,
+    "fourStar": 4,
+    "fiveStar": 190
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Henkellstraße 12",
+  "subTitle": null,
+  "title": "Wiesbaden Central Mosque",
+  "url": "https://www.google.com/maps/search/?api=1&query=Wiesbaden%20Central%20Mosque&query_place_id=ChIJd-yqKx2WvUcRUnMVfd0Eu5Y",
+  "website": "https://omar-moschee.de/",
+  "address": "Henkellstraße 12, 65187 Biebrich, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcEEfQm9qhNHggQs1PZi7F7mGzjudGGnfEYZmydr2m_atMejYIoqPOL0zL-KDW-oMpxmLfvhT-fW-ei3a0za-6Tu_ejqCWZzjhfyrqXA25C-FDIBqROKPD_vQjuT3aY2CIflRQt=w411-h230-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLcEEfQm9qhNHggQs1PZi7F7mGzjudGGnfEYZmydr2m_atMejYIoqPOL0zL-KDW-oMpxmLfvhT-fW-ei3a0za-6Tu_ejqCWZzjhfyrqXA25C-FDIBqROKPD_vQjuT3aY2CIflRQt=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.010048,
+    "lng": 8.3001535
+  },
+  "menu": null,
+  "neighborhood": "Mainz-Kostheim",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 6134 298592",
+  "placeId": "ChIJ1c3P-3WXvUcRvVhxEtn2Q4Q",
+  "placesTags": [],
+  "plusCode": "2862+23 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamischer Kulturverein Mz e.V.",
+      "reviewsCount": 107,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Ayasofya Cami, Medrese-i Nuriye",
+      "reviewsCount": 5,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein e.V. Badr Moschee",
+      "reviewsCount": 77,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islam Info Service Mainz",
+      "reviewsCount": 81,
+      "totalScore": 4.6
+    }
+  ],
+  "postalCode": "55246",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "104147651172737742474",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104147651172737742474?hl=en",
+      "name": "Zeinab Aljazeery",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIo-5ObpidiwSP4D6CCxt5kDecQt8E0SqO7NtHMnGVAmTzl6awS=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-11T20:27:38.404Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xoblpIaElja1JpYlZKRWJWUm5XVmx2VUU5dFVXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoblpIaElja1JpYlZKRWJWUm5XVmx2VUU5dFVXYxAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOlhnZHhIckRibVJEbVRnWVlvUE9tUWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114313649075289626852",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114313649075289626852?hl=en",
+      "name": "MAGGY Bko",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJvq-VjbCs8lWBSWnXgWBa_dLtCp8V4ZY30BTMpGet80fJE8Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-08T20:48:49.522Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21admVsVTNVM1JDZWtjNE9EaEdXbEZZTXpWeE5WRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21admVsVTNVM1JDZWtjNE9EaEdXbEZZTXpWeE5WRRAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOmZvelU3U3RCekc4ODhGWlFYMzVxNVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104474550235176005917",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104474550235176005917?hl=en",
+      "name": "Fay Hid",
+      "reviewerNumberOfReviews": 83,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUWnIXZ8DQFaQli6rctBhBl665HNA_KjC-BrPd1-actvedVJUjQFQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-30T14:57:57.940Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSWmJFMDFWRTQxUWtwWE9FWmZYMmxPUlhVd2JVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSWmJFMDFWRTQxUWtwWE9FWmZYMmxPUlhVd2JVRRAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOlRZbE01VE41QkpXOEZfX2lORXUwbUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100620163654642750478",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100620163654642750478?hl=en",
+      "name": "Malek Himmich",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLiamYzXzcCJNfH7zKoN_Okyb4pbcHoidbyyQwLPmtvapOMng=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-28T20:00:07.036Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21wMFFteDRhVU5XUm5FM1EyWlphR0pDVkZSaVprRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wMFFteDRhVU5XUm5FM1EyWlphR0pDVkZSaVprRRAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOmp0Qmx4aUNWRnE3Q2ZZaGJCVFRiZkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105992335113393503996",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105992335113393503996?hl=en",
+      "name": "Mohamed M",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL9ZiPXHCrOOYaD8ZJPniApQxOyMx4VNdbqao3GlxQlQINRrw=s1920-c-rp-mo-ba12-br100",
+      "text": "I’ve heard the word EURO more than I’ve heard GOD IS GREAT in this mosque. They spent the first 30min of salat Eid asking for money, then announcing the names of the donors with the amounts! I feel this is just plain wrong.",
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-27T05:27:42.604Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tGS2FtcGhOVXh0TUZOd1pUWkNkMHB3TFRnMU1uYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGS2FtcGhOVXh0TUZOd1pUWkNkMHB3TFRnMU1uYxAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOkFKamphNUxtMFNwZTZCd0pwLTg1Mnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 3,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101951390954531083579",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101951390954531083579?hl=en",
+      "name": "Mohamed Boudhaim",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVJVxhiJRVI4yoFrmEyyqHApISaHNTirr2T-Jsh5_-0zavOMPa41Q=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-19T01:02:24.225Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25NdFRFaHJjVUpIUkZwT1NWcGlUbmhoTjFaTmQxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25NdFRFaHJjVUpIUkZwT1NWcGlUbmhoTjFaTmQxRRAB!2m1!1s0x0:0x8443f6d9127158bd!3m1!1s2@1:CAIQACodChtycF9oOnMtTEhrcUJHRFpOSVpiTnhhN1ZNd1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 110,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 5,
+    "fiveStar": 99
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Anton-Hehn-Straße 2",
+  "subTitle": null,
+  "title": "Moroccan Culture Center",
+  "url": "https://www.google.com/maps/search/?api=1&query=Moroccan%20Culture%20Center&query_place_id=ChIJ1c3P-3WXvUcRvVhxEtn2Q4Q",
+  "website": "http://ikv-kostheim.de/",
+  "address": "Anton-Hehn-Straße 2, 55246 Wiesbaden-Mainz-Kostheim, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfS95mERpVlcMtLq26_42C68W4ffQYPNvtrY4eOgcMRA-XwzmEXunoqY16RNiaLl3RB1ntsFxa5EuZviwknxe5iXrFjGm7UsJ-rBcRSB66DmmNR7YahT9jdx72Ec6thI_TUCrQ9=w411-h548-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rx0009FGmz_wqU4gR_OiGxQp7KRnUhPagugxYpcNyMuLufSVmTKtzFxa5bO9TaHM2rj3uL-x4iLb8DUokbMPV-w7yNpA9HGQZGlwBJijgG92_CbovaA9YhpmmHPyZZBlj2Ki7RLA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKACV8h9uWPenlBPuzExDFDwox5u7NJJS5-FysL_VkzQ6can8HX-3PtsQlgnhVPe3uoHn0ABJuYtS6obXlxLLcsZ1qJ4FHhzCq5c872mAkOhGMQW3BACCTWJcF4QY945ix_NNW=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tl5J5wlAuT8WZOZrE2PYyWLSDOBRJklUcsvWuSMg3RPhMun4PbqE_xreZkJK1G121Ox49Lmtb2XBULoTZO1rM4a3Aw4VHrtchhv1AGXv7ROKMNLIlXNjLrachE7vbXipgNpWjr=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdRGEpZKWLAddalug1LB9G9jCqwaCg5wI1ZWFopx4wmHbAE9uT_qLM4km30xRblWmskjNCw0BmPzWVYjjU6nJvZnolMJKq6lDIAEdIzQYG8dh4SQjxo1UmI80-chM3Bim8VsEg=w1920-h1080-k-no"
+  ],
+  "imagesCount": 4,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.07427,
+    "lng": 8.2059539
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 72448724",
+  "placeId": "ChIJ31MSbj6-vUcRwd_rBbyWemI",
+  "placesTags": [],
+  "plusCode": "36F4+P9 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Deutsch Somalischer e.V. - Masjid Abubakar",
+      "reviewsCount": 31,
+      "totalScore": 4.5
+    }
+  ],
+  "postalCode": "65197",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "102598539743675051594",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102598539743675051594?hl=en",
+      "name": "Mohsin Tahir",
+      "reviewerNumberOfReviews": 28,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXNIg20eKYF2YCl_JdmJwgRE1WwSPTt4SuMfPhW8vFCGbOXrkI=s1920-c-rp-mo-ba12-br100",
+      "text": "Very good mosque and people",
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-18T12:19:50.155Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21abFExOTBYMnN6ZWxBd09HVjRUVU16VDA1cE1HYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21abFExOTBYMnN6ZWxBd09HVjRUVU16VDA1cE1HYxAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOmZlQ190X2szelAwOGV4TUMzT05pMGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106692312697501700019",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106692312697501700019?hl=en",
+      "name": "Samina Akram",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLjAjkT44h522DiAmch0rnge4ZImjCyXNUQ6oO9xw019AUm8A=s1920-c-rp-mo-br100",
+      "text": "Gut",
+      "textTranslated": "Good",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-07T08:16:13.112Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT205MWRXcG5PWFJyUzJwdmJraHlUMVZPVFdOM1ZIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205MWRXcG5PWFJyUzJwdmJraHlUMVZPVFdOM1ZIYxAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOm91dWpnOXRrS2pvbkhyT1VOTWN3VHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "105838631783979152670",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105838631783979152670?hl=en",
+      "name": "Anum Zain",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUCzJVZFQovR1pVgmJNt1MFmoY4oLlgFOgaKKneiDV7iu4HESxo=s1920-c-rp-mo-br100",
+      "text": "Love for All",
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-08T23:37:51.756Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tNeGNWcE1OVlppYkRscFZtWmpWMEZUYUUxUFdrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tNeGNWcE1OVlppYkRscFZtWmpWMEZUYUUxUFdrRRAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOkMxcVpMNVZibDlpVmZjV0FTaE1PWkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116211966349752817133",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116211966349752817133?hl=en",
+      "name": "Giang Vu",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIKhqZ3Y5cP2U2KLAuxzcHXKnVobYGD7mOnI2BFjm0OuJ6mfw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-11T15:23:41.807Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2toUE1taGtia3hEWkc5cWMweGpaMGw1Wm5KNk0wRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toUE1taGtia3hEWkc5cWMweGpaMGw1Wm5KNk0wRRAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOkhPMmhkbkxDZG9qc0xjZ0l5ZnJ6M0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112033141416421169448",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112033141416421169448?hl=en",
+      "name": "Shoaib Anjum",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX5JkxCIqT9vAjNoyYZm85PZhvIZ5BfNq6OhDWDmYk0t5trZXTA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-02-28T08:46:42.403Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xodWVVTTFTM1JqTFc1c2J6UkRlVE5rVHpoeU5XYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xodWVVTTFTM1JqTFc1c2J6UkRlVE5rVHpoeU5XYxAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOlhueUM1S3RjLW5sbzRDeTNkTzhyNWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116978896084878223721",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116978896084878223721?hl=en",
+      "name": "K Kahlon",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLLkjK9Iz45gbvvuSS3X_-fsUD1n9biTUJRnsAhU13bbuJY1A=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-16T18:56:49.870Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2poT01teFJWaTFOY1hGWE0wa3dOelZmYzA5dE5YYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poT01teFJWaTFOY1hGWE0wa3dOelZmYzA5dE5YYxAB!2m1!1s0x0:0x627a96bc05ebdfc1!3m1!1s2@1:CAIQACodChtycF9oOjhOMmxRVi1NcXFXM0kwNzVfc09tNXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 155,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 149
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Sommerstraße 13",
+  "subTitle": null,
+  "title": "Mubarak Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Mubarak%20Moschee&query_place_id=ChIJ31MSbj6-vUcRwd_rBbyWemI",
+  "website": "http://www.mubarak-moschee.de/",
+  "address": "Sommerstraße 13, 65197 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd0ZKd3Xt9Gq6oO015sROxmfnEsCMX14_AE7HkLKLW_XVnaeFzFgGCC1tguHAKhpJJc80v7_A6inJsrLHk_UMDtJ9aiP8vA3geTjAEU71z32Aql0HUL8FcLi9_Mbu6Y8c-M3FBS64K2PDQ8=w411-h548-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLd0ZKd3Xt9Gq6oO015sROxmfnEsCMX14_AE7HkLKLW_XVnaeFzFgGCC1tguHAKhpJJc80v7_A6inJsrLHk_UMDtJ9aiP8vA3geTjAEU71z32Aql0HUL8FcLi9_Mbu6Y8c-M3FBS64K2PDQ8=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0758118,
+    "lng": 8.2101013
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 7244077",
+  "placeId": "ChIJr4MVCKm_vUcRGWv7cazSMHE",
+  "placesTags": [],
+  "plusCode": "36G6+82 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Mubarak Moschee",
+      "reviewsCount": 155,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65197",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "110725705197054028016",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110725705197054028016?hl=en",
+      "name": "Abdellatif Houbbane",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWoZE-GA634kOCAgFff2_9iO8gG6AyD_LTCOTDTEfKPADQyoEII=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-29T13:34:34.945Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2poMVEzWkxNSE5KZEhkYU9WRnpkMmhmWDJ0SVEyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poMVEzWkxNSE5KZEhkYU9WRnpkMmhmWDJ0SVEyYxAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOjh1Q3ZLMHNJdHdaOVFzd2hfX2tIQ2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105137382642361878627",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105137382642361878627?hl=en",
+      "name": "Sim Nas",
+      "reviewerNumberOfReviews": 20,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUto0Y1EEs3Mcr5fiX3JWCVpiOTz8OZPxrDorgSPqP3o3_IxAKfwA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-21T14:00:33.464Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2sxMVJFTkVkRXRLYlV4T1RGVnJVRVk1VlhaM2JXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxMVJFTkVkRXRLYlV4T1RGVnJVRVk1VlhaM2JXYxAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOk11RENEdEtKbUxOTFVrUEY5VXZ3bWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109823865816375429064",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109823865816375429064?hl=en",
+      "name": "Brahim Zaari",
+      "reviewerNumberOfReviews": 8,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI9wwBCe96Olh0yObrRBPaAm9k8w24lGLJJYE-SvKmgC1VM_Q=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-20T13:17:21.778Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s5Rk1sSndTWFJ6VUdKemVUQmhRVU5IUm5kM1kyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5Rk1sSndTWFJ6VUdKemVUQmhRVU5IUm5kM1kyYxAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOk9FMlJwSXRzUGJzeTBhQUNHRnd3Y2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109828507866789749034",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109828507866789749034?hl=en",
+      "name": "A El",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKqmtL9Es7D1CL9POeQjpmfuivRQOdxB6LDy6uJo3z97haKow=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-02-27T23:33:10.703Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xkUk4xZEphREJDWDFveWRFeHRkazl0TlU5TmRVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkUk4xZEphREJDWDFveWRFeHRkazl0TlU5TmRVRRAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOldRN1dJaDBCX1oydExtdk9tNU9NdUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110013053452728365034",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110013053452728365034?hl=en",
+      "name": "Rasel Rana",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUUvbA2JC9Y4xZkM13dzcoQK2CU_OZu__9f9P2B0XYtCobTdsE=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-22T19:50:21.212Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWbVZtMVRlSFY2TkU4d1kyRTNRVXhwZW1kZlFWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWbVZtMVRlSFY2TkU4d1kyRTNRVXhwZW1kZlFWRRAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOkVmVm1TeHV6NE8wY2E3QUxpemdfQVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104474550235176005917",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104474550235176005917?hl=en",
+      "name": "Fay Hid",
+      "reviewerNumberOfReviews": 83,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUWnIXZ8DQFaQli6rctBhBl665HNA_KjC-BrPd1-actvedVJUjQFQ=s1920-c-rp-mo-ba12-br100",
+      "text": "Gepflegt.",
+      "textTranslated": "Well-maintained.",
+      "publishAt": "10 months ago",
+      "publishedAtDate": "2025-12-14T01:19:35.401Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2sweFNYQkNkMlZOYXpsb1RFOWpOblo0ZW5OdU4xRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sweFNYQkNkMlZOYXpsb1RFOWpOblo0ZW5OdU4xRRAB!2m1!1s0x0:0x7130d2ac71fb6b19!3m1!1s2@1:CAIQACodChtycF9oOk0xSXBCd2VNazloTE9jNnZ4enNuN1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 36,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 3,
+    "fiveStar": 30
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Fischbacher Str. 3",
+  "subTitle": null,
+  "title": "Tauhid Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Tauhid%20Moschee&query_place_id=ChIJr4MVCKm_vUcRGWv7cazSMHE",
+  "address": "Fischbacher Str. 3, 65197 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdFun4wI6VUGPFOt6sMMcCr7D0-VOaSlK4pZNFeIGVqjSftvnjKWfcQEJuZESZWKsHjJHxil0X5VN233VoI76c_NvE5eVD1qCgaDLCl6dNkokQL6qhza4UBN6gfH12OpB6AwOQsSw=w411-h308-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLdFun4wI6VUGPFOt6sMMcCr7D0-VOaSlK4pZNFeIGVqjSftvnjKWfcQEJuZESZWKsHjJHxil0X5VN233VoI76c_NvE5eVD1qCgaDLCl6dNkokQL6qhza4UBN6gfH12OpB6AwOQsSw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0798093,
+    "lng": 8.2332287
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 AM to 5 PM"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 45031007",
+  "placeId": "ChIJscDlq3W-vUcR2x2oNNhis_E",
+  "placesTags": [],
+  "plusCode": "36HM+W7 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Mubarak Moschee",
+      "reviewsCount": 155,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Deutsch Somalischer e.v. - masjid abubakar",
+      "reviewsCount": 20,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "65183",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "107347324033879103734",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107347324033879103734?hl=en",
+      "name": "Fırat Çelik",
+      "reviewerNumberOfReviews": 141,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWw64aqjpUA2es4HCe-KJXwAkRuGKqDILn2QsoiF6yO0V8WGAMV=s1920-c-rp-mo-ba12-br100",
+      "text": "Camii biraz daha temiz tutulmalı.\nGün içinde birçok ziyaretçinin uğrak yeri olarak bilhassa ibadet yeri olarak camiye en azından irobot temizlik makinası alınabilir. Bunun dışında 5 vakit namaz için şehir merkezinde güzel bir alternatif.",
+      "textTranslated": "The mosque should be kept a little cleaner. Given that it's a place frequented by many visitors throughout the day, especially as a place of worship, at least an iRobot cleaning machine could be acquired for the mosque. Apart from that, it's a nice alternative in the city center for five daily prayers.",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-07T13:40:39.380Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2paMGRFOUhWRmRaVlhacFRrRkpXWEJSZWs4MVFYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paMGRFOUhWRmRaVlhacFRrRkpXWEJSZWs4MVFYYxAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOjZ0dE9HVFdZVXZpTkFJWXBRek81QXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": "2026-09-07T16:21:17.000Z",
+      "responseFromOwnerText": "Vielen Dank für Ihr Feedback. Wir nehmen den Hinweis zur Sauberkeit ernst und werden prüfen, wie wir die Reinigung weiter verbessern können – auch durch technische Unterstützung, sofern sinnvoll.\nEs freut uns, dass Sie die Moschee als zentrale Möglichkeit für die täglichen Gebete schätzen.",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "113265848267818880232",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113265848267818880232?hl=en",
+      "name": "Nour",
+      "reviewerNumberOfReviews": 114,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL0BGR_Ae5rJ30Y5XHnhGFuYPJRFSOgBVHsaRw-vYXfjYeb=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-26T08:06:09.805Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xoYVkxUkxTVTVqT1Vkd1JWSmllVTF2YjB0dmRtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoYVkxUkxTVTVqT1Vkd1JWSmllVTF2YjB0dmRtYxAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOlhaY1RLSU5jOUdwRVJieU1vb0tvdmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106504866504199446605",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106504866504199446605?hl=en",
+      "name": "Ashraf Salem",
+      "reviewerNumberOfReviews": 36,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUc_3MHoecbsHEJllG-87gGSUGil3dc92So9Ve7vBpeupWvC2l3=s1920-c-rp-mo-ba12-br100",
+      "text": "Ruhig",
+      "textTranslated": "Quiet",
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-04-26T17:30:49.884Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21KeFZtcERORXhOTldWMVpHcFlWMGxOTUhCcVpIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KeFZtcERORXhOTldWMVpHcFlWMGxOTUhCcVpIYxAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOmJxVmpDNExNNWV1ZGpYV0lNMHBqZHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "108466638150537661026",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108466638150537661026?hl=en",
+      "name": "mes bahi",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXRNc71KCsxU17sir9vrv4UAbcUv-suS-z1h6WydOdhXooDNAzXsg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "9 months ago",
+      "publishedAtDate": "2026-01-16T05:18:12.116Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKelJqVTFWM2RzWlVaMWFEUTVkbVZuWlZOVGRWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKelJqVTFWM2RzWlVaMWFEUTVkbVZuWlZOVGRWRRAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOlJzRjU1V3dsZUZ1aDQ5dmVnZVNTdVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116179564648607657807",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116179564648607657807?hl=en",
+      "name": "Hussen Hassan",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUbytu-bqvLr2EC1hyRFQOKDk3cJEKctLK2D-7PxgkcqSBWRRg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "11 months ago",
+      "publishedAtDate": "2025-10-27T18:45:46.052Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT201NGRWQXRhak5VYUhKUGVVaEpSMFZLVVdGUFZXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201NGRWQXRhak5VYUhKUGVVaEpSMFZLVVdGUFZXYxAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOm54dVAtajNUaHJPeUhJR0VKUWFPVWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110693358443534407652",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110693358443534407652?hl=en",
+      "name": "Lumzan",
+      "reviewerNumberOfReviews": 174,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKGccFlgramdc7EXutXgOonG0PaefYSPXNeTdwLKvDiXa3SqA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-08-24T13:13:03.221Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWSmQwWjJRVWxrZGxsdFIwSmlaVWsyT0UxRVluYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWSmQwWjJRVWxrZGxsdFIwSmlaVWsyT0UxRVluYxAB!2m1!1s0x0:0xf1b362d834a81ddb!3m1!1s2@1:CAIQACodChtycF9oOkVJd0Z2QUlkdlltR0JiZUk2OE1EYnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 31,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 25
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Hellmundstraße 11",
+  "subTitle": null,
+  "title": "Deutsch Somalischer e.V. - Masjid Abubakar",
+  "url": "https://www.google.com/maps/search/?api=1&query=Deutsch%20Somalischer%20e.V.%20-%20Masjid%20Abubakar&query_place_id=ChIJscDlq3W-vUcR2x2oNNhis_E",
+  "website": "https://www.masjid-abubakar.de/",
+  "address": "Hellmundstraße 11, 65183 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcpj4zyYw-ea876LFir7LXvdhyX9ZOWHUAT1u3yJoQeGg7AcTL_pbJASWkPjBwDbuynar4tKeHTxYzljKdlrCngk3i0U1BquKNUw8AQAP2sy3PfRY199pd7OdsD5XIFBCBUGtjFeml1T7Nv=w411-h548-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TnnVKk0sUhmUREt47ISBbwsARpHrnDyFR2_e8YAo9pRCa-ENo-Z3r2RSG8Kr4Wj__UwkiqAelQRsBsdkLfxrilSRYgFhkmvOsfURRv-4z3NvLBuGXoxnA0Et7Mbss8uY8awe6C=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SyCswht1XwWJrd2N2lm4HdMu0_EHpNljQm0o8LfYGOKBj6aXSvhu2pE_056Xi0BaMHkU_XjE96YVUOQe5ypSrsPAGmb_ZIEHDn07G55iDAnCBRGuWSTBC-_S1SUJJn50nq2bdoLAIiPusI=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TfdMSRIzbMLN_s266DcCqeI9NI2qeibA3NvyyKVVhPBbpBCVAefluadIIqb61P0KYJJUKhPAWyn6R9csTQ6ZYKX691KWDMayEmcYKbxOnRZcYOs1Sz8keEshFWbw01_1MQjv0_v0cITyo=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T8NjrOp8FFq_dp2__KiHfZ97NfZkiJ3T8XzTAuG2g1fAfNMwYAD3lemSyfW-_Y0yCXY4xrsA7H5XrJRWJ2f-RLUvmJqX3zzJrN79kJ0yZP-wSDCbOoe85ZrTr_MqVhFIA9ryxn=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQ2th053b3SJCBpxSD4mAC88U9KEqIWu4YJsfwbLOZOtFzu60nnvxnirlc5zhW7Iy6UePG_d03KCAXXrgCa0iZKjaIine490NA2nFcE1OCuwvHpTaAGWcSpjABfkGJ9bktSMiA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfflKr6RkpIgFeWVtr-KnrsoDWDiFtsb3Rfv9yBNa1fG4oYZptT2QZl2QUFMBisOJLYyiXtxV58vsbXybuTID4LjFfr0OIreXUF502UFac9RDWkAkfGsYNPe37HXhk4pU5usA=w1920-h1080-k-no"
+  ],
+  "imagesCount": 9,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0779079,
+    "lng": 8.2352517
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": "Arabische Moschee",
+  "ownerUpdates": [],
+  "phone": "+49 611 88025577",
+  "placeId": "ChIJ2Y_SWHW-vUcRvKN0ysXoQOY",
+  "placesTags": [],
+  "plusCode": "36HP+54 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "65185",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 95,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 86
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Rheinstraße 75",
+  "subTitle": null,
+  "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamische%20Gemeinde%20Wiesbaden%20-%20%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85&query_place_id=ChIJ2Y_SWHW-vUcRvKN0ysXoQOY",
+  "website": "https://igw-hessen.de/",
+  "address": "Rheinstraße 75, 65185 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLduL2pLK8XdNPxxBihc2aynMz6PAtyEOfrerTopQlHXSdEHKkVzSaaKdwrimyij-Q2SvqZ5jwNp5Laz2_ksw81g8TJ28FHovxE3txv_qeq2k40mjvmbc5sKD9g6Mj9mve6kiNPqQZwfuoZ9=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0575945,
+    "lng": 8.2239018
+  },
+  "menu": null,
+  "neighborhood": "Biebrich",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 611 39738",
+  "placeId": "ChIJq0M65gG-vUcRiy2wjVHQHYE",
+  "placesTags": [],
+  "plusCode": "365F+2H Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65187",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 60,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 55
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Kärntner Str. 3",
+  "subTitle": null,
+  "title": "IGMG Wiesbaden e. V. Mescidi Aksa Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=IGMG%20Wiesbaden%20e.%20V.%20Mescidi%20Aksa%20Moschee&query_place_id=ChIJq0M65gG-vUcRiy2wjVHQHYE",
+  "website": "https://ajanda.igmg.org/place/mescid-i-aksa-camii-13/",
+  "address": "Kärntner Str. 3, 65187 Biebrich, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLeI5Y6wyQ2K3JPR7sub7lyDhNU52Q1ZCjhc8F63at3qx_NvueYJfSwSGyjhQd8J9LsqehotH5Sf4xdkzyuodM1cO3Bk7I1WG3t2h05ij0kLrZYNuyNGDAxZ1nqy1_qhB_H0jtI=w411-h184-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sgs7f-gn7eAvSvjo_O32Fb1aFZZNdIXaHKfu5xR-l_RiO_MmGelVQ1yvtXAffYf89z2GckOQG4_Gg6ArvaDBGtM1lBiceo_7NRHKaTOoBp68PXtYOTFmkg_jvGTlf2UE3Nu1WpAsJJ8cI=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SluxUF3xaDqFJBNxBXCbs5zX6feL5h9ZWD_-GRzfMT3c6w9VqAqwuiL4TZ7ptC22P9pH7dyH7pGXrjvre8VI-zrYMbgwucH8mufdCfYu_IEltyzhWXXI-aQnf74d7lm8Yk73LMWA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RL-ndCLbmDm6l5m9xnPOjVxjTTnfoCaJdQw-uKNaoEg7ySEiDeEAhob7faEbp5gTP7JoNxrUasLwC-6HgauZnYhQPZAVdadaV3cKmd9jlejoSmeeFXUJMoPFnceG5A4VarMvc=w1920-h1080-k-no"
+  ],
+  "imagesCount": 3,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0823809,
+    "lng": 8.2343753
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 31184 3829",
+  "placeId": "ChIJv955JAq_vUcRpPic5HU-Ts8",
+  "placesTags": [],
+  "plusCode": "36JM+XQ Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Darul-Taqwa Moschee",
+      "reviewsCount": 38,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65183",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "112883376814786308679",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112883376814786308679?hl=en",
+      "name": "Semih Kaan",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKEdIAae6gmDooUPr9aefm3EWirVJ4TsqKKz5yZ8UhmGXOqNw=s1920-c-rp-mo-br100",
+      "text": "Ich finde es super zum Betten.",
+      "textTranslated": "I think it's great for beds.",
+      "publishAt": "19 hours ago",
+      "publishedAtDate": "2026-10-24T15:16:39.887Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwR2VHMTZhWEpLWVU5WkxVcFNUMWR2TkZSSlZsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwR2VHMTZhWEpLWVU5WkxVcFNUMWR2TkZSSlZsRRAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOlpGeG16aXJKYU9ZLUpST1dvNFRJVlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "114723148205861670284",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114723148205861670284?hl=en",
+      "name": "Murat Mert",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK-ty7i1Y4YEsl3lJ0WaBvtkSwHFdBHBDt9Gr0iC0qxBcsTLA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-13T15:20:41.949Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWellXWmZZa1F5VTJsRE1FVnZUMUZCV0UxbWJFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWellXWmZZa1F5VTJsRE1FVnZUMUZCV0UxbWJFRRAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOlVzYWZfYkQyU2lDMEVvT1FBWE1mbEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104150141809093921931",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104150141809093921931?hl=en",
+      "name": "Hagen Kornau",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJb69NOKK_8-n31zosqO__mM2mt1RmWuOjfHPFQ025Xin8UHw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-08T13:27:58.753Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT210TWF5MVRjbGxDYWxkcFVtZEphM0ppZUdoWldHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210TWF5MVRjbGxDYWxkcFVtZEphM0ppZUdoWldHYxAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOmtMay1TcllCaldpUmdJa3JieGhZWGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113265848267818880232",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113265848267818880232?hl=en",
+      "name": "Nour",
+      "reviewerNumberOfReviews": 114,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL0BGR_Ae5rJ30Y5XHnhGFuYPJRFSOgBVHsaRw-vYXfjYeb=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-26T08:06:29.199Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tzMWJtVklaVVJ6WWpKa2JreFFhMGhNTkVocldsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzMWJtVklaVVJ6WWpKa2JreFFhMGhNTkVocldsRRAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOks1bmVIZURzYjJkbkxQa0hMNEhrWlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfkDLIaO7gAmK4-D6noJZDI3CwfyAptDphLo6u1pnSGXQnrMgHtooZryqPN7XNQE5O6Y12e_eGSWFhesF91C2qCm5mXAMhNMwxxISSZWDCB5UDG1VtpLjH8qyPyw9yhyRf27OCqinjyVD4=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114030510972944774176",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114030510972944774176?hl=en",
+      "name": "Fadzil Zahari",
+      "reviewerNumberOfReviews": 85,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU5cuoE45nIxFvFdU0uzAHlhNVU1pIRMvtTvZYqNAJR34kvOgkf=s1920-c-rp-mo-ba12-br100",
+      "text": "so...mane2 orang asian yg travel ke wiesbaden aku suggestkan masjid nih... majoriti org turkey... berdekatan kdai2 org timur tengah senang cri mkan halal area nih Alhamdulillah..masjid yg bersih aman damai kueh makmor sentose ...",
+      "textTranslated": "so...for all the asian people who travel to wiesbaden, i recommend this mosque...mostly turkish people...nearby, middle eastern people are happy to eat halal in this area. Alhamdulillah..a clean mosque, peaceful, kueh makmor sentose...",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-12T14:21:19.942Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xoM1ZqTlVZa0Z4VGxGelNISmFUbWx6YTNGSGVYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoM1ZqTlVZa0Z4VGxGelNISmFUbWx6YTNGSGVYYxAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOlh3VjNUYkFxTlFzSHJaTmlza3FHeXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ms",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "107347324033879103734",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107347324033879103734?hl=en",
+      "name": "Fırat Çelik",
+      "reviewerNumberOfReviews": 141,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWw64aqjpUA2es4HCe-KJXwAkRuGKqDILn2QsoiF6yO0V8WGAMV=s1920-c-rp-mo-ba12-br100",
+      "text": "Son haliyle çok daha güzel oldu. Dışarıya yeni halı serildi ve camekan ile kapatıldı. Böylelikle yeni alan açıldı ve ayakkabılık vs birçok şey yenilenmiş oldu. Camii şehrin tam merkezi konumunda ve abdest tuvalet yeri temiz. Tabii camiye gelenler bu temizlik hususunda hassas olmalı. Bunun dışında dışarıda serili olan halının çok daha temiz tutulmasına özen gösterilmeli. Çarşıdaki işleriniz sırasında namaz için gayet güzel bir ortam.. Ayrıca bayanlar içinde hemen girişte solda tarafta bir yer ayrılmış, ailece gelinebilir.",
+      "textTranslated": "It looks much nicer in its final form. A new carpet was laid outside and it was enclosed with glass. This created new space and many things, such as the shoe rack, were renewed. The mosque is located right in the city center and the ablution and toilet areas are clean. Of course, those who come to the mosque should be sensitive about this cleanliness. In addition, care should be taken to keep the carpet laid outside much cleaner. It's a very nice environment for prayer while you're doing your shopping in the market. Also, there is a place reserved for women on the left side immediately at the entrance, so families can come.",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-02T13:14:38.199Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ1pWcExNVmN5VFROSVEzVlJZbGcwU1VFd1MxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwQ1pWcExNVmN5VFROSVEzVlJZbGcwU1VFd1MxRRAB!2m1!1s0x0:0xcf4e3e75e49cf8a4!3m1!1s2@1:CAIQACodChtycF9oOlpCZVpLMVcyTTNIQ3VRYlg0SUEwS1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfU0ABT7piZ6F1M38P-C0BTZQ__LlV0Nz_6KFhoPuw485AZhIF-CfzAFngRkEEQ1p5NyGhALpfG8zk4kbEQuYELOmd6wso2ALO66pgNai71ux85pmfd7DxThYLyt_WQqjtq_Fh00dL0ni2Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeYE0RuLZTSMgKtO7XxiW3ABZHH77Qc1sQhHKoGNGvynVbnJoQovlFTSaccjfeIDr50THxAq_gTsEQZeAuVnbb9b95CqwZT7R0tYdWDTydJjIV-zsFEYKGy_6C5cgrE783Hr_kbYw0qGUrg=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 27,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 26
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Helenenstraße 26",
+  "subTitle": null,
+  "title": "Vahdet-Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Vahdet-Moschee&query_place_id=ChIJv955JAq_vUcRpPic5HU-Ts8",
+  "address": "Helenenstraße 26, 65183 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdpJlmw2D7NR1AS3QyQTAzX15s3oJGSF9ZNPgcXh8NqU5zMckB3VwKaZo_TC9Ztp7jiK186quibfZge17ZomKe-Wo4HpmLBCcO_V6tQz0nF8LHeOH6RsON_AW7ZRztmyr8COSLH=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0797981,
+    "lng": 8.2333943
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 176 76477777",
+  "placeId": "ChIJQREh3XW-vUcRo7eJv-BM0eU",
+  "placesTags": [],
+  "plusCode": "36HM+W9 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islam Info Service Mainz",
+      "reviewsCount": 81,
+      "totalScore": 4.6
+    }
+  ],
+  "postalCode": "65183",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "117371368424449570623",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117371368424449570623?hl=en",
+      "name": "Naima Sissi",
+      "reviewerNumberOfReviews": 60,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUn5Gqmv3UIGh2Q07v0qJ5cZ8cQywSfAMCDj7Sw8T9GPjid68sONg=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-20T15:41:35.776Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21salEwRm1RVEF3TW5WS1JqQjJWM1ZuT0hCUFRtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21salEwRm1RVEF3TW5WS1JqQjJWM1ZuT0hCUFRtYxAB!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CAIQACodChtycF9oOmljQ0FmQTAwMnVKRjB2V3VnOHBPTmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107232044484592498280",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107232044484592498280?hl=en",
+      "name": "Emrah Ayik",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK7hp5waNvWnneYQKQD0eesfCSudKHGCpci1xz15IL5oBdaFQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-15T19:32:53.750Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25ONWFFVkNiMlZYTjFVeGFHbFRSa05vY1VWR1pYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ONWFFVkNiMlZYTjFVeGFHbFRSa05vY1VWR1pYYxAB!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CAIQACodChtycF9oOnN5aEVCb2VXN1UxaGlTRkNocUVGZXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106568782147157712006",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106568782147157712006?hl=en",
+      "name": "Amin Alkesibi",
+      "reviewerNumberOfReviews": 18,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX5jsWRjoQcBIwqGfmUkKhJ7qMHYCU2A7pKnHwvVoljimLTygWt=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-09T10:56:32.686Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xMFZscFhjWFpYUzFobVZESTBPRFppTWpVMlNIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xMFZscFhjWFpYUzFobVZESTBPRFppTWpVMlNIYxAB!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CAIQACodChtycF9oOm10VlpXcXZXS1hmVDI0ODZiMjU2SHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106504866504199446605",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106504866504199446605?hl=en",
+      "name": "Ashraf Salem",
+      "reviewerNumberOfReviews": 36,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUc_3MHoecbsHEJllG-87gGSUGil3dc92So9Ve7vBpeupWvC2l3=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-03-29T11:36:20.319Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKVmRsTkxXVVZFZVU5M1MwaHpaR0pOT0U1S1dFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKVmRsTkxXVVZFZVU5M1MwaHpaR0pOT0U1S1dFRRAB!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CAIQACodChtycF9oOlJVdlNLWUVEeU93S0hzZGJNOE5KWEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100556917794188708833",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100556917794188708833?hl=en",
+      "name": "Malika Bouazzaoui",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUdvp1XwOfvKxlkVnJoa4jPDBQ7OPA-4M-TmZVsCDMQozP_MIz5-w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-03-28T22:54:12.448Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnTUR3dDhiakl3EAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3dDhiakl3EAE!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CIHM0ogKEICAgMDwt8bjIw%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116006178191582967821",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116006178191582967821?hl=en",
+      "name": "Wael Alhafar",
+      "reviewerNumberOfReviews": 52,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUBuKRwoA5omzwqJ5ip60XhJTGEx56k_UCn4BKS8cUwUBjmVk96=s1920-c-rp-mo-ba12-br100",
+      "text": "ماشاء الله تبارك الرحمن\nاللهم آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار\nاللهم آمين",
+      "textTranslated": "What God wills, may He bless it.\nO God, grant us good in this world and good in the Hereafter, and protect us from the torment of the Fire.\nAmen.",
+      "publishAt": "Edited 3 years ago",
+      "publishedAtDate": "2023-08-06T09:17:58.779Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURKaGVxQjJBRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKaGVxQjJBRRAB!2m1!1s0x0:0xe5d14ce0bf89b7a3!3m1!1s2@1:CIHM0ogKEICAgIDJheqB2AE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 34,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 34
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Bertramstraße 9",
+  "subTitle": null,
+  "title": "Islam Info Service Wiesbaden e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islam%20Info%20Service%20Wiesbaden%20e.V.&query_place_id=ChIJQREh3XW-vUcRo7eJv-BM0eU",
+  "website": "http://www.iis-wiesbaden.de/",
+  "address": "Bertramstraße 9, 65183 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdU6Wxyx9agzHEfpGofTMdz4lvDSXfsgwSXE0UFJpH0ByEL_blRB-Rccxeib6S_0_zYO5giuSPk0wgDhDnhMHudMH8LT_j2h3LqJWT20cLqiIXfx56NwZGkcpZxoiEKIwraYDdd=w411-h548-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLdU6Wxyx9agzHEfpGofTMdz4lvDSXfsgwSXE0UFJpH0ByEL_blRB-Rccxeib6S_0_zYO5giuSPk0wgDhDnhMHudMH8LT_j2h3LqJWT20cLqiIXfx56NwZGkcpZxoiEKIwraYDdd=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0814353,
+    "lng": 8.2347635
+  },
+  "menu": null,
+  "neighborhood": "Wiesbaden-Westend",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJCSjf3HW-vUcR0HjEWRGVzE0",
+  "placesTags": [],
+  "plusCode": "36JM+HW Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Vahdet-Moschee",
+      "reviewsCount": 27,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Süleymaniye-Moschee",
+      "reviewsCount": 39,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65183",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "101539079227131579556",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101539079227131579556?hl=en",
+      "name": "azaan malik",
+      "reviewerNumberOfReviews": 32,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKHP7WhUmXDy1f2ay525MCI5sDacKJHDmq6jheLM3m1FXN21UCD=s1920-c-rp-mo-ba12-br100",
+      "text": "Nice Maintain Mosque",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-03T19:48:48.256Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xONFpqaHNiRWhFWkROcVUzY3lXREZrT1cweFNHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xONFpqaHNiRWhFWkROcVUzY3lXREZrT1cweFNHYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOlN4ZjhsbEhEZDNqU3cyWDFkOW0xSGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108727940540462632025",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108727940540462632025?hl=en",
+      "name": "Muhammad Tahir",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIoucoCqG2HaSypvZH-Hv7DLzlX5W52fuQCMKKMwfH8DLOYMg=s1920-c-rp-mo-br100",
+      "text": "Friday prayer time ?",
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-28T09:47:56.430Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21zNE9WSmpTMHhNYTNwWGMwWjNaRTU2YzA5bVFuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zNE9WSmpTMHhNYTNwWGMwWjNaRTU2YzA5bVFuYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOms4OVJjS0xMa3pXc0Z3ZE56c09mQnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107232044484592498280",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107232044484592498280?hl=en",
+      "name": "Emrah Ayik",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK7hp5waNvWnneYQKQD0eesfCSudKHGCpci1xz15IL5oBdaFQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-15T19:33:07.623Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVRIUlZiWFpVTTFGSlkxWmxkVE5hYzFkb1RtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOMVRIUlZiWFpVTTFGSlkxWmxkVE5hYzFkb1RtYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOjN1THRVbXZUM1FJY1ZldTNac1doTmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117060263456275258917",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117060263456275258917?hl=en",
+      "name": "Faridullah Niazi",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXril4U3_BbRo6HxO9BklkNyo_dV5LgjMnJW359HP03cspvs-x8=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-17T12:03:08.334Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21wdFpHTTRRM1J1YURNMU1EZHdkVlJOU25OZlptYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wdFpHTTRRM1J1YURNMU1EZHdkVlJOU25OZlptYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOmptZGM4Q3RuaDM1MDdwdVRNSnNfZmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "102916542096165823320",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102916542096165823320?hl=en",
+      "name": "HasanExplores",
+      "reviewerNumberOfReviews": 280,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUHZl07w8kynIGiC8ojGdHIN8PmZaO_sRVHjY_B4fMe-eN9ZYc=s1920-c-rp-mo-ba12-br100",
+      "text": "Die Taqwa-Moschee im Zentrum von Frankfurt bietet tägliche Gebete, Freitagsgebet und religiöse Lehre. Sie ist wegen ihrer ruhigen, spirituellen Atmosphäre bei Gemeindemitgliedern sehr beliebt.\n********************************************\nيقع هذا المسجد في وسط فرانكفورت ويُعرف بجوه الهادئ وروحانيته، يوفر الصلوات اليومية، صلاة الجمعة ودروسًا دينية. يحظى بتقييمات إيجابية من زائريه من مختلف الأعمار والتوجهات",
+      "textTranslated": "The Taqwa Mosque in the center of Frankfurt offers daily prayers, Friday prayers, and religious lessons. It is very popular with the community for its peaceful and spiritual atmosphere.\n\n********************************************\nLocated in the heart of Frankfurt, this mosque is known for its tranquil and spiritual atmosphere. It offers daily prayers, Friday prayers, and religious lessons. It receives positive reviews from visitors of all ages and backgrounds.",
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-02-28T22:49:34.307Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25CUU9YTkpOM1ZuYkhsVU9GbEJUbDlmVFZWNFIyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CUU9YTkpOM1ZuYkhsVU9GbEJUbDlmVFZWNFIyYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOnBQOXNJN3VnbHlUOFlBTl9fTVV4R2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "112125214233666235059",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112125214233666235059?hl=en",
+      "name": "hussein E.",
+      "reviewerNumberOfReviews": 37,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL8Y1zRtyCkBeSTAWBw7I5w40TTNk4PhAj6B_BR_-1ctFoswQ=s1920-c-rp-mo-ba12-br100",
+      "text": "nix schön diese moschee",
+      "textTranslated": "This mosque is not beautiful at all.",
+      "publishAt": "10 months ago",
+      "publishedAtDate": "2025-12-08T08:45:59.958Z",
+      "likesCount": 2,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pVeVpYWnBWVnB3VEdWaVRteHpjRjl1Umt0bFNYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pVeVpYWnBWVnB3VEdWaVRteHpjRjl1Umt0bFNYYxAB!2m1!1s0x0:0x4dcc951159c478d0!3m1!1s2@1:CAIQACodChtycF9oOjUyZXZpVVpwTGViTmxzcF9uRktlSXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 38,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 32
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Helenenstraße 9",
+  "subTitle": null,
+  "title": "Darul-Taqwa Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Darul-Taqwa%20Moschee&query_place_id=ChIJCSjf3HW-vUcR0HjEWRGVzE0",
+  "address": "Helenenstraße 9, 65183 Westend, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Wiesbaden",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLc479T1BitOkZ-OVdPubbjJcRG8f_y76j4bQlZ4agJt4rEj46TL-yOZXQLEFUBepZZQhOjvsUvzw0nR8BwE-TFtn1OLiysBiBe4cIbqmKTGh-OVCzSBP2ba84c8k2_JuZKnfUU=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0772616,
+    "lng": 8.2361425
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 1516 4605559",
+  "placeId": "ChIJaZvb-t-9vUcR88n2ahxjABA",
+  "placesTags": [],
+  "plusCode": "36GP+WF Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 139,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Vahdet-Moschee",
+      "reviewsCount": 27,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Deutsch Somalischer e.V. - Masjid Abubakar",
+      "reviewsCount": 31,
+      "totalScore": 4.5
+    }
+  ],
+  "postalCode": "65185",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "109689808866986547796",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109689808866986547796?hl=en",
+      "name": "Servus",
+      "reviewerNumberOfReviews": 33,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWJTRLX6vZhMYtin5wIfFrkE2UUJbXkXoyl67KJtaGGLNogS4Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-22T15:33:27.800Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pKTVRrSXljVk5zVVZaWVdESlJPWGhtTW01MFIxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKTVRrSXljVk5zVVZaWVdESlJPWGhtTW01MFIxRRAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOjJMTkIycVNsUVZYWDJROXhmMm50R1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105559189944613303149",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105559189944613303149?hl=en",
+      "name": "Gulsen Patinko",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJun82BmBzDB1NqwcUOSAS8FjLrDDVXFVp2MKaLHkdIdAHoqg=s1920-c-rp-mo-ba12-br100",
+      "text": "Sehr sauber und schön, und super positive Atmosphäre.",
+      "textTranslated": "Very clean and beautiful, and a super positive atmosphere.",
+      "publishAt": "2 days ago",
+      "publishedAtDate": "2026-10-22T15:00:59.979Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25wS1ptazBVRU5oWlhnMlJXOW5ia3hVTnkxeE0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wS1ptazBVRU5oWlhnMlJXOW5ia3hVTnkxeE0yYxAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOnpKZmk0UENhZXg2RW9nbkxUNy1xM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "115140752397624839171",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115140752397624839171?hl=en",
+      "name": "B D",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK_Z_tlyfFgsFeaAuK-SInet1OVGN_ucOtfRbD2ANE8aNl5jQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 days ago",
+      "publishedAtDate": "2026-10-19T06:35:23.584Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pkRVZYWjFZMmR6VHpkeFUyOVlkM0U1T0VoaU1WRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkRVZYWjFZMmR6VHpkeFUyOVlkM0U1T0VoaU1WRRAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOjdEVXZ1Y2dzTzdxU29Yd3E5OEhiMVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "118177548580470030056",
+      "reviewerUrl": "https://www.google.com/maps/contrib/118177548580470030056?hl=en",
+      "name": "Ad 7zba",
+      "reviewerNumberOfReviews": 18,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW7H_CbFp2BwTm7IDHZVHMv8NyjCnVCuvb2b6zMZROOvDxGQ6Qa=s1920-c-rp-mo-ba12-br100",
+      "text": "Ruhig, Sauber, Angenehm\nEs gibt keine Frauen Bereich, nur kurze Schranke beim Männer Bereich\nAllgemein sind nett und freundlich, eine war für Thema Frauen Bereich zu frech",
+      "textTranslated": "Quiet, clean, pleasant.\n\nThere's no women's area, just a short barrier in the men's area.\nGenerally, they're nice and friendly; one person was too cheeky for the women's area.",
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-10T17:37:26.233Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xZMmQydEthR1JaWmw5T2JYTlBiVVF5VFhwTVQxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xZMmQydEthR1JaWmw5T2JYTlBiVVF5VFhwTVQxRRAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOlY2d2tKaGRZZl9ObXNPbUQyTXpMT1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "104739379677063755608",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104739379677063755608?hl=en",
+      "name": "Patrick",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWqFU77X3zvmXsDqlOfgajmGUvgBkGQDhXqtNCVZC1iNDeQnWXw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-18T12:16:27.921Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKd2FGWlJNRkpWVVZwNFJFUkZVVlptVVhvMVdrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKd2FGWlJNRkpWVVZwNFJFUkZVVlptVVhvMVdrRRAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOlJwaFZRMFJVUVp4RERFUVZmUXo1WkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117707026843831096779",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117707026843831096779?hl=en",
+      "name": "Moutaz Said",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVVyJtTDzFIs9XFcQztXWxpFBJ1naw3AV9uL8NBNOjSaxEpRYg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-19T20:42:07.052Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tJMmEwZ3pkbTQ1TFdsT1FURkxiblJ4ZGtGcFlrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJMmEwZ3pkbTQ1TFdsT1FURkxiblJ4ZGtGcFlrRRAB!2m1!1s0x0:0x1000631c6af6c9f3!3m1!1s2@1:CAIQACodChtycF9oOkI2a0gzdm45LWlOQTFLbnRxdkFpYkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 62,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 56
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Rheinstraße 64",
+  "subTitle": null,
+  "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamische%20Gemeinschaft%20der%20Bosniaken%20Wiesbaden%20e.V.&query_place_id=ChIJaZvb-t-9vUcR88n2ahxjABA",
+  "address": "Rheinstraße 64, 65185 Wiesbaden, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Club"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdIijGxCb8I3J4C5wVVw3lMIobO2wuZfoadtOomCZPIXbTiclAmYxvW_aUJszTqBJC0IXaausv30MdNXrY3ltPZ6pzKAZHyg20aKRVOeylRv9ynThRukL_5-gQ6QH6Cjh19uTNJiA=w411-h548-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLdIijGxCb8I3J4C5wVVw3lMIobO2wuZfoadtOomCZPIXbTiclAmYxvW_aUJszTqBJC0IXaausv30MdNXrY3ltPZ6pzKAZHyg20aKRVOeylRv9ynThRukL_5-gQ6QH6Cjh19uTNJiA=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0504358,
+    "lng": 8.2328912
+  },
+  "menu": null,
+  "neighborhood": "Biebrich",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJWYTrj76XvUcRj1EpuYOLVzE",
+  "placesTags": [],
+  "plusCode": "362M+55 Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Wiesbaden Central Mosque",
+      "reviewsCount": 211,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 95,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Moroccan Culture Center",
+      "reviewsCount": 110,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "IGMG Wiesbaden e. V. Mescidi Aksa Moschee",
+      "reviewsCount": 60,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    }
+  ],
+  "postalCode": "65203",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 21
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Erich-Ollenhauer-Straße 4",
+  "subTitle": null,
+  "title": "Afghanisch islamischer Kulturverein Wiesbaden",
+  "url": "https://www.google.com/maps/search/?api=1&query=Afghanisch%20islamischer%20Kulturverein%20Wiesbaden&query_place_id=ChIJWYTrj76XvUcRj1EpuYOLVzE",
+  "website": "https://afgkv.de/",
+  "address": "Erich-Ollenhauer-Straße 4, 65203 Biebrich, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PJPQgNGSwgFYwcyuUDl96g&cb_client=search.unparseable.grass&w=411&h=710&yaw=29.773937&pitch=0&thumbfov=100",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 50.0492535,
+    "lng": 8.1945839
+  },
+  "menu": null,
+  "neighborhood": "Schierstein",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJOYKxBgCVvUcR0ZVvoTpmab0",
+  "placesTags": [],
+  "plusCode": "25XV+PR Wiesbaden, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Marokkanischer Kulturverein e.V. Badr Moschee",
+      "reviewsCount": 77,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Ayasofya Cami, Medrese-i Nuriye",
+      "reviewsCount": 5,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Tauhid Moschee",
+      "reviewsCount": 36,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinschaft der Bosniaken Wiesbaden e.V.",
+      "reviewsCount": 62,
+      "totalScore": 4.9
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamische Gemeinde Wiesbaden - مسجد السلام",
+      "reviewsCount": 94,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "65201",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "103558499500564721824",
+      "reviewerUrl": "https://www.google.com/maps/contrib/103558499500564721824?hl=en",
+      "name": "AL AL",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLTdKw6FXlY0bKIIadXVnbkkjerqFr4DwIBK_3oUKp_mdCQ=s1920-c-rp-mo-br100",
+      "text": "Es ist sehr gut",
+      "textTranslated": "It is very good",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-16T16:58:17.023Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w4emEyWnVVRUkyYmpWTFRHZDZlWFJFWDFCdVZIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w4emEyWnVVRUkyYmpWTFRHZDZlWFJFWDFCdVZIYxAB!2m1!1s0x0:0xbd69663aa16f95d1!3m1!1s2@1:CAIQACodChtycF9oOl8za2ZuUEI2bjVLTGd6eXREX1BuVHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "116880685798279858311",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116880685798279858311?hl=en",
+      "name": "Hakki Yilmaz",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKbqAd5L8vFmfO4nh1oPDTNtYVLc18MnZAYchJGweXOvj2GVA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-03-26T07:28:38.612Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2poRFRHcFFkbkZIZDI5aFZGWjNUbmRLVlhwVFMyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poRFRHcFFkbkZIZDI5aFZGWjNUbmRLVlhwVFMyYxAB!2m1!1s0x0:0xbd69663aa16f95d1!3m1!1s2@1:CAIQACodChtycF9oOjhDTGpQdnFHd29hVFZ3TndKVXpTS2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 1
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Stielstraße 19",
+  "subTitle": null,
+  "title": "Moschee Schierstein",
+  "url": "https://www.google.com/maps/search/?api=1&query=Moschee%20Schierstein&query_place_id=ChIJOYKxBgCVvUcR0ZVvoTpmab0",
+  "address": "Stielstraße 19, 65201 Schierstein, Germany"
+}]

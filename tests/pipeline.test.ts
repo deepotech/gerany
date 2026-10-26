@@ -24,6 +24,24 @@ describe('1. Data Normalization', () => {
     expect(addr3.district).toBe('Innenstadt');
   });
 
+  it('safely normalizes address when street and postal fields contain literal "null" strings', () => {
+    const parsed = parseAddress('52070 Aachen, Germany', 'null', 'Aachen', true);
+    expect(parsed.postalCode).toBe('52070');
+    expect(parsed.street).toBe(null);
+    expect(parsed.district).toBe(null);
+    expect(parsed.city).toBe('Aachen');
+    expect(parsed.formattedAddress).toBe('52070 Aachen, Germany');
+    expect(parsed.formattedAddress).not.toContain('null');
+    expect(parsed.formattedAddress).not.toContain('(Germany)');
+  });
+
+  it('does not classify Germany or Deutschland as a district name', () => {
+    const parsedDe = parseAddress('52070 Aachen, Deutschland', null, 'Aachen', true);
+    expect(parsedDe.district).toBe(null);
+    const parsedEn = parseAddress('52070 Aachen, Germany', null, 'Aachen', true);
+    expect(parsedEn.district).toBe(null);
+  });
+
   it('extracts facilities from additionalInfo correctly', () => {
     const raw = {
       additionalInfo: {

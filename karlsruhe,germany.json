@@ -1,0 +1,2905 @@
+[{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "By owner"
+  ],
+  "imageUrl": null,
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0269794,
+    "lng": 8.4704326
+  },
+  "menu": null,
+  "neighborhood": "Grötzingen",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJRbw8TgAJl0cRSSR7TNpjZB4",
+  "placesTags": [],
+  "plusCode": "2FGC+Q5 Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Al-Kawthar e.V.",
+      "reviewsCount": 16,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosnian-German Community Karlsruhe",
+      "reviewsCount": 54,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Al Salam Mochee",
+      "reviewsCount": 11,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    }
+  ],
+  "postalCode": "76229",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Greschbachstraße 3A",
+  "subTitle": null,
+  "title": "Serhendi Karlsruhe",
+  "url": "https://www.google.com/maps/search/?api=1&query=Serhendi%20Karlsruhe&query_place_id=ChIJRbw8TgAJl0cRSSR7TNpjZB4",
+  "address": "Greschbachstraße 3A, 76229 Karlsruhe-Grötzingen, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "categories": [
+    "Non-profit organization",
+    "Mosque"
+  ],
+  "categoryName": "Non-profit organization",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdOIhyfWCEodB_WNMNWB1lZ_r9XTnUmZ2CbgYc8k7vG2zHUZowU9gB6hjeizXNUq0WD-V7dcknEhwjVeAVSkgxwQ6Hp2tjZmzLxiILAvfGsSOFAKWYdaJoKi-3M9PkPUrwcdbyH=w411-h199-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.01093,
+    "lng": 8.36919
+  },
+  "menu": null,
+  "neighborhood": "Weststadt",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "1:10 to 2:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "ownerDescription": "Islamisches Zentrum mit wöchentlichem Unterricht, Dialogveranstaltungen und Freitagsgebet.",
+  "ownerUpdates": [],
+  "phone": "+49 721 22307",
+  "placeId": "ChIJ9Z7bsVEGl0cRa-9nBVbDaSE",
+  "placesTags": [],
+  "plusCode": "2969+9M Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosnian-German Community Karlsruhe",
+      "reviewsCount": 54,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "76185",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "101802133875072301440",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101802133875072301440?hl=en",
+      "name": "Бадруддин Исраилов",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLkZ6tiDcKUA39cgQSJIMeUkK-_eqeSEzt24I5265ZQXkAcug=s1920-c-rp-mo-br100",
+      "text": "Ассаламу 1алейкум ва РахьматулЛахьи ва Баракатухьу.Скажите пожалуйста,на электрическом инвалидном кресле можно туда заехать?",
+      "textTranslated": "Assalamu 1alaikum wa Rahmatullah wa Barakatuhu. Please tell me, is it possible to go there in an electric wheelchair?",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-30T08:30:01.270Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21GV01VVnJWazVtV2psVmJHbHpaa1JuUkVsQmJXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GV01VVnJWazVtV2psVmJHbHpaa1JuUkVsQmJXYxAB!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CAIQACodChtycF9oOmFWMUVrVk5mWjlVbGlzZkRnRElBbWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": "2026-10-21T16:26:01.000Z",
+      "responseFromOwnerText": "Алейкум салам. К сожалению, у нас нет лифта. Если нужно, мы можем помочь вам подняться по лестнице.\n\nAlaikum selam, nein leider haben wir keinen Aufzug. Bei Bedarf können wir beim Treppensteigen helfen.",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ru",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "105156289711714211352",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105156289711714211352?hl=en",
+      "name": "Shamim Ahmed",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKXrQWfPOInCjapAEuAGlg1brCg1lDttavfopVqIcbPypoFxQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-08-09T21:29:40.720Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25sU1pHZENYek0zY2pkaFVtRTRYMmh1YTNaMU0xRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sU1pHZENYek0zY2pkaFVtRTRYMmh1YTNaMU0xRRAB!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CAIQACodChtycF9oOnlSZGdCXzM3cjdhUmE4X2hua3Z1M1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106938892836927969661",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106938892836927969661?hl=en",
+      "name": "Selmir Ahmetovic",
+      "reviewerNumberOfReviews": 105,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIAAjE9uuf4fKUOVGhTsIh-tRVUVcN6GLkxn_aafS_kqfreEA=s1920-c-rp-mo-ba12-br100",
+      "text": "Masallah",
+      "textTranslated": "Thank you.",
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-03-04T16:16:03.169Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnTUNRM3JLczBnRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNRM3JLczBnRRAB!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CIHM0ogKEICAgMCQ3rKs0gE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-10-21T16:27:39.000Z",
+      "responseFromOwnerText": "Danke!",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "bn",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "101778639906807461659",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101778639906807461659?hl=en",
+      "name": "B.C.",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKsL9OH_-OroToFPfrYJGkNVBTUV88vQ9HV1ce2iHndatsy=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-07-17T19:53:42.461Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURyM3AyYUV3EAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyM3AyYUV3EAE!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CIHM0ogKEICAgIDr3p2aEw%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116377162573557469545",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116377162573557469545?hl=en",
+      "name": "A. E.",
+      "reviewerNumberOfReviews": 37,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXJL0ReFZEZdmAvH31Gkpd4BxcEa7n3w3y8XKqlAKpVuhz3ffJf=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-05-24T11:57:52.127Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURUMXJiYmNBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUMXJiYmNBEAE!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CIHM0ogKEICAgIDT1rbbcA%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112319738799229465738",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112319738799229465738?hl=en",
+      "name": "Jasmin Jat",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIiqt67DOKH1Jqw_SR4m0NTRGRmKIe9ZDEpNMYPJHWEutQg5g=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2023-12-06T18:00:33.783Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNWMm9EazBRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNWMm9EazBRRRAB!2m1!1s0x0:0x2169c3560567ef6b!3m1!1s2@1:CIHM0ogKEICAgICV2oDk0QE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 45,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 41
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Kaiserallee 111A",
+  "subTitle": null,
+  "title": "Deutschsprachiger Muslimkreis Karlsruhe e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Deutschsprachiger%20Muslimkreis%20Karlsruhe%20e.V.&query_place_id=ChIJ9Z7bsVEGl0cRa-9nBVbDaSE",
+  "website": "http://www.dmk-karlsruhe.de/",
+  "address": "Kaiserallee 111A, 76185 Karlsruhe-Weststadt, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLea9TH6BkCT-OOHmU39PFCLpaspSCi6NFHpPrgisZU3lKNSZ2ztu34Nolfmz9O86dFC5eZqUowNPzv2uEhDWCNdkjfdS42cgSJGM3LEZOCqxYctbP0Y47IjN2zV_z1TNEs-SxDstu-Rx08m=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.03575,
+    "lng": 8.43671
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJf4K3AgAHl0cRCbe1jQxWs2I",
+  "placesTags": [],
+  "plusCode": "2CPP+8M Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosnian-German Community Karlsruhe",
+      "reviewsCount": 54,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "76139",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "102456148081646124967",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102456148081646124967?hl=en",
+      "name": "Abdul khaliq Zadran",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKmcHBtvtdT77VSqUc0joVLXECR6w8caFH0Ce-Q-9eSD2OkVg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-10-02T05:54:24.056Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pKSFJGOUlSVFZDWkZwaFYybERWMWd6Tm1oT04wRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKSFJGOUlSVFZDWkZwaFYybERWMWd6Tm1oT04wRRAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOjJHRF9IRTVCZFphV2lDV1gzNmhON0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101201457311657486568",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101201457311657486568?hl=en",
+      "name": "Ev gin",
+      "reviewerNumberOfReviews": 53,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYERCgTm-p-vfx3sY3IINKArsZH2QR-BcD6F4RMnEm0YPfOQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-21T16:04:21.557Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2poT2NtbzRaVTF3VURCdGVFWjJjMHRVTFhGRFVVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poT2NtbzRaVTF3VURCdGVFWjJjMHRVTFhGRFVVRRAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOjhOcmo4ZU1wUDBteEZ2c0tULXFDUUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "115546074623049017114",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115546074623049017114?hl=en",
+      "name": "Edward Grass",
+      "reviewerNumberOfReviews": 167,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUcrY825Usrf0ckA48mpd6ji7btmoyMdNzUjCe4eAhAVEhXho016Q=s1920-c-rp-mo-ba12-br100",
+      "text": "Ein schöner kleiner Flughafen von Ryanair. Sehr überschaubar. Ich fliege gerne von hier nach Valencia oder Alicante. Die zollabfertigung geht in der Regel recht zügig vonstatten. Parkplätze sind ausreichend vorhanden.",
+      "textTranslated": "A nice little Ryanair airport. Very manageable. I like flying from here to Valencia or Alicante. Customs clearance is usually quite quick. There's plenty of parking.",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-07-01T12:57:30.048Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21veVdVRnlUV0pKUkVKSVRFSnVUV3RWUldoUlRXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21veVdVRnlUV0pKUkVKSVRFSnVUV3RWUldoUlRXYxAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOmoyWUFyTWJJREJITEJuTWtVRWhRTWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "100123882936505043920",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100123882936505043920?hl=en",
+      "name": "Ali Saeed",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIABrNYZ5QRZ0s5j471rmsZ7BFVNpSH1LwH9JIRZuhbMfSo4w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-27T20:51:02.427Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21KMmVuaDZha2xsT1RkSlRHSklURmxJUnpBdFYxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KMmVuaDZha2xsT1RkSlRHSklURmxJUnpBdFYxRRAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOmJ2enh6akllOTdJTGJITFlIRzAtV1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108696568311598973149",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108696568311598973149?hl=en",
+      "name": "Meeran Mydeen",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVIFQay7gxA7089ltAWAlbqfJnSJUZJ1H0VTq2Ip5lTd9dBH2U=s1920-c-rp-mo-br100",
+      "text": "As an international student, I truly feel this is one of the best mosques in the region. During Ramadan 2026, praying here brought me a deep sense of peace and calm. The imam was very kind and welcoming, especially during Ramadan prayers. Every day at iftar, they took great care of us, which made the experience even more special.",
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-09T19:55:48.180Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21FNVdWRm1hMVpHVFRKbE5rRkpUa2RsUkhwc1psRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21FNVdWRm1hMVpHVFRKbE5rRkpUa2RsUkhwc1psRRAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOmE5WVFma1ZGTTJlNkFJTkdlRHpsZlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101644966856601952334",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101644966856601952334?hl=en",
+      "name": "Mohamad Kamal Yazjy",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXSC5FYo4lx_zpuqhq_gIFP4E9U_MzQwERYprgjSRjMB7xLoas=s1920-c-rp-mo-br100",
+      "text": "مكان جميل للصلاة\nكل شيء مرتب ومنظم بشكل جيد\nجزاكم الله خيرا",
+      "textTranslated": "A beautiful place to pray.\nEverything is neat and well-organized. May God reward you.",
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-24T17:30:26.261Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w5VWVqazRRVTE0Vmw4eFduSXRSaTF2ZVVkMlNsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5VWVqazRRVTE0Vmw4eFduSXRSaTF2ZVVkMlNsRRAB!2m1!1s0x0:0x62b3560c8db5b709!3m1!1s2@1:CAIQACodChtycF9oOl9Uejk4QU14Vl8xWnItRi1veUd2SlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 11
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Schneidemühler Str. 23h",
+  "subTitle": null,
+  "title": "Al Salam Mochee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Al%20Salam%20Mochee&query_place_id=ChIJf4K3AgAHl0cRCbe1jQxWs2I",
+  "address": "Schneidemühler Str. 23h, 76139 Karlsruhe, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": null,
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0269794,
+    "lng": 8.4704326
+  },
+  "menu": null,
+  "neighborhood": "Grötzingen",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJlwU0_JcIl0cRopmv_d31ozE",
+  "placesTags": [],
+  "plusCode": "2FGC+Q5 Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Serhendi Karlsruhe",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Annur Mosque مسجد",
+      "reviewsCount": 396,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    }
+  ],
+  "postalCode": "76229",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 12
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Greschbachstraße 3A",
+  "subTitle": null,
+  "title": "Al-Kawthar e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Al-Kawthar%20e.V.&query_place_id=ChIJlwU0_JcIl0cRopmv_d31ozE",
+  "address": "Greschbachstraße 3A, 76229 Karlsruhe-Grötzingen, Germany"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLe8ld-Mo3OhY4QA_mpi_m7bEkylafH5Tj4rlTHuQPML2TSpvRB6wfelgaZw8luMt9k5nCpjrFdJdFMTWiXpd_gDJ6RQxblXZnVLvgUQ8o-22Ll0j9Ur030CIj8U4SbWNSpBADz6FrYHWt4=w411-h231-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QjP0tsmPU1RmudjLwUtqJREWZXeLuSe4W57SfMOMCpuYPf_KqxiH6YPM5RTL1DHYN5YKGhiyoxY9yG0s49WeOOBBkVKOg1yma2sMfJSNMvvlZoxWVVsCOyri7XToqNFcvM5ycDPP_J2MtX=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SNmH8hrKgb7hkBhyJyGJrTqi_7R9xkVnpgRhPImyDQw1GvyWVyHAa3wn7nBPVWqwPXFLiFoHKvRmXVmEvYa2HwlHD8Y1vUk7XtV7q9DlPZn0X8X1BK_SzGaLVdcT9BhrLf9NkbHZVY6is=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQxcsCinnmPUQBN6VvQc59daEAN_crUqN2H6Z5OOfQ9OfZXqTc7P9SLKCxnPknVUTtg_lK4cRzundxqW7jbrBgFknwcN85cp9Tp_08NlhiVbbYFZ_DBYfQ9A9usyxyBj3W7O-70e13T8o=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sn_n7SL2C9PJTLtJLElSA9kdFvtzcF2PjHP-8bOLLtG2Ikbv92-uolpxbrDk9TRO6RTWIfLEQReIQui58cxSo7w6AV82cUhHpthVTU6DvidGdV4DDEILXKBjhy-5fgljNVzCGzNMQT77p2=w1920-h1080-k-no"
+  ],
+  "imagesCount": 4,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 48.9955874,
+    "lng": 8.4451785
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJhS4-MwAJl0cRbiI18vEdEag",
+  "placesTags": [],
+  "plusCode": "XCWW+63 Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "DITIB Fatih Mosque Durlach Karlsruhe",
+      "reviewsCount": 51,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "76227",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "111989118237581086637",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111989118237581086637?hl=en",
+      "name": "Flammen L",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJcI4vZby1AkHqxzpQgmzsjSS-9WX44y26dKD83zimMAnup_A=s1920-c-rp-mo-ba12-br100",
+      "text": "أنا شيعية… ولي في عليٍّ وطن، وفي الحسين كرامة.",
+      "textTranslated": "I am a Shiite… and I have a homeland in Ali, and dignity in Hussein.",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-06T21:18:58.953Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Cc1RIZGlTbGQ1TVRObFZUVlBVVmR0WDFScVptYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Cc1RIZGlTbGQ1TVRObFZUVlBVVmR0WDFScVptYxAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOnBsTHdiSld5MTNlVTVPUVdtX1RqZmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcPDFaoyAxrPx_TFhhrQddDk00uO4y0Txd-YDxRQMxVbQOkXUkvKoP_b27IEh9uttWyvxcdz33N720JDIe2rmtN7twtm8LvHk5aiMhMVJrSV2ts1q1jEEbosaAn54If2wMuntFHtnMqSbM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdXHaJvMO4yCEsIAulVqKkJnEyGLR86x9hQIlrbvQRin96x2Q0YoMayMiqq2bXkiM2A1uoi_-QlOhlQAqQerLwWrHH7vJz5ZwQGL-ICK-PG1PeBsENQMqqSaC4sSzndwPSwzgl5dHWFu4hT=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQvy7REvsVK0ZuHGMzGxp8dpDFnWEtcTJ3CNCgUs0jTlx9wqnWfPff-M-y6i06QZRsHn6jeVZ_-EI5LWprK0O-kw3Bj-4i4PpALG92uqBfGI2hw-gQVph7OHnr85bcZpCow4GLA9CNXPY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeaLa7I7gR1lmF8GInwNmote-SyRvwqyZBGDNt5mobktbySfJyR7ybPKCikrMN2W31FbBUJOUj1njsU0RdgF9CygAYBrAUlEhUOGc0cQPDjs_9Tq02iezqlnCDzWSC2rDnqZi4xEy6Icx6Z=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLelhdm_e7gwd8ESm0LUIymHZTZUm_5SIoXqUJZXejAciYedkrqEBOdkLTYecqkLWXZJnc6Ue7VrncqZPldjpJ9DETYyC7Ai-e2rUAil8ErC4aBQM7Jw3-5pKDJQFotPHfCqgEqnBAhHOTcU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdYg3_8I9LOkFbVGaACzuJvmH_tZ7WrEfa1j5dMKzPD34v8ozDIAJF-2xgEOcDY4kdxflFRawclkXXmmFblBMW9u-KwNg-Pj3qW0b_8qnSHDEH_6LKEzay5DHg74e6PQtBgWBDhuDZsFY8I=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcv7Dx4a7s2hfbRc4zxle23q69EEs7ELqBr0UOChKtvEJKK5BtkSMfO7kjCBVlEJgCmoU3wqznTs0GVcuWK79AW2KoMUnzOi1N28rsPUfZDDE0lO0UKVcz28pezwqe6NO1kYHBgTzikkCJF=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "113213977949664388368",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113213977949664388368?hl=en",
+      "name": "Hasan AL-Tameemi",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXgcHFoX8IgQwJy3E0Up58Vhc0B97AcxvmxTK1dJFrMmQTlXFLJ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-09T09:57:02.144Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25kaldVWnRRWEF5WVhGWU9EZGlNa1JLYVVNeFluYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kaldVWnRRWEF5WVhGWU9EZGlNa1JLYVVNeFluYxAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOndjWUZtQXAyYXFYODdiMkRKaUMxYnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104700667781142565109",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104700667781142565109?hl=en",
+      "name": "Eng. Ahmed Ismail",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX9FaIt_6ngvSgquf17b2kqVf6w-UkBZ7vTaSmpzbRfSstW8-_Z=s1920-c-rp-mo-ba12-br100",
+      "text": "Für shiiaa",
+      "textTranslated": "For shiiaa",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-05T10:47:54.723Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25ob1EzaHhlVVZrY21SaVRWSkpiVk50YXprNGFuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ob1EzaHhlVVZrY21SaVRWSkpiVk50YXprNGFuYxAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOnhoQ3hxeUVkcmRiTVJJbVNtazk4anc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "107159072112286081626",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107159072112286081626?hl=en",
+      "name": "Mustafa",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKS4WEG2Ke0ZIEKctcsqaEDMdPDSovQt8eBJg3RS0mmgoRusg=s1920-c-rp-mo-br100",
+      "text": "Achtung alle Muslime, hier ist für Schiiten",
+      "textTranslated": "Attention all Muslims, this is for Shiites",
+      "publishAt": "9 months ago",
+      "publishedAtDate": "2026-01-19T14:26:20.986Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xBdFdYQTRZWGgyUm5oeFdUSnpkR3hXV1hBM1pGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBdFdYQTRZWGgyUm5oeFdUSnpkR3hXV1hBM1pGRRAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOlAtWXA4YXh2RnhxWTJzdGxWWXA3ZFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "115026920800485652609",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115026920800485652609?hl=en",
+      "name": "Ahmad Ali",
+      "reviewerNumberOfReviews": 36,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUHVfT6tZKYHfiszkr-zuryL0TUfGeZY1RNflfjGHyLxQmgxzbQcw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-10-13T09:54:57.546Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pSMVdscEdTM2RSTkY5UlVVZGhhVmg0WW1nMU4xRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSMVdscEdTM2RSTkY5UlVVZGhhVmg0WW1nMU4xRRAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOjR1WlpGS3dRNF9RUUdhaVh4Ymg1N1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117432365055165774739",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117432365055165774739?hl=en",
+      "name": "Saeed",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWBGAMYVbaio8Y-YgO_tSnkACahKsSb9PzyUaJazuptlIyRl6xU=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-07-22T21:30:11.130Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pGSWFGWjZObGRXZEhZMGRrcEpUVWxUVDBoYVptYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGSWFGWjZObGRXZEhZMGRrcEpUVWxUVDBoYVptYxAB!2m1!1s0x0:0xa8111df1f235226e!3m1!1s2@1:CAIQACodChtycF9oOjFIaFZ6NldWdHY0dkpJTUlTT0haZmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 6
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Dieselstraße 8",
+  "subTitle": null,
+  "title": "موكب شيعة علي",
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%88%D9%83%D8%A8%20%D8%B4%D9%8A%D8%B9%D8%A9%20%D8%B9%D9%84%D9%8A&query_place_id=ChIJhS4-MwAJl0cRbiI18vEdEag",
+  "website": "https://www.instagram.com/mawkibshiatali/profilecard/?igsh=emZkdGVsYWQ3bTYw",
+  "address": "Dieselstraße 8, 76227 Karlsruhe, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLfogq61ZcxHp1A8npNkuc-y4fhTsfftGW6hSKUkIpmLtUZJfCn-CKNSTYApga1kLSDDNpHY__zsl528l4lEXdzHMks7vi9n2K5pft-JLJMF7fOtGhGAaiIjMVT_5XuxbfzrYeem0Q=w411-h308-k-no",
+  "imageUrls": [],
+  "imagesCount": 0,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.02662,
+    "lng": 8.34161
+  },
+  "menu": null,
+  "neighborhood": "Knielingen",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 9 PM"
+    }
+  ],
+  "ownerDescription": "Die BDGK e.V. ist eine Moschee-Verein. Gemeinde wurde im Januar 1992 in der Stadt Karlsruhe, Baden-Württemberg, gegründet. Die Vision und die Nächstenliebe der fleißigen Familien dieser Gemeinde haben dazu beigetragen, die Grundlagen zu schaffen, auf denen wir die Gemeinde heute weiter aufbauen und verbessern. Mit der Großzügigkeit und dem Engagement der Gemeinde wurde an geeigneter Stelle eine adäquate Einrichtung angeschafft, in der sich die Gebetsräume, die Cafeteria und die Räume für Begegnungen befinden.",
+  "ownerUpdates": [],
+  "phone": "+49 721 9664524",
+  "placeId": "ChIJAdXXESsHl0cRUqipEv4Neb0",
+  "placesTags": [],
+  "plusCode": "28GR+JJ Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Deutschsprachiger Muslimkreis Karlsruhe e.V.",
+      "reviewsCount": 45,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "76187",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "112267266787753801654",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112267266787753801654?hl=en",
+      "name": "Atta Ullah",
+      "reviewerNumberOfReviews": 8,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKoYjvhQUiWFXT89NxiiQ1PfdshdLPKF0nkWji2byJioY0nZA=s1920-c-rp-mo-br100",
+      "text": "Excellent",
+      "textTranslated": null,
+      "publishAt": "a day ago",
+      "publishedAtDate": "2026-10-23T17:13:40.016Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pkSlNrSllkMFJ1VHkxMU1tbHVTM281ZFVKamJFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkSlNrSllkMFJ1VHkxMU1tbHVTM281ZFVKamJFRRAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOjdJSkJYd0RuTy11MmluS3o5dUJjbEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112853023349942750178",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112853023349942750178?hl=en",
+      "name": "Jasko vic Hafi",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVTdKZj5KVPyf7epLLEy_EyZCXob8hakC5ScTlhl-qXl5wJfqM=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-09T17:17:08.919Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w5TVdIVlZabkJhVEhocU9FZEhlR1paYjBSNVlYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5TVdIVlZabkJhVEhocU9FZEhlR1paYjBSNVlYYxAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOl9MWHVVZnBaTHhqOEdHeGZZb0R5YXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117018320631081445674",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117018320631081445674?hl=en",
+      "name": "Eki",
+      "reviewerNumberOfReviews": 284,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWrx3A4ZAtDpj_AYKElxAKkP5GFe3IGaeUZbTQ2e7SNLb0mt7Vp=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-01T20:53:32.621Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21GUE5VRnJPVzV0UTFablFuZG9XSE51TlRkTldsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GUE5VRnJPVzV0UTFablFuZG9XSE51TlRkTldsRRAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOmFPNUFrOW5tQ1ZnQndoWHNuNTdNWlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106408525018059529812",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106408525018059529812?hl=en",
+      "name": "Elvis Seferovic",
+      "reviewerNumberOfReviews": 74,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJQr7Q4m9uZkY-l9Q530fD1EUtCnBQ2f7odpObbpYpp0AV5MTr9=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-24T18:15:07.535Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21SWFNFSXllREJrVFhjMGF6QlZRV1UwTm1kaE9VRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SWFNFSXllREJrVFhjMGF6QlZRV1UwTm1kaE9VRRAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOmRXSEIyeDBkTXc0azBVQWU0NmdhOUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111184429444393059379",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111184429444393059379?hl=en",
+      "name": "Zamerullah Ahmadi",
+      "reviewerNumberOfReviews": 6,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKlmbi8jZP2nBhBztku_3gWo04iG4cX3Jw5ZdJ9E4d_JpXMLg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "11 months ago",
+      "publishedAtDate": "2025-11-09T13:29:34.337Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25scFRqZFpNbVpEVURsak5WTlVWWE5HV2xaSldYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25scFRqZFpNbVpEVURsak5WTlVWWE5HV2xaSldYYxAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOnlpTjdZMmZDUDljNVNUVXNGWlZJWXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105040474637204250043",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105040474637204250043?hl=en",
+      "name": "nerko20091",
+      "reviewerNumberOfReviews": 37,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLzSigo-fFWhzqhTpIqE7JsvIGv3lRnd5RTogHQOtD275yb0g=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "11 months ago",
+      "publishedAtDate": "2025-11-05T19:50:53.575Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25adVgzVXpjRXgxTlRKT01sVk9TbnBwT1ZocVlsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25adVgzVXpjRXgxTlRKT01sVk9TbnBwT1ZocVlsRRAB!2m1!1s0x0:0xbd790dfe12a9a852!3m1!1s2@1:CAIQACodChtycF9oOnZuX3UzcEx1NTJOMlVOSnppOVhqYlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 54,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 49
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Pfalzbahnstraße 4",
+  "subTitle": null,
+  "title": "Bosnian-German Community Karlsruhe",
+  "url": "https://www.google.com/maps/search/?api=1&query=Bosnian-German%20Community%20Karlsruhe&query_place_id=ChIJAdXXESsHl0cRUqipEv4Neb0",
+  "website": "https://www.dzemat-karlsruhe.de/",
+  "address": "Pfalzbahnstraße 4, 76187 Karlsruhe-Knielingen, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdUFvAn59rJAleIEmOTqWxggPCmAayMmvUiuUtRBtkch0yfoxySwAoLwqin1A25hoj27Wjz4bkNdLg9HPuRSqPrgeE-yK2smEeqKyrcyAB1UM77cqmGV-cqoD8VJtr4b6OF3Jw=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TzZ-HhTJvxexz0sDXd5RTQkXaISYgN4jSe-2BP7HDNnx41--nSB-4T61iv_IWW7Vzz0lTBnje5Cj4_e3ylwrObTM81FgC6irjPzXAYmh-TILw0axZ6dwHBX3lQ-ynbZgObiea6Gw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5nUZ-YQa2WZF1C7Mx-NvXm2LeZuqGnhyQhbYQiijt0x9iPAZzOlgy9vTf1gKNo6Z7HGnyg9vGfWaNOV4pEm6iXXs__EqQAhTLMZ223avIcsePAQ5-o27z8JZFgmiBV_62YR8=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMLrzcAH5hHlP4t4vDAdqv906g43m4H62iiGRzS7hEVpT3j0FlROd2ZGvxgywC1XTz1bo_SoGN_9Vu1rxl7_0pz-0ogVmcP_xxIMahStjVdEZKYIpxXLlyg4j2-GRj-dRKJNzT=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8SqBYZ4JbtUtxIqN4iIvXKnSFWZ-OCKOksUr3BU74J-3xm_VlZ1-0TbKz_G80uoO-0dlrGS_lyX_4BT4cNHflXiKvJ9VEgwUOdKx7FwsOduNfKTfdF08c21FXuiA5-VjpTVuJ=w1920-h1080-k-no"
+  ],
+  "imagesCount": 4,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0105375,
+    "lng": 8.346227
+  },
+  "menu": null,
+  "neighborhood": "Grünwinkel",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 721 678685",
+  "placeId": "ChIJv2AXnc8Gl0cRCIufWEFF_7o",
+  "placesTags": [],
+  "plusCode": "286W+6F Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    }
+  ],
+  "postalCode": "76185",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 396,
+  "reviewsDistribution": {
+    "oneStar": 12,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 17,
+    "fiveStar": 363
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Pfannkuchstraße 7",
+  "subTitle": null,
+  "title": "Annur Mosque مسجد",
+  "url": "https://www.google.com/maps/search/?api=1&query=Annur%20Mosque%20%D9%85%D8%B3%D8%AC%D8%AF&query_place_id=ChIJv2AXnc8Gl0cRCIufWEFF_7o",
+  "website": "http://www.annur.de/",
+  "address": "Pfannkuchstraße 7, 76185 Karlsruhe-Grünwinkel, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcKou_Hz1vjqpaC0mce-mT8o_GHf_4PTddbe_LMZMVZS08zzHAV21mr1_qL2obFD_9PVf23Vyzdbxy0oU1fprxJ-Q_AVnBsd4CtPY76nKyj7nKXwNuQzoU8eZ0TV9lHPqkXZ_SdgWWXdtY=w411-h548-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9STDs7HV7Z4IscKalQqMYM5XotVsZDA4o_dC7DMMdHnR2Q4qEH-M3EqfobMjVY35iFIX0KzyJghn2O0-tLbdOgxgzb6B-Y5MM3-AO7JgkV3kVmHmehbwNQ6ILt5vVf91vdTooc=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TiAfDEhrd_wiEbe_IW6ADvxA6qHUIiyhf0VidAS9ydqDPEwpMfYAhYyZ0Pj0idpb3N-SN6cJwMooI6j9jM8rLdtgyTmxdhHc7_odd_KZQccAUfHoYBs40glELDEF0myYO8kSaPd16_6BM=w1920-h1080-k-no"
+  ],
+  "imagesCount": 2,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0076749,
+    "lng": 8.4386452
+  },
+  "menu": null,
+  "neighborhood": "Oststadt",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJFZNBWGsJl0cREibrWwaMrgU",
+  "placesTags": [],
+  "plusCode": "2C5Q+3F Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Fatih Mosque Durlach Karlsruhe",
+      "reviewsCount": 51,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Annur Mosque مسجد",
+      "reviewsCount": 396,
+      "totalScore": 4.8
+    }
+  ],
+  "postalCode": "76131",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "110277799320575943916",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110277799320575943916?hl=en",
+      "name": "Michael Lehman",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL6P0E5bWAWc11_PBtzHpbeEpbJO2JVsqk9gAbARfo6dq3knw=s1920-c-rp-mo-br100",
+      "text": "The Mosque is wonderful. But there is no Prayer Time in Website.  It is ridiculous.",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-30T14:24:01.249Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tKUFlUbEtNbGhMTkU1VU5VWkZlV3BJUTBWR1VFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKUFlUbEtNbGhMTkU1VU5VWkZlV3BJUTBWR1VFRRAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOkJPYTlKMlhLNE5UNUZFeWpIQ0VGUEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108118096535039150547",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108118096535039150547?hl=en",
+      "name": "Yasir Rashid",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLb0DeZ2ujTp9Ol4Y1P_EWXGOLuBo0MsfTJ_Upyj7pdyI2tzQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-09T12:14:30.654Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2twWVMzTmFkREJPTjB3ellYZHZMVk5EVW01c2QzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twWVMzTmFkREJPTjB3ellYZHZMVk5EVW01c2QzYxAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOkpYS3NadDBON0wzYXdvLVNDUm5sd3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113680017563673561178",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113680017563673561178?hl=en",
+      "name": "Awais Khan",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJiU4r781rsYCvgZtfFjVs_OPxNGExHvqGkFbs3d1IcQcZFdQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-01T09:02:24.547Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21wd2RETnNNbmx5ZW5nMVVrOVlObFpzWDNWRGRVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wd2RETnNNbmx5ZW5nMVVrOVlObFpzWDNWRGRVRRAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOmpwdDNsMnlyeng1Uk9YNlZsX3VDdUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100991129210535941727",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100991129210535941727?hl=en",
+      "name": "resul altay",
+      "reviewerNumberOfReviews": 41,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVGlqZrYAyxVXkevdDGpTI4Yv1fYc2WXIXtRrIFjcSmxqmwzI7E=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-23T17:26:56.688Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tFM2NtTnFSWEpJTTE5dWVsRjJOWEJRTlVNelpuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tFM2NtTnFSWEpJTTE5dWVsRjJOWEJRTlVNelpuYxAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOkE3cmNqRXJIM19uelF2NXBQNUMzZnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "102957463082070430061",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102957463082070430061?hl=en",
+      "name": "Oussama Hamil",
+      "reviewerNumberOfReviews": 38,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLG0kCPA9vrzY7ao5yIt_aiK1o6Keew-VU_hl5pQ37uFVTIyw=s1920-c-rp-mo-ba12-br100",
+      "text": "Leider immer wieder geschlossen zum gebetszeiten.",
+      "textTranslated": "Unfortunately, it's frequently closed during prayer times.",
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-18T15:45:33.884Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s1ME15MHlhRkpZVWpsWE5URkVVbWhOZUdwWVZYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1ME15MHlhRkpZVWpsWE5URkVVbWhOZUdwWVZYYxAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOk50My0yaFJYUjlXNTFEUmhNeGpYVXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 2,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdN66calkpEP64pacX1Qwdr_ESx4C6lDLpVmIQcnNvpGqw4MbVueX6Oebf7UwqsI1c5TiIOZPe9mxpNOeEWtJAIsaVOVkhR_5Ea3HdfZIwKqCUPwF_FoTPNgDLEtse_GSPnHuDsF8UxmpFN=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "111463225009038179362",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111463225009038179362?hl=en",
+      "name": "Yunus Pür",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIfb73YHRBuBP-30OS8qAw0XaI7TP_h13oNXgZi6UOuvRH_5w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-15T09:28:31.907Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xsSlNsaGZlbTFrVTNkaU0weGFTMHBuWmxkaWRVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsSlNsaGZlbTFrVTNkaU0weGFTMHBuWmxkaWRVRRAB!2m1!1s0x0:0x5ae8c065beb2612!3m1!1s2@1:CAIQACodChtycF9oOllJSlhfem1kU3diM0xaS0pnZldidUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 19
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Käppelestraße 3",
+  "subTitle": null,
+  "title": "DITIB Zentral Moschee Karlsruhe",
+  "url": "https://www.google.com/maps/search/?api=1&query=DITIB%20Zentral%20Moschee%20Karlsruhe&query_place_id=ChIJFZNBWGsJl0cREibrWwaMrgU",
+  "website": "http://ditib-karlsruhe.de/",
+  "address": "Käppelestraße 3, 76131 Oststadt, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Club"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Dome",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLdLE3bvDA4SQpaOrr0UxU6dZcvENyoemNda-LRzdNtrUF_sdg6RnLDixUZ2bMHkvSg5wBfjbejiKMC8QaOUlGcXIBmNoa8EccdF3u32M4-t9B9D7MApF07TsuoC-t-6f6xLBA92DA=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SinevnwKgbN4HWeRXkZBY-TXwBEqNHpaGfASKiZaoXGSPgF8_S5UMFNVnl1Gf3gENwyaHLws4w2zn3Cyj0DkjGHUDSfVsbhXVz_hHAvdhGUvwr4r4Kl1pCQ-pw7RsJhFQJ74cd0g=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqVc_1z2aZloJEjawWEwgYOoqwVdJMxPEObj9fvUco7AK_zYZQlo1ko2Yt-eDGTa2ogqJ0w2BiinzchsGKmCDfk84niea2hMw3W_rAWvexxB6CKzuQrDByI8l3spJUGTgioZzZhw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QEjqQRs4TtWVGWgvLoeE-QyaprkfXNm0TXNFiqUsz3UGLCHW9Kk3GGl2ohcWpKMRmnIev7wDMAdIdZ38fPu-q0Gst5-1MB9K2DffEEDAs5Hr8mbUa_UAhU55kaLVNmEpFxYpsXfw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWPEycfjdFWyjQM8oJBb0rVRzubCyXwSxKD-ozX5I6-EXE6dPKp3hXq78yNDwk6nyjXxQWpDnNhT45cM63OUsxz5VvtCK5ghVx69Lwkgvg5udL3OBnAqXo0FV7UAwzgo0yUeUT=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QEi92pwRIyiQnSRpDhW9SzpScpX0J8F72Z9fKjtyMCFfQzssboqhSO5RabhrS3KX2qVoguF6GssXBbc27P1Sx3sg9wg-qQQDcTS5W1zaUIM1OXkMyvtnPd6X8Q4P8Dy9ktnjPfdw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGkvlZ2MEwD0-PY3tfAyEo69-Omf7TxSogS9EiK8nompl5LGuNdNBxx2Rivp17G5OtZSFLrNrYP2K3rN0QwZ3vk2jGOE7bKlDznB3ch6b7GuqcDtbT-TKX0iJkrB2w-rimx0z_=w1920-h1080-k-no"
+  ],
+  "imagesCount": 286,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0078834,
+    "lng": 8.3917121
+  },
+  "menu": null,
+  "neighborhood": "Innenstadt-West",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 AM to 10:30 PM"
+    }
+  ],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "",
+  "placeId": "ChIJNYJlI1oGl0cR3qrxZL1FT1s",
+  "placesTags": [],
+  "plusCode": "295R+5M Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Mosquée Al Sunna",
+      "reviewsCount": 208,
+      "totalScore": 4.7
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "Annur Mosque مسجد",
+      "reviewsCount": 396,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    }
+  ],
+  "postalCode": "76133",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "113235348695479708001",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113235348695479708001?hl=en",
+      "name": "Selahaddin Benli",
+      "reviewerNumberOfReviews": 23,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL7NrxmcfNxC8NmSQMoCRybdqfY34ZOxkTEuPEVFTlLFCvRag=s1920-c-rp-mo-ba12-br100",
+      "text": "Temiz\nFerah\nEmeği geçenlerden Allah razı olsun",
+      "textTranslated": "Clean\nFresh\nMay God bless those who contributed.",
+      "publishAt": "8 hours ago",
+      "publishedAtDate": "2026-10-25T02:11:18.073Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tsTlR6TjVkblUwYXpOelMwOXhkVVJTVW04MU9YYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsTlR6TjVkblUwYXpOelMwOXhkVVJTVW04MU9YYxAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOklNTzN5dnU0azNzS09xdURSUm81OXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "111247312223218614496",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111247312223218614496?hl=en",
+      "name": "Mohammad Amin Khalil",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIbDEfiXlHOWLtMRHg3kHPz_MdLbdiT7dlvrl6-4uAlyDqgTA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-12T13:54:41.277Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tndFRsWmFWemxSTWs4eVFua3dPVU5EVUhCRk1sRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tndFRsWmFWemxSTWs4eVFua3dPVU5EVUhCRk1sRRAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOkgtTlZaVzlRMk8yQnkwOUNDUHBFMlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110728150310993346534",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110728150310993346534?hl=en",
+      "name": "نور محمد ABU Bakaril",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL5uSGs0dnKde-KqoIDXyHGd-gF1RsMMlqHetypucPutB-18Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-11T20:42:10.476Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25aclZHZERSbWc0WTBSMVZWSmFXVVEwVG1kelIxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aclZHZERSbWc0WTBSMVZWSmFXVVEwVG1kelIxRRAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOnZrVGdDRmg4Y0R1VVJaWUQ0TmdzR1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105401141764182015617",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105401141764182015617?hl=en",
+      "name": "Hadia Chaghtai",
+      "reviewerNumberOfReviews": 29,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJq7KcZGnrdEuO0p2LzeO4FVSwbYyewppr6zvLDVo0ZhDmHRw=s1920-c-rp-mo-ba12-br100",
+      "text": "Mosque is under construction so there is no female prayer area at the moment.",
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-14T11:22:32.445Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT205V0xURldaRnBFTjNWeFkzTXhkR0o0UkVKNWJtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205V0xURldaRnBFTjNWeFkzTXhkR0o0UkVKNWJtYxAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOm9WLTFWZFpEN3VxY3MxdGJ4REJ5bmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 2,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110195983931788219946",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110195983931788219946?hl=en",
+      "name": "Anton Laushkin",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJaebyumJgQrjWBICPCaXLZUmia781zN4OJXIl28rrd1reGRanI=s1920-c-rp-mo-ba12-br100",
+      "text": "Super tasty and super friendly workers!!",
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-06-09T20:23:15.313Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT213eloyNUJYMk0wTWxKZk4yVm5iMTl2VkVSbVRFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213eloyNUJYMk0wTWxKZk4yVm5iMTl2VkVSbVRFRRAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOmwzZ25BX2M0MlJfN2Vnb19vVERmTEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109813607930864412836",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109813607930864412836?hl=en",
+      "name": "Eissa Alsaleh",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW9M0pJE7Oys5A-O_uoSqTZQf68UqtBgkE8hmwykMqIyAnXmfZT=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "7 months ago",
+      "publishedAtDate": "2026-03-18T12:30:43.527Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25saGRtOURkMEZzZEhCUmVVeElOVVpIYVVsVVJVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25saGRtOURkMEZzZEhCUmVVeElOVVpIYVVsVVJVRRAB!2m1!1s0x0:0x5b4f45bd64f1aade!3m1!1s2@1:CAIQACodChtycF9oOnlhdm9Dd0FsdHBReUxINUZHaUlURUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 190,
+  "reviewsDistribution": {
+    "oneStar": 12,
+    "twoStar": 7,
+    "threeStar": 3,
+    "fourStar": 26,
+    "fiveStar": 142
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Hirschstraße 25B",
+  "subTitle": null,
+  "title": "Islamic Union e.V.",
+  "url": "https://www.google.com/maps/search/?api=1&query=Islamic%20Union%20e.V.&query_place_id=ChIJNYJlI1oGl0cR3qrxZL1FT1s",
+  "website": "http://igmg.org/",
+  "address": "Hirschstraße 25B, 76133 Karlsruhe-Innenstadt-West, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Assistive hearing loop": false
+      },
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLc7Iyjp0o12ypYwLDOfcvcx-YnjQoC4fIDyUPGPTFq1Y431PzXAYGE5ZyVSaHAR23eINiT5BcO2ELjszcq6_7UB62h3dEVtQP_MbsNJza2SWmGKO33dGxRGuhC_Pl2l5OOxEC9o3tnGU7Q=w411-h548-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVfeWWdLIz2wbHOVE7uNsz5i2OILxKqFiKIONZ4S7sRkLAbk_kMhKjUC-nUsbx5DYE3w63zsbbHruZxr5t6h-EFoidWDsN4BvPkW354WkzVGUElSZLzYRsq2ROmnGrdzTCZjsC=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8FQ1nnAx449XOHmWtGdiAPnSaR-DOnmUdaQ-9DRlap4_bmuibykXG92f-X-YxNPz0pz8KGEIhV2wmz-AVwVnv8UC0uXRKu4WCCkzR5wdRn0sWTOOG7ShUXBDUaDuuPgBhDMcrI3XhllE=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnhDvdE1hVh4f1cF5tU_hm6USRS4ckVQ2YR7O8rriKVIZmSMOQPPC5GL2dYU-UuQK24cmlMYmoMWviZf69aYqyn-sswLnOz-Uh4sAzj1ffr4Ij_xwgdDYfOqsOYmz99c4RFRV9=w1920-h1080-k-no"
+  ],
+  "imagesCount": 3,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 48.9963177,
+    "lng": 8.4454702
+  },
+  "menu": null,
+  "neighborhood": null,
+  "openingHours": [],
+  "ownerDescription": "Unsere Moschee ist i.d.R. zu jeder Gebetszeit für Sie geöffnet. Falls die Moschee aus einem außerordentlichen Grund zu Gebetszeit geschlossen sein sollte, kann gerne mit dem Imam Kontakt aufgenommen werden. Die Kontaktdaten von den Verantwortlichen finden Sie an der Eingangstür.\n\nUnsere Moschee ist für jedermann zugänglich unter Beachtung der Hausordnung.\n\nWir freuen uns, Sie in unserer Moschee begrüßen zu dürfen.\n\nDer Vorstand.",
+  "ownerUpdates": [],
+  "phone": "+49 721 404409",
+  "placeId": "ChIJHS2V8JcIl0cRm_D3sdlgnGY",
+  "placesTags": [],
+  "plusCode": "XCWW+G5 Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "موكب شيعة علي",
+      "reviewsCount": 8,
+      "totalScore": 4
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    }
+  ],
+  "postalCode": "76227",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "117315606819188993249",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117315606819188993249?hl=en",
+      "name": "alumnila",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWN5UmKIQSVAkNDQSP2mGCc5OYZDu76WzX2FA_XhV6cA1317eiL=s1920-c-rp-mo-ba12-br100",
+      "text": "Eine sehr saubere Moschee. Frauenabteil ist unten (Eingang, dann links Treppe runter) und die Toiletten sind auch sehr sauber. Allah razi olsun",
+      "textTranslated": "A very clean mosque. The women's section is downstairs (entrance, then down the stairs to the left) and the toilets are also very clean. Allah knows best.",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-09T19:18:40.496Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xJMFIyVXhWbnA0V0VneWJpMDBkV1k0WkZkcFptYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xJMFIyVXhWbnA0V0VneWJpMDBkV1k0WkZkcFptYxAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOlI0R2UxVnp4WEgybi00dWY4ZFdpZmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdfpd_AeGRcS8TsuIYPpERyNIBszUT6VpTyDMi63pVLiw5XIcqxDEFrHCJGmxVyh4pdnIZg5kqHEnxJbNdGBOpwOfBvsjsjT58kd5x5iKt8nPo0R3vxi38Eul1Kdbd5w9DzhiWM7Ku2bVkm=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcZXc3D6T0sVofMuN_653EgbEhfdXEpcOhzBrWhboNakLw4ZJWwp0G7ECRrSmDa_8bINFhtsNMmPpr1e589eIWG-Ll9A9gUcIZpIp2AsltyySiOM6FFvUBbUKzdmWmMzU8Tq0vA_Khed3F7=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "100314119169140495074",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100314119169140495074?hl=en",
+      "name": "B E",
+      "reviewerNumberOfReviews": 22,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIcDqEJ-oMzTs7KX_Q0IXaPLtNVsB_AUxehO8zyGniGmjaYBA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-28T16:13:22.510Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2twTVltUlFTVTlGV1dwbFowWmpiamd0ZERscFZrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twTVltUlFTVTlGV1dwbFowWmpiamd0ZERscFZrRRAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOkpMYmRQSU9FWWplZ0ZjbjgtdDlpVkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114747979167274492457",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114747979167274492457?hl=en",
+      "name": "Ferry As",
+      "reviewerNumberOfReviews": 135,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLEldsPfdPkrpmPx4p5c7IIkhEzkZnuECSUJXirrucG7nESDA=s1920-c-rp-mo-ba12-br100",
+      "text": "Saubere Moschee, saubere Sanitäranlagen. Es gibt zwei Parkplätze im Hof (gekennzeichnet). Man kann aber auch an der Straße parken.",
+      "textTranslated": "Clean mosque, clean restrooms. There are two parking spaces in the courtyard (marked). You can also park on the street.",
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-21T18:15:49.910Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25SSWFFNUlWVmhJZGpCcmJIcDJaakJGTUZGa2NYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SSWFFNUlWVmhJZGpCcmJIcDJaakJGTUZGa2NYYxAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOnRIaE5IVVhIdjBrbHp2ZjBFMFFkcXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJdihzTAeMMQmr5cnYz7akRpBiGClyn1gE7AzgG8gmInxD3kd0IXUsZri3pXT-seFD60Xpvi24jg4qh57i4fCFKvWXUAoP_a6XBxNr542DNr786-LyS8Xnx-0inOk5oYs3icLvihtda_KY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc7Iyjp0o12ypYwLDOfcvcx-YnjQoC4fIDyUPGPTFq1Y431PzXAYGE5ZyVSaHAR23eINiT5BcO2ELjszcq6_7UB62h3dEVtQP_MbsNJza2SWmGKO33dGxRGuhC_Pl2l5OOxEC9o3tnGU7Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcuMDkKpAa4_ixMf2Dpl-sVetdHVJ6Be1RQJYK2Gaqn9PxG68RyffxQND7OmbPka9N2dB0LibOmOs5ONONKqSgWt_zDxhakt1Q-8vgK77oUFwyKFtSSI1Rg-iM0gw__moNBdTqpBlaHaA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdZkUO0Bw0P6efRdF21-rG5kP-7R0U03tYP8KkjTVV8hvmeTvAeG2c4-GMgqSgiivs6P-cgXWUL9gMQFR3bjYrgVCG2bRNtuRimG6pMg2npJ-Vj4gh6IKpq5Kk7CYpzzypFcJjyDiqa2-o8=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "102957463082070430061",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102957463082070430061?hl=en",
+      "name": "Oussama Hamil",
+      "reviewerNumberOfReviews": 38,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLG0kCPA9vrzY7ao5yIt_aiK1o6Keew-VU_hl5pQ37uFVTIyw=s1920-c-rp-mo-ba12-br100",
+      "text": "Leider ist die Moschee zum gebetszeit geschlossen gewese.  Ich habe extra 30 min lange gewartet aber keiner kam zum öffnen.\n\nLeider nur traurig.",
+      "textTranslated": "Unfortunately, the mosque was closed during prayer time. I waited for 30 minutes, but no one came to open it.\n\nSo sad.",
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-05-18T15:45:03.101Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2sxcGNERkZTSFZPVTFGa1gwcE9ZekJRWkVGdGRrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxcGNERkZTSFZPVTFGa1gwcE9ZekJRWkVGdGRrRRAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOk1pcDFFSHVOU1FkX0pOYzBQZEFtdkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 2,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Lf64e8IK1mK58Xp--D-rRKqI9UPaCJwhUcu3JlqISs3ynD1kWrOrplYYyItr6sZ_U1LdwFDBU1BJxxNdQxLNrEhH2t2hpX0bWWbGvxXygQogVN2Jh0827_FCdamBFLlHuE116fsl3wY=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "100320988588492595129",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100320988588492595129?hl=en",
+      "name": "İlknur Ak",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIcGdZQFr0Db1onNLdlMFMXzm2f5jdHv1DbhxUNxHTsphkpYQ=s1920-c-rp-mo-br100",
+      "text": "Cami nasıl kilitli olur yaaa. Ayrıca yolda olduğumuzu belirtip en azından abdest için yer gösterebilir misiniz diye sorduğumuzda ona bile yardımcı olunamaması hayal kırıklığı...",
+      "textTranslated": "How can a mosque be locked?! And when we explained we were on the road and asked if they could at least show us a place to perform ablution, they couldn't even help us with that, which was very disappointing...",
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-04T14:22:18.974Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21nNFExVkRaVWh1V201SVVYWklaRzV2Y1dwbFdVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21nNFExVkRaVWh1V201SVVYWklaRzV2Y1dwbFdVRRAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOmg4Q1VDZUhuWm5IUXZIZG5vcWplWUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "116098250463966150730",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116098250463966150730?hl=en",
+      "name": "Jan Mohammad Janarkhil",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW0dLiLzxnA0JsqbQpiTfz7qeAF5VtZW_T8zOZ34mdNQ8BaJAct=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-02-17T21:14:09.367Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tjNVZ6aGhOemt3WTNkMVIzbHJWa2N5ZWsxVGIxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tjNVZ6aGhOemt3WTNkMVIzbHJWa2N5ZWsxVGIxRRAB!2m1!1s0x0:0x669c60d9b1f7f09b!3m1!1s2@1:CAIQACodChtycF9oOkc5VzhhNzkwY3d1R3lrVkcyek1Tb1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 51,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 3,
+    "fiveStar": 38
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Dieselstraße 10",
+  "subTitle": null,
+  "title": "DITIB Fatih Mosque Durlach Karlsruhe",
+  "url": "https://www.google.com/maps/search/?api=1&query=DITIB%20Fatih%20Mosque%20Durlach%20Karlsruhe&query_place_id=ChIJHS2V8JcIl0cRm_D3sdlgnGY",
+  "website": "https://www.ditib.de/",
+  "address": "Dieselstraße 10, 76227 Karlsruhe, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLea6rfjy0C5Gzv3xu6rtrpufCft_VlQN-tNs8D2Myi92cKussTBjbd6QOhcsMOkfEX9WpMgQFUaI3WfcbEpnQAdAzc4dI3ofpY-ACKZPdLrFs47r7U6552sZOoBAzNt98HUJdtr=w411-h526-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQumwFCGewjA53FNJdo8P0ztdbAMtNWzP7Qh_bb7locRqJDrDPvuxom4crJgg_2TA21YVGCJnXvhcx3u41D3P5QFq3MwNlpFnbTmhXOdFYYnAzLjT00scodGmO4pBp5CC3sGpA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QfmVL3dzxnJbcQ7-epi0AQuvNymF5aH9VwfCPT9fePVTHfPh816ZjRla1TZ-IqZdptt3t1m-q-1SEpll-fmdadmdcLEDt4mLvt-ISwoM8W5admaUMuv_zXtvbzobn2ggFtT6Da=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rkw7sf6Qznbt2I0hkVr_ngNqsh_mXu61EC_D97IIcd7WVMcGE6b-KK_PRmT95Rz19iF4_JPGZa12GEg-uSAc4epsl56SkQ38tNtFS1eDqhX_Qi6okjKq0HnTIxxqRns6d4MpUt=w1920-h1080-k-no"
+  ],
+  "imagesCount": 3,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0093147,
+    "lng": 8.4061118
+  },
+  "menu": null,
+  "neighborhood": "Innenstadt-Ost",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 8 AM, 11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 8 AM, 11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 8 AM, 11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 8 AM, 11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 8 AM, 10 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 AM to 11 PM"
+    }
+  ],
+  "ownerDescription": "Die Assunna Moschee in Karlsruhe -- vom Verein der islamischen Kultur e.V. betrieben.",
+  "ownerUpdates": [],
+  "phone": "+49 721 5044889",
+  "placeId": "ChIJmYOvlkgGl0cR0GObBZhfVsQ",
+  "placesTags": [],
+  "plusCode": "2C54+PC Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Annur Mosque مسجد",
+      "reviewsCount": 396,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Al Salam Mochee",
+      "reviewsCount": 11,
+      "totalScore": 5
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    }
+  ],
+  "postalCode": "76133",
+  "questionsAndAnswers": [],
+  "reviews": [],
+  "reviewsCount": 208,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 1,
+    "threeStar": 6,
+    "fourStar": 18,
+    "fiveStar": 177
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Kaiserstraße 123",
+  "subTitle": null,
+  "title": "Mosquée Al Sunna",
+  "url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Al%20Sunna&query_place_id=ChIJmYOvlkgGl0cR0GObBZhfVsQ",
+  "website": "https://assunnamoschee.de/",
+  "address": "Kaiserstraße 123, 76133 Karlsruhe-Innenstadt-Ost, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Club"
+  ],
+  "categoryName": "Mosque",
+  "city": null,
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLcM4hdQge38wLnoQo9-eu7ECt_aq62SabytUj3tBVUVhb9ZgjtDYaBdaPXPidJcm6XqwPEYWSNYT8fV-CiHGcsdauRwg-72h8BcBDnIxBWI_epvT64m1lTwqznsH5c3cPlegtWs=w411-h308-k-no",
+  "imageUrls": [
+    "https://gz0.googleusercontent.com/grass-cs/AABkmLcM4hdQge38wLnoQo9-eu7ECt_aq62SabytUj3tBVUVhb9ZgjtDYaBdaPXPidJcm6XqwPEYWSNYT8fV-CiHGcsdauRwg-72h8BcBDnIxBWI_epvT64m1lTwqznsH5c3cPlegtWs=w1920-h1080-k-no"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.0075676,
+    "lng": 8.4388788
+  },
+  "menu": null,
+  "neighborhood": "Oststadt",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 721 6236901",
+  "placeId": "ChIJP3yN4YIIl0cRjHT0bjQiG8w",
+  "placesTags": [],
+  "plusCode": "2C5Q+2H Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Fatih Mosque Durlach Karlsruhe",
+      "reviewsCount": 51,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Selimiye Moschee",
+      "reviewsCount": 67,
+      "totalScore": 4.6
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosnian-German Community Karlsruhe",
+      "reviewsCount": 54,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "76131",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "102660986228603807635",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102660986228603807635?hl=en",
+      "name": "sebghatullah hafiz",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVxtmtglUmUPQyIXru1XDDxub6BmMl4fRtBJcx8Aum828b5U4Ua=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-10-06T09:05:51.728Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2t4M2JUSlRaRlpwTVVSS04zWjRla2xCYTNOR1ZXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4M2JUSlRaRlpwTVVSS04zWjRla2xCYTNOR1ZXYxAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOkx3bTJTZFZpMURKN3Z4eklBa3NGVWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101201457311657486568",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101201457311657486568?hl=en",
+      "name": "Ev gin",
+      "reviewerNumberOfReviews": 53,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYERCgTm-p-vfx3sY3IINKArsZH2QR-BcD6F4RMnEm0YPfOQ=s1920-c-rp-mo-ba12-br100",
+      "text": "Bitirin artık şu inşaatı",
+      "textTranslated": "Finish this construction already!",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-29T11:42:21.795Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21ORmRtOXljMlIzT1ZoeVVuUTRkRE16TkhNME1uYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ORmRtOXljMlIzT1ZoeVVuUTRkRE16TkhNME1uYxAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOmNFdm9yc2R3OVhyUnQ4dDMzNHM0Mnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "108369207424507775163",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108369207424507775163?hl=en",
+      "name": "Форс Перситск",
+      "reviewerNumberOfReviews": 24,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVOub8hShcATkwsqOa4AGlW52nAu-RjC3bRD_FqH-PStiW-TRij=s1920-c-rp-mo-ba12-br100",
+      "text": "Асалам алейкум подскажите пожалуйста во сколько время намаза утром курбан байрам будет?",
+      "textTranslated": "Asalam alaykum, please tell me what time is the morning prayer for Eid al-Adha?",
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-26T19:14:44.391Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xR01saEhVV041ZDNnNU4ydzNjbTAyTkVobWIxRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xR01saEhVV041ZDNnNU4ydzNjbTAyTkVobWIxRRAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOm1GMlhHUWN5d3g5N2w3cm02NEhmb1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": "2026-05-26T19:41:56.000Z",
+      "responseFromOwnerText": "Праздничная молитва Ид аль-Адха совершается в 6:15 утра.",
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ru",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "106965306438334029921",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106965306438334029921?hl=en",
+      "name": "Ahmed Benamor",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVCmob1WzLOnUnCi6I0WFafbJLlYpTIyzkRH0tk3huVIQGU-_N-=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-04-10T11:00:27.792Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xBMVJVbEpPRll3TUUxWlZWRjRWa2xvYzFoR01tYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBMVJVbEpPRll3TUUxWlZWRjRWa2xvYzFoR01tYxAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOlA1RUlJOFYwME1ZVVF4Vkloc1hGMmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108622953685891666761",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108622953685891666761?hl=en",
+      "name": "maju atif",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIEFhrjYB_XgI-zOyyfKQn0lf-KE2cucFBZ5_zRB8CByXQkCA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "9 months ago",
+      "publishedAtDate": "2026-01-21T14:02:43.383Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25OSVExOXhWRGRXTldveU1sWXRUMmN4TnpKNFlVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OSVExOXhWRGRXTldveU1sWXRUMmN4TnpKNFlVRRAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOnNIQ19xVDdWNWoyMlYtT2cxNzJ4YUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107819200001028386497",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107819200001028386497?hl=en",
+      "name": "Ümit Savran",
+      "reviewerNumberOfReviews": 192,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvzVU1NVb_-4cBWrwOud72V_t7e3bHA7npgYK615YJc0TLFSA=s1920-c-rp-mo-ba12-br100",
+      "text": "Noch immer eine Baustelle, jedoch schon weit fortgeschritten. Freue mich auf das Bauwerk",
+      "textTranslated": "Still a construction site, but already well advanced. I'm looking forward to the building.",
+      "publishAt": "9 months ago",
+      "publishedAtDate": "2026-01-16T13:58:28.678Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21Wdk0xWnpWV1ZuYTFGRFJURkRTMjFVVWtsRVgzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Wdk0xWnpWV1ZuYTFGRFJURkRTMjFVVWtsRVgzYxAB!2m1!1s0x0:0xcc1b22346ef4748c!3m1!1s2@1:CAIQACodChtycF9oOmVvM1ZzVWVna1FDRTFDS21UUklEX3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "de",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 122,
+  "reviewsDistribution": {
+    "oneStar": 12,
+    "twoStar": 0,
+    "threeStar": 6,
+    "fourStar": 12,
+    "fiveStar": 92
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Gerwigstraße 69",
+  "subTitle": null,
+  "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+  "url": "https://www.google.com/maps/search/?api=1&query=DITIB%20Turkish%20Islamic%20Cultural%20Association%20e.V.Karlsruhe&query_place_id=ChIJP3yN4YIIl0cRjHT0bjQiG8w",
+  "website": "http://www.ditib-karlsruhe.de/",
+  "address": "Gerwigstraße 69, 76131 Oststadt, Germany"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "categories": [
+    "Mosque",
+    "Tourist attraction"
+  ],
+  "categoryName": "Mosque",
+  "city": "Karlsruhe",
+  "countryCode": "DE",
+  "description": null,
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://gz0.googleusercontent.com/grass-cs/AABkmLd6KDIf127SHmj9ris7jx7Eas9DPAAHMwsuZpcU42_8c9vNMHxkmj8mt4xK9p1xMdAgxlwSnupl2Kam9bmWpoBnIuOOecZVJl7OMGmhsvXSEicTdn4U8Slc9rtatr38Mm1gaqo=w411-h308-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sehka2TC8x2FQ3opJePoAHIuPQlsl6PHllfi6Feu6PE6Vf4L9n48q7KATUaOV8C8d0_6Jj01e5ScZHXh0rp4Y7NRnlW62-fZPwgpb3FBpT_1Z6FxrK7rR6BGbvGiDwljcl9bVBZA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3RpgZp0ATwW3e25yFV4DGaMZU8at8y2TtnXXlx8VTXkaMPx1YO8hIUuZxx4oFkhq5SmctkwHqI-BHNZ4KqtoK8rrQRlpJWhq5SeEIKN2Tzmfp4nyOTQC8FVvOXHda_0f89nnGvAPEQczL=w1920-h1080-k-no"
+  ],
+  "imagesCount": 2,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 48.9962599,
+    "lng": 8.3449469
+  },
+  "menu": null,
+  "neighborhood": "Grünwinkel",
+  "openingHours": [],
+  "ownerDescription": null,
+  "ownerUpdates": [],
+  "phone": "+49 721 845011",
+  "placeId": "ChIJSZTKQLoGl0cRo1LdX6_bs6I",
+  "placesTags": [],
+  "plusCode": "X8WV+GX Karlsruhe, Germany",
+  "peopleAlsoSearch": [
+    {
+      "category": "People also search for",
+      "title": "Islamic Union e.V.",
+      "reviewsCount": 189,
+      "totalScore": 4.5
+    },
+    {
+      "category": "People also search for",
+      "title": "Annur Mosque مسجد",
+      "reviewsCount": 396,
+      "totalScore": 4.8
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Turkish Islamic Cultural Association e.V.Karlsruhe",
+      "reviewsCount": 122,
+      "totalScore": 4.4
+    },
+    {
+      "category": "People also search for",
+      "title": "DITIB Zentral Moschee Karlsruhe",
+      "reviewsCount": 25,
+      "totalScore": 4.3
+    },
+    {
+      "category": "People also search for",
+      "title": "Bosnian-German Community Karlsruhe",
+      "reviewsCount": 54,
+      "totalScore": 4.7
+    }
+  ],
+  "postalCode": "76189",
+  "questionsAndAnswers": [],
+  "reviews": [
+    {
+      "reviewerId": "103481083512468124762",
+      "reviewerUrl": "https://www.google.com/maps/contrib/103481083512468124762?hl=en",
+      "name": "Tahsin Ayaz",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWAABzNaNbiNW3WKN2vx2fjY-4VjwUma95vTzDu5nFYgx5-pK6U5Q=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 days ago",
+      "publishedAtDate": "2026-10-19T09:20:02.949Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tabk9VOXFWM0JtWTBWM2IxOU9la2h1WlU5Tk1IYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tabk9VOXFWM0JtWTBWM2IxOU9la2h1WlU5Tk1IYxAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOkZnOU9qV3BmY0V3b19OekhuZU9NMHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "110626039653553357384",
+      "reviewerUrl": "https://www.google.com/maps/contrib/110626039653553357384?hl=en",
+      "name": "Galaxy S5",
+      "reviewerNumberOfReviews": 25,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLgSLbO5_j5ZAHqX6KwU4cb6wN1WxFfWsJOsWfj2LGF1d1hng=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-10-11T12:23:46.024Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2taYWFGQTVVRmR2VmxsWVYzRjJXRWxNU2kxd1ltYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taYWFGQTVVRmR2VmxsWVYzRjJXRWxNU2kxd1ltYxAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOkZaaFA5UFdvVllYV3F2WElMSi1wYmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100586896845548599083",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100586896845548599083?hl=en",
+      "name": "S",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKnycVtoRv0L_i9_firFRFTiHqJUtspzhc9b66uOuBkeFw_Xg=s1920-c-rp-mo-br100",
+      "text": "Çok temiz ve güzel bir cami.",
+      "textTranslated": "It's a very clean and beautiful mosque.",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-20T12:00:06.098Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21KVVRqZEhaelowWnprNU1GWTNORmh4ZUU5S04xRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KVVRqZEhaelowWnprNU1GWTNORmh4ZUU5S04xRRAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOmJUTjdHZzZ0Zzk5MFY3NFhxeE9KN1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "104087472064835071878",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104087472064835071878?hl=en",
+      "name": "Veysel Ucman",
+      "reviewerNumberOfReviews": 30,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXpvhsmGbA9wUJ3q_OmArqFm3swSsE8-jURSS91dZYylN6h-5Ly=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-12T03:56:16.952Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s5dlZXcEhXblU1VkV4Wk5WbDFPVVpPY2poTGVVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5dlZXcEhXblU1VkV4Wk5WbDFPVVpPY2poTGVVRRAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOk9vVWpHWnU5VExZNVl1OUZOcjhLeUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108634724681866600025",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108634724681866600025?hl=en",
+      "name": "Mustafa Simsek",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKv3CRhD_6eb7aRPOwUJTGsJrpOgD6EC86ppZn1nIPbI9Hhgg=s1920-c-rp-mo-br100",
+      "text": "Bir video gördüm gökyüzüne el sallıyorlar. Aklını kiraya verenlere yazıklar olsun. Yaşasın büyük Türk devleti. Devletimizin yanındayız her, daim.",
+      "textTranslated": "I saw a video of them waving to the sky. Shame on those who rent out their minds. Long live the great Turkish state. We stand by our state, always.",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-17T12:20:59.110Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWaVRqbG1PRFkyT1hGQmN6QmxNMlkxVTJneGFXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWaVRqbG1PRFkyT1hGQmN6QmxNMlkxVTJneGFXYxAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOlViTjlmODY2OXFBczBlM2Y1U2gxaWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "tr",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "101201457311657486568",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101201457311657486568?hl=en",
+      "name": "Ev gin",
+      "reviewerNumberOfReviews": 53,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYERCgTm-p-vfx3sY3IINKArsZH2QR-BcD6F4RMnEm0YPfOQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-08T19:38:41.551Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25GNk1td3hkVU5hVGtRM1VIYzNaR1pvWVhaVFUyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GNk1td3hkVU5hVGtRM1VIYzNaR1pvWVhaVFUyYxAB!2m1!1s0x0:0xa2b3dbaf5fdd52a3!3m1!1s2@1:CAIQACodChtycF9oOnF6MmwxdUNaTkQ3UHc3ZGZoYXZTU2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 67,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 58
+  },
+  "reviewsTags": [],
+  "state": null,
+  "street": "Durmersheimer Str. 194",
+  "subTitle": null,
+  "title": "Selimiye Moschee",
+  "url": "https://www.google.com/maps/search/?api=1&query=Selimiye%20Moschee&query_place_id=ChIJSZTKQLoGl0cRo1LdX6_bs6I",
+  "address": "Durmersheimer Str. 194, 76189 Karlsruhe-Grünwinkel, Germany"
+}]

@@ -21,8 +21,8 @@ describe('Phase 5B: Real Data Import & Controlled City Launch', () => {
   const allEntities: any[] = JSON.parse(fs.readFileSync(allPath, 'utf8'));
 
   // 1. Production count integrity
-  it('total published records is exactly 542 (443 baseline + 99 from 5 promoted cities)', () => {
-    expect(mosques.length).toBe(542);
+  it('total published records is exactly 601 (542 baseline + 17 from Wiesbaden + 7 from Lübeck + 9 from Aachen + 11 from Saarbrücken + 8 from Freiburg + 7 from Münster)', () => {
+    expect(mosques.length).toBe(601);
   });
 
   // 2. Original 9 cities baseline preserved
@@ -129,9 +129,9 @@ describe('Phase 5B: Real Data Import & Controlled City Launch', () => {
   });
 
   // 11. Published city configs count
-  it('getPublishedCityConfigs returns exactly 14 published cities', () => {
+  it('getPublishedCityConfigs returns exactly 20 published cities', () => {
     const publishedConfigs = getPublishedCityConfigs();
-    expect(publishedConfigs.length).toBe(14);
+    expect(publishedConfigs.length).toBe(20);
   });
 
   // 12. City gate evaluation: Dresden fails GATE_F
@@ -160,18 +160,18 @@ describe('Phase 5B: Real Data Import & Controlled City Launch', () => {
   });
 
   // 14. Sitemap URLs count integrity
-  it('sitemap contains 1674 URLs matching the exact formula', async () => {
+  it('sitemap contains 1869 URLs matching the exact formula', async () => {
     const entries = await sitemap();
     const repo = new JsonMosqueRepository();
     const published = await repo.getAllPublished();
     const cities = await repo.getCities();
     const liveCities = cities.filter(c => c.count >= 1);
 
-    expect(liveCities.length).toBe(14);
-    expect(published.length).toBe(542);
-    // 3 home + 3 search + (14 * 3) city pages + (542 * 3) detail pages = 1674
-    const expected = 3 + 3 + (14 * 3) + (542 * 3);
-    expect(expected).toBe(1674);
+    expect(liveCities.length).toBe(20);
+    expect(published.length).toBe(601);
+    // 3 home + 3 search + (20 * 3) city pages + (601 * 3) detail pages = 1869
+    const expected = 3 + 3 + (20 * 3) + (601 * 3);
+    expect(expected).toBe(1869);
     expect(entries.length).toBe(expected);
   });
 
