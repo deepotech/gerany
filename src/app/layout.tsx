@@ -1,6 +1,5 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import Script from 'next/script';
 
 import { SITE_URL, SITE_NAME } from '@/lib/config';
 

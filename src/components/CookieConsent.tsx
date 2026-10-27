@@ -13,7 +13,7 @@ interface CookieConsentProps {
 type ConsentState = 'accepted' | 'rejected' | 'pending';
 
 const CONSENT_COOKIE_KEY = 'moschee_analytics_consent';
-const GA_MEASUREMENT_ID = 'G-XRV9JC90FT';
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || 'G-XRV9JC90FT';
 
 export default function CookieConsent({ locale }: CookieConsentProps) {
   const [consent, setConsent] = useState<ConsentState>('pending');
@@ -42,6 +42,9 @@ export default function CookieConsent({ locale }: CookieConsentProps) {
     setIsModalOpen(false);
     try {
       localStorage.setItem(CONSENT_COOKIE_KEY, choice);
+      if (choice === 'rejected' && typeof window !== 'undefined') {
+        (window as any)[`ga-disable-${GA_MEASUREMENT_ID}`] = true;
+      }
     } catch {
       // ignore storage error
     }
