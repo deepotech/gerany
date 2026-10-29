@@ -18,6 +18,14 @@ export function getDatenschutzUrl(locale: Locale): string {
   return `/${locale}/datenschutz`;
 }
 
+export function getAboutUrl(locale: Locale): string {
+  return `/${locale}/about`;
+}
+
+export function getContactUrl(locale: Locale): string {
+  return `/${locale}/contact`;
+}
+
 
 /**
  * Returns the canonical URL for a city collection page.

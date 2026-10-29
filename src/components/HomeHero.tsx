@@ -232,9 +232,9 @@ export default function HomeHero({ locale, totalMosques, cities }: HomeHeroProps
                 <Database className="w-5 h-5" aria-hidden="true" />
               </div>
               <div>
-                <h4 className="font-bold text-slate-900 text-sm mb-1">Strukturierte Einträge</h4>
+                <h4 className="font-bold text-slate-900 text-sm mb-1">{dict.home.featureStructuredTitle}</h4>
                 <p className="text-xs text-slate-600 leading-relaxed">
-                  Jeder Eintrag durchläuft eine automatische Klassifizierung und Deduplizierung.
+                  {dict.home.featureStructuredDesc}
                 </p>
               </div>
             </div>
@@ -244,9 +244,9 @@ export default function HomeHero({ locale, totalMosques, cities }: HomeHeroProps
                 <Navigation className="w-5 h-5" aria-hidden="true" />
               </div>
               <div>
-                <h4 className="font-bold text-slate-900 text-sm mb-1">Präzise Lokale Suche</h4>
+                <h4 className="font-bold text-slate-900 text-sm mb-1">{dict.home.featureSearchTitle}</h4>
                 <p className="text-xs text-slate-600 leading-relaxed">
-                  Finde Moscheen nach Stadtteil, PLZ oder GPS-Entfernung. Direkte Routenplanung.
+                  {dict.home.featureSearchDesc}
                 </p>
               </div>
             </div>
@@ -256,9 +256,9 @@ export default function HomeHero({ locale, totalMosques, cities }: HomeHeroProps
                 <MapIcon className="w-5 h-5" aria-hidden="true" />
               </div>
               <div>
-                <h4 className="font-bold text-slate-900 text-sm mb-1">Ausstattungsangaben</h4>
+                <h4 className="font-bold text-slate-900 text-sm mb-1">{dict.home.featureFacilitiesTitle}</h4>
                 <p className="text-xs text-slate-600 leading-relaxed">
-                  Frauenbereich, Barrierefreiheit, Wudu-Waschräume und Parkplätze – sofern bekannt.
+                  {dict.home.featureFacilitiesDesc}
                 </p>
               </div>
             </div>

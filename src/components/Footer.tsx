@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Locale, getDictionary } from '@/lib/i18n';
-import { getCityUrl, getDatenschutzUrl, getHomeUrl, getImpressumUrl, getSearchUrl } from '@/lib/routes';
+import { getAboutUrl, getCityUrl, getContactUrl, getDatenschutzUrl, getHomeUrl, getImpressumUrl, getSearchUrl } from '@/lib/routes';
 import { getPublishedCityConfigs } from '@/pipeline/city-config';
 
 interface FooterProps {
@@ -116,6 +116,12 @@ export default function Footer({ locale, totalMosques, cityCount }: FooterProps)
             </Link>
             <Link href={getSearchUrl(locale)} className="hover:text-slate-300">
               {dict.common.search}
+            </Link>
+            <Link href={getAboutUrl(locale)} className="hover:text-slate-300">
+              {dict.common.about}
+            </Link>
+            <Link href={getContactUrl(locale)} className="hover:text-slate-300">
+              {dict.common.contact}
             </Link>
             <Link href={getImpressumUrl(locale)} className="hover:text-slate-300">
               {dict.common.impressum}

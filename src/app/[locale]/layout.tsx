@@ -5,6 +5,7 @@ import { getMosqueRepository } from '@/lib/db';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import CookieConsent from '@/components/CookieConsent';
+import { ENABLE_ADSENSE, ADSENSE_PUBLISHER_ID } from '@/lib/config';
 
 interface LocaleLayoutProps {
   children: React.ReactNode;
@@ -32,6 +33,15 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
 
   return (
     <html lang={locale} dir={isRtl ? 'rtl' : 'ltr'}>
+      {ENABLE_ADSENSE && (
+        <head>
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`}
+            crossOrigin="anonymous"
+          />
+        </head>
+      )}
       <body className="min-h-screen flex flex-col">
         <Header locale={locale} cityCount={cities.length} />
         <main className="flex-1">{children}</main>

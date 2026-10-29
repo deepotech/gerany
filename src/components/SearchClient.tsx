@@ -10,7 +10,7 @@ import { MapMarker } from './map/types';
 import { getMosqueUrl } from '@/lib/routes';
 import { haversineDistanceKm, isOpenNow } from '@/lib/db/geo';
 import { normalizeGermanPhonetic } from '@/lib/normalize';
-import { Search, Navigation, X, Map, List, Check } from 'lucide-react';
+import { Search, Navigation, X, Map, List, Check, Building2 } from 'lucide-react';
 
 interface SearchClientProps {
   initialMosques: MosqueEntity[];
@@ -223,6 +223,15 @@ export default function SearchClient({
       ? 'دليل مساجد ألمانيا'
       : 'Moscheen in Deutschland';
 
+  const wheelchairCount = useMemo(
+    () => initialMosques.filter((m) => m.facilities?.wheelchairAccessible).length,
+    [initialMosques]
+  );
+  const phoneCount = useMemo(
+    () => initialMosques.filter((m) => m.phone).length,
+    [initialMosques]
+  );
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header & Title */}
@@ -236,6 +245,44 @@ export default function SearchClient({
           {userLocation ? ` • ${locale === 'en' ? 'Sorted by distance' : locale === 'ar' ? 'مرتبة حسب المسافة' : 'Sortiert nach Entfernung'}` : ''}
         </p>
       </div>
+
+      {/* Factual City Directory Guide */}
+      {cityTitle && initialMosques.length > 0 && (
+        <div className="bg-white rounded-2xl border border-slate-200 p-5 mb-6 text-xs text-slate-600 shadow-2xs">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-100">
+            <span className="font-bold text-slate-900 text-sm flex items-center gap-2">
+              <Building2 className="w-4 h-4 text-brand-600" />
+              {locale === 'en'
+                ? `Directory Overview: ${cityTitle}`
+                : locale === 'ar'
+                ? `نظرة عامة على الدليل: ${cityTitle}`
+                : `Verzeichnis-Überblick: ${cityTitle}`}
+            </span>
+            <div className="flex flex-wrap items-center gap-2 text-[11px]">
+              <span className="px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-700 font-semibold">
+                {initialMosques.length} {locale === 'en' ? 'Mosques' : locale === 'ar' ? 'مسجد' : 'Moscheen'}
+              </span>
+              {districts.length > 0 && (
+                <span className="px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-700 font-medium">
+                  {districts.length} {locale === 'en' ? 'Districts' : locale === 'ar' ? 'حي' : 'Stadtteile'}
+                </span>
+              )}
+              {wheelchairCount > 0 && (
+                <span className="px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-800 font-medium border border-emerald-200">
+                  {wheelchairCount} {locale === 'en' ? 'Wheelchair Accessible' : locale === 'ar' ? 'ميسر للكراسي المتحركة' : 'Barrierefrei'}
+                </span>
+              )}
+            </div>
+          </div>
+          <p className="mt-3 leading-relaxed">
+            {locale === 'en'
+              ? `This city guide lists ${initialMosques.length} mosques and Islamic prayer centers${districts.length > 0 ? ` across ${districts.length} districts` : ''}. For ${phoneCount} locations, direct phone contacts are verified. Congregational prayer times and Friday prayer services (Jumua) are scheduled individually by each community; we recommend consulting the linked community website or calling prior to your visit.`
+              : locale === 'ar'
+              ? `يضم هذا الدليل ${initialMosques.length} مسجداً ومصلى${districts.length > 0 ? ` موزعة على ${districts.length} حياً` : ''}. تتوفر أرقام هواتف محققة لـ ${phoneCount} مسجداً. تُحدد مواقيت الصلاة وخطب الجمعة من قِبل إدارات المساجد بشكل مستقل، وننصح بزيارة الموقع الرسمي أو الاتصال قبل الزيارة.`
+              : `In diesem Stadtverzeichnis sind aktuell ${initialMosques.length} Moscheen und Gebetsräume${districts.length > 0 ? ` in ${districts.length} Stadtteilen` : ''} erfasst. Für ${phoneCount} Standorte liegen direkte Telefonkontakte vor. Die täglichen Gebetszeiten und Freitagsgebete werden von den Gemeinden eigenständig geregelt; wir empfehlen den Blick auf die hinterlegte Website oder telefonische Rücksprache vor dem Besuch.`}
+          </p>
+        </div>
+      )}
 
       {/* Main Search & Action Bar */}
       <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 mb-6">

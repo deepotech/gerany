@@ -53,7 +53,7 @@ export default function CookieConsent({ locale }: CookieConsentProps) {
   const labels = {
     de: {
       title: 'Privatsphäre & Cookie-Einstellungen',
-      desc: 'Wir nutzen ausschließlich technisch notwendige Funktionen sowie optional Google Analytics, um die Nutzung unseres Moscheen-Verzeichnisses anonymisiert zu verstehen und zu verbessern. Es werden keine Daten an Werbenetzwerke weitergegeben.',
+      desc: 'Wir nutzen technisch notwendige Funktionen sowie optional Google Analytics, um die Nutzung unseres Moscheen-Verzeichnisses anonymisiert zu verstehen und zu verbessern. Derzeit werden keine Werbe-Cookies gesetzt.',
       accept: 'Alle akzeptieren',
       reject: 'Nur notwendige (Ablehnen)',
       moreInfo: 'Datenschutzerklärung',
@@ -61,7 +61,7 @@ export default function CookieConsent({ locale }: CookieConsentProps) {
     },
     en: {
       title: 'Privacy & Cookie Settings',
-      desc: 'We use strictly necessary technical features and optional Google Analytics to anonymously understand and improve directory usage. No data is shared with advertising networks.',
+      desc: 'We use strictly necessary technical features and optional Google Analytics to anonymously understand and improve directory usage. No advertising cookies are currently set.',
       accept: 'Accept All',
       reject: 'Essential Only (Reject)',
       moreInfo: 'Privacy Policy',
@@ -69,7 +69,7 @@ export default function CookieConsent({ locale }: CookieConsentProps) {
     },
     ar: {
       title: 'الخصوصية وإعدادات ملفات تعريف الارتباط',
-      desc: 'نستخدم وظائف ضرورية تقنياً بالإضافة إلى Google Analytics اختيارياً لفهم استخدام الدليل وتحسينه بشكل مجهول الهوية. لا تتم مشاركة أي بيانات مع شبكات إعلانية.',
+      desc: 'نستخدم وظائف ضرورية تقنياً بالإضافة إلى Google Analytics اختيارياً لفهم استخدام الدليل وتحسينه بشكل مجهول الهوية. لا يتم حالياً تفعيل أي ملفات تعريف ارتباط إعلانية.',
       accept: 'قبول الكل',
       reject: 'الضرورية فقط (رفض)',
       moreInfo: 'سياسة الخصوصية',

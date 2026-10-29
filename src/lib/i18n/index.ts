@@ -37,6 +37,8 @@ export interface Dictionary {
     impressum: string;
     datenschutz: string;
     cookieSettings: string;
+    about: string;
+    contact: string;
   };
   home: {
     heroTitle: string;
@@ -48,6 +50,12 @@ export interface Dictionary {
     statsMosques: string;
     statsDistricts: string;
     statsVerified: string;
+    featureStructuredTitle: string;
+    featureStructuredDesc: string;
+    featureSearchTitle: string;
+    featureSearchDesc: string;
+    featureFacilitiesTitle: string;
+    featureFacilitiesDesc: string;
   };
   detail: {
     address: string;
@@ -106,6 +114,8 @@ export const dictionaries: Record<Locale, Dictionary> = {
       impressum: 'Impressum',
       datenschutz: 'Datenschutz',
       cookieSettings: 'Cookie-Einstellungen',
+      about: 'Über uns',
+      contact: 'Kontakt & Feedback',
     },
     home: {
       heroTitle: 'Finde eine Moschee in deiner Nähe',
@@ -117,6 +127,12 @@ export const dictionaries: Record<Locale, Dictionary> = {
       statsMosques: 'Erfasste Moscheen',
       statsDistricts: 'Städte & Stadtteile',
       statsVerified: 'Geprüfte Datenqualität',
+      featureStructuredTitle: 'Strukturierte Einträge',
+      featureStructuredDesc: 'Jeder Eintrag durchläuft eine Prüfung, Normalisierung und Adressvalidierung.',
+      featureSearchTitle: 'Präzise Lokale Suche',
+      featureSearchDesc: 'Finde Moscheen nach Stadtteil, PLZ oder GPS-Entfernung mit direkter Routenführung.',
+      featureFacilitiesTitle: 'Ausstattungsangaben',
+      featureFacilitiesDesc: 'Frauenbereich, Barrierefreiheit, Wudu-Waschräume und Parkplätze – transparent erfasst.',
     },
     detail: {
       address: 'Adresse & Standort',
@@ -173,6 +189,8 @@ export const dictionaries: Record<Locale, Dictionary> = {
       impressum: 'Legal Notice / Imprint',
       datenschutz: 'Privacy Policy',
       cookieSettings: 'Cookie Settings',
+      about: 'About Us',
+      contact: 'Contact & Feedback',
     },
     home: {
       heroTitle: 'Find a Mosque Near You in Germany',
@@ -184,6 +202,12 @@ export const dictionaries: Record<Locale, Dictionary> = {
       statsMosques: 'Listed Mosques',
       statsDistricts: 'Cities & Districts',
       statsVerified: 'Community Listings',
+      featureStructuredTitle: 'Structured Listings',
+      featureStructuredDesc: 'Each entry undergoes verification, normalization, and geographic address validation.',
+      featureSearchTitle: 'Precise Local Search',
+      featureSearchDesc: 'Find mosques by district, postal code, or GPS distance with direct navigation.',
+      featureFacilitiesTitle: 'Facility Details',
+      featureFacilitiesDesc: 'Transparently listed prayer spaces, wheelchair accessibility, wudu areas, and parking.',
     },
     detail: {
       address: 'Address & Location',
@@ -240,6 +264,8 @@ export const dictionaries: Record<Locale, Dictionary> = {
       impressum: 'إشعار قانوني',
       datenschutz: 'سياسة الخصوصية',
       cookieSettings: 'إعدادات ملفات تعريف الارتباط',
+      about: 'عن المنصة',
+      contact: 'الاتصال والملاحظات',
     },
     home: {
       heroTitle: 'ابحث عن مسجد في ألمانيا بالقرب منك',
@@ -251,6 +277,12 @@ export const dictionaries: Record<Locale, Dictionary> = {
       statsMosques: 'مسجد مُدرج',
       statsDistricts: 'مدن وأحياء',
       statsVerified: 'بيانات مجتمعية',
+      featureStructuredTitle: 'بيانات منظمة ومعتمدة',
+      featureStructuredDesc: 'تخضع جميع البيانات للتدقيق والمطابقة المكانية لضمان دقة العناوين.',
+      featureSearchTitle: 'بحث محلي دقيق',
+      featureSearchDesc: 'ابحث عن المساجد حسب الحي أو الرمز البريدي أو المسافة الجغرافية مع إمكانية الملاحة.',
+      featureFacilitiesTitle: 'تفاصيل المرافق والخدمات',
+      featureFacilitiesDesc: 'توضيح توفر مصلى النساء، تسهيلات الكراسي المتحركة، أماكن الوضوء والمواقف.',
     },
     detail: {
       address: 'العنوان والموقع',

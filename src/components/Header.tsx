@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Locale, getDictionary } from '@/lib/i18n';
 import LanguageSwitcher from './LanguageSwitcher';
 import { Compass, Search, MapPin } from 'lucide-react';
-import { getHomeUrl, getSearchUrl } from '@/lib/routes';
+import { getHomeUrl, getSearchUrl, getAboutUrl } from '@/lib/routes';
 
 interface HeaderProps {
   locale: Locale;
@@ -67,6 +67,12 @@ export default function Header({ locale, cityCount = 9 }: HeaderProps) {
             >
               <Search className="w-4 h-4 text-brand-600" />
               <span>{dict.common.search}</span>
+            </Link>
+            <Link
+              href={getAboutUrl(locale)}
+              className="hover:text-brand-700 transition-colors flex items-center gap-1.5 focus:outline-none focus:ring-2 focus:ring-brand-500 rounded-md px-2 py-1"
+            >
+              <span>{dict.common.about}</span>
             </Link>
           </nav>
 
