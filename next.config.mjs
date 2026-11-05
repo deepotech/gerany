@@ -15,11 +15,18 @@ if (fs.existsSync(redirectsPath)) {
 const nextConfig = {
   reactStrictMode: true,
   async redirects() {
-    return redirectsList.map((r) => ({
-      source: r.source,
-      destination: r.destination,
-      permanent: r.permanent ?? true,
-    }));
+    return [
+      {
+        source: '/',
+        destination: '/de',
+        permanent: false,
+      },
+      ...redirectsList.map((r) => ({
+        source: r.source,
+        destination: r.destination,
+        permanent: r.permanent ?? true,
+      })),
+    ];
   },
   images: {
     remotePatterns: [
