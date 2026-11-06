@@ -14,6 +14,14 @@ if (fs.existsSync(redirectsPath)) {
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  async rewrites() {
+    return [
+      {
+        source: '/de/sitemap.xml',
+        destination: '/sitemap.xml',
+      },
+    ];
+  },
   async redirects() {
     return [
       {
