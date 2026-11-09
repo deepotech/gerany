@@ -6,6 +6,7 @@ import { normalizeCitySlug } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
 import { SITE_URL } from '@/lib/config';
 import MosqueDetailView from '@/components/MosqueDetailView';
+import { constructMetadata } from '@/lib/seo/metadata';
 
 interface MosqueDetailPageProps {
   params: {
@@ -46,26 +47,20 @@ export async function generateMetadata({ params }: MosqueDetailPageProps): Promi
   const trans = mosque.translations.de;
   const canonicalUrl = `/de/moschee/${cityConfig.slug}/${mosque.slug}`;
 
-  return {
+  return constructMetadata({
     title: trans.seoTitle,
     description: trans.seoDescription,
-    alternates: {
-      canonical: canonicalUrl,
-      languages: {
-        de: canonicalUrl,
-        en: `/en/mosque/${cityConfig.englishSlug}/${mosque.slug}`,
-        ar: `/ar/mosque/${cityConfig.slug}/${mosque.slug}`,
-        'x-default': canonicalUrl,
-      },
+    canonical: canonicalUrl,
+    languages: {
+      de: canonicalUrl,
+      en: `/en/mosque/${cityConfig.englishSlug}/${mosque.slug}`,
+      ar: `/ar/mosque/${cityConfig.slug}/${mosque.slug}`,
+      'x-default': canonicalUrl,
     },
-    openGraph: {
-      title: trans.seoTitle,
-      description: trans.seoDescription,
-      url: `${SITE_URL}${canonicalUrl}`,
-      type: 'article',
-      images: mosque.imageUrl ? [{ url: mosque.imageUrl }] : undefined,
-    },
-  };
+    ogImage: mosque.imageUrl || undefined,
+    ogType: 'article',
+    locale: 'de',
+  });
 }
 
 export default async function GermanMosqueDetailPage({ params }: MosqueDetailPageProps) {

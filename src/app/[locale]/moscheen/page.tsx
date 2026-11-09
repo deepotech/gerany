@@ -4,14 +4,12 @@ import { notFound } from 'next/navigation';
 import { getDictionary, isValidLocale, Locale } from '@/lib/i18n';
 import { getMosqueRepository } from '@/lib/db';
 import SearchClient from '@/components/SearchClient';
+import { constructMetadata } from '@/lib/seo/metadata';
+import { generateBreadcrumbJsonLd } from '@/lib/seo/schema';
 
 interface SearchPageProps {
   params: {
     locale: string;
-  };
-  searchParams?: {
-    query?: string;
-    district?: string;
   };
 }
 
@@ -26,24 +24,22 @@ export async function generateMetadata({ params }: SearchPageProps): Promise<Met
 
   const dict = getDictionary('de');
 
-  return {
+  return constructMetadata({
     title: dict.seo.listTitle,
     description: dict.seo.listDesc,
-    alternates: {
-      canonical: `/de/moscheen`,
-      languages: {
-        de: '/de/moscheen',
-        en: '/en/mosques',
-        ar: '/ar/mosques',
-        'x-default': '/de/moscheen',
-      },
+    canonical: '/de/moscheen',
+    languages: {
+      de: '/de/moscheen',
+      en: '/en/mosques',
+      ar: '/ar/mosques',
+      'x-default': '/de/moscheen',
     },
-  };
+    locale: 'de',
+  });
 }
 
 export default async function GermanMosqueSearchPage({
   params,
-  searchParams,
 }: SearchPageProps) {
   const { locale } = params;
   // Strictly disallow non-German locales on /moscheen route
@@ -52,14 +48,23 @@ export default async function GermanMosqueSearchPage({
   const repo = getMosqueRepository();
   const mosques = await repo.getAllPublished();
 
+  const breadcrumbsJsonLd = generateBreadcrumbJsonLd([
+    { name: 'Startseite', url: '/de' },
+    { name: 'Moscheen in Deutschland', url: '/de/moscheen' },
+  ]);
+
   return (
-    <SearchClient
-      initialMosques={mosques}
-      districts={[]}
-      locale="de"
-      initialDistrict={searchParams?.district || ''}
-      initialQuery={searchParams?.query || ''}
-      cityTitle="Moscheen-Verzeichnis Deutschland"
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsJsonLd) }}
+      />
+      <SearchClient
+        initialMosques={mosques}
+        districts={[]}
+        locale="de"
+        cityTitle="Moscheen-Verzeichnis Deutschland"
+      />
+    </>
   );
 }

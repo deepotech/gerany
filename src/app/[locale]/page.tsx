@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getDictionary, isValidLocale, Locale } from '@/lib/i18n';
 import { getMosqueRepository } from '@/lib/db';
 import HomeHero from '@/components/HomeHero';
+import { generateWebSiteSchema } from '@/lib/seo/schema';
 
 import { SITE_URL, SITE_NAME } from '@/lib/config';
 
@@ -45,6 +46,12 @@ export async function generateMetadata({ params }: HomePageProps): Promise<Metad
       locale: locale === 'de' ? 'de_DE' : locale === 'ar' ? 'ar_AR' : 'en_US',
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title: dict.seo.homeTitle,
+      description: dict.seo.homeDesc,
+      images: [`${SITE_URL}/og-default.jpg`],
+    },
   };
 }
 
@@ -61,5 +68,15 @@ export default async function HomePage({ params }: HomePageProps) {
   // Sort by count descending for display
   const sortedCities = [...cities].sort((a, b) => b.count - a.count);
 
-  return <HomeHero locale={locale} totalMosques={mosques.length} cities={sortedCities} />;
+  const websiteSchema = generateWebSiteSchema(locale as Locale);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
+      <HomeHero locale={locale} totalMosques={mosques.length} cities={sortedCities} />
+    </>
+  );
 }

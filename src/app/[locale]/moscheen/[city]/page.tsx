@@ -1,21 +1,19 @@
 import React from 'react';
 import { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { ChevronRight } from 'lucide-react';
 import { getMosqueRepository } from '@/lib/db';
-import { normalizeCitySlug, getCityUrl, getMosqueUrl } from '@/lib/routes';
+import { normalizeCitySlug, getCityUrl } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
-import { SITE_URL } from '@/lib/config';
 import SearchClient from '@/components/SearchClient';
-import { generateBreadcrumbJsonLd } from '@/lib/seo/schema';
+import { generateBreadcrumbJsonLd, generateCityCollectionSchema } from '@/lib/seo/schema';
+import { constructMetadata } from '@/lib/seo/metadata';
 
 interface CityPageProps {
   params: {
     locale: string;
     city: string;
-  };
-  searchParams?: {
-    district?: string;
-    query?: string;
   };
 }
 
@@ -34,7 +32,7 @@ export async function generateStaticParams() {
   });
 }
 
-export async function generateMetadata({ params, searchParams }: CityPageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: CityPageProps): Promise<Metadata> {
   const { locale, city } = params;
   if (locale !== 'de') return {};
 
@@ -44,45 +42,46 @@ export async function generateMetadata({ params, searchParams }: CityPageProps):
   );
 
   if (!cityConfig) {
-    return { robots: { index: false, follow: false } };
+    return constructMetadata({
+      title: 'Stadt nicht gefunden',
+      description: 'Die angeforderte Stadt konnte nicht gefunden werden.',
+      noIndex: true,
+      noFollow: false,
+    });
   }
 
   const repo = getMosqueRepository();
   const mosques = await repo.getByCity(cityConfig.canonical);
   if (mosques.length === 0) {
-    return { robots: { index: false, follow: false } };
+    return constructMetadata({
+      title: `Moscheen in ${cityConfig.canonical}`,
+      description: `Derzeit sind keine erfassten Moscheen in ${cityConfig.canonical} verfügbar.`,
+      noIndex: true,
+      noFollow: false,
+    });
   }
 
-  const district = searchParams?.district ? ` in ${searchParams.district}` : '';
-  const title = `Moscheen in ${cityConfig.canonical}${district} – Alle Gebetsräume & Adressen`;
-  const description = `Entdecke ${mosques.length} erfasste Moscheen in ${cityConfig.canonical}${district}. Öffnungszeiten, Frauenbereich, barrierefreier Zugang, Wudu-Waschräume und Wegbeschreibung.`;
+  const title = `Moscheen in ${cityConfig.canonical} – Alle Gebetsräume & Adressen`;
+  const description = `Entdecke ${mosques.length} erfasste Moscheen in ${cityConfig.canonical}. Öffnungszeiten, Frauenbereich, barrierefreier Zugang, Wudu-Waschräume und Wegbeschreibung.`;
 
   const canonicalPath = `/de/moscheen/${cityConfig.slug}`;
 
-  return {
+  return constructMetadata({
     title,
     description,
-    alternates: {
-      canonical: canonicalPath,
-      languages: {
-        de: canonicalPath,
-        en: `/en/mosques/${cityConfig.englishSlug}`,
-        ar: `/ar/mosques/${cityConfig.slug}`,
-        'x-default': canonicalPath,
-      },
+    canonical: canonicalPath,
+    languages: {
+      de: canonicalPath,
+      en: `/en/mosques/${cityConfig.englishSlug}`,
+      ar: `/ar/mosques/${cityConfig.slug}`,
+      'x-default': canonicalPath,
     },
-    openGraph: {
-      title,
-      description,
-      url: `${SITE_URL}${canonicalPath}`,
-      type: 'website',
-    },
-  };
+    locale: 'de',
+  });
 }
 
 export default async function GermanCityCollectionPage({
   params,
-  searchParams,
 }: CityPageProps) {
   const { locale, city } = params;
   if (locale !== 'de') notFound();
@@ -97,16 +96,25 @@ export default async function GermanCityCollectionPage({
   if (city !== cityConfig.slug) notFound();
 
   const repo = getMosqueRepository();
-  const mosques = await repo.getByCity(cityConfig.canonical);
+  const [mosques, allCities, districts] = await Promise.all([
+    repo.getByCity(cityConfig.canonical),
+    repo.getCities(),
+    repo.getDistricts(cityConfig.canonical),
+  ]);
+
   if (mosques.length === 0) notFound();
 
-  const districts = await repo.getDistricts(cityConfig.canonical);
-
   const breadcrumbsJsonLd = generateBreadcrumbJsonLd([
-    { name: 'Home', url: '/de' },
-    { name: cityConfig.state, url: '/de/moscheen' },
-    { name: cityConfig.canonical, url: `/de/moscheen/${cityConfig.slug}` },
+    { name: 'Startseite', url: '/de' },
+    { name: 'Moscheen in Deutschland', url: '/de/moscheen' },
+    { name: `Moscheen in ${cityConfig.canonical}`, url: `/de/moscheen/${cityConfig.slug}` },
   ]);
+
+  const collectionJsonLd = generateCityCollectionSchema(cityConfig, mosques, 'de');
+
+  const otherCities = allCities
+    .filter((c) => c.name !== cityConfig.canonical && c.count >= 1)
+    .sort((a, b) => b.count - a.count);
 
   return (
     <>
@@ -114,14 +122,57 @@ export default async function GermanCityCollectionPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsJsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }}
+      />
+
+      {/* Visible Breadcrumbs Navigation */}
+      <nav
+        aria-label="Brotkrümelnavigation"
+        className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-2 flex flex-wrap items-center gap-1.5 text-xs text-slate-500 font-medium"
+      >
+        <Link href="/de" className="hover:text-brand-700 transition-colors">
+          Startseite
+        </Link>
+        <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
+        <Link href="/de/moscheen" className="hover:text-brand-700 transition-colors">
+          Moscheen in Deutschland
+        </Link>
+        <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
+        <span className="text-slate-900 font-semibold">{cityConfig.canonical}</span>
+      </nav>
+
       <SearchClient
         initialMosques={mosques}
         districts={districts.map((d) => d.name)}
         locale="de"
-        initialDistrict={searchParams?.district || ''}
-        initialQuery={searchParams?.query || ''}
         cityTitle={`Moscheen in ${cityConfig.canonical}`}
       />
+
+      {/* Sibling City Discovery Section */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+        <div className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-8 shadow-2xs">
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
+            Weitere Städte in Deutschland entdecken
+          </h2>
+          <p className="text-xs sm:text-sm text-slate-500 mb-4 leading-relaxed">
+            Finde erfasste Gebetsräume, Moscheen und Adressen in weiteren Großstädten und Regionen Deutschlands.
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {otherCities.map((c) => (
+              <Link
+                key={c.name}
+                href={getCityUrl('de', c.name)}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-50 hover:bg-brand-50 text-slate-700 hover:text-brand-800 border border-slate-200 text-xs font-medium transition-colors"
+              >
+                <span>{c.name}</span>
+                <span className="text-[10px] text-slate-400 font-normal">({c.count})</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </div>
     </>
   );
 }

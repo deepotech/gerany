@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { MosqueEntity } from '@/pipeline/types';
 import { MosqueWithDistance } from '@/lib/db/types';
 import { Locale, getDictionary } from '@/lib/i18n';
-import { getCityUrl, getHomeUrl, getMosqueUrl } from '@/lib/routes';
+import { getCityUrl, getHomeUrl, getMosqueUrl, getSearchUrl, ARABIC_CITY_NAMES } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
 import { generateMosqueJsonLd, generateBreadcrumbJsonLd } from '@/lib/seo/schema';
 import MapContainer from './map/MapContainer';
@@ -25,6 +25,7 @@ import {
   Layers,
   ChevronRight,
   Info,
+  Building2,
 } from 'lucide-react';
 import { isOpenNow, formatDistance } from '@/lib/db/geo';
 
@@ -33,29 +34,6 @@ interface MosqueDetailViewProps {
   nearbyMosques: MosqueWithDistance[];
   locale: Locale;
 }
-
-const ARABIC_CITY_NAMES: Record<string, string> = {
-  'Köln': 'كولونيا',
-  'Berlin': 'برلين',
-  'Hamburg': 'هامبورغ',
-  'München': 'ميونيخ',
-  'Frankfurt': 'فرانكفورت',
-  'Düsseldorf': 'دوسلدورف',
-  'Stuttgart': 'شتوتغارت',
-  'Dortmund': 'دورتموند',
-  'Essen': 'إيسن',
-  'Bremen': 'بريمن',
-  'Wuppertal': 'فوبيرتال',
-  'Bonn': 'بون',
-  'Nürnberg': 'نورنبرغ',
-  'Leipzig': 'لايبزيغ',
-  'Wiesbaden': 'فيسبادن',
-  'Lübeck': 'لوبيك',
-  'Aachen': 'آخن',
-  'Saarbrücken': 'زاربروكن',
-  'Freiburg im Breisgau': 'فرايبورغ إم برايسغاو',
-  'Münster': 'مونستر',
-};
 
 export default function MosqueDetailView({
   mosque,
@@ -84,14 +62,20 @@ export default function MosqueDetailView({
   const countryName =
     locale === 'en' ? 'Germany' : locale === 'ar' ? 'ألمانيا' : 'Deutschland';
 
-  // Breadcrumbs data
+  const directoryName =
+    locale === 'en'
+      ? `Mosques in ${countryName}`
+      : locale === 'ar'
+      ? `مساجد ${countryName}`
+      : `Moscheen in ${countryName}`;
+  const directoryUrl = getSearchUrl(locale);
+  const cityUrl = getCityUrl(locale, cityConfig.canonical);
+
+  // Geographic hierarchy: Home -> Directory -> City Hub -> Mosque
   const breadcrumbItems = [
     { name: 'Home', url: getHomeUrl(locale) },
-    { name: countryName, url: getHomeUrl(locale) },
-    { name: cityName, url: getCityUrl(locale, cityConfig.canonical) },
-    ...(mosque.district
-      ? [{ name: mosque.district, url: `${getCityUrl(locale, cityConfig.canonical)}?district=${encodeURIComponent(mosque.district)}` }]
-      : []),
+    { name: directoryName, url: directoryUrl },
+    { name: cityName, url: cityUrl },
     { name: localized.name, url: getMosqueUrl(locale, cityConfig.canonical, mosque.slug) },
   ];
 
@@ -391,6 +375,38 @@ export default function MosqueDetailView({
 
           {/* Sidebar: District Navigation & Nearby Mosques (4 cols) */}
           <div className="lg:col-span-4 space-y-6">
+            {/* Parent City Hub Discovery Card */}
+            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-5">
+              <div className="flex items-center gap-1.5 text-brand-700 font-bold text-xs uppercase tracking-wider mb-2">
+                <Building2 className="w-3.5 h-3.5" />
+                <span>{cityName}</span>
+              </div>
+              <h3 className="text-sm font-bold text-slate-900 mb-1.5">
+                {locale === 'en'
+                  ? `All Mosques in ${cityName}`
+                  : locale === 'ar'
+                  ? `جميع مساجد ${cityName}`
+                  : `Alle Moscheen in ${cityName}`}
+              </h3>
+              <p className="text-xs text-slate-600 mb-3 leading-relaxed">
+                {locale === 'en'
+                  ? `Explore all verified mosques and Islamic prayer spaces across ${cityName}.`
+                  : locale === 'ar'
+                  ? `استكشف جميع المساجد والمصليات الموثقة في مدينة ${cityName}.`
+                  : `Entdecke alle erfassten Moscheen und Gebetsräume in ${cityName}.`}
+              </p>
+              <Link
+                href={cityUrl}
+                className="inline-flex items-center justify-center w-full px-4 py-2.5 rounded-xl bg-white hover:bg-brand-50 text-brand-800 text-xs font-bold border border-slate-200 hover:border-brand-300 transition-colors shadow-2xs"
+              >
+                {locale === 'en'
+                  ? `View ${cityName} Directory →`
+                  : locale === 'ar'
+                  ? `عرض دليل ${cityName} ←`
+                  : `Zum Stadtverzeichnis ${cityName} →`}
+              </Link>
+            </div>
+
             {/* District Navigation Link Box */}
             {mosque.district && (
               <div className="bg-slate-50 rounded-2xl border border-slate-200 p-5">

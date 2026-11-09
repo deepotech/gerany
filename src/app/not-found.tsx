@@ -4,11 +4,11 @@ import { Compass, Search, Home } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '404 – Seite nicht gefunden | MoscheeAtlas',
+  title: '404 – Seite nicht gefunden',
   description: 'Die angeforderte Adresse wurde möglicherweise verschoben oder existiert nicht mehr. Nutze unsere Suche, um eine Moschee in deiner Nähe zu finden.',
   robots: {
     index: false,
-    follow: false,
+    follow: true,
   },
 };
 

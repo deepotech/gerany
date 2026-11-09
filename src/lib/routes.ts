@@ -26,6 +26,29 @@ export function getContactUrl(locale: Locale): string {
   return `/${locale}/contact`;
 }
 
+export const ARABIC_CITY_NAMES: Record<string, string> = {
+  'Köln': 'كولونيا',
+  'Berlin': 'برلين',
+  'Hamburg': 'هامبورغ',
+  'München': 'ميونيخ',
+  'Frankfurt': 'فرانكفورت',
+  'Düsseldorf': 'دوسلدورف',
+  'Stuttgart': 'شتوتغارت',
+  'Dortmund': 'دورتموند',
+  'Essen': 'إيسن',
+  'Bremen': 'بريمن',
+  'Wuppertal': 'فوبيرتال',
+  'Bonn': 'بون',
+  'Nürnberg': 'نورنبرغ',
+  'Leipzig': 'لايبزيغ',
+  'Wiesbaden': 'فيسبادن',
+  'Lübeck': 'لوبيك',
+  'Aachen': 'آخن',
+  'Saarbrücken': 'زاربروكن',
+  'Freiburg im Breisgau': 'فرايبورغ إم برايسغاو',
+  'Münster': 'مونستر',
+};
+
 
 /**
  * Returns the canonical URL for a city collection page.
