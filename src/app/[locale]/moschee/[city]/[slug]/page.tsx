@@ -1,8 +1,8 @@
 import React from 'react';
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { getMosqueRepository } from '@/lib/db';
-import { normalizeCitySlug } from '@/lib/routes';
+import { normalizeCitySlug, resolveTrailingDigitMosqueUrl } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
 import { SITE_URL } from '@/lib/config';
 import MosqueDetailView from '@/components/MosqueDetailView';
@@ -41,8 +41,14 @@ export async function generateMetadata({ params }: MosqueDetailPageProps): Promi
   if (!cityConfig) return {};
 
   const repo = getMosqueRepository();
-  const mosque = await repo.getByCityAndSlug(cityConfig.canonical, slug);
-  if (!mosque) return {};
+  let mosque = await repo.getByCityAndSlug(cityConfig.canonical, slug);
+  if (!mosque) {
+    const fallbackUrl = await resolveTrailingDigitMosqueUrl('de', cityConfig.canonical, slug, repo);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    return {};
+  }
 
   const trans = mosque.translations.de;
   const canonicalUrl = `/de/moschee/${cityConfig.slug}/${mosque.slug}`;
@@ -78,8 +84,14 @@ export default async function GermanMosqueDetailPage({ params }: MosqueDetailPag
   if (city !== cityConfig.slug) notFound();
 
   const repo = getMosqueRepository();
-  const mosque = await repo.getByCityAndSlug(cityConfig.canonical, slug);
-  if (!mosque) notFound();
+  let mosque = await repo.getByCityAndSlug(cityConfig.canonical, slug);
+  if (!mosque) {
+    const fallbackUrl = await resolveTrailingDigitMosqueUrl('de', cityConfig.canonical, slug, repo);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    notFound();
+  }
 
   const nearby = await repo.getNearby(mosque.latitude, mosque.longitude, 6, mosque.slug, mosque.id);
 

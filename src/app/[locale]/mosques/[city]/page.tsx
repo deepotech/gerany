@@ -1,11 +1,11 @@
 import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { ChevronRight } from 'lucide-react';
 import { isValidLocale, Locale } from '@/lib/i18n';
 import { getMosqueRepository } from '@/lib/db';
-import { normalizeCitySlug, getCityUrl, ARABIC_CITY_NAMES } from '@/lib/routes';
+import { normalizeCitySlug, getCityUrl, resolveTrailingDigitCityUrl, ARABIC_CITY_NAMES } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
 import SearchClient from '@/components/SearchClient';
 import { generateBreadcrumbJsonLd, generateCityCollectionSchema } from '@/lib/seo/schema';
@@ -45,6 +45,10 @@ export async function generateMetadata({ params }: CityPageProps): Promise<Metad
   );
 
   if (!cityConfig) {
+    const fallbackUrl = resolveTrailingDigitCityUrl(locale as Locale, city);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
     return constructMetadata({
       title: locale === 'en' ? 'City Not Found' : 'المدينة غير موجودة',
       description: locale === 'en' ? 'The requested city could not be found.' : 'لم يتم العثور على المدينة المطلوبة.',
@@ -124,7 +128,13 @@ export default async function EnglishArabicCityCollectionPage({
   const cityConfig = CITY_CONFIGS.find(
     (cfg) => cfg.slug === normalized || cfg.englishSlug === normalized || cfg.canonical.toLowerCase() === normalized
   );
-  if (!cityConfig) notFound();
+  if (!cityConfig) {
+    const fallbackUrl = resolveTrailingDigitCityUrl(locale as Locale, city);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    notFound();
+  }
 
   // Enforce English -> englishSlug, Arabic -> slug
   if (locale === 'en' && city !== cityConfig.englishSlug) notFound();

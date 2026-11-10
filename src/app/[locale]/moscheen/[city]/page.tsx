@@ -1,10 +1,10 @@
 import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { ChevronRight } from 'lucide-react';
 import { getMosqueRepository } from '@/lib/db';
-import { normalizeCitySlug, getCityUrl } from '@/lib/routes';
+import { normalizeCitySlug, getCityUrl, resolveTrailingDigitCityUrl } from '@/lib/routes';
 import { CITY_CONFIGS } from '@/pipeline/city-config';
 import SearchClient from '@/components/SearchClient';
 import { generateBreadcrumbJsonLd, generateCityCollectionSchema } from '@/lib/seo/schema';
@@ -42,6 +42,10 @@ export async function generateMetadata({ params }: CityPageProps): Promise<Metad
   );
 
   if (!cityConfig) {
+    const fallbackUrl = resolveTrailingDigitCityUrl('de', city);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
     return constructMetadata({
       title: 'Stadt nicht gefunden',
       description: 'Die angeforderte Stadt konnte nicht gefunden werden.',
@@ -90,7 +94,13 @@ export default async function GermanCityCollectionPage({
   const cityConfig = CITY_CONFIGS.find(
     (cfg) => cfg.slug === normalized || cfg.englishSlug === normalized || cfg.canonical.toLowerCase() === normalized
   );
-  if (!cityConfig) notFound();
+  if (!cityConfig) {
+    const fallbackUrl = resolveTrailingDigitCityUrl('de', city);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    notFound();
+  }
 
   // Enforce canonical slug for German locale
   if (city !== cityConfig.slug) notFound();

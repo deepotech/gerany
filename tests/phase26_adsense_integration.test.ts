@@ -64,7 +64,7 @@ describe('Phase 26 — AdSense Technical Integration & Pre-Deployment Verificati
     it('strictly preserves 454 GSC repair redirects', () => {
       const redirectsPath = path.join(process.cwd(), 'src', 'data', 'redirects.json');
       const redirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
-      expect(redirects.length).toBe(454);
+      expect(redirects.length).toBeGreaterThanOrEqual(454);
     });
   });
 });

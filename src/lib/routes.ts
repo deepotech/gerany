@@ -146,3 +146,64 @@ export function getCityConfigBySlug(cityUrlSlug: string) {
     ) || null
   );
 }
+
+/**
+ * Safely resolves an unresolvable mosque slug that ends in an external citation-style digit [1-4].
+ * ONLY returns a canonical URL if stripping exactly one trailing digit [1-4] matches
+ * an active, published mosque in the given city.
+ */
+export async function resolveTrailingDigitMosqueUrl(
+  locale: Locale,
+  cityCanonical: string,
+  unresolvedSlug: string,
+  repo: { getByCityAndSlug: (city: string, slug: string) => Promise<{ slug: string; dataStatus?: string } | null> }
+): Promise<string | null> {
+  if (!/[1-4]$/.test(unresolvedSlug)) {
+    return null;
+  }
+  const candidateSlug = unresolvedSlug.slice(0, -1);
+  const candidate = await repo.getByCityAndSlug(cityCanonical, candidateSlug);
+  if (candidate && candidate.dataStatus === 'PUBLISHED') {
+    return getMosqueUrl(locale, cityCanonical, candidate.slug);
+  }
+  return null;
+}
+
+/**
+ * Safely resolves an unresolvable city slug that ends in an external citation-style digit [1-4].
+ * ONLY returns a canonical URL if stripping exactly one trailing digit [1-4] matches
+ * a published city collection.
+ */
+export function resolveTrailingDigitCityUrl(
+  locale: Locale,
+  unresolvedCity: string
+): string | null {
+  if (!/[1-4]$/.test(unresolvedCity)) {
+    return null;
+  }
+  const candidateCity = unresolvedCity.slice(0, -1);
+  const normalized = normalizeCitySlug(candidateCity);
+  const config = CITY_CONFIGS.find(
+    (c) => c.slug === normalized || c.englishSlug === normalized || c.canonical.toLowerCase() === normalized
+  );
+  if (config) {
+    return getCityUrl(locale, config.canonical);
+  }
+  return null;
+}
+
+/**
+ * Safely resolves an unresolvable locale string that ends in a citation-style digit [1-4].
+ * e.g. 'ar1' -> '/ar', 'de1' -> '/de'
+ */
+export function resolveTrailingDigitLocaleUrl(
+  unresolvedLocale: string
+): string | null {
+  if (unresolvedLocale.length === 3 && /[1-4]$/.test(unresolvedLocale)) {
+    const candidateLocale = unresolvedLocale.slice(0, 2) as Locale;
+    if (candidateLocale === 'de' || candidateLocale === 'en' || candidateLocale === 'ar') {
+      return `/${candidateLocale}`;
+    }
+  }
+  return null;
+}

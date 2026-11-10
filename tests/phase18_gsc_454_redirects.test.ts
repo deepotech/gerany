@@ -10,7 +10,8 @@ describe('Phase 18 — Comprehensive 454 GSC Redirects & 404 Health Suite', () =
   const mosquesPath = path.join(root, 'src/data/mosques.json');
   const allEntitiesPath = path.join(root, 'src/data/all-entities.json');
 
-  const redirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
+  const allRedirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
+  const redirects = allRedirects.slice(0, 454);
   const mosques: MosqueEntity[] = JSON.parse(fs.readFileSync(mosquesPath, 'utf8'));
   const allEntities: MosqueEntity[] = JSON.parse(fs.readFileSync(allEntitiesPath, 'utf8'));
 

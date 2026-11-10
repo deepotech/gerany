@@ -1,0 +1,119 @@
+{
+  "auditMeta": {
+    "project": "MoscheeAtlas Germany",
+    "domain": "https://moscheeindernaehe.de",
+    "auditPhase": "PHASE 40A",
+    "auditDate": "2026-11-10",
+    "expectedGitCommit": "ff416ec",
+    "inputFile": "moscheeindernaehe.de-Coverage-Drilldown-2026-11-10.zip"
+  },
+  "gscExportStatistics": {
+    "totalReported404InGscGraph": 1073,
+    "totalExportedUrlsAnalyzed": 1000,
+    "unexportedUrlsDueToGscCap": 73,
+    "gscReportLastUpdated": "2026-11-06",
+    "dateOfFirstImpact": "2026-10-17 (74 URLs)",
+    "dateOfSecondSpike": "2026-10-20 (454 URLs)",
+    "dateOfPeakAndPlateau": "2026-10-24 through 2026-11-06 (1,073 URLs)"
+  },
+  "urlBreakdownInExport": {
+    "byLocale": {
+      "de": 340,
+      "en": 330,
+      "ar": 330
+    },
+    "byRouteType": {
+      "mosqueDetail": 963,
+      "cityCollection": 36,
+      "rootLandingPage": 1
+    },
+    "byPathPrefix": {
+      "/de/moschee/": 326,
+      "/en/mosque/": 319,
+      "/ar/mosque/": 318,
+      "/de/moscheen/": 14,
+      "/en/mosques/": 11,
+      "/ar/mosques/": 11,
+      "/ar1": 1
+    },
+    "byTrailingCharacter": {
+      "1": 1,
+      "2": 36,
+      "3": 688,
+      "4": 275
+    }
+  },
+  "productionHttpVerification": {
+    "totalProbed": 1000,
+    "initialStatus": {
+      "status308PermanentRedirect": 262,
+      "status404NotFound": 738,
+      "errorsOrTimeouts": 0
+    },
+    "finalStatus": {
+      "status200Ok": 262,
+      "status404NotFound": 738
+    },
+    "redirectResolutionIntegrity": "100% of 262 redirected URLs resolve directly to HTTP 200 OK without loops or intermediate hops",
+    "anomalousRouteStatus": {
+      "route": "https://moscheeindernaehe.de/ar1",
+      "initialStatus": 308,
+      "finalDestination": "https://moscheeindernaehe.de/ar",
+      "finalStatus": 200,
+      "canonicalUrl": "https://moscheeindernaehe.de/ar",
+      "robotsMeta": "index, follow"
+    }
+  },
+  "classificationTotals": {
+    "interpretationA_strictRouteType": {
+      "A_CURRENT_PUBLISHED_PAGE": 0,
+      "B_OLD_SLUG_WITH_VALID_REDIRECT": 257,
+      "C_OLD_SLUG_WITHOUT_REDIRECT": 706,
+      "D_UNPUBLISHED_OR_REMOVED_ENTITY": 0,
+      "E_MALFORMED_OR_INVALID_ROUTE": 1,
+      "F_VALID_PAGE_RETURNING_UNEXPECTED_404": 0,
+      "G_TEMPORARY_OR_UNVERIFIED_ERROR": 0,
+      "H_CITY_HUB_OR_COLLECTION_ROUTE": 36
+    },
+    "interpretationB_statusBased": {
+      "A_CURRENT_PUBLISHED_PAGE": 0,
+      "B_OLD_SLUG_WITH_VALID_REDIRECT": 262,
+      "C_OLD_SLUG_WITHOUT_REDIRECT": 706,
+      "D_UNPUBLISHED_OR_REMOVED_ENTITY": 0,
+      "E_MALFORMED_OR_INVALID_ROUTE": 0,
+      "F_VALID_PAGE_RETURNING_UNEXPECTED_404": 0,
+      "G_TEMPORARY_OR_UNVERIFIED_ERROR": 0,
+      "H_CITY_HUB_OR_COLLECTION_ROUTE": 32
+    }
+  },
+  "datasetMatching": {
+    "totalMatchedToActivePublishedMosques": 963,
+    "totalMatchedToPublishedCities": 36,
+    "totalMatchedToRootLocales": 1,
+    "totalUnpublishedOrRemovedMatches": 0,
+    "totalUnmatchedOrInvalid": 0,
+    "matchRatePercentage": 100
+  },
+  "sitemapIntegrity": {
+    "totalLiveSitemapUrls": 1869,
+    "totalExpectedSitemapUrls": 1869,
+    "gsc404UrlsPresentInSitemap": 0,
+    "sitemapUrlsReturning404OrRedirect": 0,
+    "unpublishedEntitiesInSitemap": 0,
+    "publishedMosquesMissingFromSitemap": 0,
+    "sitemapHealthStatus": "100% HEALTHY & CANONICAL"
+  },
+  "redirectCoverage": {
+    "totalConfiguredInRedirectsJson": 454,
+    "configuredRedirectsMatchingExport": 262,
+    "missingRedirectsRequiringImplementation": 738,
+    "projectedRedirectCountAfterFix": 1192
+  },
+  "rootCauseSummary": {
+    "primaryCause": "External citation scraping / scraper markdown parsing of footnote markers [1], [2], [3], [4] without square brackets prior to Googlebot ingestion",
+    "secondaryFactor": "Googlebot historical crawl persistence — GSC retains 404 crawl events until validation or natural recrawl sweeps occur",
+    "internalRoutingRegression": false,
+    "sitemapCorruption": false,
+    "slugRegenerationOrDataLoss": false
+  }
+}

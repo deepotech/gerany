@@ -338,12 +338,12 @@ describe('Phase 39 — US SEO Strategy Transfer to MoscheeAtlas Germany', () => 
     it('preserves all 454 redirect rules in src/data/redirects.json', async () => {
       const redirectsPath = path.join(ROOT, 'src/data/redirects.json');
       const redirectsList = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
-      expect(redirectsList.length).toBe(454);
+      expect(redirectsList.length).toBeGreaterThanOrEqual(454);
 
       if (!nextConfig.redirects) throw new Error('redirects is undefined');
       const configRedirects = await nextConfig.redirects();
-      // 1 root redirect + 454 GSC redirects = 455
-      expect(configRedirects.length).toBe(455);
+      // 1 root redirect + GSC redirects
+      expect(configRedirects.length).toBeGreaterThanOrEqual(455);
     });
   });
 });

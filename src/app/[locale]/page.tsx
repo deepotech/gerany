@@ -1,8 +1,9 @@
 import React from 'react';
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { getDictionary, isValidLocale, Locale } from '@/lib/i18n';
 import { getMosqueRepository } from '@/lib/db';
+import { resolveTrailingDigitLocaleUrl } from '@/lib/routes';
 import HomeHero from '@/components/HomeHero';
 import { generateWebSiteSchema } from '@/lib/seo/schema';
 
@@ -20,7 +21,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: HomePageProps): Promise<Metadata> {
   const { locale } = params;
-  if (!isValidLocale(locale)) return {};
+  if (!isValidLocale(locale)) {
+    const fallbackUrl = resolveTrailingDigitLocaleUrl(locale);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    return {};
+  }
 
   const dict = getDictionary(locale);
 
@@ -57,7 +64,13 @@ export async function generateMetadata({ params }: HomePageProps): Promise<Metad
 
 export default async function HomePage({ params }: HomePageProps) {
   const { locale } = params;
-  if (!isValidLocale(locale)) notFound();
+  if (!isValidLocale(locale)) {
+    const fallbackUrl = resolveTrailingDigitLocaleUrl(locale);
+    if (fallbackUrl) {
+      permanentRedirect(fallbackUrl);
+    }
+    notFound();
+  }
 
   const repo = getMosqueRepository();
   const [mosques, cities] = await Promise.all([

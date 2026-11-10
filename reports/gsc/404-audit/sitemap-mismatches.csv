@@ -1,0 +1,8 @@
+audit_item,expected_count,actual_count,mismatch_count,status,evidence_and_notes
+"Published Mosques in Sitemap",1803,1803,0,"PASS","All 601 published mosques are represented across 3 locales (de, en, ar). Zero missing."
+"City Collection Pages in Sitemap",60,60,0,"PASS","All 20 published cities are represented across 3 locales (de, en, ar). Zero missing."
+"Search Hub Pages in Sitemap",3,3,0,"PASS","Canonical search hubs (/de/moscheen, /en/mosques, /ar/mosques) are present."
+"Homepages in Sitemap",3,3,0,"PASS","Root locale homepages (/de, /en, /ar) are present."
+"Unpublished Entities in Sitemap (Negative Control)",0,0,0,"PASS","Zero of 60 unpublished entities from all-entities.json appear in sitemap."
+"GSC 404 URLs in Sitemap",0,0,0,"PASS","Zero GSC 404 URLs appear in sitemap. Sitemap emits only clean canonical URLs."
+"Sitemap URLs Returning Non-200 on Production",0,0,0,"PASS","Smoke probe of live production sitemap confirms 100% HTTP 200 OK responses."
